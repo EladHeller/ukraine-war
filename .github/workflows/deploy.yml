@@ -2,9 +2,8 @@ name: deploy
 
 on:
   push:
-    branches: 
+    branches:
       - master
-      - develop
 
 permissions:
   contents: read
