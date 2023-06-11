@@ -15,9 +15,9 @@ import './Home.css';
 
 const data = warData.map((war: HistoryRecordWithAreas) => ({
   name: new Date(war.createdAt).toLocaleDateString(),
-  משוחרר: war.liberated,
-  כבוש: war.occupied,
-  'לא ידוע': war.unspecified,
+  משוחרר: war.liberated.toFixed(2),
+  כבוש: war.occupied.toFixed(2),
+  'לא ידוע': war.unspecified.toFixed(2),
 }));
 const distinct = data.filter((v, i, a) => a.findIndex((t) => (t.name === v.name)) === i);
 
