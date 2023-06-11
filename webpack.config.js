@@ -1,6 +1,6 @@
 module.exports = (_, configuration) => ({
   entry: './src/index.tsx',
-  resolve: { extensions: ['.ts', '.tsx'] },
+  resolve: { extensions: ['.ts', '.js', '.tsx'] },
   devtool: 'source-map',
   module: {
     rules: [
