@@ -1,0 +1,2 @@
+[![CI](https://github.com/EladHeller/ukraine-war/actions/workflows/CI.yml/badge.svg)](https://github.com/EladHeller/ukraine-war/actions/workflows/CI.yml)
+[![deploy](https://github.com/EladHeller/ukraine-war/actions/workflows/deploy.yml/badge.svg)](https://github.com/EladHeller/ukraine-war/actions/workflows/deploy.yml)
