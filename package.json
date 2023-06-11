@@ -33,7 +33,7 @@
   "scripts": {
     "check-types": "tsc --noEmit",
     "start-server": "cd ./server && npm run dev",
-    "copy-resources": "cp -r src/client-resources/ dist/",
+    "copy-resources": "cp -r src/client-resources dist",
     "build": "rm -rf ./dist && webpack --mode=production && npm run copy-resources",
     "start": "rm -rf ./dist && webpack --mode=development && npm run copy-resources && webpack serve --mode=development",
     "eslint:test": "eslint \"**/*.[jt]s\" --max-warnings 0"
