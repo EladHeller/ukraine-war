@@ -1,0 +1,26 @@
+name: daily-update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+    update:
+      runs-on: ubuntu-latest
+      permissions:
+        id-token: write
+        contents: write
+  
+      steps:
+        - uses: actions/checkout@v3
+          with:
+            token: ${{ secrets.GAMITEE_BOT_COMMIT_ACCESS_TOKEN }}
+        - run: npm install
+        - run: npm run update
+        - name: Commit & Push Files
+          run: |
+            git config --global user.email "eladheller@gmail.com"
+            git config --global user.name "Elad Heller"
+            git add -A
+            git commit -m "Update deepstatemap data."
+            git push origin maste

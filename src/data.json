@@ -5433,7 +5433,7 @@
     "createdAt": "2023-02-02T01:05:36.000Z",
     "liberated": 42705.148330589436,
     "occupied": 64963.92685170396,
-    "unspecified": 418.9207196996904
+    "unspecified": 933.4418085939385
   },
   {
     "id": 1675380566,
@@ -5445,7 +5445,7 @@
     "createdAt": "2023-02-02T23:29:26.000Z",
     "liberated": 42705.148330589436,
     "occupied": 64968.14793206328,
-    "unspecified": 418.9207196996904
+    "unspecified": 26345.46442466065
   },
   {
     "id": 1675465910,
@@ -7018,5 +7018,29 @@
     "liberated": 42977.82967950478,
     "occupied": 65062.17336146076,
     "unspecified": 916.0961004345295
+  },
+  {
+    "id": 1686548301,
+    "description": "Українські війська звільнили <a href=\"https://deepstatemap.live/#14/47.7998/36.7987\">Сторожеве</a>. (<a href=\"https://t.me/DeepStateUA/16833\">підтвердження</a>)",
+    "descriptionEn": "Ukrainian forces liberated <a href=\"https://deepstatemap.live/#14/47.7998/36.7987\">Storozheve</a>. (<a href=\"https://t.me/DeepStateUA/16833\">confirmation</a>)",
+    "updatedAt": "2023-06-12T09:27:50.238Z",
+    "datetime": "12.06 o 07:38",
+    "status": true,
+    "createdAt": "2023-06-12T05:38:21.000Z",
+    "liberated": 42982.400827758174,
+    "occupied": 65062.17336146076,
+    "unspecified": 911.5249521811355
+  },
+  {
+    "id": 1686562187,
+    "description": "Українські війська звільнили <a href=\"https://deepstatemap.live/#15/47.7807/36.6354\">Новодарівку</a>. (<a href=\"https://t.me/DeepStateUA/16834\">підтвердження</a>)",
+    "descriptionEn": "Ukrainian forces liberated <a href=\"https://deepstatemap.live/en#15/47.7807/36.6354\">Novodarivka</a>. (<a href=\"https://t.me/DeepStateUA/16834\">confirmation</a>)",
+    "updatedAt": "2023-06-12T09:29:47.866Z",
+    "datetime": "12.06 o 11:29",
+    "status": true,
+    "createdAt": "2023-06-12T09:29:47.000Z",
+    "liberated": 42966.37270607253,
+    "occupied": 65051.59522756535,
+    "unspecified": 915.7872603095944
   }
 ]
