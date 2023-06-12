@@ -2,7 +2,7 @@ name: daily-update
 
 on:
   schedule:
-    - cron: '30 12 * * *'
+    - cron: '30 13 * * *'
 
 jobs:
     update:
@@ -14,7 +14,7 @@ jobs:
       steps:
         - uses: actions/checkout@v3
           with:
-            token: ${{ secrets.GAMITEE_BOT_COMMIT_ACCESS_TOKEN }}
+            token: ${{ secrets.BOT_COMMIT_ACCESS_TOKEN }}
         - run: npm install
         - run: npm run update
         - name: Commit & Push Files
