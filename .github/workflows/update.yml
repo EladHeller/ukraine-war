@@ -2,7 +2,7 @@ name: daily-update
 
 on:
   schedule:
-    - cron: '30 13 * * *'
+    - cron: '0 14 * * *'
 
 jobs:
     update:
@@ -19,6 +19,11 @@ jobs:
         - run: npm run update
         - name: Commit & Push Files
           run: |
+            status=$(git status --porcelain)
+            if [ -z "$status" ]; then
+              echo "No changes to commit"
+              exit 0
+            fi
             git config --global user.email "eladheller@gmail.com"
             git config --global user.name "Elad Heller"
             git add -A
