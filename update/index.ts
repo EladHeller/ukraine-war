@@ -34,7 +34,7 @@ async function updateData() {
   const data = JSON.stringify(historyRecordsWithAreas, null, 2)
     // Manually fix strange numbers
     .replace('26342.19064266102', '933.4418085939385')
-    .replace('26345.4644246606519064266103', '933.4418085939385');
+    .replace('26345.46442466065', '933.4418085939385');
   await fs.writeFile('./src/data.json', data);
 }
 

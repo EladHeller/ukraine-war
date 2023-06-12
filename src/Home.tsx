@@ -44,25 +44,11 @@ function ChartLabel(props: ChartLabelProps) {
 }
 
 export default function App() {
-  const [graphData, setGraphData] = useState(distinct);
-
-  useEffect(() => {
-    let ticks = 0;
-    const interval = setInterval(() => {
-      if (ticks < distinct.length) {
-        setGraphData(distinct.slice(0, ticks));
-        ticks += 1;
-      } else {
-        clearInterval(interval);
-      }
-    }, 40);
-  }, [distinct]);
-
   return (
     <LineChart
       width={1500}
       height={800}
-      data={graphData}
+      data={distinct}
       margin={{
         top: 5,
         right: 30,
