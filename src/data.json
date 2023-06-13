@@ -7054,5 +7054,17 @@
     "liberated": 42973.52859301826,
     "occupied": 65038.69932333567,
     "unspecified": 921.5457625788473
+  },
+  {
+    "id": 1686639176,
+    "description": "Українські війська звільнили <a href=\"https://deepstatemap.live/#15/47.7789/36.8002\">Макарівку</a>. (<a href=\"https://t.me/DeepStateUA/16843\">підтвердження</a>)",
+    "descriptionEn": "Ukrainian forces liberated <a href=\"https://deepstatemap.live/en#15/47.7789/36.8002\">Makarivka</a>. (<a href=\"https://t.me/DeepStateUA/16843\">confirmation</a>)",
+    "updatedAt": "2023-06-13T06:52:56.937Z",
+    "datetime": "13.06 o 08:52",
+    "status": true,
+    "createdAt": "2023-06-13T06:52:56.000Z",
+    "liberated": 42978.098873338255,
+    "occupied": 65033.480164477754,
+    "unspecified": 922.19464111698
   }
 ]
