@@ -7042,5 +7042,17 @@
     "liberated": 42966.37270607253,
     "occupied": 65051.59522756535,
     "unspecified": 915.7872603095944
+  },
+  {
+    "id": 1686607846,
+    "description": "Звільнено <a href=\"https://deepstatemap.live/#15/47.7439/36.5960\">Левадне</a> та уточнено інші ділянки фронту.",
+    "descriptionEn": "Liberated <a href=\"https://deepstatemap.live/en#15/47.7439/36.5960\">Levadne</a> and clarified other areas of the frontline.",
+    "updatedAt": "2023-06-12T22:10:46.567Z",
+    "datetime": "13.06 o 00:10",
+    "status": true,
+    "createdAt": "2023-06-12T22:10:46.000Z",
+    "liberated": 42973.52859301826,
+    "occupied": 65038.69932333567,
+    "unspecified": 921.5457625788473
   }
 ]
