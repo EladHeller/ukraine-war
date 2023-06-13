@@ -1,4 +1,4 @@
-name: daily-update
+name: update
 
 on:
   schedule:
@@ -28,4 +28,4 @@ jobs:
             git config --global user.name "Elad Heller"
             git add -A
             git commit -m "Update deepstatemap data."
-            git push origin maste
+            git push origin master
