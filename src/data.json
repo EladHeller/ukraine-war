@@ -7066,5 +7066,17 @@
     "liberated": 42978.098873338255,
     "occupied": 65033.480164477754,
     "unspecified": 922.19464111698
+  },
+  {
+    "id": 1686692299,
+    "description": "Ворога вибито західніше <a href=\"https://deepstatemap.live/#14/48.5331/37.8992\">Кліщіївки</a> та біля <a href=\"https://deepstatemap.live/#14/47.4943/35.8185\">Новоданилівки</a>. Незначні уточнення на фронті.",
+    "descriptionEn": "The enemy is knocked out west of <a href=\"https://deepstatemap.live/en#14/48.5331/37.8992\">Klishchiivka</a> and near <a href=\"https://deepstatemap.live/en#14/47.4943/35.8185\">Novodanylivka</a>. Minor clarifications on the frontline.",
+    "updatedAt": "2023-06-13T21:39:51.419Z",
+    "datetime": "13.06 o 23:38",
+    "status": true,
+    "createdAt": "2023-06-13T21:38:19.000Z",
+    "liberated": 42973.063157376164,
+    "occupied": 65036.64897527658,
+    "unspecified": 925.7607692825095
   }
 ]
