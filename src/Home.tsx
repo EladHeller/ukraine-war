@@ -49,7 +49,7 @@ function ChartLabel(props: ChartLabelProps) {
 }
 
 export default function App() {
-  return <div className="App">
+  return <div className="App" dir='rtl'>
     <ResponsiveContainer width="100%" height={800}>
       <LineChart
         data={distinctData}
@@ -76,5 +76,9 @@ export default function App() {
         <Brush dataKey="name" height={30} stroke="#8884d8" />
       </LineChart>
     </ResponsiveContainer>
+
+    <div>
+      <span>מבוסס על נתונים מ-</span><a target='_blank' rel="noreferrer noopener" href='https://deepstatemap.live/en'>https://deepstatemap.live/en</a>
+    </div>
   </div>;
 }
