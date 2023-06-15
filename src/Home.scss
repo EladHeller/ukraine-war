@@ -1,0 +1,13 @@
+.recharts-reference-line:hover {
+    > line {
+        stroke-width: 3px;
+    }
+
+    > text {
+        font-weight: 700;
+    }
+}
+
+.recharts-reference-line {
+    cursor: pointer;
+}

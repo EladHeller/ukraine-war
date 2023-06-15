@@ -11,7 +11,7 @@ import {
 import warData from './data.json';
 import { HistoryRecordWithAreas } from './types.d';
 
-import './Home.css';
+import './Home.scss';
 
 const data = warData.map((war: HistoryRecordWithAreas) => ({
   name: new Date(war.createdAt).toLocaleDateString(),
@@ -19,7 +19,9 @@ const data = warData.map((war: HistoryRecordWithAreas) => ({
   כבוש: war.occupied.toFixed(2),
   'לא ידוע': war.unspecified.toFixed(2),
 }));
-const distinct = data.filter((v, i, a) => a.findIndex((t) => (t.name === v.name)) === i);
+const distinct = data.reverse()
+  .filter((v, i, a) => a.findIndex((t) => (t.name === v.name)) === i)
+  .reverse();
 
 interface ChartLabelProps {
   viewBox: {

@@ -10,8 +10,8 @@ module.exports = (_, configuration) => ({
         exclude: /node_modules/,
       },
       {
-        test: /\.css$/,
-        use: ['css-loader'],
+        test: /\.s?css$/,
+        use: ['style-loader', 'css-loader'],
       },
     ],
   },
