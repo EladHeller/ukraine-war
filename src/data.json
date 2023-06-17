@@ -7102,5 +7102,17 @@
     "liberated": 42981.459486390915,
     "occupied": 65033.74117280546,
     "unspecified": 921.9295570218407
+  },
+  {
+    "id": 1686955445,
+    "description": "Ворога вибито <a href=\"https://deepstatemap.live/#13/47.7866/36.8680\">північніше Урожайного</a>.",
+    "descriptionEn": "Enemy knocked out <a href=\"https://deepstatemap.live/en#13/47.7866/36.8680\">north of Urozhayne</a>.",
+    "updatedAt": "2023-06-16T22:44:05.896Z",
+    "datetime": "17.06 o 00:44",
+    "status": true,
+    "createdAt": "2023-06-16T22:44:05.000Z",
+    "liberated": 43006.22163988908,
+    "occupied": 65025.60482853209,
+    "unspecified": 905.623385304093
   }
 ]
