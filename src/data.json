@@ -7114,5 +7114,17 @@
     "liberated": 43006.22163988908,
     "occupied": 65025.60482853209,
     "unspecified": 905.623385304093
+  },
+  {
+    "id": 1687078877,
+    "description": "Ворога відкинуто біля <a href=\"https://deepstatemap.live/#15/48.1841/37.7440\">Веселого</a> та уточнено просування біля <a href=\"https://deepstatemap.live/#14/47.4924/35.8774\">Малої Токмачки</a>.",
+    "descriptionEn": "Enemy was pushed back near <a href=\"https://deepstatemap.live/#15/en48.1841/37.7440\">Vesele</a> and clarified ukrainian progress near<a href=\"https://deepstatemap.live/#14/en47.4924/35.8774\">Mala Tokmachka</a>.",
+    "updatedAt": "2023-06-18T09:01:25.193Z",
+    "datetime": "18.06 o 11:01",
+    "status": true,
+    "createdAt": "2023-06-18T09:01:17.000Z",
+    "liberated": 43010.10769347647,
+    "occupied": 65016.82393684466,
+    "unspecified": 908.0988669789001
   }
 ]
