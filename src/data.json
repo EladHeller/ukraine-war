@@ -7126,5 +7126,17 @@
     "liberated": 43010.10769347647,
     "occupied": 65016.82393684466,
     "unspecified": 908.0988669789001
+  },
+  {
+    "id": 1687129941,
+    "description": "Українські війська мають успіх північніше <a href=\"https://deepstatemap.live/#14/48.5493/37.9363\">Кліщіївки</a>. Ситуація з <a href=\"https://deepstatemap.live/#14/47.5093/35.4603\">Пятихатками</a> на доуточнені.",
+    "descriptionEn": "Ukrainian forces are having success north of <a href=\"https://deepstatemap.live/en#14/48.5493/37.9363\">Klishchiivka</a>. The situation with <a href=\"https://deepstatemap.live/en#14/47.5093/35.4603\">Pyatykhatky</a> is clarifying.",
+    "updatedAt": "2023-06-18T23:12:21.451Z",
+    "datetime": "19.06 o 01:12",
+    "status": true,
+    "createdAt": "2023-06-18T23:12:21.000Z",
+    "liberated": 43018.15248418625,
+    "occupied": 65010.83337079558,
+    "unspecified": 908.2104334247183
   }
 ]
