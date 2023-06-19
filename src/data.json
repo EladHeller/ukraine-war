@@ -7138,5 +7138,17 @@
     "liberated": 43018.15248418625,
     "occupied": 65010.83337079558,
     "unspecified": 908.2104334247183
+  },
+  {
+    "id": 1687169321,
+    "description": "Збройні Сили України звільнили <a href=\"https://deepstatemap.live/#15/47.5083/35.4599\">П'ятихатки</a> (<a href=\"https://t.me/DeepStateUA/16884\">підтвердження</a>). Ворога відкинуто з висоти біля <a href=\"https://deepstatemap.live/#15/48.6889/37.8965\">Оріхово-Василівки</a> (<a href=\"https://t.me/DeepStateUA/16886\">підтвердження</a>).",
+    "descriptionEn": "The Armed Forces of Ukraine liberated <a href=\"https://deepstatemap.live/en#15/47.5083/35.4599\">Pyatykhatky</a> (<a href=\"https://t.me/DeepStateUA/16884\" >confirmation</a>). The enemy was thrown from a height near <a href=\"https://deepstatemap.live/en#15/48.6889/37.8965\">Orikhovo-Vasylivka</a> (<a href=\"https://t.me/DeepStateUA/16886 \">confirmation</a>).",
+    "updatedAt": "2023-06-19T10:08:41.300Z",
+    "datetime": "19.06 o 12:08",
+    "status": true,
+    "createdAt": "2023-06-19T10:08:41.000Z",
+    "liberated": 43020.19832847619,
+    "occupied": 65008.77983930495,
+    "unspecified": 906.4601065733207
   }
 ]
