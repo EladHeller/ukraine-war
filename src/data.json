@@ -7150,5 +7150,17 @@
     "liberated": 43020.19832847619,
     "occupied": 65008.77983930495,
     "unspecified": 906.4601065733207
+  },
+  {
+    "id": 1687283178,
+    "description": "Ворога відкинуто <a href=\"https://deepstatemap.live/#14/47.4725/35.8226\">північніше Роботиного</a>.",
+    "descriptionEn": "The enemy is pushed back from <a href=\"https://deepstatemap.live/en#14/47.4725/35.8226\">north of Robotyne</a>.",
+    "updatedAt": "2023-06-20T17:46:18.382Z",
+    "datetime": "20.06 o 19:46",
+    "status": true,
+    "createdAt": "2023-06-20T17:46:18.000Z",
+    "liberated": 43025.413621252046,
+    "occupied": 65001.31023838487,
+    "unspecified": 909.7612502150596
   }
 ]
