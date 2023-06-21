@@ -7162,5 +7162,17 @@
     "liberated": 43025.413621252046,
     "occupied": 65001.31023838487,
     "unspecified": 909.7612502150596
+  },
+  {
+    "id": 1687366806,
+    "description": "Ворог має частковий успіх у <a href=\"https://deepstatemap.live/#14/48.9793/38.1659\">Серебрянському лісництві</a>.",
+    "descriptionEn": "The enemy has partial success in <a href=\"https://deepstatemap.live/en#14/48.9793/38.1659\">Serebryanske Forestry</a>.",
+    "updatedAt": "2023-06-21T17:00:06.774Z",
+    "datetime": "21.06 o 19:00",
+    "status": true,
+    "createdAt": "2023-06-21T17:00:06.000Z",
+    "liberated": 43024.76304635939,
+    "occupied": 65002.76061540003,
+    "unspecified": 908.9614480925236
   }
 ]
