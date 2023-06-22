@@ -7174,5 +7174,17 @@
     "liberated": 43024.76304635939,
     "occupied": 65002.76061540003,
     "unspecified": 908.9614480925236
+  },
+  {
+    "id": 1687453964,
+    "description": "Оновлено ситуацію на всіх ділянках фронту, біля <a href=\"https://deepstatemap.live/#16/47.9820/37.5460\">Красногорівки</a> ворог втратив позиції.",
+    "descriptionEn": "Updated the situation on all areas of the front, near <a href=\"https://deepstatemap.live/en#16/47.9820/37.5460\">Krasnohorivka</a> the enemy lost positions.",
+    "updatedAt": "2023-06-22T17:12:44.942Z",
+    "datetime": "22.06 o 19:12",
+    "status": true,
+    "createdAt": "2023-06-22T17:12:44.000Z",
+    "liberated": 43026.401822093016,
+    "occupied": 64997.94381058031,
+    "unspecified": 902.5281772313252
   }
 ]
