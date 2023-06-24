@@ -7210,5 +7210,17 @@
     "liberated": 43040.509818770435,
     "occupied": 64985.49123748838,
     "unspecified": 901.2300681765062
+  },
+  {
+    "id": 1687614876,
+    "description": "Оновлено просування бойовиків-путчистів з пвк \"вагнер\".",
+    "descriptionEn": "The promotion of putschist-fighters from the \"wagner\" armored personnel carrier has been updated.",
+    "updatedAt": "2023-06-24T13:54:36.425Z",
+    "datetime": "24.06 o 15:54",
+    "status": true,
+    "createdAt": "2023-06-24T13:54:36.000Z",
+    "liberated": 43040.509818770435,
+    "occupied": 64985.49123748838,
+    "unspecified": 901.2300681765062
   }
 ]
