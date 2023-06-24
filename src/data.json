@@ -7198,5 +7198,17 @@
     "liberated": 43026.07109186144,
     "occupied": 64992.86711254946,
     "unspecified": 907.9357916213606
+  },
+  {
+    "id": 1687591202,
+    "description": "ЗСУ мали успіх на північ від <a href=\"https://deepstatemap.live/#14/47.4710/35.8180\">Роботиного</a>, на захід від <a href=\"https://deepstatemap.live/#14/47.7804/36.7768\">Макарівки</a> та на схід від <a href=\"https://deepstatemap.live/#14/47.7360/36.6178\">Левадного</a>. В <a href=\"https://deepstatemap.live/#12/47.2337/39.7075\">Ростові-на-Дону</a> розпочався військовий путч пригожинців проти військ, які лояльні до чинної влади.",
+    "descriptionEn": "The Armed Forces of Ukraine had success north of <a href=\"https://deepstatemap.live/en#14/47.4710/35.8180\">Robotyne</a>, west of <a href=\"https://deepstatemap.live/en#14/47.7804/36.7768\">Makarivka</a> and east of <a href=\"https://deepstatemap.live/en#14/47.7360/36.6178\">Levadne</a>. In <a href=\"https://deepstatemap.live/en#12/47.2337/39.7075\">Rostov-on-Don</a>, a military putsch by Prigozhyn citizens against troops loyal to the current government began.",
+    "updatedAt": "2023-06-24T07:20:02.545Z",
+    "datetime": "24.06 o 09:20",
+    "status": true,
+    "createdAt": "2023-06-24T07:20:02.000Z",
+    "liberated": 43040.509818770435,
+    "occupied": 64985.49123748838,
+    "unspecified": 901.2300681765062
   }
 ]
