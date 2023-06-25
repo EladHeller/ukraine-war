@@ -7222,5 +7222,17 @@
     "liberated": 43040.509818770435,
     "occupied": 64985.49123748838,
     "unspecified": 901.2300681765062
+  },
+  {
+    "id": 1687682024,
+    "description": "Ворог продовжує відступати північніше <a href=\"https://deepstatemap.live/#13/47.4729/35.8449\">Рoботиного</a>, на захід від <a href=\"https://deepstatemap.live/#14/48.5321/37.9074\">Кліщіївки</a> та біля каналу <a href=\"https://deepstatemap.live/#13/48.4703/37.9360\">Сіверський Донець-Донбас</a>.",
+    "descriptionEn": "The enemy continues to retreat north of <a href=\"https://deepstatemap.live/en#13/47.4729/35.8449\">Robotyne</a>, west of <a href=\"https://deepstatemap.live/en#14/48.5321/37.9074\">Klishchiivka</a> and near the channel <a href=\"https://deepstatemap.live/en#13/48.4703/37.9360\">Siversky Donets-Donbas</a>.",
+    "updatedAt": "2023-06-25T09:17:22.228Z",
+    "datetime": "25.06 o 10:33",
+    "status": true,
+    "createdAt": "2023-06-25T08:33:44.000Z",
+    "liberated": 43045.7496256669,
+    "occupied": 64980.333364583144,
+    "unspecified": 901.1368797054254
   }
 ]
