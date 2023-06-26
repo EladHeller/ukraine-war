@@ -7234,5 +7234,17 @@
     "liberated": 43045.7496256669,
     "occupied": 64980.333364583144,
     "unspecified": 901.1368797054254
+  },
+  {
+    "id": 1687779537,
+    "description": "ЗСУ звільнили <a href=\"https://deepstatemap.live/#14/47.7870/36.6993\">Рівнопіль</a>. (<a href=\"https://t.me/DeepStateUA/16923\">підтвердження</a>)",
+    "descriptionEn": "The Armed Forces of Ukraine liberated <a href=\"https://deepstatemap.live/en#14/47.7870/36.6993\">Rivnopil</a>. (<a href=\"https://t.me/DeepStateUA/16923\">confirmation</a>)",
+    "updatedAt": "2023-06-26T11:38:57.856Z",
+    "datetime": "26.06 o 13:38",
+    "status": true,
+    "createdAt": "2023-06-26T11:38:57.000Z",
+    "liberated": 43068.64723626221,
+    "occupied": 64949.607120891655,
+    "unspecified": 908.9814332185728
   }
 ]
