@@ -7258,5 +7258,17 @@
     "liberated": 43068.89523096854,
     "occupied": 64949.0693663337,
     "unspecified": 909.1991566066484
+  },
+  {
+    "id": 1687975631,
+    "description": "Ворога відкинуто західніше <a href=\"https://deepstatemap.live/#15/48.6983/37.8980\">Залізнянського</a>. Незначні оновлення лінії зіткнення.",
+    "descriptionEn": "The enemy is pushed back west of <a href=\"https://deepstatemap.live/en#15/48.6983/37.8980\">Zaliznyanske</a>. Minor frontline updates.",
+    "updatedAt": "2023-06-28T18:07:11.236Z",
+    "datetime": "28.06 o 20:07",
+    "status": true,
+    "createdAt": "2023-06-28T18:07:11.000Z",
+    "liberated": 43110.59255045973,
+    "occupied": 64949.35439470676,
+    "unspecified": 907.3046630623542
   }
 ]
