@@ -7270,5 +7270,17 @@
     "liberated": 43110.59255045973,
     "occupied": 64949.35439470676,
     "unspecified": 907.3046630623542
+  },
+  {
+    "id": 1688077565,
+    "description": "Ворога відкинуто біля <a href=\"https://deepstatemap.live/#15/48.6878/37.8995\">Оріхово-Василівки</a>, біля каналу <a href=\"https://deepstatemap.live/#14/48.5251/37.9060\">Сіверський Донець-Донбас</a> та північніше <a href=\"https://deepstatemap.live/#13/47.4754/35.8632\">Роботиного</a>.",
+    "descriptionEn": "The enemy was pushed back near <a href=\"https://deepstatemap.live/en#15/48.6878/37.8995\">Orikhovo-Vasylivka</a>, near the canal <a href=\"https://deepstatemap.live/en#14/48.5251/37.9060\">Siverskyi Donets-Donbas</a> and to the north <a href=\"https://deepstatemap.live/en#13/47.4754/35.8632\">Robotyne</a>.",
+    "updatedAt": "2023-06-29T22:26:06.072Z",
+    "datetime": "30.06 o 00:26",
+    "status": true,
+    "createdAt": "2023-06-29T22:26:05.000Z",
+    "liberated": 43115.31217762469,
+    "occupied": 64938.38377410431,
+    "unspecified": 911.0411099462103
   }
 ]
