@@ -7282,5 +7282,17 @@
     "liberated": 43115.31217762469,
     "occupied": 64938.38377410431,
     "unspecified": 911.0411099462103
+  },
+  {
+    "id": 1688216730,
+    "description": "Ворога відкинуто західніше <a href=\"https://deepstatemap.live/#14/48.5180/37.9134\">Кліщіївки</a>. Оновлено лінію фронту західніше <a href=\"https://deepstatemap.live/#14/48.4579/37.9429\">Курдюмівки</a> через затримку у відображені. Незначні оновлення на інших ділянках фронту.",
+    "descriptionEn": "Enemy pushed back from west of<a href=\"https://deepstatemap.live/en#14/48.5180/37.9134\">Klishchiivka</a>. Updated the frontline west of <a href=\"https://deepstatemap.live/en#14/48.4579/37.9429\">Kurdyumivka</a> due to a delay of safety. Minor updates in other areas of the frontline.",
+    "updatedAt": "2023-07-01T13:05:30.858Z",
+    "datetime": "01.07 o 15:05",
+    "status": true,
+    "createdAt": "2023-07-01T13:05:30.000Z",
+    "liberated": 43117.90591939914,
+    "occupied": 64937.63584639574,
+    "unspecified": 908.7717910397255
   }
 ]
