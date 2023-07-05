@@ -7330,5 +7330,17 @@
     "liberated": 43122.14946870845,
     "occupied": 64933.144615631136,
     "unspecified": 909.8297684364907
+  },
+  {
+    "id": 1688521979,
+    "description": "Ворога відкинуто північніше <a href=\"https://deepstatemap.live/#14/48.1122/37.7210\">Опитного</a>. Ворог продовжує повільний відступ біля <a href=\"https://deepstatemap.live/#14/48.6238/37.9573\">Берхівки</a> та <a href=\"https://deepstatemap.live/#14/48.5267/37.9316\">Кліщіївки</a>.",
+    "descriptionEn": "Enemy pushed back north <a href=\"https://deepstatemap.live/en#14/48.1122/37.7210\">Opytne</a>. The enemy continues a slow retreat near <a href=\"https://deepstatemap.live/en#14/48.6238/37.9573\">Berkhivka</a> and <a href=\"https://deepstatemap.live/en#14/48.5267/ 37.9316\">Klishchiivka</a>.",
+    "updatedAt": "2023-07-05T01:52:59.616Z",
+    "datetime": "05.07 o 03:52",
+    "status": true,
+    "createdAt": "2023-07-05T01:52:59.000Z",
+    "liberated": 43123.64436196352,
+    "occupied": 64927.95464265353,
+    "unspecified": 912.5512345948899
   }
 ]
