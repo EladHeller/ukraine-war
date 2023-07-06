@@ -7342,5 +7342,17 @@
     "liberated": 43123.64436196352,
     "occupied": 64927.95464265353,
     "unspecified": 912.5512345948899
+  },
+  {
+    "id": 1688664280,
+    "description": "Сили Оборони продовжують вибивати ворога <a href=\"https://deepstatemap.live/#14/48.5318/37.9418\">біля Кліщіївки</a>.",
+    "descriptionEn": "The Defense Forces continue to knock out the enemy <a href=\"https://deepstatemap.live/en#14/48.5318/37.9418\">near Klishchiivka</a>.",
+    "updatedAt": "2023-07-06T17:24:40.122Z",
+    "datetime": "06.07 o 19:24",
+    "status": true,
+    "createdAt": "2023-07-06T17:24:40.000Z",
+    "liberated": 43127.632735343286,
+    "occupied": 64923.68239856589,
+    "unspecified": 910.2253915672421
   }
 ]
