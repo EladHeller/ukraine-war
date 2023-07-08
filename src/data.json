@@ -7366,5 +7366,17 @@
     "liberated": 43130.5282101157,
     "occupied": 64914.26534735962,
     "unspecified": 916.7469680009631
+  },
+  {
+    "id": 1688814995,
+    "description": "Ворога відкинуто біля <a href=\"https://deepstatemap.live/#14/48.5115/37.9284\">Кліщіївки</a> та <a href=\"https://deepstatemap.live/#14/47.7631/36.6589\">Новодарівки</a>.",
+    "descriptionEn": "Enemy pushed back near <a href=\"https://deepstatemap.live/en#14/48.5115/37.9284\">Klishchiivka</a> and <a href=\"https://deepstatemap.live/en#14/47.7631/36.6589\">Novodarivka</a>.",
+    "updatedAt": "2023-07-08T11:22:49.456Z",
+    "datetime": "08.07 o 13:16",
+    "status": true,
+    "createdAt": "2023-07-08T11:16:35.000Z",
+    "liberated": 43146.55301600037,
+    "occupied": 64883.99908898159,
+    "unspecified": 914.9586646558095
   }
 ]
