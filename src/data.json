@@ -7390,5 +7390,17 @@
     "liberated": 43144.679722614805,
     "occupied": 64885.28145375095,
     "unspecified": 915.5495932721593
+  },
+  {
+    "id": 1689006373,
+    "description": "Незначні оновлення лінії зіткнення.",
+    "descriptionEn": "Minor frontline updates.",
+    "updatedAt": "2023-07-10T16:26:13.129Z",
+    "datetime": "10.07 o 18:26",
+    "status": true,
+    "createdAt": "2023-07-10T16:26:13.000Z",
+    "liberated": 43145.92156674882,
+    "occupied": 64896.922192256934,
+    "unspecified": 909.5273200148042
   }
 ]
