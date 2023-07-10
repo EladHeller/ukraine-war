@@ -7378,5 +7378,17 @@
     "liberated": 43146.55301600037,
     "occupied": 64883.99908898159,
     "unspecified": 914.9586646558095
+  },
+  {
+    "id": 1688929368,
+    "description": "Ворог має частковий успіх західніше <a href=\"https://deepstatemap.live/#13/49.0185/38.0547\">Діброви</a>. Ситуація біля <a href=\"https://deepstatemap.live/#13/49.5229/37.9567\">Новоселівського</a>, <a href=\"https://deepstatemap.live/#13/49.4361/37.9253\">Андріївки</a>, <a href=\"https://deepstatemap.live/#13/48.7393/38.0900\">Роздолівки</a> та <a href=\"https://deepstatemap.live/#14/48.6402/37.9632\">Берхівки</a> перебуває на уточнені.",
+    "descriptionEn": "The enemy has partial success west of <a href=\"https://deepstatemap.live/en#13/49.0185/38.0547\">Dibrova</a>. The situation near <a href=\"https://deepstatemap.live/en#13/49.5229/37.9567\">Novoselivske</a>, <a href=\"https://deepstatemap.live/en#13/49.4361/37.9253\"> Andriivka</a>, <a href=\"https://deepstatemap.live/en#13/48.7393/38.0900\">Rozdolivka</a> and <a href=\"https://deepstatemap.live/#en14/48.6402/37.9632\">Berkhivka</a> is under review.",
+    "updatedAt": "2023-07-09T19:02:48.869Z",
+    "datetime": "09.07 o 21:02",
+    "status": true,
+    "createdAt": "2023-07-09T19:02:48.000Z",
+    "liberated": 43144.679722614805,
+    "occupied": 64885.28145375095,
+    "unspecified": 915.5495932721593
   }
 ]
