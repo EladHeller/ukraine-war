@@ -7402,5 +7402,17 @@
     "liberated": 43145.92156674882,
     "occupied": 64896.922192256934,
     "unspecified": 909.5273200148042
+  },
+  {
+    "id": 1689104193,
+    "description": "Уточнено ситуацію на півдні країни.",
+    "descriptionEn": "The situation in the south of the country has been clarified.",
+    "updatedAt": "2023-07-11T19:36:33.712Z",
+    "datetime": "11.07 o 21:36",
+    "status": true,
+    "createdAt": "2023-07-11T19:36:33.000Z",
+    "liberated": 43157.389330059224,
+    "occupied": 64892.115033436065,
+    "unspecified": 902.8667155254341
   }
 ]
