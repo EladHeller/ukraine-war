@@ -7414,5 +7414,17 @@
     "liberated": 43157.389330059224,
     "occupied": 64892.115033436065,
     "unspecified": 902.8667155254341
+  },
+  {
+    "id": 1689246762,
+    "description": "Ворог продовжує відступати в <a href=\"https://deepstatemap.live/#14/48.5287/37.9569\">Кліщіївці</a> та біля <a href=\"https://deepstatemap.live/#14/47.7463/36.6613\">Приютного</a>.",
+    "descriptionEn": "The enemy continues to retreat in <a href=\"https://deepstatemap.live/en#14/48.5287/37.9569\">Klishchiivka</a> and near <a href=\"https://deepstatemap.live/en#14/47.7463/ 36.6613\">Pryutne</a>.",
+    "updatedAt": "2023-07-13T11:12:42.245Z",
+    "datetime": "13.07 o 13:12",
+    "status": true,
+    "createdAt": "2023-07-13T11:12:42.000Z",
+    "liberated": 43159.694683785114,
+    "occupied": 64890.217820795246,
+    "unspecified": 902.4585744402929
   }
 ]
