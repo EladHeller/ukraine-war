@@ -7426,5 +7426,17 @@
     "liberated": 43159.694683785114,
     "occupied": 64890.217820795246,
     "unspecified": 902.4585744402929
+  },
+  {
+    "id": 1689333855,
+    "description": "Ворога відкинуто <a href=\"https://deepstatemap.live/#14/47.4683/35.8629\">біля Роботиного</a> та каналу <a href=\"https://deepstatemap.live/#13/48.4924/37.9312\">Сіверський Донець-Донбас</a>.",
+    "descriptionEn": "The enemy was pushed back <a href=\"https://deepstatemap.live/en#14/47.4683/35.8629\">near Robotyno</a> and the channel  <a href=\"https://deepstatemap.live/en#13/48.4924/37.9312\">Siverskyi Donets-Donbas</a>.",
+    "updatedAt": "2023-07-14T11:24:15.372Z",
+    "datetime": "14.07 o 13:24",
+    "status": true,
+    "createdAt": "2023-07-14T11:24:15.000Z",
+    "liberated": 43187.53560895844,
+    "occupied": 64887.01774398223,
+    "unspecified": 896.5240719152806
   }
 ]
