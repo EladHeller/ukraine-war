@@ -7450,5 +7450,17 @@
     "liberated": 43189.435675415785,
     "occupied": 64884.11350830538,
     "unspecified": 898.2865947231188
+  },
+  {
+    "id": 1689527612,
+    "description": "Уточнено район <a href=\"https://deepstatemap.live/#15/48.6937/37.9084\">Залізнянського</a>, <a href=\"https://deepstatemap.live/#14/47.4815/35.9213\">Роботиного</a> та <a href=\"https://deepstatemap.live/#14/47.7484/36.6814\">Приютного</a>. Кацапів вибито з частини <a href=\"https://deepstatemap.live/#15/47.7599/36.7822\">Старомайорського</a>.",
+    "descriptionEn": "The area of <a href=\"https://deepstatemap.live/en#15/48.6937/37.9084\">Zaliznyanske</a>, <a href=\"https://deepstatemap.live/en#14/47.4815/35.9213\">Robotyne</a> and <a href=\"https://deepstatemap.live/en#14/47.7484/36.6814\">Priyutne </a>has been clarified. Enemy was pushed back from part of <a href=\"https://deepstatemap.live/en#15/47.7599/36.7822\">Staromayorsk</a>.",
+    "updatedAt": "2023-07-16T17:14:19.491Z",
+    "datetime": "16.07 o 19:13",
+    "status": true,
+    "createdAt": "2023-07-16T17:13:32.000Z",
+    "liberated": 43187.77765245992,
+    "occupied": 64889.22051551741,
+    "unspecified": 895.8117770419893
   }
 ]
