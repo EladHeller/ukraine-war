@@ -7462,5 +7462,29 @@
     "liberated": 43187.77765245992,
     "occupied": 64889.22051551741,
     "unspecified": 895.8117770419893
+  },
+  {
+    "id": 1689622123,
+    "description": "Незначні уточнення лінії зіткнення.",
+    "descriptionEn": "Minor frontline clarifications.",
+    "updatedAt": "2023-07-17T19:29:00.718Z",
+    "datetime": "17.07 o 21:28",
+    "status": true,
+    "createdAt": "2023-07-17T19:28:43.000Z",
+    "liberated": 43187.77592449177,
+    "occupied": 64884.126954936815,
+    "unspecified": 900.9053615642715
+  },
+  {
+    "id": 1689631520,
+    "description": "Ворог має успіх південніше <a href=\"https://deepstatemap.live/#14/49.7955/37.6764\">Масютівки</a> та в посадці біля <a href=\"https://deepstatemap.live/#14/49.3112/38.0025\">Кармазинівки</a>. Уточнено район <a href=\"https://deepstatemap.live/#15/47.5353/35.3910\">Кам'янського</a> та <a href=\"https://deepstatemap.live/#13/47.6501/36.4531\">Малинівки</a>.",
+    "descriptionEn": "The enemy has success south of <a href=\"https://deepstatemap.live/en#14/49.7955/37.6764\">Masyutivka</a> and in a landing near <a href=\"https://deepstatemap.live/en#14/49.3112/38.0025\">Karmazinyvka</a>. The area of <a href=\"https://deepstatemap.live/en#15/47.5353/35.3910\">Kamyanske</a> and <a href=\"https://deepstatemap.live/en#13/47.6501/36.4531\">Malynivka</a> has been clarified.",
+    "updatedAt": "2023-07-17T22:05:20.656Z",
+    "datetime": "18.07 o 00:05",
+    "status": true,
+    "createdAt": "2023-07-17T22:05:20.000Z",
+    "liberated": 43186.17366789143,
+    "occupied": 64881.44358425481,
+    "unspecified": 905.208519843298
   }
 ]
