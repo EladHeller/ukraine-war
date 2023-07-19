@@ -7486,5 +7486,17 @@
     "liberated": 43186.17366789143,
     "occupied": 64881.44358425481,
     "unspecified": 905.208519843298
+  },
+  {
+    "id": 1689718933,
+    "description": "ЗСУ мають успіх біля <a href=\"https://deepstatemap.live/#14/48.5304/37.9578\">Кліщіївки</a>. Незначні уточнення лінії фронту.",
+    "descriptionEn": "The Armed Forces of Ukraine have success near <a href=\"https://deepstatemap.live/en#14/48.5304/37.9578\">Klishchiivka</a>. Minor clarifications of the front line.",
+    "updatedAt": "2023-07-18T22:22:13.645Z",
+    "datetime": "19.07 o 00:22",
+    "status": true,
+    "createdAt": "2023-07-18T22:22:13.000Z",
+    "liberated": 43195.12411759124,
+    "occupied": 64877.792125632586,
+    "unspecified": 900.900831074675
   }
 ]
