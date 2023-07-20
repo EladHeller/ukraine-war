@@ -7498,5 +7498,17 @@
     "liberated": 43195.12411759124,
     "occupied": 64877.792125632586,
     "unspecified": 900.900831074675
+  },
+  {
+    "id": 1689856633,
+    "description": "Оновлено ситуацію біля <a href=\"https://deepstatemap.live/#14/48.6943/37.9052\">Оріхово-Василівки</a> та <a href=\"https://deepstatemap.live/#14/48.1875/37.7535\">Веселого</a>.",
+    "descriptionEn": "Updated the situation near <a href=\"https://deepstatemap.live/en#14/48.6943/37.9052\">Orikhovo-Vasylivka</a> and <a href=\"https://deepstatemap.live/en#14/48.1875/37.7535\">Vesele</a>.",
+    "updatedAt": "2023-07-20T12:37:14.001Z",
+    "datetime": "20.07 o 14:37",
+    "status": true,
+    "createdAt": "2023-07-20T12:37:13.000Z",
+    "liberated": 43194.363576637705,
+    "occupied": 64879.979731227344,
+    "unspecified": 900.2785547204262
   }
 ]
