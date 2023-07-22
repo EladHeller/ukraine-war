@@ -7510,5 +7510,17 @@
     "liberated": 43194.363576637705,
     "occupied": 64879.979731227344,
     "unspecified": 900.2785547204262
+  },
+  {
+    "id": 1689968812,
+    "description": "Ворог має частковий успіх на захід від <a href=\"https://deepstatemap.live/#14/49.3187/37.9931\">Кармазинівки</a>. Незначні уточнення лінії фронту.",
+    "descriptionEn": "The enemy has partial success west of <a href=\"https://deepstatemap.live/en#14/49.3187/37.9931\">Karmazynivka</a>. Minor clarifications of the front line.",
+    "updatedAt": "2023-07-21T19:46:52.857Z",
+    "datetime": "21.07 o 21:46",
+    "status": true,
+    "createdAt": "2023-07-21T19:46:52.000Z",
+    "liberated": 43190.39724300434,
+    "occupied": 64884.843407061904,
+    "unspecified": 899.1625534477716
   }
 ]
