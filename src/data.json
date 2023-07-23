@@ -7534,5 +7534,17 @@
     "liberated": 43190.9156266319,
     "occupied": 64883.16118214027,
     "unspecified": 900.3352023221561
+  },
+  {
+    "id": 1690091634,
+    "description": "Ворог має просування біля <a href=\"https://deepstatemap.live/#14/49.3144/37.9612\">Новоєгорівки</a>.",
+    "descriptionEn": "The enemy has an progress near <a href=\"https://deepstatemap.live/en#14/49.3144/37.9612\">Novoehorivka</a>.",
+    "updatedAt": "2023-07-23T05:53:54.854Z",
+    "datetime": "23.07 o 07:53",
+    "status": true,
+    "createdAt": "2023-07-23T05:53:54.000Z",
+    "liberated": 43174.13482873675,
+    "occupied": 64900.583653411,
+    "unspecified": 899.6849910449056
   }
 ]
