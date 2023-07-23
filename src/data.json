@@ -7522,5 +7522,17 @@
     "liberated": 43190.39724300434,
     "occupied": 64884.843407061904,
     "unspecified": 899.1625534477716
+  },
+  {
+    "id": 1690049864,
+    "description": "Уточнення лінії зіткнення.",
+    "descriptionEn": "Frontline clarifications.",
+    "updatedAt": "2023-07-22T18:17:44.686Z",
+    "datetime": "22.07 o 20:17",
+    "status": true,
+    "createdAt": "2023-07-22T18:17:44.000Z",
+    "liberated": 43190.9156266319,
+    "occupied": 64883.16118214027,
+    "unspecified": 900.3352023221561
   }
 ]
