@@ -7546,5 +7546,17 @@
     "liberated": 43174.13482873675,
     "occupied": 64900.583653411,
     "unspecified": 899.6849910449056
+  },
+  {
+    "id": 1690209922,
+    "description": "ЗСУ мали успіх біля <a href=\"https://deepstatemap.live/#14/48.5045/37.9465\">Андріївки</a>, <a href=\"https://deepstatemap.live/#15/48.4661/37.9507\">Курдюмівки</a>, <a href=\"https://deepstatemap.live/#13/47.4528/35.8430\">Роботиного</a> та <a href=\"https://deepstatemap.live/#13/47.5133/35.4010\">Кам'янського</a>. Біля <a href=\"https://deepstatemap.live/#13/49.3174/37.9781\">Кармазинівки</a> ситуація стабілізовується.",
+    "descriptionEn": "The Armed Forces of Ukraine had success near <a href=\"https://deepstatemap.live/en#14/48.5045/37.9465\">Andriyivka</a>, <a href=\"https://deepstatemap.live/en#15/48.4661/37.9507\">Kurdyumivka</a>, <a href=\"https://deepstatemap.live/en#13/47.4528/35.8430\">Robotyne</a> and <a href=\"https://deepstatemap.live/en#13/47.5133/35.4010\">Kamyanske</a>. The situation near <a href=\"https://deepstatemap.live/en#13/49.3174/37.9781\">Karmazynivka</a> is stabilizing.",
+    "updatedAt": "2023-07-24T17:03:37.524Z",
+    "datetime": "24.07 o 16:45",
+    "status": true,
+    "createdAt": "2023-07-24T14:45:22.000Z",
+    "liberated": 43173.79064821909,
+    "occupied": 64888.78734200769,
+    "unspecified": 911.8284212050852
   }
 ]
