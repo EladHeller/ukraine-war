@@ -7558,5 +7558,17 @@
     "liberated": 43173.79064821909,
     "occupied": 64888.78734200769,
     "unspecified": 911.8284212050852
+  },
+  {
+    "id": 1690302848,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#13/49.3501/37.9488\">Новоєгорівку, Сергіївку та Надію</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#13/49.3501/37.9488\">Novoyehorivka, Sergiyivka and Nadiya</a>.",
+    "updatedAt": "2023-07-25T16:34:08.967Z",
+    "datetime": "25.07 o 18:34",
+    "status": true,
+    "createdAt": "2023-07-25T16:34:08.000Z",
+    "liberated": 43143.1236174328,
+    "occupied": 64929.467759288076,
+    "unspecified": 901.8250799528985
   }
 ]
