@@ -7570,5 +7570,17 @@
     "liberated": 43143.1236174328,
     "occupied": 64929.467759288076,
     "unspecified": 901.8250799528985
+  },
+  {
+    "id": 1690378294,
+    "description": "Сили Оборони України мають успіх в <a href=\"https://deepstatemap.live/#14/47.7584/36.7848\">Старомайорську</a> та біля <a href=\"https://deepstatemap.live/#13/47.4481/35.8717\">Роботиного</a>. Крім того, ворогу не вдалося закріпитися біля <a href=\"https://deepstatemap.live/#13/49.3672/37.9105\">Надії</a>. Стабілізаційні заходи тривають.",
+    "descriptionEn": "Defense Forces of Ukraine have success in <a href=\"https://deepstatemap.live/en#14/47.7584/36.7848\">Staromayorske</a> and near <a href=\"https://deepstatemap.live/en#13/47.4481/35.8717\">Robotyne</a>. In addition, the enemy did not manage to gain a foothold near <a href=\"https://deepstatemap.live/en#13/49.3672/37.9105\">Nadiya</a>. Stabilization measures are ongoing.",
+    "updatedAt": "2023-07-26T13:31:41.789Z",
+    "datetime": "26.07 o 15:31",
+    "status": true,
+    "createdAt": "2023-07-26T13:31:34.000Z",
+    "liberated": 43153.496001555846,
+    "occupied": 64908.99963624626,
+    "unspecified": 911.9226141990226
   }
 ]
