@@ -7582,5 +7582,17 @@
     "liberated": 43153.496001555846,
     "occupied": 64908.99963624626,
     "unspecified": 911.9226141990226
+  },
+  {
+    "id": 1690484271,
+    "description": "Стабілізувалася ситуація біля <a href=\"https://deepstatemap.live/#13/49.3456/37.9366\">Новоєгорівки та Надії</a>. ЗСУ звільнили <a href=\"https://deepstatemap.live/#15/47.7533/36.7937\">Старомайорське</a> (<a href=\"https://t.me/DeepStateUA/17221\">підтвердження</a>). Бої на широкій ділянці фронту між <a href=\"https://deepstatemap.live/#13/47.4348/35.9094\">Роботине та Вербовим</a>. Частковий успіх ЗСУ біля <a href=\"https://deepstatemap.live/#14/48.4803/37.9454\">Курдюмівки</a>. Частковий успіх ворога в <a href=\"https://deepstatemap.live/#14/48.5325/37.9545\">Кліщіївці</a>.",
+    "descriptionEn": "The situation near <a href=\"https://deepstatemap.live/en#13/49.3456/37.9366\">Novoehorivka and Nadia</a> has stabilized. The Armed Forces of Ukraine liberated <a href=\"https://deepstatemap.live/en#15/47.7533/36.7937\">Staromayorske</a> (<a href=\"https://t.me/DeepStateUA/17221\">confirmation</ a>). Fighting on a wide section of the front between <a href=\"https://deepstatemap.live/en#13/47.4348/35.9094\">Robotyne and Verbove</a>. Partial success of the AFU near <a href=\"https://deepstatemap.live/en#14/48.4803/37.9454\">Kurdyumivka</a>. Partial success of the enemy in <a href=\"https://deepstatemap.live/en#14/48.5325/37.9545\">Klishchiivka</a>.",
+    "updatedAt": "2023-07-27T19:14:02.268Z",
+    "datetime": "27.07 o 20:57",
+    "status": true,
+    "createdAt": "2023-07-27T18:57:51.000Z",
+    "liberated": 43166.47857878342,
+    "occupied": 64888.365556966644,
+    "unspecified": 919.5896114231517
   }
 ]
