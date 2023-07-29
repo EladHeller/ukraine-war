@@ -7594,5 +7594,17 @@
     "liberated": 43166.47857878342,
     "occupied": 64888.365556966644,
     "unspecified": 919.5896114231517
+  },
+  {
+    "id": 1690631116,
+    "description": "Тривають бої по лінії <a href=\"https://deepstatemap.live/#13/49.3438/37.9391\">Надія-Новоєгорівка</a>. Ворог намагається відновити контроль над втраченими позиціями біля <a href=\"https://deepstatemap.live/#13/47.4550/35.8947\">Роботине</a>.",
+    "descriptionEn": "Fighting continues along the line <a href=\"https://deepstatemap.live/en#13/49.3438/37.9391\">Nadiya-Novoyehorivka</a>. The enemy is trying to regain control of the lost positions near <a href=\"https://deepstatemap.live/en#13/47.4550/35.8947\">Robotyne</a>.",
+    "updatedAt": "2023-07-29T11:45:16.540Z",
+    "datetime": "29.07 o 13:45",
+    "status": true,
+    "createdAt": "2023-07-29T11:45:16.000Z",
+    "liberated": 43166.19816785567,
+    "occupied": 64882.18124494503,
+    "unspecified": 926.0401607055217
   }
 ]
