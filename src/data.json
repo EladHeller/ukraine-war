@@ -7606,5 +7606,17 @@
     "liberated": 43166.19816785567,
     "occupied": 64882.18124494503,
     "unspecified": 926.0401607055217
+  },
+  {
+    "id": 1690739355,
+    "description": "Ворога вибито з <a href=\"https://deepstatemap.live/#13/49.3500/37.9335\">району Надії та частини Новоєгорівки</a>.",
+    "descriptionEn": "The enemy was knocked out of the <a href=\"https://deepstatemap.live/en#13/49.3500/37.9335\">area of Nadiya and part of Novoyehorivka</a>.",
+    "updatedAt": "2023-07-30T17:49:15.632Z",
+    "datetime": "30.07 o 19:49",
+    "status": true,
+    "createdAt": "2023-07-30T17:49:15.000Z",
+    "liberated": 43176.485536384374,
+    "occupied": 64882.05851525836,
+    "unspecified": 915.8759484660343
   }
 ]
