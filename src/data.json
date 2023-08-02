@@ -7618,5 +7618,17 @@
     "liberated": 43176.485536384374,
     "occupied": 64882.05851525836,
     "unspecified": 915.8759484660343
+  },
+  {
+    "id": 1690922527,
+    "description": "Частковий успіх ЗСУ біля <a href=\"https://deepstatemap.live/#14/47.8204/37.4923\">Новомихайлівки</a> та <a href=\"https://deepstatemap.live/#15/48.0604/37.5914\">Невельського</a>. Уточнено лінію зіткнення біля <a href=\"https://deepstatemap.live/#13/48.1041/37.6826\">Водяного</a>, <a href=\"https://deepstatemap.live/#13/48.1646/37.7804\">Авдіївки</a>&nbsp;та <a href=\"https://deepstatemap.live/#14/48.2947/37.8842\">Новоселівки</a>.",
+    "descriptionEn": "Partial success of AFU near <a href=\"https://deepstatemap.live/en#14/47.8204/37.4923\">Novomykhailivka</a> and <a href=\"https://deepstatemap.live/en#15/48.0604/37.5914 \">Nevelske</a>. Clarified frontline near <a href=\"https://deepstatemap.live/en#13/48.1041/37.6826\">Vodyane</a>, <a href=\"https://deepstatemap.live/en#13/48.1646/37.7804 \">Avdiivka</a> and <a href=\"https://deepstatemap.live/en#14/48.2947/37.8842\">Novoselivka</a>.",
+    "updatedAt": "2023-08-01T20:42:14.926Z",
+    "datetime": "01.08 o 22:42",
+    "status": true,
+    "createdAt": "2023-08-01T20:42:07.000Z",
+    "liberated": 43178.26102149763,
+    "occupied": 65075.91641807996,
+    "unspecified": 915.4269327845564
   }
 ]
