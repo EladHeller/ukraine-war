@@ -7627,8 +7627,20 @@
     "datetime": "01.08 o 22:42",
     "status": true,
     "createdAt": "2023-08-01T20:42:07.000Z",
-    "liberated": 43178.26102149763,
-    "occupied": 65075.91641807996,
-    "unspecified": 915.4269327845564
+    "liberated": 43178.23260047115,
+    "occupied": 65074.6327570652,
+    "unspecified": 916.340458245542
+  },
+  {
+    "id": 1690996297,
+    "description": "<a href=\"https://deepstatemap.live/#16/47.7663/37.2736\">Північніше Микільського</a> ворога відкинуто. <a href=\"https://deepstatemap.live/#16/47.7767/37.2671\">Південніше Вугледару</a> позначено території, які були звільнено раніше. Уточнено межі окупації <a href=\"https://deepstatemap.live/#13/47.5138/33.2734\">Херсонщини</a> в 2022 році. Інші уточнення лінії фронту.",
+    "descriptionEn": "<a href=\"https://deepstatemap.live/en#16/47.7663/37.2736\">North of Mykilske</a> the enemy was pushed back. <a href=\"https://deepstatemap.live/en#16/47.7767/37.2671\">South of Vugledar</a> area that was previously liberated are marked. The borders of the occupation of <a href=\"https://deepstatemap.live/en#13/47.5138/33.2734\">Kherson Oblast</a> in 2022 have been clarified. Other clarifications of the frontline.",
+    "updatedAt": "2023-08-02T17:11:37.584Z",
+    "datetime": "02.08 o 19:11",
+    "status": true,
+    "createdAt": "2023-08-02T17:11:37.000Z",
+    "liberated": 43226.20352483129,
+    "occupied": 64845.866677953876,
+    "unspecified": 913.0915263650966
   }
 ]
