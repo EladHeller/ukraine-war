@@ -7642,5 +7642,17 @@
     "liberated": 43226.20352483129,
     "occupied": 64845.866677953876,
     "unspecified": 913.0915263650966
+  },
+  {
+    "id": 1691084856,
+    "description": "Ворог має частковий успіх в <a href=\"https://deepstatemap.live/#15/49.5242/37.9563\">Новоселівському</a>. Уточнено просування ворога біля <a href=\"https://deepstatemap.live/#14/48.9321/38.2693\">Білогорівки</a> (Луганська). Незначні уточнення інших ділянок фронту.",
+    "descriptionEn": "The enemy has partial success in <a href=\"https://deepstatemap.live/en#15/49.5242/37.9563\">Novoselivske</a>. The enemy advance near <a href=\"https://deepstatemap.live/en#14/48.9321/38.2693\">Bilogorivka</a> (Luhansk) has been clarified. Minor clarifications on other areas of the front.",
+    "updatedAt": "2023-08-03T17:47:36.421Z",
+    "datetime": "03.08 o 19:47",
+    "status": true,
+    "createdAt": "2023-08-03T17:47:36.000Z",
+    "liberated": 43223.89868003646,
+    "occupied": 64851.485515987726,
+    "unspecified": 909.0880143588554
   }
 ]
