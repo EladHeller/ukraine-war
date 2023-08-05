@@ -7654,5 +7654,17 @@
     "liberated": 43223.89868003646,
     "occupied": 64851.485515987726,
     "unspecified": 909.0880143588554
+  },
+  {
+    "id": 1691182679,
+    "description": "Уточнення лінії зіткнення.\r\n",
+    "descriptionEn": "Frontline clarifications.",
+    "updatedAt": "2023-08-04T20:57:59.924Z",
+    "datetime": "04.08 o 22:57",
+    "status": true,
+    "createdAt": "2023-08-04T20:57:59.000Z",
+    "liberated": 43223.89868003646,
+    "occupied": 64851.10620738885,
+    "unspecified": 909.467322957721
   }
 ]
