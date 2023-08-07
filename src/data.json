@@ -7678,5 +7678,17 @@
     "liberated": 43224.03823320395,
     "occupied": 64855.568279789084,
     "unspecified": 904.0175388629486
+  },
+  {
+    "id": 1691356872,
+    "description": "Ворога відкинуто південніше <a href=\"https://deepstatemap.live/#13/49.3057/37.9554\">Новоєгорівки</a>.",
+    "descriptionEn": "The enemy was pushed back on south of <a href=\"https://deepstatemap.live/en#13/49.3057/37.9554\">Novoehorivka</a>.",
+    "updatedAt": "2023-08-06T21:21:12.365Z",
+    "datetime": "06.08 o 23:21",
+    "status": true,
+    "createdAt": "2023-08-06T21:21:12.000Z",
+    "liberated": 43231.349165949614,
+    "occupied": 64848.62696421902,
+    "unspecified": 903.6403270303766
   }
 ]
