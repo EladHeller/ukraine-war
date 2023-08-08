@@ -7690,5 +7690,17 @@
     "liberated": 43231.349165949614,
     "occupied": 64848.62696421902,
     "unspecified": 903.6403270303766
+  },
+  {
+    "id": 1691487612,
+    "description": "<a href=\"https://deepstatemap.live/#15/49.5216/37.9527\">Новоселівське</a> знову перейшло під контроль ворога. Тривають бої біля <a href=\"https://deepstatemap.live/#13/47.4667/35.9187\">Роботине</a> та за <a href=\"https://deepstatemap.live/#14/47.7654/36.8200\">Урожайне</a>. Незначні оновлення та уточнення на інших ділянках фронту.",
+    "descriptionEn": "<a href=\"https://deepstatemap.live/en#15/49.5216/37.9527\">Novoselivske</a> again came under enemy control. Fighting continues near <a href=\"https://deepstatemap.live/en#13/47.4667/35.9187\">Robotyne</a> and for <a href=\"https://deepstatemap.live/en#14/47.7654/36.8200\">Urozhayne</a>. Minor updates and clarifications in other areas of the frontline.",
+    "updatedAt": "2023-08-08T09:40:12.480Z",
+    "datetime": "08.08 o 11:40",
+    "status": true,
+    "createdAt": "2023-08-08T09:40:12.000Z",
+    "liberated": 43233.39021373681,
+    "occupied": 64845.1112274924,
+    "unspecified": 905.3923912220775
   }
 ]
