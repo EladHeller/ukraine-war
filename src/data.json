@@ -7726,5 +7726,17 @@
     "liberated": 43235.153657781135,
     "occupied": 64840.693238296175,
     "unspecified": 906.1366073302493
+  },
+  {
+    "id": 1691784944,
+    "description": "Оновлено ситуацію біля <a href=\"https://deepstatemap.live/#13/47.4653/35.8727\">Роботине</a> та <a href=\"https://deepstatemap.live/#15/47.7489/36.8192\">Урожайне</a>.",
+    "descriptionEn": "Updated the situation near <a href=\"https://deepstatemap.live/en#13/47.4653/35.8727\">Robotyne</a> and <a href=\"https://deepstatemap.live/en#15/47.7489/36.8192\" >Urozhayne</a>.",
+    "updatedAt": "2023-08-11T20:15:44.988Z",
+    "datetime": "11.08 o 22:15",
+    "status": true,
+    "createdAt": "2023-08-11T20:15:44.000Z",
+    "liberated": 43240.052253994785,
+    "occupied": 64839.78859399371,
+    "unspecified": 902.1585793720737
   }
 ]
