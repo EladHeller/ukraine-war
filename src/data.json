@@ -7762,5 +7762,17 @@
     "liberated": 43241.496615432494,
     "occupied": 64840.59849175916,
     "unspecified": 899.9043201688498
+  },
+  {
+    "id": 1692046598,
+    "description": "Оновлено ситуацію на Сватівському, Бахмутському та Запорізькому відтинках. Ворог провалив спробу відновити контроль над <a href=\"https://deepstatemap.live/#14/47.7428/36.8213\">Урожайним</a>.",
+    "descriptionEn": "Updated the situation in the Swatove, Bakhmut and Zaporizhzhia areas. The enemy failed to regain control of <a href=\"https://deepstatemap.live/en#14/47.7428/36.8213\">Urozhaine</a>.",
+    "updatedAt": "2023-08-14T20:59:44.529Z",
+    "datetime": "14.08 o 22:56",
+    "status": true,
+    "createdAt": "2023-08-14T20:56:38.000Z",
+    "liberated": 43240.50094004566,
+    "occupied": 64841.92162123618,
+    "unspecified": 899.5844607359003
   }
 ]
