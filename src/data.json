@@ -7786,5 +7786,17 @@
     "liberated": 43241.551107499,
     "occupied": 64836.30688239176,
     "unspecified": 904.1458999006326
+  },
+  {
+    "id": 1692181662,
+    "description": "Сили Оборони України звільнили селище <a href=\"https://deepstatemap.live/#14/47.7502/36.8181\">Урожайне</a>. (<a href=\"https://t.me/DeepStateUA/17374\">підтвердження</a>)",
+    "descriptionEn": "The Defense Forces of Ukraine liberated the village of <a href=\"https://deepstatemap.live/en#14/47.7502/36.8181\">Urozhaine</a>. (<a href=\"https://t.me/DeepStateUA/17374\">confirmation</a>)",
+    "updatedAt": "2023-08-16T10:33:19.920Z",
+    "datetime": "16.08 o 12:27",
+    "status": true,
+    "createdAt": "2023-08-16T10:27:42.000Z",
+    "liberated": 43242.28491125745,
+    "occupied": 64836.30688239176,
+    "unspecified": 903.4120961421443
   }
 ]
