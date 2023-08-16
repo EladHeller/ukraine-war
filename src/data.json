@@ -7774,5 +7774,17 @@
     "liberated": 43240.50094004566,
     "occupied": 64841.92162123618,
     "unspecified": 899.5844607359003
+  },
+  {
+    "id": 1692131190,
+    "description": "Тривають бойові дії біля <a href=\"https://deepstatemap.live/#13/47.4430/35.8921\">Роботиного та Вербового</a>.",
+    "descriptionEn": "Combat actions continues near <a href=\"https://deepstatemap.live/en#13/47.4430/35.8921\">Robotyne and Verbove</a>.",
+    "updatedAt": "2023-08-15T20:28:37.787Z",
+    "datetime": "15.08 o 22:26",
+    "status": true,
+    "createdAt": "2023-08-15T20:26:30.000Z",
+    "liberated": 43241.551107499,
+    "occupied": 64836.30688239176,
+    "unspecified": 904.1458999006326
   }
 ]
