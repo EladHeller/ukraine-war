@@ -7810,5 +7810,17 @@
     "liberated": 43245.71244237549,
     "occupied": 64831.10207309162,
     "unspecified": 905.1730351009957
+  },
+  {
+    "id": 1692390753,
+    "description": "Тривають бойові дії біля <a href=\"https://deepstatemap.live/#14/47.4503/35.8350\">Роботиного</a> та <a href=\"https://deepstatemap.live/#15/47.7499/36.8411\">Урожайного</a>.",
+    "descriptionEn": "Combat actions continues near <a href=\"https://deepstatemap.live/en#14/47.4503/35.8350\">Robotyne</a> and <a href=\"https://deepstatemap.live/en#15/47.7499/36.8411\">Urozhaine</a>.",
+    "updatedAt": "2023-08-18T20:33:04.470Z",
+    "datetime": "18.08 o 22:32",
+    "status": true,
+    "createdAt": "2023-08-18T20:32:33.000Z",
+    "liberated": 43251.57533255128,
+    "occupied": 64824.76182903096,
+    "unspecified": 904.8018353885791
   }
 ]
