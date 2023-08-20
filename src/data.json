@@ -7822,5 +7822,17 @@
     "liberated": 43251.57533255128,
     "occupied": 64824.76182903096,
     "unspecified": 904.8018353885791
+  },
+  {
+    "id": 1692477417,
+    "description": "Біля <a href=\"https://deepstatemap.live/#14/47.4570/35.8583\">Роботиного</a> Сили Оборони України мали успіх. Незначні оновлення на інших ділянках фронту.",
+    "descriptionEn": "The Defense Forces of Ukraine had success near <a href=\"https://deepstatemap.live/#14/47.4570/35.8583\">Robotyne</a>. Other updates on the frontline.",
+    "updatedAt": "2023-08-19T20:36:57.341Z",
+    "datetime": "19.08 o 22:36",
+    "status": true,
+    "createdAt": "2023-08-19T20:36:57.000Z",
+    "liberated": 43256.19386446578,
+    "occupied": 64821.56478848719,
+    "unspecified": 903.4060797390091
   }
 ]
