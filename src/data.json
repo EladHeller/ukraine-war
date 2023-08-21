@@ -7834,5 +7834,17 @@
     "liberated": 43256.19386446578,
     "occupied": 64821.56478848719,
     "unspecified": 903.4060797390091
+  },
+  {
+    "id": 1692564250,
+    "description": "Оновлено лінію зіткнення в <a href=\"https://deepstatemap.live/#13/47.4492/35.8536\">Роботиному</a>, біля <a href=\"https://deepstatemap.live/#14/47.7432/36.7600\">Старомайорського</a> та <a href=\"https://deepstatemap.live/#15/48.5013/37.9671\">Андріївки</a>.",
+    "descriptionEn": "Updated the frontline in <a href=\"https://deepstatemap.live/en#13/47.4492/35.8536\">Robotyne</a>, near <a href=\"https://deepstatemap.live/en#14/47.7432/36.7600\">Staromayorske</a> and <a href=\"https://deepstatemap.live/en#15/48.5013/37.9671\">Andriivka</a>.",
+    "updatedAt": "2023-08-20T20:47:01.196Z",
+    "datetime": "20.08 o 22:44",
+    "status": true,
+    "createdAt": "2023-08-20T20:44:10.000Z",
+    "liberated": 43259.15825232667,
+    "occupied": 64819.863063590776,
+    "unspecified": 902.117681053536
   }
 ]
