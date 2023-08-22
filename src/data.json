@@ -7846,5 +7846,17 @@
     "liberated": 43259.15825232667,
     "occupied": 64819.863063590776,
     "unspecified": 902.117681053536
+  },
+  {
+    "id": 1692651972,
+    "description": "Тривають бої в <a href=\"https://deepstatemap.live/#14/47.4474/35.8319\">Роботиному</a>.",
+    "descriptionEn": "Fighting continues in <a href=\"https://deepstatemap.live/en#14/47.4474/35.8319\">Robotyne</a>.",
+    "updatedAt": "2023-08-21T21:06:12.255Z",
+    "datetime": "21.08 o 23:06",
+    "status": true,
+    "createdAt": "2023-08-21T21:06:12.000Z",
+    "liberated": 43259.59120382077,
+    "occupied": 64817.17034432426,
+    "unspecified": 904.3554444985432
   }
 ]
