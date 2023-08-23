@@ -7870,5 +7870,17 @@
     "liberated": 43260.28085374026,
     "occupied": 64816.61063959034,
     "unspecified": 904.2254993130033
+  },
+  {
+    "id": 1692808959,
+    "description": "Сили Оборони України звільнили <a href=\"https://deepstatemap.live/#16/47.4430/35.8354\">Роботине</a>. (<a href=\"https://t.me/DeepStateUA/17429\">підтвердження</a>)",
+    "descriptionEn": "The Defense Forces of Ukraine released <a href=\"https://deepstatemap.live/en#16/47.4430/35.8354\">Robotyne</a>. (<a href=\"https://t.me/DeepStateUA/17429\">confirmation</a>)",
+    "updatedAt": "2023-08-23T16:42:48.198Z",
+    "datetime": "23.08 o 18:42",
+    "status": true,
+    "createdAt": "2023-08-23T16:42:39.000Z",
+    "liberated": 43264.20894235155,
+    "occupied": 64810.40693483702,
+    "unspecified": 906.5332625395904
   }
 ]
