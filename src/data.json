@@ -7906,5 +7906,17 @@
     "liberated": 43266.69401538383,
     "occupied": 64631.96974177734,
     "unspecified": 908.2481599315813
+  },
+  {
+    "id": 1693073219,
+    "description": "Оновлено ситуацію біля <a href=\"https://deepstatemap.live/#13/47.4531/35.8952\">Роботиного</a>.",
+    "descriptionEn": "Updated the situation near <a href=\"https://deepstatemap.live/en#13/47.4531/35.8952\">Robotyne</a>.",
+    "updatedAt": "2023-08-26T18:07:37.107Z",
+    "datetime": "26.08 o 20:06",
+    "status": true,
+    "createdAt": "2023-08-26T18:06:59.000Z",
+    "liberated": 43274.23331182765,
+    "occupied": 64634.25932334911,
+    "unspecified": 898.6828297936459
   }
 ]
