@@ -7918,5 +7918,17 @@
     "liberated": 43274.23331182765,
     "occupied": 64634.25932334911,
     "unspecified": 898.6828297936459
+  },
+  {
+    "id": 1693169005,
+    "description": "Оновлено лінію зіткнення біля <a href=\"https://deepstatemap.live/#14/48.4933/37.9595\">Андріївки</a>.",
+    "descriptionEn": "Updated the frontline near <a href=\"https://deepstatemap.live/en#14/48.4933/37.9595\">Andriivka</a>.",
+    "updatedAt": "2023-08-27T20:43:25.815Z",
+    "datetime": "27.08 o 22:43",
+    "status": true,
+    "createdAt": "2023-08-27T20:43:25.000Z",
+    "liberated": 43275.9550105063,
+    "occupied": 64633.83481989789,
+    "unspecified": 897.881387688921
   }
 ]
