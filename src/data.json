@@ -7930,5 +7930,17 @@
     "liberated": 43275.9550105063,
     "occupied": 64633.83481989789,
     "unspecified": 897.881387688921
+  },
+  {
+    "id": 1693255067,
+    "description": "Незначне уточнення ситуації біля <a href=\"https://deepstatemap.live/#14/47.7397/37.1598\">Шевченко</a> та оновлення північніше <a href=\"https://deepstatemap.live/#13/47.7554/36.7034\">Приютного</a>.",
+    "descriptionEn": "Minor clarification of the situation near <a href=\"https://deepstatemap.live/en#14/47.7397/37.1598\">Shevchenko</a> and an update north of <a href=\"https://deepstatemap.live/en#13/47.7554/36.7034\">Pryutne</a>.",
+    "updatedAt": "2023-08-28T20:37:47.923Z",
+    "datetime": "28.08 o 22:37",
+    "status": true,
+    "createdAt": "2023-08-28T20:37:47.000Z",
+    "liberated": 43278.279071089215,
+    "occupied": 64622.47606889953,
+    "unspecified": 907.8340270920434
   }
 ]
