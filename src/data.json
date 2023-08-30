@@ -7942,5 +7942,17 @@
     "liberated": 43278.279071089215,
     "occupied": 64622.47606889953,
     "unspecified": 907.8340270920434
+  },
+  {
+    "id": 1693341166,
+    "description": "Оновлено ситуація біля <a href=\"https://deepstatemap.live/#15/49.3421/37.9412\">Новоєгорівки</a>, <a href=\"https://deepstatemap.live/#14/47.7437/36.6829\">Приютного</a> та <a href=\"https://deepstatemap.live/#14/46.6643/32.7215\">Дач</a>. Тривають важкі бої західніше <a href=\"https://deepstatemap.live/#12/47.4424/35.9261\">Вербового</a>.",
+    "descriptionEn": "Updated the situation near <a href=\"https://deepstatemap.live/en#15/49.3421/37.9412\">Novoehorivka</a>, <a href=\"https://deepstatemap.live/en#14/47.7437/36.6829\" >Pryutne</a> and <a href=\"https://deepstatemap.live/en#14/46.6643/32.7215\">Dachi</a>. Heavy fighting continues west of <a href=\"https://deepstatemap.live/en#12/47.4424/35.9261\">Vervove</a>.",
+    "updatedAt": "2023-08-29T20:46:48.287Z",
+    "datetime": "29.08 o 22:32",
+    "status": true,
+    "createdAt": "2023-08-29T20:32:46.000Z",
+    "liberated": 43279.3394435247,
+    "occupied": 64612.322547000855,
+    "unspecified": 917.6954261415929
   }
 ]
