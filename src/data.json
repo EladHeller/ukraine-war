@@ -7934,8 +7934,8 @@
   {
     "id": 1693255067,
     "description": "Незначне уточнення ситуації біля <a href=\"https://deepstatemap.live/#14/47.7397/37.1598\">Шевченко</a> та оновлення північніше <a href=\"https://deepstatemap.live/#13/47.7554/36.7034\">Приютного</a>.",
-    "descriptionEn": "Minor clarification of the situation near <a href=\"https://deepstatemap.live/en#14/47.7397/37.1598\">Shevchenko</a> and an update north of <a href=\"https://deepstatemap.live/en#13/47.7554/36.7034\">Pryutne</a>.",
-    "updatedAt": "2023-08-28T20:37:47.923Z",
+    "descriptionEn": "Minor clarification of the situation near <a href=\"https://deepstatemap.live/en#14/47.7397/37.1598\">Shevchenko</a> and an update north of <a href=\"https://deepstatemap.live/en#13/47.7554/36.7034\">Pryiutne</a>.",
+    "updatedAt": "2023-08-30T20:25:59.096Z",
     "datetime": "28.08 o 22:37",
     "status": true,
     "createdAt": "2023-08-28T20:37:47.000Z",
@@ -7946,13 +7946,25 @@
   {
     "id": 1693341166,
     "description": "Оновлено ситуація біля <a href=\"https://deepstatemap.live/#15/49.3421/37.9412\">Новоєгорівки</a>, <a href=\"https://deepstatemap.live/#14/47.7437/36.6829\">Приютного</a> та <a href=\"https://deepstatemap.live/#14/46.6643/32.7215\">Дач</a>. Тривають важкі бої західніше <a href=\"https://deepstatemap.live/#12/47.4424/35.9261\">Вербового</a>.",
-    "descriptionEn": "Updated the situation near <a href=\"https://deepstatemap.live/en#15/49.3421/37.9412\">Novoehorivka</a>, <a href=\"https://deepstatemap.live/en#14/47.7437/36.6829\" >Pryutne</a> and <a href=\"https://deepstatemap.live/en#14/46.6643/32.7215\">Dachi</a>. Heavy fighting continues west of <a href=\"https://deepstatemap.live/en#12/47.4424/35.9261\">Vervove</a>.",
-    "updatedAt": "2023-08-29T20:46:48.287Z",
+    "descriptionEn": "Updated the situation near <a href=\"https://deepstatemap.live/en#15/49.3421/37.9412\">Novoehorivka</a>, <a href=\"https://deepstatemap.live/en#14/47.7437/36.6829\" >Pryiutne</a> and <a href=\"https://deepstatemap.live/en#14/46.6643/32.7215\">Dachi</a>. Heavy fighting continues west of <a href=\"https://deepstatemap.live/en#12/47.4424/35.9261\">Verbove</a>.",
+    "updatedAt": "2023-08-30T20:25:43.013Z",
     "datetime": "29.08 o 22:32",
     "status": true,
     "createdAt": "2023-08-29T20:32:46.000Z",
     "liberated": 43279.3394435247,
     "occupied": 64612.322547000855,
     "unspecified": 917.6954261415929
+  },
+  {
+    "id": 1693427172,
+    "description": "Оновлено лінію зіткнення біля <a href=\"https://deepstatemap.live/#14/47.4420/35.9516\">Вербового</a>, <a href=\"https://deepstatemap.live/#15/48.4242/37.9464\">Озарянівки</a> та <a href=\"https://deepstatemap.live/#15/48.0628/37.6146\">Невельського</a>. Уточнюється просування ворога в <a href=\"https://deepstatemap.live/#15/48.9704/38.1945\">Серебрянському лісництві</a>.",
+    "descriptionEn": "Updated the front line near <a href=\"https://deepstatemap.live/en#14/47.4420/35.9516\">Verbove</a>, <a href=\"https://deepstatemap.live/en#15/48.4242/37.9464 \">Ozaryanivka</a> and <a href=\"https://deepstatemap.live/en#15/48.0628/37.6146\">Nevelske</a>. Enemy progress in <a href=\"https://deepstatemap.live/en#15/48.9704/38.1945\">Serebryanske Forestry</a> is being clarified.",
+    "updatedAt": "2023-08-30T20:28:17.487Z",
+    "datetime": "30.08 o 22:26",
+    "status": true,
+    "createdAt": "2023-08-30T20:26:12.000Z",
+    "liberated": 43278.1627933008,
+    "occupied": 64609.802477737016,
+    "unspecified": 921.2893858100647
   }
 ]
