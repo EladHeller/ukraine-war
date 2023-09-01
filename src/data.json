@@ -7966,5 +7966,17 @@
     "liberated": 43278.1627933008,
     "occupied": 64609.802477737016,
     "unspecified": 921.2893858100647
+  },
+  {
+    "id": 1693512666,
+    "description": "Уточнено лінію фронту у <a href=\"https://deepstatemap.live/#14/48.9699/38.1838\">Серебрянському лісництві</a>.",
+    "descriptionEn": "The front line in <a href=\"https://deepstatemap.live/en#14/48.9699/38.1838\">Serebryans'ke forestry</a> has been clarified.",
+    "updatedAt": "2023-08-31T20:11:06.287Z",
+    "datetime": "31.08 o 22:11",
+    "status": true,
+    "createdAt": "2023-08-31T20:11:06.000Z",
+    "liberated": 43279.047520827444,
+    "occupied": 64615.45328065579,
+    "unspecified": 914.7538553647513
   }
 ]
