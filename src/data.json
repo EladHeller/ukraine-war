@@ -7978,5 +7978,17 @@
     "liberated": 43279.047520827444,
     "occupied": 64615.45328065579,
     "unspecified": 914.7538553647513
+  },
+  {
+    "id": 1693603081,
+    "description": "Оновлено лінію зіткнення біля <a href=\"https://deepstatemap.live/#14/47.4250/35.9009\">Новопрокопівки</a>.",
+    "descriptionEn": "Updated the front line near <a href=\"https://deepstatemap.live/en#14/47.4250/35.9009\">Novoprokopivka</a>.",
+    "updatedAt": "2023-09-01T21:19:15.736Z",
+    "datetime": "01.09 o 23:18",
+    "status": true,
+    "createdAt": "2023-09-01T21:18:01.000Z",
+    "liberated": 43282.37181275834,
+    "occupied": 64614.53834775247,
+    "unspecified": 912.344496336856
   }
 ]
