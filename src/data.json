@@ -8014,5 +8014,17 @@
     "liberated": 43283.12527778608,
     "occupied": 64616.35844711195,
     "unspecified": 909.7709319496558
+  },
+  {
+    "id": 1693860306,
+    "description": "Оновлено лінію зіткнення біля <a href=\"https://deepstatemap.live/#13/47.4415/35.9268\">Вербового</a> та в <a href=\"https://deepstatemap.live/#15/47.9462/37.4922\">Мар'їнці</a>.",
+    "descriptionEn": "Updated the front line near <a href=\"https://deepstatemap.live/en#13/47.4415/35.9268\">Verbove</a> and <a href=\"https://deepstatemap.live/en#15/47.9462/37.4922\">in Maryinka</a>.",
+    "updatedAt": "2023-09-04T20:50:24.967Z",
+    "datetime": "04.09 o 22:45",
+    "status": true,
+    "createdAt": "2023-09-04T20:45:06.000Z",
+    "liberated": 43325.41820956659,
+    "occupied": 64412.77183022082,
+    "unspecified": 907.6446148973135
   }
 ]
