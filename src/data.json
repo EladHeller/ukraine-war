@@ -8026,5 +8026,17 @@
     "liberated": 43325.41820956659,
     "occupied": 64412.77183022082,
     "unspecified": 907.6446148973135
+  },
+  {
+    "id": 1693954683,
+    "description": "Оновлено лінію фронту біля <a href=\"https://deepstatemap.live/#14/47.5362/35.3907\">Кам'янського</a>, <a href=\"https://deepstatemap.live/#13/47.4294/35.8813\">Роботиного</a> та в <a href=\"https://deepstatemap.live/#14/48.9570/38.1947\">Серебрянському лісництві</a>.",
+    "descriptionEn": "Updated frontline near <a href=\"https://deepstatemap.live/en#14/47.5362/35.3907\">Kamyanske</a>, <a href=\"https://deepstatemap.live/en#13/47.4294/35.8813\">Robotyne</a> and in <a href=\"https://deepstatemap.live/en#14/48.9570/38.1947\">Serebryanske Forestry</a>.",
+    "updatedAt": "2023-09-05T22:58:03.834Z",
+    "datetime": "06.09 o 00:58",
+    "status": true,
+    "createdAt": "2023-09-05T22:58:03.000Z",
+    "liberated": 43330.978848280356,
+    "occupied": 64410.62574077743,
+    "unspecified": 904.2257243615685
   }
 ]
