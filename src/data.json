@@ -8038,5 +8038,17 @@
     "liberated": 43330.978848280356,
     "occupied": 64410.62574077743,
     "unspecified": 904.2257243615685
+  },
+  {
+    "id": 1694033610,
+    "description": "Оновлено лінію фронту біля <a href=\"https://deepstatemap.live/#14/49.3447/37.9501\">Новоєгорівки</a> та <a href=\"https://deepstatemap.live/#14/48.5186/37.9648\">Кліщіївки</a>.",
+    "descriptionEn": "Updated the frontline near <a href=\"https://deepstatemap.live/en#14/49.3447/37.9501\">Novoehorivka</a> and <a href=\"https://deepstatemap.live/en#14/48.5186/37.9648 \">Klishchiivka</a>.",
+    "updatedAt": "2023-09-06T20:58:06.592Z",
+    "datetime": "06.09 o 22:53",
+    "status": true,
+    "createdAt": "2023-09-06T20:53:30.000Z",
+    "liberated": 43330.85909798248,
+    "occupied": 64410.077128483244,
+    "unspecified": 904.8998630756765
   }
 ]
