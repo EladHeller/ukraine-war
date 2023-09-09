@@ -8062,5 +8062,17 @@
     "liberated": 43332.14111515687,
     "occupied": 64413.55976086144,
     "unspecified": 899.8957015243418
+  },
+  {
+    "id": 1694204339,
+    "description": "Ворога відкинуто біля <a href=\"https://deepstatemap.live/#14/47.4341/35.8427\">Роботиного</a> та північніше <a href=\"https://deepstatemap.live/#14/48.1016/37.7322\">Опитного</a>. Уточнення біля <a href=\"https://deepstatemap.live/#16/48.4804/37.9519\">Андріївки</a>.",
+    "descriptionEn": "Enemy was pushed back near <a href=\"https://deepstatemap.live/en#14/47.4341/35.8427\">Robotyne</a> and north of <a href=\"https://deepstatemap.live/en#14/48.1016/37.7322 \">Opytne</a>. Clarification near <a href=\"https://deepstatemap.live/en#16/48.4804/37.9519\">Andriivka</a>.",
+    "updatedAt": "2023-09-08T20:53:26.566Z",
+    "datetime": "08.09 o 22:18",
+    "status": true,
+    "createdAt": "2023-09-08T20:18:59.000Z",
+    "liberated": 43335.564136096946,
+    "occupied": 64412.58135765393,
+    "unspecified": 897.3486326589323
   }
 ]
