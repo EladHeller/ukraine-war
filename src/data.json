@@ -8074,5 +8074,17 @@
     "liberated": 43335.564136096946,
     "occupied": 64412.58135765393,
     "unspecified": 897.3486326589323
+  },
+  {
+    "id": 1694295179,
+    "description": "Оновлено район <a href=\"https://deepstatemap.live/#14/47.7411/37.0264\">Новомайорського</a>. Уточнено лінію фронту біля <a href=\"https://deepstatemap.live/#13/47.4735/35.9413\">Новопокровки</a>.",
+    "descriptionEn": "The area of <a href=\"https://deepstatemap.live/en#14/47.7411/37.0264\">Novomayorske</a> has been updated. The front line near <a href=\"https://deepstatemap.live/en#13/47.4735/35.9413\">Novopokrovka</a> has been clarified.",
+    "updatedAt": "2023-09-09T21:49:08.871Z",
+    "datetime": "09.09 o 23:32",
+    "status": true,
+    "createdAt": "2023-09-09T21:32:59.000Z",
+    "liberated": 43336.079506531125,
+    "occupied": 64412.00328457802,
+    "unspecified": 897.3956433309061
   }
 ]
