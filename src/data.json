@@ -8098,5 +8098,17 @@
     "liberated": 43340.28033847255,
     "occupied": 64407.322387007356,
     "unspecified": 897.8757089601341
+  },
+  {
+    "id": 1694462801,
+    "description": "Триває зачистка <a href=\"https://deepstatemap.live/#15/48.5365/37.9669\">Кліщіївки</a> від ворога.",
+    "descriptionEn": "Clearing <a href=\"https://deepstatemap.live/en#15/48.5365/37.9669\">Klishchiivka</a> from the enemy is in progress.",
+    "updatedAt": "2023-09-11T20:06:41.204Z",
+    "datetime": "11.09 o 22:06",
+    "status": true,
+    "createdAt": "2023-09-11T20:06:41.000Z",
+    "liberated": 43340.28033847255,
+    "occupied": 64406.733087866116,
+    "unspecified": 898.4650081014252
   }
 ]
