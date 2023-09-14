@@ -8134,5 +8134,17 @@
     "liberated": 43340.50012684785,
     "occupied": 64412.69083748388,
     "unspecified": 897.7919217997586
+  },
+  {
+    "id": 1694696818,
+    "description": "Триває зачистка від ворога <a href=\"https://deepstatemap.live/#15/48.5013/37.9672\">Андріївки</a>. Уточнено район <a href=\"https://deepstatemap.live/#14/48.7357/38.1780\">Веселого</a>.",
+    "descriptionEn": "Pushing back enemy in <a href=\"https://deepstatemap.live/en#15/48.5013/37.9672\">Andriivka</a>. The area of <a href=\"https://deepstatemap.live/en#14/48.7357/38.1780\">Vesele</a> has been clarified.",
+    "updatedAt": "2023-09-14T13:06:58.803Z",
+    "datetime": "14.09 o 15:06",
+    "status": true,
+    "createdAt": "2023-09-14T13:06:58.000Z",
+    "liberated": 43341.02775557099,
+    "occupied": 64416.82251336209,
+    "unspecified": 896.813319551186
   }
 ]
