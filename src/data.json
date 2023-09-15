@@ -8146,5 +8146,17 @@
     "liberated": 43341.02775557099,
     "occupied": 64416.82251336209,
     "unspecified": 896.813319551186
+  },
+  {
+    "id": 1694759984,
+    "description": "Збройні Сили України звільнили <a href=\"https://deepstatemap.live/#16/48.5009/37.9655\">Андріївку</a>.",
+    "descriptionEn": "The Armed Forces liberated <a href=\"https://deepstatemap.live/en#16/48.5009/37.9655\">Andriyivka</a>.",
+    "updatedAt": "2023-09-15T06:39:44.513Z",
+    "datetime": "15.09 o 08:39",
+    "status": true,
+    "createdAt": "2023-09-15T06:39:44.000Z",
+    "liberated": 43341.9609463504,
+    "occupied": 64416.690446394394,
+    "unspecified": 896.0121957393887
   }
 ]
