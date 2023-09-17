@@ -8170,5 +8170,17 @@
     "liberated": 43342.51601799987,
     "occupied": 64417.646681708065,
     "unspecified": 894.5008450179516
+  },
+  {
+    "id": 1694971247,
+    "description": "Сили Оборони України звільнили <a href=\"https://deepstatemap.live/#14/48.5253/37.9662\">Кліщіївку</a> (<a href=\"https://t.me/DeepStateUA/17627\">підтвердження</a>). Уточнення на інших ділянках фронту.",
+    "descriptionEn": "The Defense Forces of Ukraine liberated <a href=\"https://deepstatemap.live/en#14/48.5253/37.9662\">Klishchiivka</a> (<a href=\"https://t.me/DeepStateUA/17626\">confirmation </a>). Clarification in other areas of the frontline.",
+    "updatedAt": "2023-09-17T17:24:46.502Z",
+    "datetime": "17.09 o 19:20",
+    "status": true,
+    "createdAt": "2023-09-17T17:20:47.000Z",
+    "liberated": 43344.460511652396,
+    "occupied": 64416.903763898204,
+    "unspecified": 893.2971692703456
   }
 ]
