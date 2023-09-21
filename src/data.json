@@ -8206,5 +8206,17 @@
     "liberated": 43344.85247616961,
     "occupied": 64424.09280522448,
     "unspecified": 885.719186078737
+  },
+  {
+    "id": 1695307547,
+    "description": "Оновлено лінію зіткнення південніше <a href=\"https://deepstatemap.live/#14/47.4308/35.8301\">Роботиного</a>.",
+    "descriptionEn": "Updated the frontline on south of <a href=\"https://deepstatemap.live/en#14/47.4308/35.8301\">Robotyne</a>.",
+    "updatedAt": "2023-09-21T14:45:47.364Z",
+    "datetime": "21.09 o 16:45",
+    "status": true,
+    "createdAt": "2023-09-21T14:45:47.000Z",
+    "liberated": 43345.54296280492,
+    "occupied": 64435.65388982908,
+    "unspecified": 890.0409770687685
   }
 ]
