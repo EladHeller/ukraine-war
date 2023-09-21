@@ -8194,5 +8194,17 @@
     "liberated": 43344.45409179652,
     "occupied": 64420.41935043675,
     "unspecified": 889.8000525035659
+  },
+  {
+    "id": 1695251535,
+    "description": "Ворог відновив втрачені позиції в <a href=\"https://deepstatemap.live/#14/47.7373/37.0297\">Новомайорському</a>.",
+    "descriptionEn": "The enemy regained lost positions in <a href=\"https://deepstatemap.live/en#14/47.7373/37.0297\">Novomayorske</a>.",
+    "updatedAt": "2023-09-20T23:12:15.377Z",
+    "datetime": "21.09 o 01:12",
+    "status": true,
+    "createdAt": "2023-09-20T23:12:15.000Z",
+    "liberated": 43344.85247616961,
+    "occupied": 64424.09280522448,
+    "unspecified": 885.719186078737
   }
 ]
