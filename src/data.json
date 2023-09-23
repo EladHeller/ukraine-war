@@ -8218,5 +8218,17 @@
     "liberated": 43345.54296280492,
     "occupied": 64435.65388982908,
     "unspecified": 890.0409770687685
+  },
+  {
+    "id": 1695410575,
+    "description": "Оновлено ситуацію біля <a href=\"https://deepstatemap.live/#15/48.5324/37.9750\">Кліщіївки</a>, <a href=\"https://deepstatemap.live/#15/47.4235/35.8360\">Новопрокопівки</a>, <a href=\"https://deepstatemap.live/#14/47.4851/35.9374\">Новопокровки</a> та <a href=\"https://deepstatemap.live/#13/49.3384/37.9460\">Новоєгорівки</a>.",
+    "descriptionEn": "Updated the situation near <a href=\"https://deepstatemap.live/en#15/48.5324/37.9750\">Klishchiivka</a>, <a href=\"https://deepstatemap.live/en#15/47.4235/35.8360\" >Novoprokopivka</a>, <a href=\"https://deepstatemap.live/en#14/47.4851/35.9374\">Novopokrovka</a> and <a href=\"https://deepstatemap.live/en#13/49.3384/37.9460\">Novoehorivka</a>.",
+    "updatedAt": "2023-09-22T19:26:05.759Z",
+    "datetime": "22.09 o 21:22",
+    "status": true,
+    "createdAt": "2023-09-22T19:22:55.000Z",
+    "liberated": 43349.48730272242,
+    "occupied": 64436.06539872042,
+    "unspecified": 885.6801776783545
   }
 ]
