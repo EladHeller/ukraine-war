@@ -8242,5 +8242,17 @@
     "liberated": 43348.41666939375,
     "occupied": 64435.68049093265,
     "unspecified": 887.3023410940676
+  },
+  {
+    "id": 1695587568,
+    "description": "Оновлено лінію зіткнення біля <a href=\"https://deepstatemap.live/#15/47.4178/35.8424\">Новопрокопівки</a> та <a href=\"https://deepstatemap.live/#15/47.9832/37.5443\">Красногорівки (М)</a>.",
+    "descriptionEn": "Updated the front line near <a href=\"https://deepstatemap.live/en#15/47.4178/35.8424\">Novoprokopivka</a> and <a href=\"https://deepstatemap.live/en#15/47.9832/37.5443 \">Krasnohorivka (M)</a>.",
+    "updatedAt": "2023-09-24T20:32:48.933Z",
+    "datetime": "24.09 o 22:32",
+    "status": true,
+    "createdAt": "2023-09-24T20:32:48.000Z",
+    "liberated": 43347.726244177604,
+    "occupied": 64435.85883973105,
+    "unspecified": 887.7879553643928
   }
 ]
