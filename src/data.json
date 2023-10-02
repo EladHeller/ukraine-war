@@ -8302,5 +8302,17 @@
     "liberated": 43349.1026379713,
     "occupied": 64434.23008195631,
     "unspecified": 888.040889632193
+  },
+  {
+    "id": 1696184127,
+    "description": "Оновлено лінію зіткнення.",
+    "descriptionEn": "Frontline updates.",
+    "updatedAt": "2023-10-01T18:15:27.960Z",
+    "datetime": "01.10 o 20:15",
+    "status": true,
+    "createdAt": "2023-10-01T18:15:27.000Z",
+    "liberated": 43349.1026379713,
+    "occupied": 64434.05193821501,
+    "unspecified": 888.2190333734725
   }
 ]
