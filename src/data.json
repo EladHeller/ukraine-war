@@ -8314,5 +8314,17 @@
     "liberated": 43349.1026379713,
     "occupied": 64434.05193821501,
     "unspecified": 888.2190333734725
+  },
+  {
+    "id": 1696278781,
+    "description": "Оновлено лінію зіткнення біля <a href=\"https://deepstatemap.live/#14/47.4212/35.8310\">Новопрокопівки</a>. Уточнено ситуацію біля <a href=\"https://deepstatemap.live/#14/48.5004/37.9706\">Андріївки</a> та <a href=\"https://deepstatemap.live/#15/48.0634/37.5973\">Невельського</a>.",
+    "descriptionEn": "Updated the frontline near <a href=\"https://deepstatemap.live/en#14/47.4212/35.8310\">Novoprokopivka</a>. Clarified the situation near <a href=\"https://deepstatemap.live/en#14/48.5004/37.9706\">Andriivka</a> and <a href=\"https://deepstatemap.live/en#15/48.0634/37.5973\" >Nevelske</a>.",
+    "updatedAt": "2023-10-02T20:33:14.060Z",
+    "datetime": "02.10 o 22:33",
+    "status": true,
+    "createdAt": "2023-10-02T20:33:01.000Z",
+    "liberated": 43352.28264075672,
+    "occupied": 64432.918147281554,
+    "unspecified": 886.164917735589
   }
 ]
