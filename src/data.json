@@ -8338,5 +8338,17 @@
     "liberated": 43352.334211836955,
     "occupied": 64433.917693347,
     "unspecified": 885.3363276716491
+  },
+  {
+    "id": 1696538490,
+    "description": "Уточнено райони <a href=\"https://deepstatemap.live/#12/48.7463/38.1612\">Веселого</a>, <a href=\"https://deepstatemap.live/#13/48.6330/37.9441\">Богданівки</a>, <a href=\"https://deepstatemap.live/#13/49.2155/38.0364\">Макіївки</a> та інші ділянки фронту.",
+    "descriptionEn": "Clarified area of <a href=\"https://deepstatemap.live/en#12/48.7463/38.1612\">Vesele</a>, <a href=\"https://deepstatemap.live/en#13/48.6330/37.9441\"> Bohdanivka</a>, <a href=\"https://deepstatemap.live/en#13/49.2155/38.0364\">Makiivka</a> and other areas of the front.",
+    "updatedAt": "2023-10-05T20:41:30.114Z",
+    "datetime": "05.10 o 22:41",
+    "status": true,
+    "createdAt": "2023-10-05T20:41:30.000Z",
+    "liberated": 43351.84841074208,
+    "occupied": 64435.590148889576,
+    "unspecified": 889.0840358687201
   }
 ]
