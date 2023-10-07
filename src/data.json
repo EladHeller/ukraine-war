@@ -8350,5 +8350,17 @@
     "liberated": 43351.84841074208,
     "occupied": 64435.590148889576,
     "unspecified": 889.0840358687201
+  },
+  {
+    "id": 1696625817,
+    "description": "Ворог проводить атаки східніше <a href=\"https://deepstatemap.live/#14/49.2376/38.0115\">Макіївки</a>. Район північно-східніше <a href=\"https://deepstatemap.live/#13/47.4878/35.7810\">Копанів</a> уточнюється.",
+    "descriptionEn": "The enemy attacks east of <a href=\"https://deepstatemap.live/en#14/49.2376/38.0115\">Makiivka</a>. The area northeast of <a href=\"https://deepstatemap.live/en#13/47.4878/35.7810\">Kopani</a> is being clarified.",
+    "updatedAt": "2023-10-06T21:00:46.465Z",
+    "datetime": "06.10 o 22:56",
+    "status": true,
+    "createdAt": "2023-10-06T20:56:57.000Z",
+    "liberated": 43351.70282393232,
+    "occupied": 64436.93190895989,
+    "unspecified": 887.9019752751027
   }
 ]
