@@ -8362,5 +8362,17 @@
     "liberated": 43351.70282393232,
     "occupied": 64436.93190895989,
     "unspecified": 887.9019752751027
+  },
+  {
+    "id": 1696716949,
+    "description": "Ворог має частковий успіх на схід від <a href=\"https://deepstatemap.live/#13/49.2149/38.0341\">Макіївки</a>, на захід від <a href=\"https://deepstatemap.live/#14/48.2105/37.7080\">Красногорівки</a> та біля <a href=\"https://deepstatemap.live/#14/47.6364/36.3944\">Марфополя</a>. Уточнено район північніше <a href=\"https://deepstatemap.live/#14/47.4892/35.7495\">Копанів</a> та біля <a href=\"https://deepstatemap.live/#15/48.8665/38.2320\">Верхньокам'янського</a>.",
+    "descriptionEn": "Enemy has partial success on east of <a href=\"https://deepstatemap.live/en#13/49.2149/38.0341\">Makiivka</a>, west of <a href=\"https://deepstatemap.live/en#14/48.2105/37.7080\">Krasnohorivka</a> and near <a href=\"https://deepstatemap.live/en#14/47.6364/36.3944\">Marfopil</a>. The area north of <a href=\"https://deepstatemap.live/en#14/47.4892/35.7495\">Kopani</a> and near <a href=\"https://deepstatemap.live/en#15/48.8665/38.2320\">Verkhnokamyanske</a> has been clarified.",
+    "updatedAt": "2023-10-07T22:15:49.118Z",
+    "datetime": "08.10 o 00:15",
+    "status": true,
+    "createdAt": "2023-10-07T22:15:49.000Z",
+    "liberated": 43350.60215421498,
+    "occupied": 64441.29479282203,
+    "unspecified": 884.9914624410778
   }
 ]
