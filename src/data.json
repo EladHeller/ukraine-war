@@ -8410,5 +8410,17 @@
     "liberated": 43351.748234101,
     "occupied": 64440.03781327487,
     "unspecified": 888.6041048830193
+  },
+  {
+    "id": 1697043156,
+    "description": "Тривають бої біля <a href=\"https://deepstatemap.live/#14/48.1120/37.6738\">Водяного</a>, <a href=\"https://deepstatemap.live/#14/48.0603/37.6317\">Первомайського</a> та <a href=\"https://deepstatemap.live/#14/48.2087/37.6990\">Красногорівки</a>. Уточнено район <a href=\"https://deepstatemap.live/#15/49.5715/37.9531\">Крохмального</a>.",
+    "descriptionEn": "Fighting continues near <a href=\"https://deepstatemap.live/en#14/48.1120/37.6738\">Vodyane</a>, <a href=\"https://deepstatemap.live/en#14/48.0603/37.6317\" >Pervomayske</a> and <a href=\"https://deepstatemap.live/en#14/48.2087/37.6990\">Krasnohorivka</a>. The district <a href=\"https://deepstatemap.live/en#15/49.5715/37.9531\">Krokhmalne</a> has been clarified.",
+    "updatedAt": "2023-10-11T16:52:36.952Z",
+    "datetime": "11.10 o 18:52",
+    "status": true,
+    "createdAt": "2023-10-11T16:52:36.000Z",
+    "liberated": 43350.903571899726,
+    "occupied": 64441.00694257008,
+    "unspecified": 889.5682869506304
   }
 ]
