@@ -8422,5 +8422,17 @@
     "liberated": 43350.903571899726,
     "occupied": 64441.00694257008,
     "unspecified": 889.5682869506304
+  },
+  {
+    "id": 1697141191,
+    "description": "Ворога відкинуто в районі <a href=\"https://deepstatemap.live/#13/48.5166/37.9841\">Одрадівки</a>. Сили Оборони України мали частковий успіх біля <a href=\"https://deepstatemap.live/#15/47.4464/35.8159\">Роботиног</a>о, а ворог мав просування біля <a href=\"https://deepstatemap.live/#14/48.2015/37.7155\">Красногорівки</a>.",
+    "descriptionEn": "The enemy was pushed back in the area of <a href=\"https://deepstatemap.live/en#13/48.5166/37.9841\">Odradivka</a>. The Defense Forces of Ukraine had partial success near <a href=\"https://deepstatemap.live/en#15/47.4464/35.8159\">Robotyne</a>o, and the enemy had a progress near <a href=\"https://deepstatemap.live/en#14/48.2015/37.7155\">Krasnohorivka</a>.",
+    "updatedAt": "2023-10-12T20:06:31.528Z",
+    "datetime": "12.10 o 22:06",
+    "status": true,
+    "createdAt": "2023-10-12T20:06:31.000Z",
+    "liberated": 43351.585245940325,
+    "occupied": 64439.05410733984,
+    "unspecified": 892.9510910363472
   }
 ]
