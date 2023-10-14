@@ -8434,5 +8434,17 @@
     "liberated": 43351.585245940325,
     "occupied": 64439.05410733984,
     "unspecified": 892.9510910363472
+  },
+  {
+    "id": 1697230611,
+    "description": "Ворог має частковий успіх біля <a href=\"https://deepstatemap.live/#14/47.8198/37.5030\">Новомихайлівки</a>. Оновлено район <a href=\"https://deepstatemap.live/#14/48.1136/37.6733\">Водяного</a> та <a href=\"https://deepstatemap.live/#15/48.2198/37.7259\">Красногорівки</a>.",
+    "descriptionEn": "The enemy has partial success near <a href=\"https://deepstatemap.live/en#14/47.8198/37.5030\">Novomykhailivka</a>. Updated the area <a href=\"https://deepstatemap.live/en#14/48.1136/37.6733\">Vodyane</a> and <a href=\"https://deepstatemap.live/en#15/48.2198/37.7259\"> Krasnohorivka</a>.",
+    "updatedAt": "2023-10-13T21:45:47.438Z",
+    "datetime": "13.10 o 22:56",
+    "status": true,
+    "createdAt": "2023-10-13T20:56:51.000Z",
+    "liberated": 43350.946085069045,
+    "occupied": 64447.08366221134,
+    "unspecified": 888.6304208452594
   }
 ]
