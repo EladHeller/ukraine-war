@@ -8446,5 +8446,17 @@
     "liberated": 43350.946085069045,
     "occupied": 64447.08366221134,
     "unspecified": 888.6304208452594
+  },
+  {
+    "id": 1697314380,
+    "description": "Уточнено лінію зіткнення біля <a href=\"https://deepstatemap.live/#15/48.1029/37.6114\">Водяного</a> та <a href=\"https://deepstatemap.live/#14/49.6833/37.9045\">Орлянки</a>.",
+    "descriptionEn": "Clarification front line near <a href=\"https://deepstatemap.live/en#15/48.1029/37.6114\">Vodyane</a> and <a href=\"https://deepstatemap.live/en#14/49.6833/37.9045 \">Orlyanka</a>.",
+    "updatedAt": "2023-10-14T20:24:01.258Z",
+    "datetime": "14.10 o 22:13",
+    "status": true,
+    "createdAt": "2023-10-14T20:13:00.000Z",
+    "liberated": 43350.89045909178,
+    "occupied": 64448.74665353335,
+    "unspecified": 887.4118089142538
   }
 ]
