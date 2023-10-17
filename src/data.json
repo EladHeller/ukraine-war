@@ -8458,5 +8458,17 @@
     "liberated": 43350.89045909178,
     "occupied": 64448.74665353335,
     "unspecified": 887.4118089142538
+  },
+  {
+    "id": 1697483900,
+    "description": "Ворог має частковий успіх біля <a href=\"https://deepstatemap.live/#14/48.1079/37.6284\">Водяного</a> та <a href=\"https://deepstatemap.live/#14/48.1044/37.7769\">Опитного</a>.",
+    "descriptionEn": "The enemy has partial success near <a href=\"https://deepstatemap.live/en#14/48.1079/37.6284\">Vodyane</a> and <a href=\"https://deepstatemap.live/en#14/48.1044/37.7769\">Opytne</a>.",
+    "updatedAt": "2023-10-16T19:18:20.985Z",
+    "datetime": "16.10 o 21:18",
+    "status": true,
+    "createdAt": "2023-10-16T19:18:20.000Z",
+    "liberated": 43350.89045909178,
+    "occupied": 64450.26759167164,
+    "unspecified": 886.8094719859879
   }
 ]
