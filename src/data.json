@@ -8482,5 +8482,17 @@
     "liberated": 43350.89045909178,
     "occupied": 64450.8939161587,
     "unspecified": 886.2260768600397
+  },
+  {
+    "id": 1697744560,
+    "description": "Сили Оборони України мали частковий успіх біля <a href=\"https://deepstatemap.live/#14/47.4651/35.9371\">Вербового</a>. Оновлено лінію зіткнення біля <a href=\"https://deepstatemap.live/#13/48.2048/37.7129\">Красногорівки</a>, <a href=\"https://deepstatemap.live/#14/47.7382/36.6565\">Приютного</a> та <a href=\"https://deepstatemap.live/#14/46.6644/32.8006\">Дач</a>.",
+    "descriptionEn": "The Defense Forces of Ukraine had partial success near <a href=\"https://deepstatemap.live/en#14/47.4651/35.9371\">Verbove</a>. Updated the front line near <a href=\"https://deepstatemap.live/en#13/48.2048/37.7129\">Krasnohorivka</a>, <a href=\"https://deepstatemap.live/en#14/47.7382/36.6565 \">Pryutne</a> and <a href=\"https://deepstatemap.live/en#14/46.6644/32.8006\">Dachi</a>.",
+    "updatedAt": "2023-10-19T20:29:50.913Z",
+    "datetime": "19.10 o 21:42",
+    "status": true,
+    "createdAt": "2023-10-19T19:42:40.000Z",
+    "liberated": 43350.938752456095,
+    "occupied": 64444.113055293776,
+    "unspecified": 904.9567885843104
   }
 ]
