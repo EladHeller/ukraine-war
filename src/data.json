@@ -8494,5 +8494,17 @@
     "liberated": 43350.938752456095,
     "occupied": 64444.113055293776,
     "unspecified": 904.9567885843104
+  },
+  {
+    "id": 1697835090,
+    "description": "Сили Оборони України мали частковий успіх біля <a href=\"https://deepstatemap.live/#15/48.5360/37.9826\">Кліщіївки</a>. Ворог мав частковий успіх біля <a href=\"https://deepstatemap.live/#14/48.2013/37.7230\">Красногорівки</a>. Уточнення біля <a href=\"https://deepstatemap.live/#14/47.7575/36.8861\">Новодонецького</a> та <a href=\"https://deepstatemap.live/#14/48.0657/37.6290\">Первомайського</a>.",
+    "descriptionEn": "The Defense Forces of Ukraine had partial success near <a href=\"https://deepstatemap.live/en#15/48.5360/37.9826\">Klishchiivka</a>. The enemy had partial success near <a href=\"https://deepstatemap.live/en#14/48.2013/37.7230\">Krasnohorivka</a>. Clarification near <a href=\"https://deepstatemap.live/en#14/47.7575/36.8861\">Novodonetske</a> and <a href=\"https://deepstatemap.live/en#14/48.0657/37.6290\"> Pervomayske</a>.",
+    "updatedAt": "2023-10-20T21:26:32.873Z",
+    "datetime": "20.10 o 22:51",
+    "status": true,
+    "createdAt": "2023-10-20T20:51:30.000Z",
+    "liberated": 43352.338803837396,
+    "occupied": 64441.900430061,
+    "unspecified": 906.4671187447165
   }
 ]
