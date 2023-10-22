@@ -8506,5 +8506,17 @@
     "liberated": 43352.338803837396,
     "occupied": 64441.900430061,
     "unspecified": 906.4671187447165
+  },
+  {
+    "id": 1697918514,
+    "description": "Ворог має просування біля <a href=\"https://deepstatemap.live/#13/48.1085/37.6868\">Водяного</a> та <a href=\"https://deepstatemap.live/#14/48.1909/37.7177\">Красногорівки</a>. Уточнено район <a href=\"https://deepstatemap.live/#13/49.6969/37.9034\">Орлянки</a>.",
+    "descriptionEn": "The enemy has progress near <a href=\"https://deepstatemap.live/en#13/48.1085/37.6868\">Vodyane</a> and <a href=\"https://deepstatemap.live/en#14/48.1909/37.7177 \">Krasnohorivka</a>. The area of <a href=\"https://deepstatemap.live/en#13/49.6969/37.9034\">Orlyanka</a> has been clarified.",
+    "updatedAt": "2023-10-21T20:51:42.258Z",
+    "datetime": "21.10 o 22:01",
+    "status": true,
+    "createdAt": "2023-10-21T20:01:54.000Z",
+    "liberated": 43353.410294665555,
+    "occupied": 64446.606224881754,
+    "unspecified": 901.7991750650274
   }
 ]
