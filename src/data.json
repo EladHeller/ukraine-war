@@ -8518,5 +8518,17 @@
     "liberated": 43353.410294665555,
     "occupied": 64446.606224881754,
     "unspecified": 901.7991750650274
+  },
+  {
+    "id": 1698007906,
+    "description": "Оновлено лінію зіткнення біля <a href=\"https://deepstatemap.live/#14/48.6188/37.9562\">Берхівки</a> та <a href=\"https://deepstatemap.live/#14/49.3579/37.9420\">Райгородки</a>.",
+    "descriptionEn": "Updated the front line near <a href=\"https://deepstatemap.live/en#14/48.6188/37.9562\">Berkhivka</a> and <a href=\"https://deepstatemap.live/en#14/49.3579/37.9420 \">Raigorodka</a>.",
+    "updatedAt": "2023-10-22T21:50:26.416Z",
+    "datetime": "22.10 o 22:51",
+    "status": true,
+    "createdAt": "2023-10-22T20:51:46.000Z",
+    "liberated": 43351.837546257455,
+    "occupied": 64444.75065617351,
+    "unspecified": 905.2436408858559
   }
 ]
