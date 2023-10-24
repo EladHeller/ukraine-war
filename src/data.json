@@ -8530,5 +8530,17 @@
     "liberated": 43351.837546257455,
     "occupied": 64444.75065617351,
     "unspecified": 905.2436408858559
+  },
+  {
+    "id": 1698093844,
+    "description": "Ворог має просування на захід від <a href=\"https://deepstatemap.live/#13/48.1937/37.7015\">Красногорівки</a>. Оновлено район <a href=\"https://deepstatemap.live/#14/48.5820/37.9600\">Бахмута</a>.",
+    "descriptionEn": "The enemy has progress on west of <a href=\"https://deepstatemap.live/en#13/48.1937/37.7015\">Krasnohorivka</a>. Updated <a href=\"https://deepstatemap.live/en#14/48.5820/37.9600\">Bahmut</a> area.",
+    "updatedAt": "2023-10-23T20:47:36.555Z",
+    "datetime": "23.10 o 22:44",
+    "status": true,
+    "createdAt": "2023-10-23T20:44:04.000Z",
+    "liberated": 43351.837546257455,
+    "occupied": 64448.4605171505,
+    "unspecified": 907.2056636505689
   }
 ]
