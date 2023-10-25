@@ -8542,5 +8542,17 @@
     "liberated": 43351.837546257455,
     "occupied": 64448.4605171505,
     "unspecified": 907.2056636505689
+  },
+  {
+    "id": 1698180854,
+    "description": "Ворог мав частковий успіх біля <a href=\"https://deepstatemap.live/#14/48.1818/37.7125\">Красногорівки</a>, <a href=\"https://deepstatemap.live/#14/48.1025/37.6073\">Водяного</a> та <a href=\"https://deepstatemap.live/#15/48.6093/37.9671\">Хромового</a>. Ворога відкинуто біля вентиляційного ствола <a href=\"https://deepstatemap.live/#15/48.1040/37.7719\">шахти \"Бутівка\"</a>.",
+    "descriptionEn": "The enemy had partial success near <a href=\"https://deepstatemap.live/en#14/48.1818/37.7125\">Krasnohorivka</a>, <a href=\"https://deepstatemap.live/en#14/48.1025/37.6073\">Vodyane</a> and <a href=\"https://deepstatemap.live/#15/48.6093/37.9671\">Khromove</a>. The enemy is pushed back near the ventilation shaft of the <a href=\"https://deepstatemap.live/en#15/48.1040/37.7719\">Butivka mine.</a>",
+    "updatedAt": "2023-10-24T21:32:08.073Z",
+    "datetime": "24.10 o 22:54",
+    "status": true,
+    "createdAt": "2023-10-24T20:54:14.000Z",
+    "liberated": 43351.69918200687,
+    "occupied": 64450.29730087476,
+    "unspecified": 907.1864742659926
   }
 ]
