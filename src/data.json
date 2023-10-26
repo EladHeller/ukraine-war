@@ -8554,5 +8554,17 @@
     "liberated": 43351.69918200687,
     "occupied": 64450.29730087476,
     "unspecified": 907.1864742659926
+  },
+  {
+    "id": 1698266673,
+    "description": "Оновлено райони <a href=\"https://deepstatemap.live/#14/48.1896/37.6993\">Авдіївки</a> та <a href=\"https://deepstatemap.live/#14/49.6972/37.9047\">Орлянки</a>. Уточнено райони <a href=\"https://deepstatemap.live/#14/47.5037/35.6685\">Нестерянки</a> та <a href=\"https://deepstatemap.live/#14/47.4385/35.9434\">Вербового</a>.",
+    "descriptionEn": "Updated area of <a href=\"https://deepstatemap.live/en#14/48.1896/37.6993\">Avdiivka</a> and <a href=\"https://deepstatemap.live/en#14/49.6972/37.9047\"> Orlyanka</a>. <a href=\"https://deepstatemap.live/en#14/47.5037/35.6685\">Nesteryanka</a> and <a href=\"https://deepstatemap.live/en#14/47.4385/35.9434\">Verbove</a> area have been claryfied. .",
+    "updatedAt": "2023-10-25T21:26:48.352Z",
+    "datetime": "25.10 o 22:44",
+    "status": true,
+    "createdAt": "2023-10-25T20:44:33.000Z",
+    "liberated": 43350.56130785845,
+    "occupied": 64450.03936438061,
+    "unspecified": 908.567474228796
   }
 ]
