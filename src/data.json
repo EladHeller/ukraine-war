@@ -8566,5 +8566,17 @@
     "liberated": 43350.56130785845,
     "occupied": 64450.03936438061,
     "unspecified": 908.567474228796
+  },
+  {
+    "id": 1698352947,
+    "description": "Оновлено лінію зіткнення біля <a href=\"https://deepstatemap.live/#15/47.8200/37.4791\">Новомихайлівки</a> та <a href=\"https://deepstatemap.live/#15/49.0020/38.0956\">Діброви</a>, де ворог мав частковий успіх.",
+    "descriptionEn": "Updated the front line near <a href=\"https://deepstatemap.live/en#15/47.8200/37.4791\">Novomykhailivka</a> and <a href=\"https://deepstatemap.live/en#15/49.0020/38.0956 \">Dibrova</a>, where the enemy had partial success.",
+    "updatedAt": "2023-10-26T20:52:18.506Z",
+    "datetime": "26.10 o 22:42",
+    "status": true,
+    "createdAt": "2023-10-26T20:42:27.000Z",
+    "liberated": 43362.70241603651,
+    "occupied": 64450.996021756866,
+    "unspecified": 910.6169739529468
   }
 ]
