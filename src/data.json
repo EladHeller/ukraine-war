@@ -8590,5 +8590,17 @@
     "liberated": 43362.70241603651,
     "occupied": 64451.14729619405,
     "unspecified": 910.6131018411414
+  },
+  {
+    "id": 1698519779,
+    "description": "Ворога <a href=\"https://t.me/DeepStateUA/17940\">відкинуто</a> західніше <a href=\"https://deepstatemap.live/#14/49.3572/37.9424\">Сергіївки.</a>",
+    "descriptionEn": "The enemy <a href=\"https://t.me/DeepStateUA/17940\">was pushed back</a> on west of <a href=\"https://deepstatemap.live/en#14/49.3572/37.9424\">Sergiivka.</a>",
+    "updatedAt": "2023-10-28T19:05:13.131Z",
+    "datetime": "28.10 o 21:02",
+    "status": true,
+    "createdAt": "2023-10-28T19:02:59.000Z",
+    "liberated": 43365.81087696696,
+    "occupied": 64451.14729619405,
+    "unspecified": 907.5013554924593
   }
 ]
