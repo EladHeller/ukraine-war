@@ -8602,5 +8602,17 @@
     "liberated": 43365.81087696696,
     "occupied": 64451.14729619405,
     "unspecified": 907.5013554924593
+  },
+  {
+    "id": 1698611325,
+    "description": "Ворог захопив кар'єр біля <a href=\"https://deepstatemap.live/#16/48.1078/37.6937\">Водяного</a>. Додано сіру зону між правим та лівим берегом на <a href=\"https://deepstatemap.live/#10/46.6740/32.8226\">Херсонщині</a>.",
+    "descriptionEn": "The enemy captured a quarry near <a href=\"https://deepstatemap.live/en#16/48.1078/37.6937\">Vodyane</a>. Added a gray area between the right and left banks of Dnipro river in <a href=\"https://deepstatemap.live/en#10/46.6740/32.8226\">Kherson Oblast</a>.",
+    "updatedAt": "2023-10-29T20:39:34.691Z",
+    "datetime": "29.10 o 21:28",
+    "status": true,
+    "createdAt": "2023-10-29T20:28:45.000Z",
+    "liberated": 43365.81087696696,
+    "occupied": 64433.273190664346,
+    "unspecified": 1059.7907860633059
   }
 ]
