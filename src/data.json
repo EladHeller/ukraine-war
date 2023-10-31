@@ -8614,5 +8614,17 @@
     "liberated": 43365.81087696696,
     "occupied": 64433.273190664346,
     "unspecified": 1059.7907860633059
+  },
+  {
+    "id": 1698702676,
+    "description": "Збройні Сили України мали успіх біля <a href=\"https://deepstatemap.live/#14/47.4535/35.8090\">Роботиного</a>.",
+    "descriptionEn": "The Armed Forces of Ukraine had success near <a href=\"https://deepstatemap.live/en#14/47.4535/35.8090\">Robotyne</a>.",
+    "updatedAt": "2023-10-30T22:26:56.107Z",
+    "datetime": "30.10 o 22:51",
+    "status": true,
+    "createdAt": "2023-10-30T21:51:16.000Z",
+    "liberated": 43368.66366307029,
+    "occupied": 64431.34316019504,
+    "unspecified": 1058.8680103985773
   }
 ]
