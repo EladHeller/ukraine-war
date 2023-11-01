@@ -8626,5 +8626,17 @@
     "liberated": 43368.66366307029,
     "occupied": 64431.34316019504,
     "unspecified": 1058.8680103985773
+  },
+  {
+    "id": 1698787365,
+    "description": "Останні два тижні ворог просунувся південніше <a href=\"https://deepstatemap.live/#14/49.7894/37.6700\">Лиману Першого</a>. Частковий успіх Сил Оборони біля <a href=\"https://deepstatemap.live/#14/47.4375/35.8187\">Роботине</a>. Уточнено лінію фронту по <a href=\"https://deepstatemap.live/#12/49.9763/37.8622\">річці Оскіл</a>.",
+    "descriptionEn": "In the last two weeks, the enemy has progress on south of <a href=\"https://deepstatemap.live/en#14/49.7894/37.6700\">Lyman Pershyi</a>. Partial success of the Defense Forces near <a href=\"https://deepstatemap.live/en#14/47.4375/35.8187\">Robotyne</a>. The front line along the <a href=\"https://deepstatemap.live/en#12/49.9763/37.8622\">Oskil River</a> has been clarified.",
+    "updatedAt": "2023-11-01T03:18:25.703Z",
+    "datetime": "31.10 o 22:22",
+    "status": true,
+    "createdAt": "2023-10-31T21:22:45.000Z",
+    "liberated": 43361.062970046136,
+    "occupied": 64441.95221865919,
+    "unspecified": 1055.8147009529882
   }
 ]
