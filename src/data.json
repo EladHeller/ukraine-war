@@ -8638,5 +8638,17 @@
     "liberated": 43361.062970046136,
     "occupied": 64441.95221865919,
     "unspecified": 1055.8147009529882
+  },
+  {
+    "id": 1698874748,
+    "description": "Ворог мав успіх біля <a href=\"https://deepstatemap.live/#14/48.2247/37.7127\">Новокалинового</a>. Уточнено лінію зіткнення біля <a href=\"https://deepstatemap.live/#14/48.1975/37.6871\">Степового</a>, <a href=\"https://deepstatemap.live/#15/48.6342/37.9335\">Богданівки</a>, <a href=\"https://deepstatemap.live/#15/48.5440/37.9741\">Кліщіївки</a> та <a href=\"https://deepstatemap.live/#12/49.7228/37.8899\">Першотравневого</a>.",
+    "descriptionEn": "The enemy had success near <a href=\"https://deepstatemap.live/en#14/48.2247/37.7127\">Novokalynove</a>. Clarified frontline near <a href=\"https://deepstatemap.live/en#14/48.1975/37.6871\">Stepove</a>, <a href=\"https://deepstatemap.live/en#15/48.6342/37.9335 \">Bogdanivka</a>, <a href=\"https://deepstatemap.live/en#15/48.5440/37.9741\">Klishchiivka</a> and <a href=\"https://deepstatemap.live/en#12/49.7228/37.8899\">Pershotravneve</a>.",
+    "updatedAt": "2023-11-01T22:51:26.067Z",
+    "datetime": "01.11 o 22:39",
+    "status": true,
+    "createdAt": "2023-11-01T21:39:08.000Z",
+    "liberated": 43360.87442074813,
+    "occupied": 64443.37740716871,
+    "unspecified": 1053.9741737936743
   }
 ]
