@@ -8650,5 +8650,17 @@
     "liberated": 43360.87442074813,
     "occupied": 64443.37740716871,
     "unspecified": 1053.9741737936743
+  },
+  {
+    "id": 1698960842,
+    "description": "Ворог мав успіх біля <a href=\"https://deepstatemap.live/#14/47.7531/36.7352\">Приютного</a> та <a href=\"https://deepstatemap.live/#13/49.7186/37.8847\">Першотравневого</a>.",
+    "descriptionEn": "The enemy had success near <a href=\"https://deepstatemap.live/en#14/47.7531/36.7352\">Pryutne</a> and <a href=\"https://deepstatemap.live/en#13/49.7186/37.8847 \">Pershotravneve</a>.",
+    "updatedAt": "2023-11-02T22:32:30.466Z",
+    "datetime": "02.11 o 22:34",
+    "status": true,
+    "createdAt": "2023-11-02T21:34:02.000Z",
+    "liberated": 43355.81828602298,
+    "occupied": 64444.40812527201,
+    "unspecified": 1057.9995904154237
   }
 ]
