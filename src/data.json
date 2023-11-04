@@ -8662,5 +8662,17 @@
     "liberated": 43355.81828602298,
     "occupied": 64444.40812527201,
     "unspecified": 1057.9995904154237
+  },
+  {
+    "id": 1699045850,
+    "description": "Ворог мав успіх біля <a href=\"https://deepstatemap.live/#12/49.7221/37.8779\">Першотравневого</a> та <a href=\"https://deepstatemap.live/#13/47.7562/36.7404\">Старомайорського</a>.",
+    "descriptionEn": "The enemy had success near <a href=\"https://deepstatemap.live/en#12/49.7221/37.8779\">Pershotravneve</a> and <a href=\"https://deepstatemap.live/en#13/47.7562/36.7404 \">Staromayorske</a>.",
+    "updatedAt": "2023-11-03T21:23:03.632Z",
+    "datetime": "03.11 o 22:10",
+    "status": true,
+    "createdAt": "2023-11-03T21:10:50.000Z",
+    "liberated": 43356.15124970536,
+    "occupied": 64451.451306086085,
+    "unspecified": 1047.250986432641
   }
 ]
