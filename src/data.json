@@ -8686,5 +8686,17 @@
     "liberated": 43357.50343485752,
     "occupied": 64450.78734187824,
     "unspecified": 1046.5627880126058
+  },
+  {
+    "id": 1699223451,
+    "description": "Ворог тисне біля <a href=\"https://deepstatemap.live/#14/48.6294/37.9470\">Берхівки</a> та <a href=\"https://deepstatemap.live/#16/48.1871/37.6992\">Красногорівки</a>. Уточнено район <a href=\"https://deepstatemap.live/#14/47.7647/37.3307\">Микільського</a>.",
+    "descriptionEn": "The enemy is pressing near <a href=\"https://deepstatemap.live/en#14/48.6294/37.9470\">Berkhivka</a> and <a href=\"https://deepstatemap.live/en#16/48.1871/37.6992\" >Krasnogorivka</a>. The <a href=\"https://deepstatemap.live/en#14/47.7647/37.3307\">Mykilske</a> district has been claryfied.",
+    "updatedAt": "2023-11-05T22:45:03.159Z",
+    "datetime": "05.11 o 23:30",
+    "status": true,
+    "createdAt": "2023-11-05T22:30:51.000Z",
+    "liberated": 43356.70808883137,
+    "occupied": 64454.27330713415,
+    "unspecified": 1045.0641789740307
   }
 ]
