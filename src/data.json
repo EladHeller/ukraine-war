@@ -8698,5 +8698,17 @@
     "liberated": 43356.70808883137,
     "occupied": 64454.27330713415,
     "unspecified": 1045.0641789740307
+  },
+  {
+    "id": 1699383379,
+    "description": "Оновлено ситуацію на <a href=\"https://deepstatemap.live/#12/46.6887/32.8960\">лівому березі Дніпра</a> та північніше <a href=\"https://deepstatemap.live/#13/48.1132/37.6672\">Водяного</a>. Уточнення біля <a href=\"https://deepstatemap.live/#13/49.5886/37.9352\">Крохмального</a>.",
+    "descriptionEn": "Updated the situation on the <a href=\"https://deepstatemap.live/en#12/46.6887/32.8960\">left bank of the Dnipro</a> and on north of <a href=\"https://deepstatemap.live/en#13/48.1132 /37.6672\">Vodyane</a>. Clarification near <a href=\"https://deepstatemap.live/en#13/49.5886/37.9352\">Krokhmalne</a>.",
+    "updatedAt": "2023-11-07T19:07:31.556Z",
+    "datetime": "07.11 o 19:56",
+    "status": true,
+    "createdAt": "2023-11-07T18:56:19.000Z",
+    "liberated": 43361.11532580752,
+    "occupied": 64448.945922014325,
+    "unspecified": 1046.7271934306814
   }
 ]
