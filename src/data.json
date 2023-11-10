@@ -8722,5 +8722,17 @@
     "liberated": 43361.11532580752,
     "occupied": 64450.17930332601,
     "unspecified": 1047.1151674508797
+  },
+  {
+    "id": 1699567188,
+    "description": "Сили Оборони України мали успіх біля <a href=\"https://deepstatemap.live/#14/47.4573/35.9448\">Вербового</a>.",
+    "descriptionEn": "The Defense Forces of Ukraine had success near <a href=\"https://deepstatemap.live/en#14/47.4573/35.9448\">Verbove</a>.",
+    "updatedAt": "2023-11-10T01:21:25.588Z",
+    "datetime": "09.11 o 22:59",
+    "status": true,
+    "createdAt": "2023-11-09T21:59:48.000Z",
+    "liberated": 43365.684575043015,
+    "occupied": 64446.17910339072,
+    "unspecified": 1046.5029688386485
   }
 ]
