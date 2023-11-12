@@ -8746,5 +8746,17 @@
     "liberated": 43365.811013622755,
     "occupied": 64446.17910339072,
     "unspecified": 1046.3786451784624
+  },
+  {
+    "id": 1699739881,
+    "description": "Ворог продовжує наступ на <a href=\"https://deepstatemap.live/#14/48.1967/37.6878\">Степове</a>. Незначні уточнення на інших ділянках.",
+    "descriptionEn": "The enemy continues to attack on the <a href=\"https://deepstatemap.live/en#14/48.1967/37.6878\">Stepove</a>. Minor clarifications in other areas.",
+    "updatedAt": "2023-11-11T22:17:34.262Z",
+    "datetime": "11.11 o 22:58",
+    "status": true,
+    "createdAt": "2023-11-11T21:58:01.000Z",
+    "liberated": 43365.17659192716,
+    "occupied": 64446.248836918545,
+    "unspecified": 1047.2430754986449
   }
 ]
