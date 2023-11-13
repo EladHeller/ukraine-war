@@ -8758,5 +8758,17 @@
     "liberated": 43365.17659192716,
     "occupied": 64446.248836918545,
     "unspecified": 1047.2430754986449
+  },
+  {
+    "id": 1699826337,
+    "description": "Ворог продовжує тиснути біля <a href=\"https://deepstatemap.live/#14/48.2054/37.6866\">Степового</a> та <a href=\"https://deepstatemap.live/#14/48.6203/37.9522\">Ягідного</a>.",
+    "descriptionEn": "The enemy continues to press near <a href=\"https://deepstatemap.live/en#14/48.2054/37.6866\">Stepove</a> and <a href=\"https://deepstatemap.live/en#14/48.6203/37.9522 \">Yagidne</a>.",
+    "updatedAt": "2023-11-12T22:22:56.354Z",
+    "datetime": "12.11 o 22:58",
+    "status": true,
+    "createdAt": "2023-11-12T21:58:57.000Z",
+    "liberated": 43362.53704461191,
+    "occupied": 64446.72316403696,
+    "unspecified": 1050.8652142590477
   }
 ]
