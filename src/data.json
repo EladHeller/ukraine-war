@@ -8770,5 +8770,17 @@
     "liberated": 43362.53704461191,
     "occupied": 64446.72316403696,
     "unspecified": 1050.8652142590477
+  },
+  {
+    "id": 1699916545,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#15/48.6223/37.9504\">Ягідного</a>.",
+    "descriptionEn": "The enemy progress near <a href=\"https://deepstatemap.live/en#15/48.6223/37.9504\">Yagidne</a>.",
+    "updatedAt": "2023-11-13T23:04:27.617Z",
+    "datetime": "14.11 o 00:02",
+    "status": true,
+    "createdAt": "2023-11-13T23:02:25.000Z",
+    "liberated": 43362.57027814068,
+    "occupied": 64450.49342024643,
+    "unspecified": 516.3214485016582
   }
 ]
