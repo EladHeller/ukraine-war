@@ -8794,5 +8794,17 @@
     "liberated": 43361.70746247812,
     "occupied": 64450.55252074805,
     "unspecified": 517.5150156588337
+  },
+  {
+    "id": 1700087932,
+    "description": "Ворог має просування біля <a href=\"https://deepstatemap.live/#14/48.2185/37.6795\">Новокалинового</a>.",
+    "descriptionEn": "The enemy has an attack near <a href=\"https://deepstatemap.live/en#14/48.2185/37.6795\">Novokalynove</a>.",
+    "updatedAt": "2023-11-15T22:39:00.299Z",
+    "datetime": "15.11 o 23:38",
+    "status": true,
+    "createdAt": "2023-11-15T22:38:52.000Z",
+    "liberated": 43361.70746247812,
+    "occupied": 64453.3014513964,
+    "unspecified": 516.9132291981341
   }
 ]
