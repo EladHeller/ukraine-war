@@ -8806,5 +8806,17 @@
     "liberated": 43361.70746247812,
     "occupied": 64453.3014513964,
     "unspecified": 516.9132291981341
+  },
+  {
+    "id": 1700177941,
+    "description": "Ворог мав успіх біля <a href=\"https://deepstatemap.live/#13/49.6427/37.9103\">Кислівки</a>. Уточнено лінію зіткнення біля <a href=\"https://deepstatemap.live/#14/48.3732/37.9448\">Шумів</a>. Тривають бої за <a href=\"https://deepstatemap.live/#13/48.1178/37.7912\">Авдіївку</a>.",
+    "descriptionEn": "The enemy had success near <a href=\"https://deepstatemap.live/en#13/49.6427/37.9103\">Kyslivka</a>. Fixed front line near <a href=\"https://deepstatemap.live/en#14/48.3732/37.9448\">Shumy</a>. Fighting continues near <a href=\"https://deepstatemap.live/en#13/48.1178/37.7912\">Avdiivka</a>.",
+    "updatedAt": "2023-11-16T23:47:39.339Z",
+    "datetime": "17.11 o 00:39",
+    "status": true,
+    "createdAt": "2023-11-16T23:39:01.000Z",
+    "liberated": 43362.66510805159,
+    "occupied": 64454.2050291683,
+    "unspecified": 514.9325562303815
   }
 ]
