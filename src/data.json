@@ -8830,5 +8830,17 @@
     "liberated": 43362.75431505181,
     "occupied": 64460.167794570414,
     "unspecified": 509.00902561884436
+  },
+  {
+    "id": 1700387922,
+    "description": "Ворог продовжує наступати північніше <a href=\"https://deepstatemap.live/#14/48.5484/37.9603\">Кліщіївки</a>.",
+    "descriptionEn": "The enemy continues to attack on north of <a href=\"https://deepstatemap.live/en#14/48.5484/37.9603\">Klishchiivka</a>.",
+    "updatedAt": "2023-11-19T09:58:42.745Z",
+    "datetime": "19.11 o 10:58",
+    "status": true,
+    "createdAt": "2023-11-19T09:58:42.000Z",
+    "liberated": 43362.14369875647,
+    "occupied": 64460.628404256655,
+    "unspecified": 509.1599406700453
   }
 ]
