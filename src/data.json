@@ -8842,5 +8842,17 @@
     "liberated": 43362.14369875647,
     "occupied": 64460.628404256655,
     "unspecified": 509.1599406700453
+  },
+  {
+    "id": 1700511692,
+    "description": "Ворог мав просування південніше <a href=\"https://deepstatemap.live/#14/47.8275/37.4925\">Новомихайлівки</a>. Оновлено район <a href=\"https://deepstatemap.live/#14/48.1913/37.6934\">Степового</a>.",
+    "descriptionEn": "The enemy had a progress south of <a href=\"https://deepstatemap.live/en#14/47.8275/37.4925\">Novomykhailivka</a>. Updated <a href=\"https://deepstatemap.live/en#14/48.1913/37.6934\">Stepove</a> area.",
+    "updatedAt": "2023-11-20T20:23:50.450Z",
+    "datetime": "20.11 o 21:21",
+    "status": true,
+    "createdAt": "2023-11-20T20:21:32.000Z",
+    "liberated": 43362.14369875647,
+    "occupied": 64464.69060327581,
+    "unspecified": 509.9133158655506
   }
 ]
