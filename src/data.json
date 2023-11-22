@@ -8854,5 +8854,17 @@
     "liberated": 43362.14369875647,
     "occupied": 64464.69060327581,
     "unspecified": 509.9133158655506
+  },
+  {
+    "id": 1700602756,
+    "description": "Сили Оборони відновили позиції в <a href=\"https://deepstatemap.live/#16/48.9632/38.1696\">Серебрянському лісництві</a>. Ворог відновив позиції біля <a href=\"https://deepstatemap.live/#15/48.4889/37.9733\">Андріївки</a>.",
+    "descriptionEn": "The Defense Forces of Ukraine have regained positions in <a href=\"https://deepstatemap.live/en#16/48.9632/38.1696\">Serebryanka Forestry</a>. The enemy has regained position near <a href=\"https://deepstatemap.live/en#15/48.4889/37.9733\">Andriivka</a>.",
+    "updatedAt": "2023-11-21T22:45:58.393Z",
+    "datetime": "21.11 o 22:39",
+    "status": true,
+    "createdAt": "2023-11-21T21:39:16.000Z",
+    "liberated": 43362.43859362454,
+    "occupied": 64465.5505340199,
+    "unspecified": 508.7585159014292
   }
 ]
