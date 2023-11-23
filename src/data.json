@@ -8866,5 +8866,17 @@
     "liberated": 43362.43859362454,
     "occupied": 64465.5505340199,
     "unspecified": 508.7585159014292
+  },
+  {
+    "id": 1700690157,
+    "description": "Ворог мав успіх біля <a href=\"https://deepstatemap.live/#15/48.5023/37.9742\">Андріївки</a> та <a href=\"https://deepstatemap.live/#16/48.1147/37.7909\">Авдіївки</a>. Оновлено район <a href=\"https://deepstatemap.live/#15/48.1963/37.6889\">Степового</a> та <a href=\"https://deepstatemap.live/#15/48.3614/37.9388\">Шумів</a>. Уточнено район <a href=\"https://deepstatemap.live/#14/48.8845/38.2398\">Верхньокам'янського</a>, <a href=\"https://deepstatemap.live/#13/48.8091/38.2507\">Спірного</a> та <a href=\"https://deepstatemap.live/#15/48.4816/37.9577\">Курдюмівки</a>.</p>",
+    "descriptionEn": "The enemy had success near <a href=\"https://deepstatemap.live/en#15/48.5023/37.9742\">Andriivka</a> and <a href=\"https://deepstatemap.live/en#16/48.1147/37.7909 \">Avdiivka</a>. Updated the area of <a href=\"https://deepstatemap.live/en#15/48.1963/37.6889\">Stepove</a> and <a href=\"https://deepstatemap.live/en#15/48.3614/37.9388\"> Shumy</a>. The area of <a href=\"https://deepstatemap.live/en#14/48.8845/38.2398\">Verkhnokamyanske</a>, <a href=\"https://deepstatemap.live/en#13/48.8091/38.2507\">Spirne</a> and <a href=\"https://deepstatemap.live/en#15/48.4816/37.9577\">Kurdyumivka</a> had been clarified. ",
+    "updatedAt": "2023-11-22T23:07:03.955Z",
+    "datetime": "22.11 o 22:55",
+    "status": true,
+    "createdAt": "2023-11-22T21:55:57.000Z",
+    "liberated": 43363.35594535012,
+    "occupied": 64464.63559635889,
+    "unspecified": 508.8831456284622
   }
 ]
