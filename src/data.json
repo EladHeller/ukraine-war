@@ -8878,5 +8878,17 @@
     "liberated": 43363.35594535012,
     "occupied": 64464.63559635889,
     "unspecified": 508.8831456284622
+  },
+  {
+    "id": 1700775730,
+    "description": "Сили Оборони України стабілізували ділянку фронту біля <a href=\"https://deepstatemap.live/#14/49.6647/37.9057\">Іванівки</a>. Ворог мав частковий успіх біля <a href=\"https://deepstatemap.live/#16/48.5406/37.9808\">Кліщіївки</a>.",
+    "descriptionEn": "The Defense Forces of Ukraine stabilized the section of the frontline near <a href=\"https://deepstatemap.live/en#14/49.6647/37.9057\">Ivanivka</a>. The enemy had partial success near <a href=\"https://deepstatemap.live/en#16/48.5406/37.9808\">Klishchiivka</a>.",
+    "updatedAt": "2023-11-23T23:13:57.508Z",
+    "datetime": "23.11 o 22:42",
+    "status": true,
+    "createdAt": "2023-11-23T21:42:10.000Z",
+    "liberated": 43363.883571419836,
+    "occupied": 64464.814282866726,
+    "unspecified": 508.4897093783672
   }
 ]
