@@ -8890,5 +8890,17 @@
     "liberated": 43363.883571419836,
     "occupied": 64464.814282866726,
     "unspecified": 508.4897093783672
+  },
+  {
+    "id": 1700949194,
+    "description": "Ворог відновив позиції біля <a href=\"https://deepstatemap.live/#13/49.6647/37.9019\">Іванівки</a>. Тривають бойові дії біля <a href=\"https://deepstatemap.live/#14/48.6020/37.9526\">Хромового</a>, <a href=\"https://deepstatemap.live/#14/48.2228/37.7017\">Новокалинового</a>, <a href=\"https://deepstatemap.live/#14/48.1199/37.6809\">Водяного</a> та <a href=\"https://deepstatemap.live/#14/48.1960/37.6848\">Степового</a>. Ворог мав успіх на <a href=\"https://deepstatemap.live/#15/48.1190/37.7912\">промзоні</a> на півдні Авдіївки.",
+    "descriptionEn": "The enemy regained positions near <a href=\"https://deepstatemap.live/en#13/49.6647/37.9019\">Ivanivka</a>. Fighting continues near <a href=\"https://deepstatemap.live/en#14/48.6020/37.9526\">Khromove</a>, <a href=\"https://deepstatemap.live/en#14/48.2228/37.7017 \">Novokalynove</a>, <a href=\"https://deepstatemap.live/en#14/48.1199/37.6809\">Vodyanye</a> and <a href=\"https://deepstatemap.live/en#14/48.1960/37.6848\">Stepove</a>. The enemy had success in the <a href=\"https://deepstatemap.live/en#15/48.1190/37.7912\">industrial zone</a> in the south of Avdiivka.",
+    "updatedAt": "2023-11-25T23:12:58.754Z",
+    "datetime": "25.11 o 22:53",
+    "status": true,
+    "createdAt": "2023-11-25T21:53:14.000Z",
+    "liberated": 43362.47817941174,
+    "occupied": 64465.34497141125,
+    "unspecified": 510.01258416562507
   }
 ]
