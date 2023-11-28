@@ -8914,5 +8914,17 @@
     "liberated": 43362.47817941174,
     "occupied": 64465.34497141125,
     "unspecified": 510.01258416562507
+  },
+  {
+    "id": 1701122316,
+    "description": "Ворог захопив спостережний пункт південніше <a href=\"https://deepstatemap.live/#16/48.2216/37.7034\">Новокалинового</a>.",
+    "descriptionEn": "The enemy captured an observation post on south of <a href=\"https://deepstatemap.live/en#16/48.2216/37.7034\">Novokalynove</a>.",
+    "updatedAt": "2023-11-27T22:02:28.861Z",
+    "datetime": "27.11 o 22:58",
+    "status": true,
+    "createdAt": "2023-11-27T21:58:36.000Z",
+    "liberated": 43362.47817941174,
+    "occupied": 64465.65267680532,
+    "unspecified": 509.7048787715553
   }
 ]
