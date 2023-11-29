@@ -8926,5 +8926,17 @@
     "liberated": 43362.47817941174,
     "occupied": 64465.65267680532,
     "unspecified": 509.7048787715553
+  },
+  {
+    "id": 1701267160,
+    "description": "Ворог зайняв частину <a href=\"https://deepstatemap.live/#15/48.6019/37.9526\">Хромового</a>.",
+    "descriptionEn": "The enemy occupied part of <a href=\"https://deepstatemap.live/en#15/48.6019/37.9526\">Khromove</a>",
+    "updatedAt": "2023-11-29T14:12:40.489Z",
+    "datetime": "29.11 o 15:12",
+    "status": true,
+    "createdAt": "2023-11-29T14:12:40.000Z",
+    "liberated": 43362.23355276236,
+    "occupied": 64466.993357373154,
+    "unspecified": 509.55037845356526
   }
 ]
