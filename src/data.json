@@ -8950,5 +8950,17 @@
     "liberated": 43362.23355276236,
     "occupied": 64467.2780640289,
     "unspecified": 509.52892742217614
+  },
+  {
+    "id": 1701451517,
+    "description": "Ворог має просування східніше <a href=\"https://deepstatemap.live/#14/49.0839/38.0515\">Тернів</a>, в західній частині <a href=\"https://deepstatemap.live/#15/47.9460/37.4870\">Мар'їнки</a>, біля <a href=\"https://deepstatemap.live/#15/48.1928/37.6907\">Степового</a> та <a href=\"https://deepstatemap.live/#15/48.6280/37.9266\">Богданівки</a>.",
+    "descriptionEn": "The enemy has a progress on east of <a href=\"https://deepstatemap.live/en#14/49.0839/38.0515\">Terny</a>, in the western part of <a href=\"https://deepstatemap.live/en#15/47.9460/37.4870\">Maryinka</a>, near <a href=\"https://deepstatemap.live/en#15/48.1928/37.6907\">Stepove</a> and <a href=\"https://deepstatemap.live/en#15/48.6280/37.9266\">Bohdanivka</a>.",
+    "updatedAt": "2023-12-01T17:25:26.118Z",
+    "datetime": "01.12 o 18:25",
+    "status": true,
+    "createdAt": "2023-12-01T17:25:17.000Z",
+    "liberated": 43355.198669929574,
+    "occupied": 64477.98772823435,
+    "unspecified": 506.55806102594744
   }
 ]
