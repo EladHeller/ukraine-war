@@ -8938,5 +8938,17 @@
     "liberated": 43362.23355276236,
     "occupied": 64466.993357373154,
     "unspecified": 509.55037845356526
+  },
+  {
+    "id": 1701378331,
+    "description": "Ворог просунувся у східній частині <a href=\"https://deepstatemap.live/#16/48.1973/37.6855\">Степового</a>.",
+    "descriptionEn": "The enemy advanced in the eastern part of <a href=\"https://deepstatemap.live/en#16/48.1973/37.6855\">Stepove</a>.",
+    "updatedAt": "2023-11-30T21:32:30.597Z",
+    "datetime": "30.11 o 22:05",
+    "status": true,
+    "createdAt": "2023-11-30T21:05:31.000Z",
+    "liberated": 43362.23355276236,
+    "occupied": 64467.2780640289,
+    "unspecified": 509.52892742217614
   }
 ]
