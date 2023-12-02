@@ -8962,5 +8962,17 @@
     "liberated": 43355.198669929574,
     "occupied": 64477.98772823435,
     "unspecified": 506.55806102594744
+  },
+  {
+    "id": 1701534888,
+    "description": "Оновлено лінію зіткнення у <a href=\"https://deepstatemap.live/#15/47.9529/37.4935\">Мар'їнці</a> та східніше <a href=\"https://deepstatemap.live/#13/49.1319/38.0737\">Тернів</a>. Ворог продовжує просуватися біля <a href=\"https://deepstatemap.live/#15/48.1908/37.6899\">Степового</a>.",
+    "descriptionEn": "Updated the front line in <a href=\"https://deepstatemap.live/en#15/47.9529/37.4935\">Mariinka</a> and on east of <a href=\"https://deepstatemap.live/en#13/49.1319/38.0737\">Terny</a>. The enemy continues to advance near <a href=\"https://deepstatemap.live/en#15/48.1908/37.6899\">Stepove</a>.",
+    "updatedAt": "2023-12-02T16:34:56.056Z",
+    "datetime": "02.12 o 17:34",
+    "status": true,
+    "createdAt": "2023-12-02T16:34:48.000Z",
+    "liberated": 43354.949853291146,
+    "occupied": 64477.87459953777,
+    "unspecified": 506.4577923407645
   }
 ]
