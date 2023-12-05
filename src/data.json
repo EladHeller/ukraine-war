@@ -8986,5 +8986,17 @@
     "liberated": 43354.949853291146,
     "occupied": 64478.19132979668,
     "unspecified": 504.14154284126806
+  },
+  {
+    "id": 1701725486,
+    "description": "Ворог мав просування біля <a href=\"https://deepstatemap.live/#15/48.6071/37.9481\">Хромового</a>, на дачах біля <a href=\"https://deepstatemap.live/#15/48.5626/37.9645\">Бахмута</a>, північніше <a href=\"https://deepstatemap.live/#15/48.5426/37.9576\">Кліщіївки</a>, південніше <a href=\"https://deepstatemap.live/#15/48.1757/37.7179\">Авдіївського терикону</a>, в <a href=\"https://deepstatemap.live/#15/48.0735/37.6423\">Первомайському</a> та біля <a href=\"https://deepstatemap.live/#14/47.4625/35.9448\">Вербового</a>. Уточнено лінію зіткнення <a href=\"https://deepstatemap.live/#13/48.1563/37.7967\">східніше Авдіївки</a>.",
+    "descriptionEn": "The enemy had a progress near <a href=\"https://deepstatemap.live/en#15/48.6071/37.9481\">Khromove</a>, in summerhouses near <a href=\"https://deepstatemap.live/en#15/48.5626/37.9645\">Bahmut</a>, on north <a href=\"https://deepstatemap.live/en#15/48.5426/37.9576\">Klishchiivka</a>, south <a href=\"https://deepstatemap.live/en#15/48.1757/37.7179\">Avdiivka heap</a>, in <a href=\"https://deepstatemap.live/en#15/48.0735/37.6423\">Pervomaiske</a> and near <a href =\"https://deepstatemap.live/en#14/47.4625/35.9448\">Verbove</a>. The front line <a href=\"https://deepstatemap.live/en#13/48.1563/37.7967\">east of Avdiivka</a> has been clarified.",
+    "updatedAt": "2023-12-04T22:02:28.489Z",
+    "datetime": "04.12 o 22:31",
+    "status": true,
+    "createdAt": "2023-12-04T21:31:26.000Z",
+    "liberated": 43352.409276495004,
+    "occupied": 64480.30689665435,
+    "unspecified": 503.71548157264436
   }
 ]
