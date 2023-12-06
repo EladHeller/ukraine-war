@@ -8998,5 +8998,17 @@
     "liberated": 43352.409276495004,
     "occupied": 64480.30689665435,
     "unspecified": 503.71548157264436
+  },
+  {
+    "id": 1701812471,
+    "description": "Ворога дещо відкинуто біля <a href=\"https://deepstatemap.live/#15/48.1876/37.6859\">Степового</a>. Оновлено ситуацію біля <a href=\"https://deepstatemap.live/#15/48.1864/37.6960\">АКХЗ</a>.",
+    "descriptionEn": "The enemy somewhere was pushed back near <a href=\"https://deepstatemap.live/en#15/48.1876/37.6859\">Stepove</a>. Updated the situation near <a href=\"https://deepstatemap.live/en#15/48.1864/37.6960\">Avdiivka Coke Plant</a>.",
+    "updatedAt": "2023-12-05T21:41:11.625Z",
+    "datetime": "05.12 o 22:41",
+    "status": true,
+    "createdAt": "2023-12-05T21:41:11.000Z",
+    "liberated": 43352.409276495004,
+    "occupied": 64480.35868250931,
+    "unspecified": 503.76992130836123
   }
 ]
