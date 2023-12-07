@@ -9010,5 +9010,17 @@
     "liberated": 43352.409276495004,
     "occupied": 64480.35868250931,
     "unspecified": 503.76992130836123
+  },
+  {
+    "id": 1701898506,
+    "description": "Сили Оборони України вчергове відновили втрачені позиції біля <a href=\"/#15/49.6638/37.9008\">Іванівки</a>.",
+    "descriptionEn": "The Defense Forces of Ukraine again recovered lost positions near <a href=\"/en#15/49.6638/37.9008\">Ivanivka</a>.",
+    "updatedAt": "2023-12-06T21:39:36.688Z",
+    "datetime": "06.12 o 22:35",
+    "status": true,
+    "createdAt": "2023-12-06T21:35:06.000Z",
+    "liberated": 43353.10256882045,
+    "occupied": 64480.2939609594,
+    "unspecified": 501.0729149260157
   }
 ]
