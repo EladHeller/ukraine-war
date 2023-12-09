@@ -9046,5 +9046,17 @@
     "liberated": 43352.79958784389,
     "occupied": 64480.87887795625,
     "unspecified": 501.1776760149818
+  },
+  {
+    "id": 1702138358,
+    "description": "Ворог просувається південніше <a href=\"https://deepstatemap.live/#15/47.4308/35.8295\">Роботиного</a>, біля <a href=\"https://deepstatemap.live/#15/48.6331/37.9168\">Богданівки</a> та південніше <a href=\"https://deepstatemap.live/#14/48.7366/38.1065\">Роздолівки</a>.",
+    "descriptionEn": "The enemy is going forward on south of <a href=\"https://deepstatemap.live/en#15/47.4308/35.8295\">Robotyne</a>, near <a href=\"https://deepstatemap.live/en#15/48.6331/37.9168 \">Bohdanivka</a> and on south of <a href=\"https://deepstatemap.live/en#14/48.7366/38.1065\">Rozdolivka</a>.",
+    "updatedAt": "2023-12-09T16:28:25.319Z",
+    "datetime": "09.12 o 17:12",
+    "status": true,
+    "createdAt": "2023-12-09T16:12:38.000Z",
+    "liberated": 43348.9903361992,
+    "occupied": 64491.65142864813,
+    "unspecified": 498.1487533759951
   }
 ]
