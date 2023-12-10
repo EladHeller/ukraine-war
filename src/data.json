@@ -9058,5 +9058,17 @@
     "liberated": 43348.9903361992,
     "occupied": 64491.65142864813,
     "unspecified": 498.1487533759951
+  },
+  {
+    "id": 1702196517,
+    "description": "Оновлено південніше <a href=\"https://deepstatemap.live/#14/47.4297/35.8293\">Роботиного</a>. Уточнено район <a href=\"https://deepstatemap.live/#13/48.7395/38.0787\">Роздолівки</a>.",
+    "descriptionEn": "Updated on south of <a href=\"https://deepstatemap.live/en#14/47.4297/35.8293\">Robotyno</a>. The area of <a href=\"https://deepstatemap.live/en#13/48.7395/38.0787\">Rozdolivka</a> has been claryfied.",
+    "updatedAt": "2023-12-10T08:58:36.952Z",
+    "datetime": "10.12 o 09:21",
+    "status": true,
+    "createdAt": "2023-12-10T08:21:57.000Z",
+    "liberated": 43348.845048531235,
+    "occupied": 64488.07080755281,
+    "unspecified": 500.04934974317666
   }
 ]
