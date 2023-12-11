@@ -9070,5 +9070,17 @@
     "liberated": 43348.845048531235,
     "occupied": 64488.07080755281,
     "unspecified": 500.04934974317666
+  },
+  {
+    "id": 1702254460,
+    "description": "Ворог мав частковий успіх біля <a href=\"https://deepstatemap.live/#13/49.7113/37.8658\">Першотравневого</a> та в <a href=\"https://deepstatemap.live/#15/47.9463/37.4862\">Мар'їнці</a>. Противник просувається західніше <a href=\"https://deepstatemap.live/#15/48.5823/37.9538\">Бахмута</a>, біля <a href=\"https://deepstatemap.live/#15/48.6052/37.9424\">Хромового</a> та <a href=\"https://deepstatemap.live/#15/48.6202/37.9235\">Богданівки</a>.",
+    "descriptionEn": "The enemy had partial success near <a href=\"https://deepstatemap.live/en#13/49.7113/37.8658\">Pershotravneve</a> and at <a href=\"https://deepstatemap.live/en#15/47.9463/37.4862\">Mariinka</a>. The enemy is moving forward on west of <a href=\"https://deepstatemap.live/en#15/48.5823/37.9538\">Bahmut</a>, near <a href=\"https://deepstatemap.live/en#15/48.6052/37.9424 \">Khromove</a> and <a href=\"https://deepstatemap.live/en#15/48.6202/37.9235\">Bohdanivka</a>",
+    "updatedAt": "2023-12-11T00:52:08.441Z",
+    "datetime": "11.12 o 01:27",
+    "status": true,
+    "createdAt": "2023-12-11T00:27:40.000Z",
+    "liberated": 43347.02800415077,
+    "occupied": 64492.67583314048,
+    "unspecified": 502.42636733512455
   }
 ]
