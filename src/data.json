@@ -9094,5 +9094,17 @@
     "liberated": 43346.94642011461,
     "occupied": 64495.18461540087,
     "unspecified": 501.7201153600373
+  },
+  {
+    "id": 1702384664,
+    "description": "Сили Оборони звільнили <a href=\"https://deepstatemap.live/#16/48.3614/37.9373\">терикон шахти Гагаріна</a>.",
+    "descriptionEn": "The Defense Forces liberated the <a href=\"https://deepstatemap.live/#16/48.3614/37.9373\">slagheap of the Gagarin mine</a>.",
+    "updatedAt": "2023-12-12T12:37:44.858Z",
+    "datetime": "12.12 o 13:37",
+    "status": true,
+    "createdAt": "2023-12-12T12:37:44.000Z",
+    "liberated": 43347.17812611807,
+    "occupied": 64495.18461540087,
+    "unspecified": 501.70219996392836
   }
 ]
