@@ -9082,5 +9082,17 @@
     "liberated": 43347.02800415077,
     "occupied": 64492.67583314048,
     "unspecified": 502.42636733512455
+  },
+  {
+    "id": 1702337511,
+    "description": "Ворог має успіхи біля <a href=\"https://deepstatemap.live/#15/48.7632/38.1882\">Веселого</a>, <a href=\"https://deepstatemap.live/#14/48.6111/37.9326\">Богданівки</a>, <a href=\"https://deepstatemap.live/#15/47.9466/37.4842\">Мар'їнки</a> та на <a href=\"https://deepstatemap.live/#15/48.1215/37.7886\">Авдіївській промзоні</a>. Відбито позицію біля <a href=\"https://deepstatemap.live/#14/49.7107/37.8641\">Першотравневого</a>.",
+    "descriptionEn": "The enemy had a progress near <a href=\"https://deepstatemap.live/en#15/48.7632/38.1882\">Vesele</a>, <a href=\"https://deepstatemap.live/en#14/48.6111/37.9326 \">Bohdanivka</a>, <a href=\"https://deepstatemap.live/en#15/47.9466/37.4842\">Mariinka</a> and on <a href=\"https://deepstatemap.live/en#15/48.1215/37.7886\">Avdiivka industrial zone</a>. Position near <a href=\"https://deepstatemap.live/en#14/49.7107/37.8641\">Pershotravneve</a> retaken.",
+    "updatedAt": "2023-12-11T23:44:30.685Z",
+    "datetime": "12.12 o 00:31",
+    "status": true,
+    "createdAt": "2023-12-11T23:31:51.000Z",
+    "liberated": 43346.94642011461,
+    "occupied": 64495.18461540087,
+    "unspecified": 501.7201153600373
   }
 ]
