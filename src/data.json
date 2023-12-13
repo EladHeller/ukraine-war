@@ -9106,5 +9106,17 @@
     "liberated": 43347.17812611807,
     "occupied": 64495.18461540087,
     "unspecified": 501.70219996392836
+  },
+  {
+    "id": 1702421677,
+    "description": "Ворог має успіхи <a href=\"https://deepstatemap.live/#15/48.5696/37.9596\">південніше Бахмута</a>, біля <a href=\"https://deepstatemap.live/#16/48.5391/37.9526\">Кліщіївки</a>, західніше <a href=\"https://deepstatemap.live/#14/47.4445/35.8069\">Роботиного</a>, в південній частині <a href=\"https://deepstatemap.live/#15/47.9479/37.4879\">Мар'їнки</a> та <a href=\"https://deepstatemap.live/#15/47.9282/37.4853\">південніше</a> від неї, північніше <a href=\"https://deepstatemap.live/#15/47.8980/37.5019\">Новомихайлівки</a> та захопив <a href=\"https://deepstatemap.live/#15/48.1184/37.7914\">Авдіївську промзону</a>. Ворог вчергове відновив позиції біля <a href=\"https://deepstatemap.live/#14/49.6663/37.9013\">Іванівки</a>.",
+    "descriptionEn": "The enemy have a progress <a href=\"https://deepstatemap.live/en#15/48.5696/37.9596\">on south of Bakhmut</a>, near <a href=\"https://deepstatemap.live/en#16/48.5391/37.9526\">Klishchiivka</a>, west of <a href=\"https://deepstatemap.live/en#14/47.4445/35.8069\">Robotyne</a>, in the lower part of <a href=\"https://deepstatemap.live/en#15/47.9479/37.4879\">Marinka</a> and <a href=\"https://deepstatemap.live/en#15/47.9282/37.4853\">south</a> of it, north of < a href=\"https://deepstatemap.live/en#15/47.8980/37.5019\">Novomykhailivka</a> and captured <a href=\"https://deepstatemap.live/en#15/48.1184/37.7914\">Avdiivka industrial zone </a>. The enemy once more regained their positions near <a href=\"https://deepstatemap.live/en#14/49.6663/37.9013\">Ivanivka</a>.",
+    "updatedAt": "2023-12-12T23:22:39.315Z",
+    "datetime": "12.12 o 23:54",
+    "status": true,
+    "createdAt": "2023-12-12T22:54:37.000Z",
+    "liberated": 43345.16933475826,
+    "occupied": 64502.61966304529,
+    "unspecified": 502.9074529523003
   }
 ]
