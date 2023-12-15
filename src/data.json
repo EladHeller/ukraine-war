@@ -9130,5 +9130,17 @@
     "liberated": 43344.24977140218,
     "occupied": 64504.3743575549,
     "unspecified": 502.9170432374303
+  },
+  {
+    "id": 1702585750,
+    "description": "Ворог просувається біля <a href=\"https://deepstatemap.live/#15/48.2121/37.6709\">Степового</a>, <a href=\"https://deepstatemap.live/#15/48.0575/37.6093\">Невельського</a> та в <a href=\"https://deepstatemap.live/#15/47.9555/37.4874\">Мар'їнці</a>. Противник відновив контроль над <a href=\"https://deepstatemap.live/#16/48.3618/37.9379\">териконом</a> шахти імені Гагаріна.",
+    "descriptionEn": "The enemy had a progress near <a href=\"https://deepstatemap.live/en#15/48.2121/37.6709\">Stepove</a>, <a href=\"https://deepstatemap.live/en#15/48.0575/37.6093\" >Nevelske</a> and in <a href=\"https://deepstatemap.live/en#15/47.9555/37.4874\">Marinka</a>. The enemy regained control over the <a href=\"https://deepstatemap.live/en#16/48.3618/37.9379\">slagheap</a> of the Gagarin mine.",
+    "updatedAt": "2023-12-14T20:29:30.916Z",
+    "datetime": "14.12 o 21:29",
+    "status": true,
+    "createdAt": "2023-12-14T20:29:10.000Z",
+    "liberated": 43343.88525873207,
+    "occupied": 64505.79773648548,
+    "unspecified": 503.0143449783846
   }
 ]
