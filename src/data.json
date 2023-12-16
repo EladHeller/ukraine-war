@@ -9142,5 +9142,17 @@
     "liberated": 43343.88525873207,
     "occupied": 64505.79773648548,
     "unspecified": 503.0143449783846
+  },
+  {
+    "id": 1702676307,
+    "description": "Ворог просувається південніше <a href=\"https://deepstatemap.live/#15/47.8426/37.4886\">Новомихайлівки</a> та західніше <a href=\"https://deepstatemap.live/#15/48.1199/37.7845\">Авдіївської</a> промислової зони.",
+    "descriptionEn": "The enemy had a progress on south of <a href=\"https://deepstatemap.live/en#15/47.8426/37.4886\">Novomykhailivka</a> and west of <a href=\"https://deepstatemap.live/en#15/48.1199/37.7845 \">Avdiivka</a> industrial zone.",
+    "updatedAt": "2023-12-15T21:40:30.682Z",
+    "datetime": "15.12 o 22:38",
+    "status": true,
+    "createdAt": "2023-12-15T21:38:27.000Z",
+    "liberated": 43343.88525873207,
+    "occupied": 64508.49430837825,
+    "unspecified": 502.0734065114751
   }
 ]
