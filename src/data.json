@@ -9154,5 +9154,17 @@
     "liberated": 43343.88525873207,
     "occupied": 64508.49430837825,
     "unspecified": 502.0734065114751
+  },
+  {
+    "id": 1702763190,
+    "description": "Уточнено лінію зіткнення.",
+    "descriptionEn": "The front line has been clarified.",
+    "updatedAt": "2023-12-16T21:46:30.288Z",
+    "datetime": "16.12 o 22:46",
+    "status": true,
+    "createdAt": "2023-12-16T21:46:30.000Z",
+    "liberated": 43343.88525873207,
+    "occupied": 64508.49430837825,
+    "unspecified": 502.0734065114751
   }
 ]
