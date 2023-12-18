@@ -9166,5 +9166,17 @@
     "liberated": 43343.88525873207,
     "occupied": 64508.49430837825,
     "unspecified": 502.0734065114751
+  },
+  {
+    "id": 1702848943,
+    "description": "Ворог мав просування біля <a href=\"https://deepstatemap.live/#14/48.0653/37.6329\">Первомайського</a>, <a href=\"https://deepstatemap.live/#14/48.1042/37.7078\">Опитного</a> та <a href=\"https://deepstatemap.live/#14/48.1019/37.6020\">Водяного</a>. Уточнення на інших ділянках фронту.",
+    "descriptionEn": "The enemy had a progress near <a href=\"https://deepstatemap.live/en#14/48.0653/37.6329\">Pervomaiske</a>, <a href=\"https://deepstatemap.live/en#14/48.1042/37.7078 \">Opytne</a> and <a href=\"https://deepstatemap.live/en#14/48.1019/37.6020\">Vodyane</a>. Clarification in other areas of the frontline.",
+    "updatedAt": "2023-12-17T21:40:13.468Z",
+    "datetime": "17.12 o 22:35",
+    "status": true,
+    "createdAt": "2023-12-17T21:35:43.000Z",
+    "liberated": 43343.37751448027,
+    "occupied": 64509.58147292322,
+    "unspecified": 502.25386604564886
   }
 ]
