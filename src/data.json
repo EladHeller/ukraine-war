@@ -9178,5 +9178,17 @@
     "liberated": 43343.37751448027,
     "occupied": 64509.58147292322,
     "unspecified": 502.25386604564886
+  },
+  {
+    "id": 1702936457,
+    "description": "Ворог просувається біля <a href=\"https://deepstatemap.live/#15/48.6114/37.9319\">Хромового</a>, східніше <a href=\"https://deepstatemap.live/#15/48.5641/37.9558\">Іванівського</a>, північніше <a href=\"https://deepstatemap.live/#15/48.5390/37.9603\">Кліщіївки</a> та південніше <a href=\"https://deepstatemap.live/#16/47.8469/37.4876\">Новомихайлівки</a>. Уточнення на інших ділянках фронту.",
+    "descriptionEn": "The enemy had a progress near <a href=\"https://deepstatemap.live/en#15/48.6114/37.9319\">Khromove</a>, east of <a href=\"https://deepstatemap.live/en#15/48.5641/37.9558 \">Ivanivske</a>, north of <a href=\"https://deepstatemap.live/en#15/48.5390/37.9603\">Klishchiivka</a> and south of <a href=\"https://deepstatemap.live/en#16/47.8469/37.4876\">Novomykhailivka</a>. Clarification in other areas of the frontline.",
+    "updatedAt": "2023-12-18T22:32:25.511Z",
+    "datetime": "18.12 o 22:54",
+    "status": true,
+    "createdAt": "2023-12-18T21:54:17.000Z",
+    "liberated": 43342.33049181062,
+    "occupied": 64512.3161257359,
+    "unspecified": 503.8176749881457
   }
 ]
