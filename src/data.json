@@ -9190,5 +9190,17 @@
     "liberated": 43342.33049181062,
     "occupied": 64512.3161257359,
     "unspecified": 503.8176749881457
+  },
+  {
+    "id": 1703022606,
+    "description": "Ворог проводить наступ південно-східніше <a href=\"https://deepstatemap.live/#15/47.8479/37.5174\">Новомихайлівки</a>. Уточнення на інших ділянках.",
+    "descriptionEn": "The enemy had a progress on southeast of <a href=\"https://deepstatemap.live/en#15/47.8479/37.5174\">Novomykhailivka</a>. Clarification in other areas.",
+    "updatedAt": "2023-12-19T22:51:04.837Z",
+    "datetime": "19.12 o 22:50",
+    "status": true,
+    "createdAt": "2023-12-19T21:50:06.000Z",
+    "liberated": 43342.33049181062,
+    "occupied": 64513.80538500675,
+    "unspecified": 502.3284157171933
   }
 ]
