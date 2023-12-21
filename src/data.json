@@ -9202,5 +9202,17 @@
     "liberated": 43342.33049181062,
     "occupied": 64513.80538500675,
     "unspecified": 502.3284157171933
+  },
+  {
+    "id": 1703109134,
+    "description": "Ворога відкинуто з ферми біля <a href=\"https://deepstatemap.live/#15/47.8486/37.4780\">Новомихайлівки</a>. Противник просувається біля <a href=\"https://deepstatemap.live/#15/48.7841/38.2328\">Спірного</a> та <a href=\"https://deepstatemap.live/#15/48.2207/37.6649\">Новобахмутівки</a>.",
+    "descriptionEn": "The enemy was pushed back from a farm near <a href=\"https://deepstatemap.live/en#15/47.8486/37.4780\">Novomykhailivka</a>. The enemy had a progress near <a href=\"https://deepstatemap.live/en#15/48.7841/38.2328\">Spirne</a> and <a href=\"https://deepstatemap.live/en#15/48.2207/37.6649\" >Novobahmutivka</a>.",
+    "updatedAt": "2023-12-20T22:31:59.643Z",
+    "datetime": "20.12 o 22:52",
+    "status": true,
+    "createdAt": "2023-12-20T21:52:14.000Z",
+    "liberated": 43342.25494157356,
+    "occupied": 64513.96632776481,
+    "unspecified": 502.1101187998476
   }
 ]
