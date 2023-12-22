@@ -9214,5 +9214,17 @@
     "liberated": 43342.25494157356,
     "occupied": 64513.96632776481,
     "unspecified": 502.1101187998476
+  },
+  {
+    "id": 1703195727,
+    "description": "Оновлено лінію зіткнення південніше <a href=\"https://deepstatemap.live/#14/47.8444/37.4741\">Новомихайлівки</a>. Ворог мав частковий успіх біля <a href=\"https://deepstatemap.live/#15/48.2233/37.6810\">Новокалинового</a>, <a href=\"https://deepstatemap.live/#14/48.5356/37.9852\">Кліщіївки</a> та <a href=\"https://deepstatemap.live/#13/48.6147/37.9220\">Богданівки</a>.</p>",
+    "descriptionEn": "Updated the front line on south of <a href=\"https://deepstatemap.live/en#14/47.8444/37.4741\">Novomykhailivka</a>. The enemy had partial success near <a href=\"https://deepstatemap.live/en#15/48.2233/37.6810\">Novokalinove</a>, <a href=\"https://deepstatemap.live/en#14/48.5356/ 37.9852\">Klishchiivka</a> and <a href=\"https://deepstatemap.live/en#13/48.6147/37.9220\">Bohdanivka</a>.",
+    "updatedAt": "2023-12-21T22:43:52.433Z",
+    "datetime": "21.12 o 22:55",
+    "status": true,
+    "createdAt": "2023-12-21T21:55:27.000Z",
+    "liberated": 43341.59125420297,
+    "occupied": 64516.3666431236,
+    "unspecified": 504.52278698390023
   }
 ]
