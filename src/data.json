@@ -9238,5 +9238,17 @@
     "liberated": 43337.66887638472,
     "occupied": 64527.86263592313,
     "unspecified": 503.6996736506135
+  },
+  {
+    "id": 1703344708,
+    "description": "Ворог не зумів закріпитися східніше <a href=\"https://deepstatemap.live/#15/48.6093/37.9200\">Богданівки</a>, уточнено район <a href=\"https://deepstatemap.live/#15/48.5966/37.9402\">Хромового</a> та <a href=\"https://deepstatemap.live/#14/48.8320/38.2461\">Спірного</a>.</p>",
+    "descriptionEn": "The enemy failed to gain a foothold on east of <a href=\"https://deepstatemap.live/en#15/48.6093/37.9200\">Bohdanivka</a>, the district <a href=\"https://deepstatemap.live/en#15/48.5966/37.9402\">Khromove</a> and <a href=\"https://deepstatemap.live/en#14/48.8320/38.2461\">Spirne</a>.</p>",
+    "updatedAt": "2023-12-23T15:18:28.580Z",
+    "datetime": "23.12 o 16:18",
+    "status": true,
+    "createdAt": "2023-12-23T15:18:28.000Z",
+    "liberated": 43339.450768228795,
+    "occupied": 64526.41467171652,
+    "unspecified": 501.41207720003035
   }
 ]
