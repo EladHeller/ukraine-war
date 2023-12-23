@@ -9226,5 +9226,17 @@
     "liberated": 43341.59125420297,
     "occupied": 64516.3666431236,
     "unspecified": 504.52278698390023
+  },
+  {
+    "id": 1703288098,
+    "description": "Ворог мав успіхи південно-західніше <a href=\"https://deepstatemap.live/#15/47.9442/37.4802\">Мар'їнки</a>, східніше <a href=\"https://deepstatemap.live/#14/49.0877/38.0315\">Тернів</a> та в <a href=\"https://deepstatemap.live/#14/48.6241/37.9061\">Богданівці</a> і її околицях.",
+    "descriptionEn": "The enemy had a success on southwest of <a href=\"https://deepstatemap.live/en#15/47.9442/37.4802\">Marinka</a>, east of <a href=\"https://deepstatemap.live/en#14/49.0877/38.0315\">Terny</a> and in <a href=\"https://deepstatemap.live/en#14/48.6241/37.9061\">Bohdanivka</a> and its area.",
+    "updatedAt": "2023-12-22T23:42:17.253Z",
+    "datetime": "23.12 o 00:34",
+    "status": true,
+    "createdAt": "2023-12-22T23:34:58.000Z",
+    "liberated": 43337.66887638472,
+    "occupied": 64527.86263592313,
+    "unspecified": 503.6996736506135
   }
 ]
