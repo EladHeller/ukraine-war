@@ -9274,5 +9274,17 @@
     "liberated": 43339.32609715461,
     "occupied": 64527.863134939515,
     "unspecified": 501.2064093261382
+  },
+  {
+    "id": 1703626239,
+    "description": "Ворог окупував залишки міста <a href=\"https://deepstatemap.live/#15/47.9567/37.4826\">Мар'їнка</a>.",
+    "descriptionEn": "The enemy occupied the ruins of the city <a href=\"https://deepstatemap.live/en#15/47.9567/37.4826\">Marinka</a>.",
+    "updatedAt": "2023-12-26T21:38:49.949Z",
+    "datetime": "26.12 o 22:30",
+    "status": true,
+    "createdAt": "2023-12-26T21:30:39.000Z",
+    "liberated": 43339.32609715461,
+    "occupied": 64529.185425852105,
+    "unspecified": 500.4278089124253
   }
 ]
