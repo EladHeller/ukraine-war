@@ -9286,5 +9286,17 @@
     "liberated": 43339.32609715461,
     "occupied": 64529.185425852105,
     "unspecified": 500.4278089124253
+  },
+  {
+    "id": 1703710998,
+    "description": "Ворог проводить штурмові дії східніше <a href=\"https://deepstatemap.live/#13/47.4250/35.8866\">Роботиного</a>. Незначні оновлення на інших ділянках фронту.",
+    "descriptionEn": "The enemy is conducting assault operations on east of <a href=\"https://deepstatemap.live/en#13/47.4250/35.8866\">Robotyne</a>. Minor updates in other areas of the frontline.",
+    "updatedAt": "2023-12-27T21:03:18.183Z",
+    "datetime": "27.12 o 22:03",
+    "status": true,
+    "createdAt": "2023-12-27T21:03:18.000Z",
+    "liberated": 43335.497885198725,
+    "occupied": 64531.17518442666,
+    "unspecified": 502.5034141582027
   }
 ]
