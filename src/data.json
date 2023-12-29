@@ -9298,5 +9298,17 @@
     "liberated": 43335.497885198725,
     "occupied": 64531.17518442666,
     "unspecified": 502.5034141582027
+  },
+  {
+    "id": 1703798777,
+    "description": "Ворог мав частковий успіх північніше <a href=\"https://deepstatemap.live/#15/48.6332/37.8915\">Богданівки</a>, північніше <a href=\"https://deepstatemap.live/#15/48.2096/37.6681\">Степового</a> та північніше <a href=\"https://deepstatemap.live/#15/48.1144/37.6939\">Водяного</a>.",
+    "descriptionEn": "The enemy had partial success on north of <a href=\"https://deepstatemap.live/en#15/48.6332/37.8915\">Bohdanivka</a>, north of <a href=\"https://deepstatemap.live/en#15/48.2096/37.6681\">Stepove</a> and to the north <a href=\"https://deepstatemap.live/en#15/48.1144/37.6939\">Vodyane</a>.",
+    "updatedAt": "2023-12-28T21:27:02.730Z",
+    "datetime": "28.12 o 22:26",
+    "status": true,
+    "createdAt": "2023-12-28T21:26:17.000Z",
+    "liberated": 43335.497885198725,
+    "occupied": 64532.22836310318,
+    "unspecified": 502.4849933128217
   }
 ]
