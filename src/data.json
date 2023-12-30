@@ -9310,5 +9310,17 @@
     "liberated": 43335.497885198725,
     "occupied": 64532.22836310318,
     "unspecified": 502.4849933128217
+  },
+  {
+    "id": 1703885815,
+    "description": "Оновлено лінію фронту північніше <a href=\"https://deepstatemap.live/#16/48.6274/37.8917\">Богданівки</a> та західніше <a href=\"https://deepstatemap.live/#15/49.6772/37.9032\">Ягідного</a>.",
+    "descriptionEn": "Updated the front line north of <a href=\"https://deepstatemap.live/en#16/48.6274/37.8917\">Bohdanivka</a> and west of <a href=\"https://deepstatemap.live/en#15/49.6772/37.9032\">Yaghidne</a>.",
+    "updatedAt": "2023-12-29T21:36:55.376Z",
+    "datetime": "29.12 o 22:36",
+    "status": true,
+    "createdAt": "2023-12-29T21:36:55.000Z",
+    "liberated": 43335.8618756685,
+    "occupied": 64530.557771466054,
+    "unspecified": 503.7915950162636
   }
 ]
