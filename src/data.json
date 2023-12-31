@@ -9322,5 +9322,17 @@
     "liberated": 43335.8618756685,
     "occupied": 64530.557771466054,
     "unspecified": 503.7915950162636
+  },
+  {
+    "id": 1703972944,
+    "description": "Оновлено ситуацію між <a href=\"https://deepstatemap.live/#13/47.4251/35.9250\">Вербовим та Роботиним</a>, де ворог просування останнім часом. Частковий успіх противника західніше <a href=\"https://deepstatemap.live/#14/49.0046/38.0920\">Діброви</a>.",
+    "descriptionEn": "Updated the situation between <a href=\"https://deepstatemap.live/en#13/47.4251/35.9250\">Verbove and Robotyne</a>, where the enemy has been advancing lately. Partial enemy success on west of <a href=\"https://deepstatemap.live/en#14/49.0046/38.0920\">Dibrovy</a>.",
+    "updatedAt": "2023-12-30T22:06:54.396Z",
+    "datetime": "30.12 o 22:49",
+    "status": true,
+    "createdAt": "2023-12-30T21:49:04.000Z",
+    "liberated": 43332.73020144528,
+    "occupied": 64541.44933967399,
+    "unspecified": 496.0317281019346
   }
 ]
