@@ -9346,5 +9346,17 @@
     "liberated": 43332.73020144528,
     "occupied": 64541.67582756372,
     "unspecified": 495.8451115087378
+  },
+  {
+    "id": 1704145957,
+    "description": "Оновлено лінію зіткнення біля <a href=\"https://deepstatemap.live/#15/48.4806/37.9591\">Курдюмівки</a> та <a href=\"https://deepstatemap.live/#14/48.2154/37.6625\">Бердичів</a>.",
+    "descriptionEn": "Updated the frontline near <a href=\"https://deepstatemap.live/en#15/48.4806/37.9591\">Kurdyumivka</a> and <a href=\"https://deepstatemap.live/en#14/48.2154/37.6625\">Berdychi</a>.",
+    "updatedAt": "2024-01-01T21:53:53.794Z",
+    "datetime": "01.01 o 22:52",
+    "status": true,
+    "createdAt": "2024-01-01T21:52:37.000Z",
+    "liberated": 43332.58497269134,
+    "occupied": 64541.9197275946,
+    "unspecified": 496.2935547150785
   }
 ]
