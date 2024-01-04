@@ -9370,5 +9370,17 @@
     "liberated": 43332.58497269134,
     "occupied": 64542.13101041403,
     "unspecified": 496.08227189563223
+  },
+  {
+    "id": 1704318201,
+    "description": "Оновлено лінію зіткнення в <a href=\"https://deepstatemap.live/#15/48.0820/37.6270\">Первомайському</a> та <a href=\"https://deepstatemap.live/#15/47.9535/37.4745\">Мар'їнці</a>.",
+    "descriptionEn": "Updated the frontline in <a href=\"https://deepstatemap.live/en#15/48.0820/37.6270\">Pervomaiske</a> and <a href=\"https://deepstatemap.live/en#15/47.9535/37.4745\">Marinka</a>.",
+    "updatedAt": "2024-01-03T21:45:35.309Z",
+    "datetime": "03.01 o 22:43",
+    "status": true,
+    "createdAt": "2024-01-03T21:43:21.000Z",
+    "liberated": 43332.58497269134,
+    "occupied": 64542.807829211684,
+    "unspecified": 495.94842930315366
   }
 ]
