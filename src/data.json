@@ -9382,5 +9382,17 @@
     "liberated": 43332.58497269134,
     "occupied": 64542.807829211684,
     "unspecified": 495.94842930315366
+  },
+  {
+    "id": 1704401732,
+    "description": "Ворога дещо відкинуто в <a href=\"https://deepstatemap.live/#14/48.0818/37.6256\">Первомайському</a>. Частковий успіх противника біля <a href=\"https://deepstatemap.live/#15/48.5973/37.9398\">Хромового</a> та на півночі <a href=\"https://deepstatemap.live/#14/48.1748/37.7287\">Авдіївки</a>.",
+    "descriptionEn": "The enemy was pushed back in <a href=\"https://deepstatemap.live/en#14/48.0818/37.6256\">Pervomaiske</a>. Partial success of the enemy near <a href=\"https://deepstatemap.live/en#15/48.5973/37.9398\">Khromove</a> and in the north of <a href=\"https://deepstatemap.live/en#14/48.1748/37.7287\">Avdiivka</a>.",
+    "updatedAt": "2024-01-04T20:55:32.930Z",
+    "datetime": "04.01 o 21:55",
+    "status": true,
+    "createdAt": "2024-01-04T20:55:32.000Z",
+    "liberated": 43332.58497269134,
+    "occupied": 64543.51802301223,
+    "unspecified": 495.7667896578739
   }
 ]
