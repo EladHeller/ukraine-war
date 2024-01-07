@@ -9406,5 +9406,17 @@
     "liberated": 43331.77780678347,
     "occupied": 64543.51802301223,
     "unspecified": 496.5739555658779
+  },
+  {
+    "id": 1704572704,
+    "description": "Ворог просунувся на західних околицях <a href=\"https://deepstatemap.live/#15/47.9599/37.4854\">Мар'їнки</a>.",
+    "descriptionEn": "The enemy advanced on the western area of <a href=\"https://deepstatemap.live/en#15/47.9599/37.4854\">Marinka</a>.",
+    "updatedAt": "2024-01-06T20:34:46.880Z",
+    "datetime": "06.01 o 21:25",
+    "status": true,
+    "createdAt": "2024-01-06T20:25:04.000Z",
+    "liberated": 43331.77780678347,
+    "occupied": 64544.443669317734,
+    "unspecified": 496.25005947392225
   }
 ]
