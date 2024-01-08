@@ -9418,5 +9418,17 @@
     "liberated": 43331.77780678347,
     "occupied": 64544.443669317734,
     "unspecified": 496.25005947392225
+  },
+  {
+    "id": 1704664139,
+    "description": "Ворога відкинуто південніше <a href=\"https://deepstatemap.live/#14/47.8426/37.4923\">Новомихайлівки</a>. Противник мав просування у <a href=\"https://deepstatemap.live/#15/48.0716/37.6404\">Первомайському</a>. Уточнено північні околиці <a href=\"https://deepstatemap.live/#16/48.5488/37.9573\">Кліщіївки</a> та південніше <a href=\"https://deepstatemap.live/#15/47.4312/35.8331\">Роботиного</a>.",
+    "descriptionEn": "The enemy was pushed back on south to <a href=\"https://deepstatemap.live/en#14/47.8426/37.4923\">Novomykhailivka</a>. The enemy had an advance in <a href=\"https://deepstatemap.live/en#15/48.0716/37.6404\">Pervomaiske</a>. The northern outskirts of <a href=\"https://deepstatemap.live/en#16/48.5488/37.9573\">Klishchiivka</a> and on south of <a href=\"https://deepstatemap.live/#15/47.4312/35.8331\">Robotyne</a> have been clarified.",
+    "updatedAt": "2024-01-07T22:10:53.115Z",
+    "datetime": "07.01 o 22:48",
+    "status": true,
+    "createdAt": "2024-01-07T21:48:59.000Z",
+    "liberated": 43331.906635503656,
+    "occupied": 64538.30373320787,
+    "unspecified": 501.3496276999048
   }
 ]
