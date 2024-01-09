@@ -9430,5 +9430,17 @@
     "liberated": 43331.906635503656,
     "occupied": 64538.30373320787,
     "unspecified": 501.3496276999048
+  },
+  {
+    "id": 1704748759,
+    "description": "Оновлено лінію зіткнення південніше <a href=\"https://deepstatemap.live/#14/47.8315/37.4578\">Новомихайлівки</a>.",
+    "descriptionEn": "Updated frontline on south of <a href=\"https://deepstatemap.live/en#14/47.8315/37.4578\">Novomykhailivka</a>.",
+    "updatedAt": "2024-01-08T21:19:19.273Z",
+    "datetime": "08.01 o 22:19",
+    "status": true,
+    "createdAt": "2024-01-08T21:19:19.000Z",
+    "liberated": 43331.906635503656,
+    "occupied": 64539.79495194093,
+    "unspecified": 504.7955502005769
   }
 ]
