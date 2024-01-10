@@ -9442,5 +9442,17 @@
     "liberated": 43331.906635503656,
     "occupied": 64539.79495194093,
     "unspecified": 504.7955502005769
+  },
+  {
+    "id": 1704837374,
+    "description": "Ворог просунувся по посадці південніше <a href=\"https://deepstatemap.live/#14/47.8240/37.4559\">Новомихайлівки</a> та веде штурмові дії в бік <a href=\"https://deepstatemap.live/#14/47.9679/37.4842\">Георгіївки</a>.",
+    "descriptionEn": "The enemy advanced along the forest planting on the south of <a href=\"https://deepstatemap.live/en#14/47.8240/37.4559\">Novomykhailivka</a> and is conducting assaults in the direction of <a href=\"https://deepstatemap.live/en#14/47.9679/37.4842\">Heorgiivka</a>.",
+    "updatedAt": "2024-01-09T21:57:16.437Z",
+    "datetime": "09.01 o 22:56",
+    "status": true,
+    "createdAt": "2024-01-09T21:56:14.000Z",
+    "liberated": 43331.906635503656,
+    "occupied": 64540.692702954286,
+    "unspecified": 504.1161643441125
   }
 ]
