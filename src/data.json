@@ -9466,5 +9466,17 @@
     "liberated": 43331.906635503656,
     "occupied": 64540.79768546313,
     "unspecified": 504.7788801723611
+  },
+  {
+    "id": 1705095299,
+    "description": "Оновлено лінію зіткнення західніше <a href=\"https://deepstatemap.live/#15/47.4457/35.9412\">Вербового</a> та південніше <a href=\"https://deepstatemap.live/#13/47.8305/37.4442\">Новомихайлівки</a>. Уточнено район <a href=\"https://deepstatemap.live/#14/48.8121/38.2556\">Спірного</a> та <a href=\"https://deepstatemap.live/#14/47.7491/36.7567\">Старомайорського</a>.",
+    "descriptionEn": "Updated frontline on west of <a href=\"https://deepstatemap.live/en#15/47.4457/35.9412\">Verbove</a> and south of <a href=\"https://deepstatemap.live/en#13/47.8305/37.4442\">Novomykhailivka</a>. The area of <a href=\"https://deepstatemap.live/en#14/48.8121/38.2556\">Spirne</a> and <a href=\"https://deepstatemap.live/en#14/47.7491/36.7567\">Staromayorske</a> has been clarified of .",
+    "updatedAt": "2024-01-12T21:39:33.017Z",
+    "datetime": "12.01 o 22:34",
+    "status": true,
+    "createdAt": "2024-01-12T21:34:59.000Z",
+    "liberated": 43331.83601653125,
+    "occupied": 64541.667963330845,
+    "unspecified": 510.07547836195084
   }
 ]
