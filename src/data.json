@@ -9490,5 +9490,17 @@
     "liberated": 43331.83601653125,
     "occupied": 64541.667963330845,
     "unspecified": 510.07547836195084
+  },
+  {
+    "id": 1705266055,
+    "description": "Ворог просунувся на схід від <a href=\"https://deepstatemap.live/#13/49.2085/38.0319\">Макіївки</a>.",
+    "descriptionEn": "The enemy advanced on east of <a href=\"https://deepstatemap.live/en#13/49.2085/38.0319\">Makiivka</a>.",
+    "updatedAt": "2024-01-14T21:18:19.201Z",
+    "datetime": "14.01 o 22:00",
+    "status": true,
+    "createdAt": "2024-01-14T21:00:55.000Z",
+    "liberated": 43329.07303749958,
+    "occupied": 64544.108102009515,
+    "unspecified": 510.5354218878695
   }
 ]
