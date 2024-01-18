@@ -9526,5 +9526,17 @@
     "liberated": 43329.07303749958,
     "occupied": 64544.39539973548,
     "unspecified": 509.50104032605987
+  },
+  {
+    "id": 1705527547,
+    "description": "Ворог мав частковий успіх біля <a href=\"https://deepstatemap.live/#16/48.9320/38.2594\">Білогорівки</a> (Луганська). Уточнено лінію зіткнення біля <a href=\"https://deepstatemap.live/#16/48.3773/37.9493\">Шумів</a>.",
+    "descriptionEn": "The enemy had partial success near <a href=\"https://deepstatemap.live/en#16/48.9320/38.2594\">Bilogorivka</a> (Luhansk region). Fixed collision line near <a href=\"https://deepstatemap.live/en#16/48.3773/37.9493\">Shumy</a>.",
+    "updatedAt": "2024-01-17T21:49:11.076Z",
+    "datetime": "17.01 o 22:39",
+    "status": true,
+    "createdAt": "2024-01-17T21:39:07.000Z",
+    "liberated": 43329.07303749958,
+    "occupied": 64545.205580745605,
+    "unspecified": 508.99750668527554
   }
 ]
