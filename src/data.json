@@ -9538,5 +9538,17 @@
     "liberated": 43329.07303749958,
     "occupied": 64545.205580745605,
     "unspecified": 508.99750668527554
+  },
+  {
+    "id": 1705610924,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.7423/38.1531\">Веселому</a>, біля <a href=\"https://deepstatemap.live/#15/49.6766/37.9157\">Орлянки</a> та <a href=\"https://deepstatemap.live/#15/48.1109/37.7875\">дачного поселення</a> \"Виноградники\". Уточнено район <a href=\"https://deepstatemap.live/#14/48.7392/38.1023\">Роздолівки</a>.",
+    "descriptionEn": "The enemy has advanced in <a href=\"https://deepstatemap.live/en#14/48.7423/38.1531\">Vesele</a>, near <a href=\"https://deepstatemap.live/en#15/49.6766/37.9157\">Orlyanka</a> and <a href=\"https://deepstatemap.live/en#15/48.1109/37.7875\">cottage settlement</a> \"Vynogradnyky\". The area of <a href=\"https://deepstatemap.live/en#14/48.7392/38.1023\">Rozdolivka</a> has been claryfied.",
+    "updatedAt": "2024-01-18T20:57:30.180Z",
+    "datetime": "18.01 o 21:48",
+    "status": true,
+    "createdAt": "2024-01-18T20:48:44.000Z",
+    "liberated": 43329.07303749958,
+    "occupied": 64546.73640975255,
+    "unspecified": 512.3365517915496
   }
 ]
