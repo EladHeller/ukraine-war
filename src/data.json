@@ -9574,5 +9574,17 @@
     "liberated": 43312.211651303034,
     "occupied": 64562.00475001668,
     "unspecified": 516.6083654445158
+  },
+  {
+    "id": 1705830084,
+    "description": "Сили Оборони України відновили контроль над позиціями південніше <a href=\"https://deepstatemap.live/#14/47.7351/36.8376\">Урожайного</a>. Проведено уточнення лінії по посадках на схід від даного села.",
+    "descriptionEn": "The Defense Forces of Ukraine regained control over positions on south of <a href=\"https://deepstatemap.live/en#14/47.7351/36.8376\">Urozhaine</a>. The line along the landings to the east of this village has been clarified.",
+    "updatedAt": "2024-01-21T09:41:24.794Z",
+    "datetime": "21.01 o 10:41",
+    "status": true,
+    "createdAt": "2024-01-21T09:41:24.000Z",
+    "liberated": 43312.5190737708,
+    "occupied": 64561.79446692857,
+    "unspecified": 516.6740027040432
   }
 ]
