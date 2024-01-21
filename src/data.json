@@ -9562,5 +9562,17 @@
     "liberated": 43321.31814918012,
     "occupied": 64547.353930767604,
     "unspecified": 520.7044088371688
+  },
+  {
+    "id": 1705781630,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#13/49.5759/37.9271\">Крохмальне</a> та його околиці. Противник просунувся південніше <a href=\"https://deepstatemap.live/#14/48.1123/37.7715\">Авдіївки</a>, південніше <a href=\"https://deepstatemap.live/#14/48.1632/37.7704\">Кам'янки</a>, східніше <a href=\"https://deepstatemap.live/#14/47.9618/37.4695\">Георгіївки</a> та південніше <a href=\"https://deepstatemap.live/#14/47.7357/36.8371\">Урожайного</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#13/49.5759/37.9271\">Krokhmalne</a> and its area. The enemy advanced on south of <a href=\"https://deepstatemap.live/en#14/48.1123/37.7715\">Avdiivka</a>, on south of <a href=\"https://deepstatemap.live/en#14/48.1632/37.7704\">Kamyanka</a>, on east <a href=\"https://deepstatemap.live/en#14/47.9618/37.4695\">Georgiivka</a> and on south of <a href=\"https://deepstatemap.live/en#14/47.7357/36.8371\">Urozhaine</a>.",
+    "updatedAt": "2024-01-20T21:57:21.696Z",
+    "datetime": "20.01 o 21:13",
+    "status": true,
+    "createdAt": "2024-01-20T20:13:50.000Z",
+    "liberated": 43312.211651303034,
+    "occupied": 64562.00475001668,
+    "unspecified": 516.6083654445158
   }
 ]
