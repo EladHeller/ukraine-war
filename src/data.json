@@ -9586,5 +9586,17 @@
     "liberated": 43312.5190737708,
     "occupied": 64561.79446692857,
     "unspecified": 516.6740027040432
+  },
+  {
+    "id": 1705956248,
+    "description": "Оновлено лінію зіткнення біля <a href=\"https://deepstatemap.live/#13/49.5592/37.9311\">Крохмального</a>, <a href=\"https://deepstatemap.live/#14/47.9652/37.4947\">Мар'їнки</a> та <a href=\"https://deepstatemap.live/#14/48.5580/37.9507\">Іванівського</a>.",
+    "descriptionEn": "Updated front line near <a href=\"https://deepstatemap.live/en#13/49.5592/37.9311\">Krokhmalne</a>, <a href=\"https://deepstatemap.live/en#14/47.9652/37.4947\">Marinka</a> and <a href=\"https://deepstatemap.live/en#14/48.5580/37.9507\">Ivanivske</a>.</p>",
+    "updatedAt": "2024-01-22T22:00:33.396Z",
+    "datetime": "22.01 o 21:44",
+    "status": true,
+    "createdAt": "2024-01-22T20:44:08.000Z",
+    "liberated": 43308.48860094157,
+    "occupied": 64564.94600185892,
+    "unspecified": 517.7216455453023
   }
 ]
