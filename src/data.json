@@ -9610,5 +9610,17 @@
     "liberated": 43307.34891257246,
     "occupied": 64564.93073584172,
     "unspecified": 518.8465911210236
+  },
+  {
+    "id": 1706132720,
+    "description": "Оновлено лінію зіткнення південніше <a href=\"https://deepstatemap.live/#15/48.1140/37.7650\">Авдіївки</a>.",
+    "descriptionEn": "Updated frontline on south of <a href=\"https://deepstatemap.live/en#15/48.1140/37.7650\">Avdiivka</a>.",
+    "updatedAt": "2024-01-24T22:01:25.168Z",
+    "datetime": "24.01 o 22:45",
+    "status": true,
+    "createdAt": "2024-01-24T21:45:20.000Z",
+    "liberated": 43307.54922187005,
+    "occupied": 64565.28195078378,
+    "unspecified": 518.8454207356427
   }
 ]
