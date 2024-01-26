@@ -9622,5 +9622,17 @@
     "liberated": 43307.54922187005,
     "occupied": 64565.28195078378,
     "unspecified": 518.8454207356427
+  },
+  {
+    "id": 1706219661,
+    "description": "Сили Оборони України просунулися західніше <a href=\"https://deepstatemap.live/#15/47.4713/35.9420\">Вербового</a>. Східніше <a href=\"https://deepstatemap.live/#14/49.0769/38.0180\">Тернів</a> тривають бої, лінія зіткнення уточнюється.",
+    "descriptionEn": "The Defense Forces of Ukraine advanced on west of <a href=\"https://deepstatemap.live/en#15/47.4713/35.9420\">Verbove</a>. On east of the <a href=\"https://deepstatemap.live/en#14/49.0769/38.0180\">Torske</a> fighting continues, the contact line is being refined.",
+    "updatedAt": "2024-01-25T22:04:45.841Z",
+    "datetime": "25.01 o 22:54",
+    "status": true,
+    "createdAt": "2024-01-25T21:54:21.000Z",
+    "liberated": 43308.956638861535,
+    "occupied": 64563.46418333312,
+    "unspecified": 518.9562446314453
   }
 ]
