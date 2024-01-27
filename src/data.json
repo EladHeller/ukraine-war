@@ -9634,5 +9634,17 @@
     "liberated": 43308.956638861535,
     "occupied": 64563.46418333312,
     "unspecified": 518.9562446314453
+  },
+  {
+    "id": 1706305150,
+    "description": "Оновлено лінію зіткнення західніше <a href=\"https://deepstatemap.live/#14/47.4629/35.7972\">Роботиного</a> та північніше села <a href=\"https://deepstatemap.live/#15/48.2153/37.6622\">Бердичі</a>.",
+    "descriptionEn": "Updated frontline on west of <a href=\"https://deepstatemap.live/en#14/47.4629/35.7972\">Robotyne</a> and north of the village of <a href=\"https://deepstatemap.live/en#15/48.2153/37.6622\">Berdychi</a>.",
+    "updatedAt": "2024-01-26T21:51:43.677Z",
+    "datetime": "26.01 o 22:39",
+    "status": true,
+    "createdAt": "2024-01-26T21:39:10.000Z",
+    "liberated": 43308.85402090837,
+    "occupied": 64562.4750344943,
+    "unspecified": 520.0201053384935
   }
 ]
