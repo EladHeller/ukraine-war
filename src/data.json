@@ -9658,5 +9658,17 @@
     "liberated": 43307.422811940545,
     "occupied": 64563.66996673327,
     "unspecified": 521.8686596227883
+  },
+  {
+    "id": 1706435881,
+    "description": "Ворог захопив <a href=\"https://deepstatemap.live/#13/49.5905/37.8837\">Табаївку</a>, оновлено район <a href=\"https://deepstatemap.live/#13/49.7730/37.6891\">Синьківки</a>.",
+    "descriptionEn": "The enemy captured <a href=\"https://deepstatemap.live/en#13/49.5905/37.8837\">Tabaivka</a>, the district <a href=\"https://deepstatemap.live/#en13/49.7730/37.6891\" was updated \">Synkivka</a>.",
+    "updatedAt": "2024-01-28T10:00:07.817Z",
+    "datetime": "28.01 o 10:58",
+    "status": true,
+    "createdAt": "2024-01-28T09:58:01.000Z",
+    "liberated": 43298.97344881996,
+    "occupied": 64569.438443707804,
+    "unspecified": 524.5495457687908
   }
 ]
