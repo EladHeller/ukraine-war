@@ -9646,5 +9646,17 @@
     "liberated": 43308.85402090837,
     "occupied": 64562.4750344943,
     "unspecified": 520.0201053384935
+  },
+  {
+    "id": 1706392086,
+    "description": "Ворог просунувся східніше <a href=\"https://deepstatemap.live/#14/49.6007/37.8902\">Табаївки</a> та на півдні <a href=\"https://deepstatemap.live/#15/48.1107/37.7735\">Авдіївки</a>. Уточнюється лінія зіткнення біля <a href=\"https://deepstatemap.live/#14/49.7653/37.7064\">Синьківки</a>.",
+    "descriptionEn": "The enemy advanced to the east <a href=\"https://deepstatemap.live/en#14/49.6007/37.8902\">Tabaivka</a> and to the south <a href=\"https://deepstatemap.live/en#15/48.1107/37.7735\">Avdiivka</a>. The front line near <a href=\"https://deepstatemap.live/en#14/49.7653/37.7064\">Synkivka</a> is being clarified.",
+    "updatedAt": "2024-01-27T21:52:31.223Z",
+    "datetime": "27.01 o 22:48",
+    "status": true,
+    "createdAt": "2024-01-27T21:48:06.000Z",
+    "liberated": 43307.422811940545,
+    "occupied": 64563.66996673327,
+    "unspecified": 521.8686596227883
   }
 ]
