@@ -9670,5 +9670,17 @@
     "liberated": 43298.97344881996,
     "occupied": 64569.438443707804,
     "unspecified": 524.5495457687908
+  },
+  {
+    "id": 1706480394,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#14/48.0759/37.6338\">Первомайському</a>, північніше <a href=\"https://deepstatemap.live/#14/47.8811/37.5200\">Новомихайлівки</a> та північніше <a href=\"https://deepstatemap.live/#14/48.1073/37.7196\">Опитного</a>. Противнику не дали закріпитися в <a href=\"https://deepstatemap.live/#13/49.5995/37.8736\">Табаївці</a>.",
+    "descriptionEn": "The enemy has advanced in <a href=\"https://deepstatemap.live/en#14/48.0759/37.6338\">Pervomaiske</a>, on north of <a href=\"https://deepstatemap.live/en#14/47.8811/37.5200\">Novomykhailivka</a> and on north of <a href=\"https://deepstatemap.live/en#14/48.1073/37.7196\">Opytne</a>. The enemy was not allowed to gain a foothold in <a href=\"https://deepstatemap.live/en#13/49.5995/37.8736\">Tabaivka</a>.",
+    "updatedAt": "2024-01-28T22:32:45.311Z",
+    "datetime": "28.01 o 23:19",
+    "status": true,
+    "createdAt": "2024-01-28T22:19:54.000Z",
+    "liberated": 43297.235854918734,
+    "occupied": 64573.275113064876,
+    "unspecified": 523.084890932035
   }
 ]
