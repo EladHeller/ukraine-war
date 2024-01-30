@@ -9682,5 +9682,17 @@
     "liberated": 43297.235854918734,
     "occupied": 64573.275113064876,
     "unspecified": 523.084890932035
+  },
+  {
+    "id": 1706566905,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/47.7496/36.6794\">Приютного</a>. Оновлено лінію зіткнення південніше <a href=\"https://deepstatemap.live/#15/48.1136/37.7663\">Авдіївки</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/47.7496/36.6794\">Pryutne</a>. Updated the frontline on south of <a href=\"https://deepstatemap.live/en#15/48.1136/37.7663\">Avdiivka</a>.",
+    "updatedAt": "2024-01-29T22:21:45.880Z",
+    "datetime": "29.01 o 23:21",
+    "status": true,
+    "createdAt": "2024-01-29T22:21:45.000Z",
+    "liberated": 43295.06540299318,
+    "occupied": 64574.79755552053,
+    "unspecified": 523.9702793063199
   }
 ]
