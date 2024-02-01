@@ -9694,5 +9694,17 @@
     "liberated": 43295.06540299318,
     "occupied": 64574.79755552053,
     "unspecified": 523.9702793063199
+  },
+  {
+    "id": 1706735973,
+    "description": "Ворог просунувся північніше <a href=\"https://deepstatemap.live/#14/47.7494/36.6659\">Приютного</a>, північніше <a href=\"https://deepstatemap.live/#13/47.8789/37.5024\">Новомихайлівки</a> та східніше <a href=\"https://deepstatemap.live/#13/49.0741/38.0051\">Тернів</a>. Уточнено лінію зіткнення біля <a href=\"https://deepstatemap.live/#14/48.5397/37.9573\">Кліщіївки</a>.",
+    "descriptionEn": "The enemy advanced on north of <a href=\"https://deepstatemap.live/en#14/47.7494/36.6659\">Pryutny</a>, on north of <a href=\"https://deepstatemap.live/en#13/47.8789/37.5024\">Novomykhailivka</a> and on east <a href=\"https://deepstatemap.live/en#13/49.0741/38.0051\">Terny</a>. Clarified frontline near <a href=\"https://deepstatemap.live/en#14/48.5397/37.9573\">Klishchiivka</a>.",
+    "updatedAt": "2024-01-31T21:19:33.155Z",
+    "datetime": "31.01 o 22:19",
+    "status": true,
+    "createdAt": "2024-01-31T21:19:33.000Z",
+    "liberated": 43291.574877166786,
+    "occupied": 64582.1036093224,
+    "unspecified": 521.7378273154129
   }
 ]
