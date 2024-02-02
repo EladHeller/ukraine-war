@@ -9706,5 +9706,17 @@
     "liberated": 43291.574877166786,
     "occupied": 64582.1036093224,
     "unspecified": 521.7378273154129
+  },
+  {
+    "id": 1706823879,
+    "description": "Оновлено лінію зіткнення біля <a href=\"https://deepstatemap.live/#14/47.7476/36.6600\">Приютного</a>, у <a href=\"https://deepstatemap.live/#14/46.7387/33.0956\">Кринках</a> та <a href=\"https://deepstatemap.live/#14/48.0705/37.6306\">Первомайському</a>. Уточнюється район <a href=\"https://deepstatemap.live/#14/49.7218/37.8445\">Першотравневого</a>.",
+    "descriptionEn": "Updated frontline near <a href=\"https://deepstatemap.live/en#14/47.7476/36.6600\">Pryutne</a>, in <a href=\"https://deepstatemap.live/en#14/46.7387/33.0956\">Krynky</a> and <a href=\"https://deepstatemap.live/en#14/48.0705/37.6306\">Pervomaiske</a>. The area of <a href=\"https://deepstatemap.live/en#14/49.7218/37.8445\">Pershotravneve</a> is being claryfied.",
+    "updatedAt": "2024-02-01T21:52:08.091Z",
+    "datetime": "01.02 o 22:44",
+    "status": true,
+    "createdAt": "2024-02-01T21:44:39.000Z",
+    "liberated": 43290.69697007965,
+    "occupied": 64582.013399234114,
+    "unspecified": 522.8893937099346
   }
 ]
