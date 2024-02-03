@@ -9718,5 +9718,17 @@
     "liberated": 43290.69697007965,
     "occupied": 64582.013399234114,
     "unspecified": 522.8893937099346
+  },
+  {
+    "id": 1706910101,
+    "description": "Ворог просунувся на півночі <a href=\"https://deepstatemap.live/#14/48.1684/37.7358\">Авдіївки</a>.",
+    "descriptionEn": "The enemy advanced on north of <a href=\"https://deepstatemap.live/en#14/48.1684/37.7358\">Avdiivka</a>.",
+    "updatedAt": "2024-02-02T21:44:58.932Z",
+    "datetime": "02.02 o 22:41",
+    "status": true,
+    "createdAt": "2024-02-02T21:41:41.000Z",
+    "liberated": 43290.69697007965,
+    "occupied": 64584.734715337065,
+    "unspecified": 521.6523913835655
   }
 ]
