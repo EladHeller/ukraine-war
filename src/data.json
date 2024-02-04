@@ -9730,5 +9730,17 @@
     "liberated": 43290.69697007965,
     "occupied": 64584.734715337065,
     "unspecified": 521.6523913835655
+  },
+  {
+    "id": 1706995636,
+    "description": "Оновлено лінію зіткнення західніше <a href=\"https://deepstatemap.live/#13/47.4345/35.9278\">Вербового</a>. Уточнено інші ділянки фронту.",
+    "descriptionEn": "Updated the skirmish line on west of <a href=\"https://deepstatemap.live/en#13/47.4345/35.9278\">Verbove</a>. Other sections of the frontline have been clarified.",
+    "updatedAt": "2024-02-03T21:29:06.178Z",
+    "datetime": "03.02 o 22:27",
+    "status": true,
+    "createdAt": "2024-02-03T21:27:16.000Z",
+    "liberated": 43278.97285640476,
+    "occupied": 64585.02142258778,
+    "unspecified": 521.6117025974457
   }
 ]
