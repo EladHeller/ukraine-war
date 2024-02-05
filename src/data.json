@@ -9742,5 +9742,17 @@
     "liberated": 43278.97285640476,
     "occupied": 64585.02142258778,
     "unspecified": 521.6117025974457
+  },
+  {
+    "id": 1707083147,
+    "description": "Ворог просунувся на півночі <a href=\"https://deepstatemap.live/#14/48.1675/37.7498\">Авдіївки</a> та в <a href=\"https://deepstatemap.live/#14/48.0793/37.6274\">Первомайському</a>. Оновлено лінію зіткнення біля <a href=\"https://deepstatemap.live/#15/48.5400/37.9461\">Кліщіївки</a> та <a href=\"https://deepstatemap.live/#15/48.2203/37.6692\">Новокалинового</a>.",
+    "descriptionEn": "The enemy advanced in the north of <a href=\"https://deepstatemap.live/en#14/48.1675/37.7498\">Avdiivka</a> and in <a href=\"https://deepstatemap.live/en#14/48.0793/37.6274\">Pervomayske</a>. Updated frontline near <a href=\"https://deepstatemap.live/en#15/48.5400/37.9461\">Klishchiivka</a> and <a href=\"https://deepstatemap.live/en#15/48.2203/37.6692\">Novokalynove</a>.",
+    "updatedAt": "2024-02-04T22:10:00.324Z",
+    "datetime": "04.02 o 22:45",
+    "status": true,
+    "createdAt": "2024-02-04T21:45:47.000Z",
+    "liberated": 43279.16797410579,
+    "occupied": 64587.847847529134,
+    "unspecified": 519.8458841661901
   }
 ]
