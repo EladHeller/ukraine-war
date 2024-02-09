@@ -9778,5 +9778,17 @@
     "liberated": 43277.66670362337,
     "occupied": 64592.49127721922,
     "unspecified": 518.8008696808567
+  },
+  {
+    "id": 1707424199,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#14/48.1588/37.7316\">Авдіївці</a>, біля <a href=\"https://deepstatemap.live/#14/47.9248/37.4784\">Побєди</a> та у <a href=\"https://deepstatemap.live/#14/47.9628/37.4663\">Георгіївці</a>. Противника відкинуто у районі <a href=\"https://deepstatemap.live/#14/47.8434/37.5019\">Новомихайлівки</a>. Уточнено лінію зіткнення біля <a href=\"https://deepstatemap.live/#13/47.4598/35.7977\">Роботиного</a>, <a href=\"https://deepstatemap.live/#14/47.7677/37.3174\">Микільського</a> та <a href=\"https://deepstatemap.live/#14/47.5280/35.3855\">Кам'янського</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.1588/37.7316\">Avdiivka</a>, near <a href=\"https://deepstatemap.live/en#14/47.9248/37.4784\">Pobeda</a> and in <a href=\"https://deepstatemap.live/en#14/47.9628/37.4663\">Georhiivka</a>. The enemy was pushed back in the area of <a href=\"https://deepstatemap.live/en#14/47.8434/37.5019\">Novomykhailivka</a>. Clarified frontline near <a href=\"https://deepstatemap.live/en#13/47.4598/35.7977\">Robotyne</a>, <a href=\"https://deepstatemap.live/en#14/47.7677/37.3174\">Mykilske</a> and <a href=\"https://deepstatemap.live/en#14/47.5280/35.3855\">Kamyanske</a>.",
+    "updatedAt": "2024-02-08T20:34:58.818Z",
+    "datetime": "08.02 o 21:29",
+    "status": true,
+    "createdAt": "2024-02-08T20:29:59.000Z",
+    "liberated": 43279.13066501785,
+    "occupied": 64590.73316243087,
+    "unspecified": 518.0524297323941
   }
 ]
