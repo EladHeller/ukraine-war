@@ -9790,5 +9790,17 @@
     "liberated": 43279.13066501785,
     "occupied": 64590.73316243087,
     "unspecified": 518.0524297323941
+  },
+  {
+    "id": 1707512274,
+    "description": "Ворог просунувся східніше <a href=\"https://deepstatemap.live/#14/48.6007/37.9128\">Часового Яру</a>, на півночі <a href=\"https://deepstatemap.live/#14/48.1561/37.7421\">Авдіївки</a>, біля <a href=\"https://deepstatemap.live/#15/48.2044/37.6703\">Степового</a>, східніше <a href=\"https://deepstatemap.live/#14/48.5292/37.9833\">Кліщіївки</a> та в <a href=\"https://deepstatemap.live/#14/47.8490/37.5066\">Новомихайлівку</a>. Уточнено район південніше <a href=\"https://deepstatemap.live/#14/47.4313/35.8259\">Роботиного</a>.",
+    "descriptionEn": "The enemy advanced on east of <a href=\"https://deepstatemap.live/en#14/48.6007/37.9128\">Chasiv Yar</a>, in the north of <a href=\"https://deepstatemap.live/en#14/48.1561/37.7421\">Avdiivki</a>, near <a href=\"https://deepstatemap.live/en#15/48.2044/37.6703\">Stepove</a>, on the east of <a href=\"https://deepstatemap.live/en#14/48.5292/37.9833\">Klishchiivka</a> and in <a href=\"https://deepstatemap.live/en#14/47.8490/37.5066\">Novomykhailivka</a>. The area on south of <a href=\"https://deepstatemap.live/en#14/47.4313/35.8259\">Robotyne</a> has been clarified.",
+    "updatedAt": "2024-02-09T21:35:24.146Z",
+    "datetime": "09.02 o 21:57",
+    "status": true,
+    "createdAt": "2024-02-09T20:57:54.000Z",
+    "liberated": 43279.30058141966,
+    "occupied": 64594.05836731677,
+    "unspecified": 517.4716772525089
   }
 ]
