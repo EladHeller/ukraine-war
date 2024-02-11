@@ -9802,5 +9802,17 @@
     "liberated": 43279.30058141966,
     "occupied": 64594.05836731677,
     "unspecified": 517.4716772525089
+  },
+  {
+    "id": 1707599264,
+    "description": "Ворог просунувся на півночі <a href=\"https://deepstatemap.live/#15/48.1564/37.7330\">Авдіївки</a>, у <a href=\"https://deepstatemap.live/#14/48.0845/37.6184\">Первомайському</a>, південніше <a href=\"https://deepstatemap.live/#14/47.7942/37.4266\">Новомихайлівки</a>, біля <a href=\"https://deepstatemap.live/#14/48.5243/37.9844\">Кліщіївки</a>, біля <a href=\"https://deepstatemap.live/#14/49.6811/37.9011\">Іванівки</a> та у <a href=\"https://deepstatemap.live/#15/47.9628/37.4654\">Георгіївці</a>. Уточнено лінію зіткнення східніше <a href=\"https://deepstatemap.live/#14/47.4274/35.8703\">Роботиного</a>. Ворог відступив північніше <a href=\"https://deepstatemap.live/#15/47.9659/37.4952\">Мар'їнки</a>. ",
+    "descriptionEn": "The enemy advanced in the north of <a href=\"https://deepstatemap.live/en#15/48.1564/37.7330\">Avdiivka</a>, in <a href=\"https://deepstatemap.live/en#14/48.0845/37.6184\">Pervomayskyi</a>, south of <a href=\"https://deepstatemap.live/en#14/47.7942/37.4266\">Novomykhailivka</a>, near <a href=\"https://deepstatemap.live/en#14/48.5243/37.9844\">Klishchiivka</a>, near <a href=\"https://deepstatemap.live/en#14/49.6811/37.9011\">Ivanivka</a> and in <a href=\"https://deepstatemap.live/en#15/47.9628/37.4654\">Georhiivka</a>. Clarified frontline on east of <a href=\"https://deepstatemap.live/en#14/47.4274/35.8703\">Robotine</a>. The enemy retreated on the north of <a href=\"https://deepstatemap.live/en#15/47.9659/37.4952\">Marinka</a>.",
+    "updatedAt": "2024-02-10T21:28:28.994Z",
+    "datetime": "10.02 o 22:07",
+    "status": true,
+    "createdAt": "2024-02-10T21:07:44.000Z",
+    "liberated": 43276.79656822377,
+    "occupied": 64601.31789158054,
+    "unspecified": 521.5002451707815
   }
 ]
