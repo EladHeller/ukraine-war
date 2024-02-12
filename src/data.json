@@ -9814,5 +9814,17 @@
     "liberated": 43276.79656822377,
     "occupied": 64601.31789158054,
     "unspecified": 521.5002451707815
+  },
+  {
+    "id": 1707686615,
+    "description": "Ворог просунувся на півночі та півдні <a href=\"https://deepstatemap.live/#13/48.1286/37.7462\">Авдіївки</a>. Уточнено район <a href=\"https://deepstatemap.live/#13/49.2700/37.9896\">Нововодяного</a> та <a href=\"https://deepstatemap.live/#14/48.5218/37.9856\">Кліщіївки</a>.</p>",
+    "descriptionEn": "The enemy advanced in the north and south of <a href=\"https://deepstatemap.live/en#13/48.1286/37.7462\">Avdiivka</a>. The area of <a href=\"https://deepstatemap.live/en#13/49.2700/37.9896\">Novovodyane</a> and <a href=\"https://deepstatemap.live/en#14/48.5218/37.9856\">Klishchiivka</a> has been clarified.",
+    "updatedAt": "2024-02-11T21:42:19.736Z",
+    "datetime": "11.02 o 22:23",
+    "status": true,
+    "createdAt": "2024-02-11T21:23:35.000Z",
+    "liberated": 43275.75741986857,
+    "occupied": 64601.21201615295,
+    "unspecified": 524.3150108621229
   }
 ]
