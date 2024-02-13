@@ -9838,5 +9838,17 @@
     "liberated": 43275.75741986857,
     "occupied": 64602.54595418335,
     "unspecified": 524.3523044969742
+  },
+  {
+    "id": 1707843973,
+    "description": "Ворог просунувся <a href=\"https://deepstatemap.live/#15/47.8542/37.5095\">в Новомихайлівці</a>, на півночі та півдні <a href=\"https://deepstatemap.live/#13/48.1342/37.7486\">Авдіївки</a>. Оновлено лінію зіткнення в <a href=\"https://deepstatemap.live/#14/46.7253/33.0585\">Кринках</a>.",
+    "descriptionEn": "The enemy advanced <a href=\"https://deepstatemap.live/en#15/47.8542/37.5095\">in Novomykhailivka</a>, in the north and south of <a href=\"https://deepstatemap.live/en#13/48.1342/37.7486\">Avdiivka</a>. Updated the frontline in <a href=\"https://deepstatemap.live/en#14/46.7253/33.0585\">Krynky</a>.",
+    "updatedAt": "2024-02-13T17:37:11.518Z",
+    "datetime": "13.02 o 18:06",
+    "status": true,
+    "createdAt": "2024-02-13T17:06:13.000Z",
+    "liberated": 43275.273601988745,
+    "occupied": 64604.96899292642,
+    "unspecified": 526.2379751292103
   }
 ]
