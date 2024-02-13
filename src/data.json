@@ -9826,5 +9826,17 @@
     "liberated": 43275.75741986857,
     "occupied": 64601.21201615295,
     "unspecified": 524.3150108621229
+  },
+  {
+    "id": 1707773651,
+    "description": "Ворог просунувся північніше <a href=\"https://deepstatemap.live/#14/48.5918/37.9254\">Іванівського</a>.",
+    "descriptionEn": "The enemy advanced on north of <a href=\"https://deepstatemap.live/en#14/48.5918/37.9254\">Ivanivske</a>.",
+    "updatedAt": "2024-02-12T22:28:51.276Z",
+    "datetime": "12.02 o 22:34",
+    "status": true,
+    "createdAt": "2024-02-12T21:34:11.000Z",
+    "liberated": 43275.75741986857,
+    "occupied": 64602.54595418335,
+    "unspecified": 524.3523044969742
   }
 ]
