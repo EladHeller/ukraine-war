@@ -9862,5 +9862,17 @@
     "liberated": 43275.273601988745,
     "occupied": 64605.457087682065,
     "unspecified": 526.9202192099318
+  },
+  {
+    "id": 1708002146,
+    "description": "Ворог просунувся східніше <a href=\"https://deepstatemap.live/#14/48.1509/37.7124\">Ласточкиного</a>&nbsp;та на півдні <a href=\"https://deepstatemap.live/#14/48.1088/37.7400\">Авдіївки</a>.",
+    "descriptionEn": "The enemy advanced on east of <a href=\"https://deepstatemap.live/en#14/48.1509/37.7124\">Lastochkyne</a> and in the south <a href=\"https://deepstatemap.live/en#14/48.1088/37.7400\">Avdiivka</a>.",
+    "updatedAt": "2024-02-15T13:02:26.280Z",
+    "datetime": "15.02 o 14:02",
+    "status": true,
+    "createdAt": "2024-02-15T13:02:26.000Z",
+    "liberated": 43275.273601988745,
+    "occupied": 64606.56477830988,
+    "unspecified": 527.433422169925
   }
 ]
