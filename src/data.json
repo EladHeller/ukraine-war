@@ -9874,5 +9874,17 @@
     "liberated": 43275.273601988745,
     "occupied": 64606.56477830988,
     "unspecified": 527.433422169925
+  },
+  {
+    "id": 1708024247,
+    "description": "Ворог захопив позицію <a href=\"https://deepstatemap.live/#15/48.0986/37.7545\">Зеніт</a>, яка південніше Авдіївки.",
+    "descriptionEn": "The enemy captured the position of <a href=\"https://deepstatemap.live/en#15/48.0986/37.7545\">Zenith</a>, which is on south of Avdiivka.",
+    "updatedAt": "2024-02-15T19:10:56.116Z",
+    "datetime": "15.02 o 20:10",
+    "status": true,
+    "createdAt": "2024-02-15T19:10:47.000Z",
+    "liberated": 43275.273601988745,
+    "occupied": 64610.44814444105,
+    "unspecified": 526.9155795835585
   }
 ]
