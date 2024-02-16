@@ -9886,5 +9886,17 @@
     "liberated": 43275.273601988745,
     "occupied": 64610.44814444105,
     "unspecified": 526.9155795835585
+  },
+  {
+    "id": 1708075626,
+    "description": "Ворог захопив <a href=\"https://deepstatemap.live/#14/48.1343/37.8075\">Донецьку фільтрувальну станцію</a> та просунувся біля <a href=\"https://deepstatemap.live/#14/48.0444/37.5844\">Невельського</a>.</p>",
+    "descriptionEn": "The enemy captured <a href=\"https://deepstatemap.live/en#14/48.1343/37.8075\">Donetsk Filtering Station</a> and advanced near <a href=\"https://deepstatemap.live/en#14/48.0444/37.5844\">Nevelsky</a>.",
+    "updatedAt": "2024-02-16T09:27:06.836Z",
+    "datetime": "16.02 o 10:27",
+    "status": true,
+    "createdAt": "2024-02-16T09:27:06.000Z",
+    "liberated": 43275.273601988745,
+    "occupied": 64612.62635824335,
+    "unspecified": 531.8713784264917
   }
 ]
