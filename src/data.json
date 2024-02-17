@@ -9898,5 +9898,17 @@
     "liberated": 43275.273601988745,
     "occupied": 64612.62635824335,
     "unspecified": 531.8713784264917
+  },
+  {
+    "id": 1708121752,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.1498/37.7344\">Авдіївці</a>, біля <a href=\"https://deepstatemap.live/#14/48.0530/37.5917\">Невельського</a> та <a href=\"https://deepstatemap.live/#15/48.1520/37.7011\">Ласточкиного</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.1498/37.7344\">Avdiivka</a>, near <a href=\"https://deepstatemap.live/en#14/48.0530/37.5917\">Nevelske</a> and <a href=\"https://deepstatemap.live/en#15/48.1520/37.7011\">Lastochkyne</a>.",
+    "updatedAt": "2024-02-16T22:15:52.706Z",
+    "datetime": "16.02 o 23:15",
+    "status": true,
+    "createdAt": "2024-02-16T22:15:52.000Z",
+    "liberated": 43274.878913418506,
+    "occupied": 64615.349060248016,
+    "unspecified": 535.5177657326124
   }
 ]
