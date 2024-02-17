@@ -9910,5 +9910,17 @@
     "liberated": 43274.878913418506,
     "occupied": 64615.349060248016,
     "unspecified": 535.5177657326124
+  },
+  {
+    "id": 1708157026,
+    "description": "Сили Оборони України залишили <a href=\"https://deepstatemap.live/#13/48.1343/37.7486\">Авдіївку</a>.",
+    "descriptionEn": "The Defense Forces of Ukraine left <a href=\"https://deepstatemap.live/en#13/48.1343/37.7486\">Avdiivka</a>.",
+    "updatedAt": "2024-02-17T08:03:47.154Z",
+    "datetime": "17.02 o 09:03",
+    "status": true,
+    "createdAt": "2024-02-17T08:03:46.000Z",
+    "liberated": 43274.302104510076,
+    "occupied": 64638.80461831281,
+    "unspecified": 531.907156408524
   }
 ]
