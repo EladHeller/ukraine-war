@@ -9922,5 +9922,17 @@
     "liberated": 43274.302104510076,
     "occupied": 64638.80461831281,
     "unspecified": 531.907156408524
+  },
+  {
+    "id": 1708173171,
+    "description": "Ворог захопив мійкрорайон \"<a href=\"https://deepstatemap.live/#14/48.1319/37.7408\">Хімік</a>\" та <a href=\"https://deepstatemap.live/#14/48.1679/37.6971\">Авдіївський коксохімічни завод</a>. Противник просунувся східніше <a href=\"https://deepstatemap.live/#14/49.0885/37.9949\">Тернів</a>.",
+    "descriptionEn": "The enemy captured the district \"<a href=\"https://deepstatemap.live/en#14/48.1319/37.7408\">Khimik</a>\" and <a href=\"https://deepstatemap.live/en#14/48.1679/37.6971\">Avdiivka Coke Chemical Plant</a>. The enemy advanced on east of <a href=\"https://deepstatemap.live/en#14/49.0885/37.9949\">Terny</a>.",
+    "updatedAt": "2024-02-17T12:37:28.115Z",
+    "datetime": "17.02 o 13:32",
+    "status": true,
+    "createdAt": "2024-02-17T12:32:51.000Z",
+    "liberated": 43272.50739349937,
+    "occupied": 64654.725960378266,
+    "unspecified": 522.2747590394728
   }
 ]
