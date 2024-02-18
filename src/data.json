@@ -9934,5 +9934,17 @@
     "liberated": 43272.50739349937,
     "occupied": 64654.725960378266,
     "unspecified": 522.2747590394728
+  },
+  {
+    "id": 1708268516,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.5842/37.9381\">Іванівського</a> та <a href=\"https://deepstatemap.live/#14/47.4409/35.9162\">Вербового</a>. Тривають бої південніше та західніше <a href=\"https://deepstatemap.live/#14/47.4314/35.8282\">Роботиного</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.5842/37.9381\">Ivanivske</a> and <a href=\"https://deepstatemap.live/en#14/47.4409/35.9162\">Verbove</a>. Fighting continues on south and west of <a href=\"https://deepstatemap.live/en#14/47.4314/35.8282\">Robotyne</a>.",
+    "updatedAt": "2024-02-18T15:01:56.453Z",
+    "datetime": "18.02 o 16:01",
+    "status": true,
+    "createdAt": "2024-02-18T15:01:56.000Z",
+    "liberated": 43269.5066027104,
+    "occupied": 64658.098176391635,
+    "unspecified": 522.3682406970418
   }
 ]
