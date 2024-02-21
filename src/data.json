@@ -9958,5 +9958,17 @@
     "liberated": 43269.5066027104,
     "occupied": 64658.34060116032,
     "unspecified": 522.915070127754
+  },
+  {
+    "id": 1708466396,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/47.9282/37.4745\">Побєди</a>, уточнено лінію зіткнення біля <a href=\"https://deepstatemap.live/#13/47.4304/35.8359\">Роботиного</a>.",
+    "descriptionEn": "Enemy advanced near <a href=\"https://deepstatemap.live/en#13/47.9282/37.4745\">Pobeda</a>, frontline near <a href=\"https://deepstatemap.live/en#13/47.4304/35.8359\">Robotyne</a>.",
+    "updatedAt": "2024-02-20T22:26:31.571Z",
+    "datetime": "20.02 o 22:59",
+    "status": true,
+    "createdAt": "2024-02-20T21:59:56.000Z",
+    "liberated": 43269.09080411273,
+    "occupied": 64660.80203099115,
+    "unspecified": 526.2532179171714
   }
 ]
