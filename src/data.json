@@ -9982,5 +9982,17 @@
     "liberated": 43269.09080411273,
     "occupied": 64664.95516508828,
     "unspecified": 525.3683851466019
+  },
+  {
+    "id": 1708638949,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#14/48.5763/37.9343\">Іванівському</a>, в <a href=\"https://deepstatemap.live/#14/48.1305/37.6741\">Сєверному</a> та східніше <a href=\"https://deepstatemap.live/#14/48.1772/37.6773\">Орлівки</a>. Противника відкинуто в <a href=\"https://deepstatemap.live/#14/47.9145/37.4592\">Побєді</a>.",
+    "descriptionEn": "The enemy has advanced in <a href=\"https://deepstatemap.live/en#14/48.5763/37.9343\">Ivanivske</a>, in <a href=\"https://deepstatemap.live/en#14/48.1305/37.6741\">Severne</a> and on east of <a href=\"https://deepstatemap.live/en#14/48.1772/37.6773\">Orlivka</a>. Enemy was pushed back in <a href=\"https://deepstatemap.live/en#14/47.9145/37.4592\">Pobeda</a>.",
+    "updatedAt": "2024-02-22T22:35:59.836Z",
+    "datetime": "22.02 o 22:55",
+    "status": true,
+    "createdAt": "2024-02-22T21:55:49.000Z",
+    "liberated": 43269.09080411273,
+    "occupied": 64671.34267514251,
+    "unspecified": 526.7329961472492
   }
 ]
