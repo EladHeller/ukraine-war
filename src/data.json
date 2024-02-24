@@ -9994,5 +9994,17 @@
     "liberated": 43269.09080411273,
     "occupied": 64671.34267514251,
     "unspecified": 526.7329961472492
+  },
+  {
+    "id": 1708724746,
+    "description": "Ворога відкинуто біля <a href=\"https://deepstatemap.live/#14/47.7987/37.4231\">Новомихайлівки</a>. Уточнено лінію зіткнення.",
+    "descriptionEn": "The enemy was pushed back near <a href=\"https://deepstatemap.live/en#14/47.7987/37.4231\">Novomykhailivka</a>. The front line clarified .",
+    "updatedAt": "2024-02-24T01:15:42.313Z",
+    "datetime": "23.02 o 22:45",
+    "status": true,
+    "createdAt": "2024-02-23T21:45:46.000Z",
+    "liberated": 43268.59211157221,
+    "occupied": 64669.90011974621,
+    "unspecified": 529.6620043215079
   }
 ]
