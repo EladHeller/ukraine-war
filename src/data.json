@@ -10018,5 +10018,17 @@
     "liberated": 43268.59211157221,
     "occupied": 64676.01599694542,
     "unspecified": 530.1314201847928
+  },
+  {
+    "id": 1708897127,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.1580/37.6698\">Орлівки</a>, <a href=\"https://deepstatemap.live/#14/48.1472/37.6637\">Тоненького</a> та <a href=\"https://deepstatemap.live/#16/48.5901/37.9216\">Іванівського</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.1580/37.6698\">Orlivka</a>, <a href=\"https://deepstatemap.live/en#14/48.1472/37.6637\">Tonenke</a> and <a href=\"https://deepstatemap.live/en#16/48.5901/37.9216\">Ivanivske</a>.",
+    "updatedAt": "2024-02-25T21:49:46.125Z",
+    "datetime": "25.02 o 22:38",
+    "status": true,
+    "createdAt": "2024-02-25T21:38:47.000Z",
+    "liberated": 43268.59211157221,
+    "occupied": 64680.68118888379,
+    "unspecified": 530.2273699235002
   }
 ]
