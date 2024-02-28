@@ -10042,5 +10042,17 @@
     "liberated": 43268.59211157221,
     "occupied": 64686.89998614905,
     "unspecified": 530.2935088275975
+  },
+  {
+    "id": 1709068888,
+    "description": "Ворог просунувся південніше <a href=\"https://deepstatemap.live/#15/48.1897/37.6746\">Степового</a> та південніше <a href=\"https://deepstatemap.live/#14/47.9763/37.5169\">Красногорівки (М)</a>.",
+    "descriptionEn": "The enemy advanced south of <a href=\"https://deepstatemap.live/en#15/48.1897/37.6746\">Stepove</a> and south of <a href=\"https://deepstatemap.live/en#14/47.9763/37.5169\">Krasnohorivka (M)</a>.",
+    "updatedAt": "2024-02-28T00:44:17.837Z",
+    "datetime": "27.02 o 22:21",
+    "status": true,
+    "createdAt": "2024-02-27T21:21:28.000Z",
+    "liberated": 43268.59211157221,
+    "occupied": 64690.089835115075,
+    "unspecified": 527.9844244504689
   }
 ]
