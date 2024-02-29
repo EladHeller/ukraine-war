@@ -10054,5 +10054,17 @@
     "liberated": 43268.59211157221,
     "occupied": 64690.089835115075,
     "unspecified": 527.9844244504689
+  },
+  {
+    "id": 1709156704,
+    "description": "Ворог просунувся південніше <a href=\"https://deepstatemap.live/#13/48.1824/37.6674\">Бердичів</a>, в <a href=\"https://deepstatemap.live/#13/48.1609/37.6434\">Орлівці</a>, південніше <a href=\"https://deepstatemap.live/#13/48.1262/37.6523\">Тоненького</a> та біля <a href=\"https://deepstatemap.live/#13/48.0535/37.5800\">Невельського</a>.",
+    "descriptionEn": "The enemy advanced on south of <a href=\"https://deepstatemap.live/en#13/48.1824/37.6674\">Berdychi</a>, in <a href=\"https://deepstatemap.live/en#13/48.1609/37.6434\">Orlivka</a>, south of <a href=\"https://deepstatemap.live/en#13/48.1262/37.6523\">Tonenke</a> and near <a href=\"https://deepstatemap.live/en#13/48.0535/37.5800\">Nevelske</a>.",
+    "updatedAt": "2024-02-28T21:45:04.874Z",
+    "datetime": "28.02 o 22:45",
+    "status": true,
+    "createdAt": "2024-02-28T21:45:04.000Z",
+    "liberated": 43268.59211157221,
+    "occupied": 64701.02985719215,
+    "unspecified": 531.7303071229238
   }
 ]
