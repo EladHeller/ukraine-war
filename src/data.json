@@ -10063,8 +10063,20 @@
     "datetime": "28.02 o 22:45",
     "status": true,
     "createdAt": "2024-02-28T21:45:04.000Z",
+    "liberated": 43268.28256784831,
+    "occupied": 64699.98576518635,
+    "unspecified": 531.9531534448762
+  },
+  {
+    "id": 1709243973,
+    "description": "Оновлено лінію зіткнення біля <a href=\"https://deepstatemap.live/#14/48.5504/37.9502\">Кліщіївки</a>, <a href=\"https://deepstatemap.live/#14/47.8025/37.4304\">Новомихайлівки</a> та <a href=\"https://deepstatemap.live/#14/48.1314/37.6433\">Тоненького</a>. Ворог проводить штурми в <a href=\"https://deepstatemap.live/#15/48.5823/37.9270\">Іванівському</a> та <a href=\"https://deepstatemap.live/#15/48.1921/37.6614\">Бердичах</a>.",
+    "descriptionEn": "Updated the frontline near <a href=\"https://deepstatemap.live/en#14/48.5504/37.9502\">Klishchiivka</a>, <a href=\"https://deepstatemap.live/en#14/47.8025/37.4304\">Novomykhailivky</a> and <a href=\"https://deepstatemap.live/en#14/48.1314/37.6433\">Tonenke</a>. The enemy is conducting assaults in <a href=\"https://deepstatemap.live/en#15/48.5823/37.9270\">Ivanovske</a> and <a href=\"https://deepstatemap.live/en#15/48.1921/37.6614\">Berdychi</a>.",
+    "updatedAt": "2024-02-29T23:03:28.668Z",
+    "datetime": "29.02 o 22:59",
+    "status": true,
+    "createdAt": "2024-02-29T21:59:33.000Z",
     "liberated": 43268.59211157221,
-    "occupied": 64701.02985719215,
-    "unspecified": 531.7303071229238
+    "occupied": 64699.87891843818,
+    "unspecified": 531.7504564691561
   }
 ]
