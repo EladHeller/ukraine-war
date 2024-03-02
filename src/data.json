@@ -10078,5 +10078,17 @@
     "liberated": 43268.28256784831,
     "occupied": 64699.98576518635,
     "unspecified": 531.9531534448762
+  },
+  {
+    "id": 1709329057,
+    "description": "Сили Оборони відкинули ворога біля <a href=\"https://deepstatemap.live/#13/49.6059/37.8729\">Табаївки</a>. Противник просунувся в <a href=\"https://deepstatemap.live/#13/48.5760/37.9259\">Іванівському</a> та <a href=\"https://deepstatemap.live/#14/47.8507/37.4885\">Новомихайлівці</a>. Оновлено лінію зіткнення в <a href=\"https://deepstatemap.live/#14/47.9583/37.4634\">Георгіївці</a>.",
+    "descriptionEn": "The Defense Forces pushed back the enemy near <a href=\"https://deepstatemap.live/en#13/49.6059/37.8729\">Tabaivka</a>. The enemy advanced in <a href=\"https://deepstatemap.live/en#13/48.5760/37.9259\">Ivanivske</a> and <a href=\"https://deepstatemap.live/en#14/47.8507/37.4885\">Novomykhailivka</a>. Updated the frontline in <a href=\"https://deepstatemap.live/en#14/47.9583/37.4634\">Heorhiivka</a>.",
+    "updatedAt": "2024-03-01T21:55:31.366Z",
+    "datetime": "01.03 o 22:37",
+    "status": true,
+    "createdAt": "2024-03-01T21:37:37.000Z",
+    "liberated": 43268.35325346713,
+    "occupied": 64705.557291163044,
+    "unspecified": 530.1853007894338
   }
 ]
