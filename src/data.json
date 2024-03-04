@@ -10102,5 +10102,17 @@
     "liberated": 43268.35325346713,
     "occupied": 64705.9930177667,
     "unspecified": 529.7495741858004
+  },
+  {
+    "id": 1709501671,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/47.8520/37.4875\">Новомихайлівці</a>. Оновлено лінію зіткнення біля <a href=\"https://deepstatemap.live/#14/48.1534/37.6446\">Орлівки</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/47.8520/37.4875\">Novomykhailivka</a>. Updated the frontline near <a href=\"https://deepstatemap.live/en#14/48.1534/37.6446\">Orlivka</a>.",
+    "updatedAt": "2024-03-03T21:47:36.215Z",
+    "datetime": "03.03 o 22:34",
+    "status": true,
+    "createdAt": "2024-03-03T21:34:31.000Z",
+    "liberated": 43268.35325346713,
+    "occupied": 64707.35654843574,
+    "unspecified": 528.7136428988489
   }
 ]
