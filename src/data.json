@@ -10138,5 +10138,17 @@
     "liberated": 43268.35325346713,
     "occupied": 64707.29575381258,
     "unspecified": 527.9376115625497
+  },
+  {
+    "id": 1709761976,
+    "description": "Ворога відкинуто північніше <a href=\"https://deepstatemap.live/#14/47.9665/37.4882\">Мар'їнки</a>. Противник просунувся південніше <a href=\"https://deepstatemap.live/#14/48.1540/37.6341\">Орлівки</a>. Уточнюється лінія зіткнення біля <a href=\"https://deepstatemap.live/#13/47.4429/35.8862\">Роботиного</a>, в <a href=\"https://deepstatemap.live/#13/48.0935/37.6042\">Первомайському</a> та <a href=\"https://deepstatemap.live/#13/47.8523/37.4803\">Новомихайлівці</a>.",
+    "descriptionEn": "The enemy was pushed back on north of <a href=\"https://deepstatemap.live/en#14/47.9665/37.4882\">Maryinka</a>. The enemy advanced on south of <a href=\"https://deepstatemap.live/en#14/48.1540/37.6341\">Orlivka</a>. The frontline is being clarified near <a href=\"https://deepstatemap.live/en#13/47.4429/35.8862\">Robotyne</a>, in <a href=\"https://deepstatemap.live/en#13/48.0935/37.6042\">Pervomaiske</a> and <a href=\"https://deepstatemap.live/en#13/47.8523/37.4803\">Novomykhailivka</a>.",
+    "updatedAt": "2024-03-06T22:10:27.867Z",
+    "datetime": "06.03 o 22:52",
+    "status": true,
+    "createdAt": "2024-03-06T21:52:56.000Z",
+    "liberated": 43267.47755538159,
+    "occupied": 64707.84270603546,
+    "unspecified": 528.1502498883644
   }
 ]
