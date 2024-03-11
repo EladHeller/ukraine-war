@@ -10186,5 +10186,17 @@
     "liberated": 43267.47755538169,
     "occupied": 64709.39574474814,
     "unspecified": 527.4497445301733
+  },
+  {
+    "id": 1710106492,
+    "description": "Уточнюється лінія зіткнення біля села <a href=\"https://deepstatemap.live/#14/47.7406/37.1302\">Шевченко</a>.",
+    "descriptionEn": "The frontline near the village of <a href=\"https://deepstatemap.live/en#14/47.7406/37.1302\">Shevchenko</a> is being clarified.",
+    "updatedAt": "2024-03-10T22:51:11.788Z",
+    "datetime": "10.03 o 22:34",
+    "status": true,
+    "createdAt": "2024-03-10T21:34:52.000Z",
+    "liberated": 43263.63378829142,
+    "occupied": 64709.81534748609,
+    "unspecified": 530.8739088818451
   }
 ]
