@@ -10210,5 +10210,17 @@
     "liberated": 43262.81871217968,
     "occupied": 64710.36008990351,
     "unspecified": 532.470503230818
+  },
+  {
+    "id": 1710252880,
+    "description": "Російські визвольні сили вибили ворога з <a href=\"https://deepstatemap.live/#12/50.4524/35.6003\">Козинки</a> та <a href=\"https://deepstatemap.live/#14/50.4369/35.9125\">Лозової Рудки</a>. Бої тривають в <a href=\"https://deepstatemap.live/#14/50.3350/36.8317\">Новій Тавальжанці</a>, <a href=\"https://deepstatemap.live/#14/50.3407/36.2897\">Нехотіївці</a> та <a href=\"https://deepstatemap.live/#12/51.2663/34.2824\">Тьоткиному</a>.",
+    "descriptionEn": "Russian liberation forces have driven the enemy out of <a href=\"https://deepstatemap.live/en#12/50.4524/35.6003\">Kozynka</a> and <a href=\"https://deepstatemap.live/en#14/50.4369/35.9125\">Lozova Rudka</a>. Fighting continues in <a href=\"https://deepstatemap.live/en#14/50.3350/36.8317\">Nova Tavalzhanka</a>, <a href=\"https://deepstatemap.live/en#14/50.3407/36.2897\">Nekhotiyivka</a> and <a href=\"https://deepstatemap.live/en#12/51.2663/34.2824\">Tyotkyne</a>.",
+    "updatedAt": "2024-03-12T14:14:40.543Z",
+    "datetime": "12.03 o 15:14",
+    "status": true,
+    "createdAt": "2024-03-12T14:14:40.000Z",
+    "liberated": 43262.7077325136,
+    "occupied": 64710.457918848464,
+    "unspecified": 574.2925093200581
   }
 ]
