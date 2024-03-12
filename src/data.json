@@ -10198,5 +10198,17 @@
     "liberated": 43263.63378829142,
     "occupied": 64709.81534748609,
     "unspecified": 530.8739088818451
+  },
+  {
+    "id": 1710193648,
+    "description": "Ворога відкинуто біля <a href=\"https://deepstatemap.live/#15/48.6262/37.8966\">Богданівки</a>. Противник просунувся біля <a href=\"https://deepstatemap.live/#15/48.0582/37.5888\">Невельського</a>.",
+    "descriptionEn": "The enemy was pushed back near <a href=\"https://deepstatemap.live/en#15/48.6262/37.8966\">Bohdanivka</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#15/48.0582/37.5888\">Nevelske</a>.",
+    "updatedAt": "2024-03-11T21:47:28.685Z",
+    "datetime": "11.03 o 22:47",
+    "status": true,
+    "createdAt": "2024-03-11T21:47:28.000Z",
+    "liberated": 43262.81871217968,
+    "occupied": 64710.36008990351,
+    "unspecified": 532.470503230818
   }
 ]
