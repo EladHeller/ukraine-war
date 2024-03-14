@@ -10222,5 +10222,17 @@
     "liberated": 43262.7077325136,
     "occupied": 64710.457918848464,
     "unspecified": 574.2925093200581
+  },
+  {
+    "id": 1710366417,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/47.8609/37.5087\">Новомихайлівці</a>, <a href=\"https://deepstatemap.live/#16/48.1648/37.6421\">Орлівці</a>, <a href=\"https://deepstatemap.live/#15/48.0914/37.6082\">Первомайському</a> та східніше <a href=\"https://deepstatemap.live/#14/49.0910/37.9963\">Тернів</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/47.8609/37.5087\">Novomykhailivka</a>, <a href=\"https://deepstatemap.live/en#16/48.1648/37.6421\">Orlivka</a>, <a href=\"https://deepstatemap.live/en#15/48.0914/37.6082\">Pervomaiske</a> and east of <a href=\"https://deepstatemap.live/en#14/49.0910/37.9963\">Terny</a>.",
+    "updatedAt": "2024-03-13T22:45:48.682Z",
+    "datetime": "13.03 o 22:46",
+    "status": true,
+    "createdAt": "2024-03-13T21:46:57.000Z",
+    "liberated": 43261.60746631687,
+    "occupied": 64715.76696984799,
+    "unspecified": 571.5374680051135
   }
 ]
