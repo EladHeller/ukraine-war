@@ -10234,5 +10234,17 @@
     "liberated": 43261.60746631687,
     "occupied": 64715.76696984799,
     "unspecified": 571.5374680051135
+  },
+  {
+    "id": 1710452763,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/47.7388/37.1349\">Шевченко</a>. Тривають бої біля <a href=\"https://deepstatemap.live/#14/47.4657/35.9394\">Вербового</a> та <a href=\"https://deepstatemap.live/#13/48.1792/37.6483\">Орлівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.7388/37.1349\">Shevchenko</a>. Fighting continues near <a href=\"https://deepstatemap.live/en#14/47.4657/35.9394\">Verbove</a> and <a href=\"https://deepstatemap.live/en#13/48.1792/37.6483\">Orlivka</a>.",
+    "updatedAt": "2024-03-14T23:05:20.883Z",
+    "datetime": "14.03 o 22:46",
+    "status": true,
+    "createdAt": "2024-03-14T21:46:03.000Z",
+    "liberated": 43259.73097250338,
+    "occupied": 64717.511512631274,
+    "unspecified": 572.819894382653
   }
 ]
