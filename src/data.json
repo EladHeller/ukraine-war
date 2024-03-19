@@ -10282,5 +10282,17 @@
     "liberated": 43255.34423372402,
     "occupied": 64721.91676618994,
     "unspecified": 585.4647236319241
+  },
+  {
+    "id": 1710798442,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#15/48.1670/37.6320\">Орлівці</a> та біля <a href=\"https://deepstatemap.live/#14/47.4623/35.9431\">Вербового</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.1670/37.6320\">Orlivka</a> and near <a href=\"https://deepstatemap.live/en#14/47.4623/35.9431\">Verbove</a>.",
+    "updatedAt": "2024-03-18T22:32:50.119Z",
+    "datetime": "18.03 o 22:47",
+    "status": true,
+    "createdAt": "2024-03-18T21:47:22.000Z",
+    "liberated": 43255.34423372402,
+    "occupied": 64722.90655943299,
+    "unspecified": 584.474930389077
   }
 ]
