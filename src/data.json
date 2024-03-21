@@ -10306,5 +10306,17 @@
     "liberated": 43255.34423372402,
     "occupied": 64723.025401385676,
     "unspecified": 584.5099757882815
+  },
+  {
+    "id": 1710971456,
+    "description": "Уточнено ситуацію в <a href=\"https://deepstatemap.live/#15/47.9643/37.4610\">Георгіївці</a>.",
+    "descriptionEn": "The situation in <a href=\"https://deepstatemap.live/en#15/47.9643/37.4610\">Georgiivka</a> was clarified.",
+    "updatedAt": "2024-03-21T00:10:32.218Z",
+    "datetime": "20.03 o 22:50",
+    "status": true,
+    "createdAt": "2024-03-20T21:50:56.000Z",
+    "liberated": 43255.34423372402,
+    "occupied": 64723.12555109461,
+    "unspecified": 584.4098260792351
   }
 ]
