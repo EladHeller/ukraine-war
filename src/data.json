@@ -10318,5 +10318,17 @@
     "liberated": 43255.34423372402,
     "occupied": 64723.12555109461,
     "unspecified": 584.4098260792351
+  },
+  {
+    "id": 1711057103,
+    "description": "Ворог просунувся північніше <a href=\"https://deepstatemap.live/#15/48.1467/37.6311\">Тоненького</a>.",
+    "descriptionEn": "The enemy advanced north of <a href=\"https://deepstatemap.live/en#15/48.1467/37.6311\">Tonenke</a>.",
+    "updatedAt": "2024-03-21T21:57:11.349Z",
+    "datetime": "21.03 o 22:38",
+    "status": true,
+    "createdAt": "2024-03-21T21:38:23.000Z",
+    "liberated": 43255.34423372402,
+    "occupied": 64724.458156317574,
+    "unspecified": 584.8918108900866
   }
 ]
