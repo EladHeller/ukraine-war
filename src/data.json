@@ -10330,5 +10330,17 @@
     "liberated": 43255.34423372402,
     "occupied": 64724.458156317574,
     "unspecified": 584.8918108900866
+  },
+  {
+    "id": 1711141551,
+    "description": "Ворог просунувся на околицях <a href=\"https://deepstatemap.live/#14/48.1367/37.6273\">Тоненького</a> та в <a href=\"https://deepstatemap.live/#14/48.1948/37.6525\">Бердичах</a>. Тривають важкі бої в <a href=\"https://deepstatemap.live/#14/48.5741/37.9177\">Іванівському</a>, <a href=\"https://deepstatemap.live/#14/47.9446/37.4565\">Георгіївці</a>, <a href=\"https://deepstatemap.live/#15/48.1695/37.6263\">Семенівці</a> та <a href=\"https://deepstatemap.live/#15/47.4413/35.8355\">Роботиному</a>.",
+    "descriptionEn": "The enemy advanced on the outskirts of <a href=\"https://deepstatemap.live/en#14/48.1367/37.6273\">Tonenke</a> and in <a href=\"https://deepstatemap.live/en#14/48.1948/37.6525\">Berdychi</a>. Heavy fighting continues in <a href=\"https://deepstatemap.live/en#14/48.5741/37.9177\">Ivanivske</a>, <a href=\"https://deepstatemap.live/en#14/47.9446/37.4565\">Heorhiivka</a>, <a href=\"https://deepstatemap.live/en#15/48.1695/37.6263\">Semenivka</a> and <a href=\"https://deepstatemap.live/en#15/47.4413/35.8355\">Robotyne</a>.",
+    "updatedAt": "2024-03-22T21:17:19.017Z",
+    "datetime": "22.03 o 22:05",
+    "status": true,
+    "createdAt": "2024-03-22T21:05:51.000Z",
+    "liberated": 43255.34423372402,
+    "occupied": 64727.8044844509,
+    "unspecified": 587.7731455530487
   }
 ]
