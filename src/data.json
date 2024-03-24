@@ -10342,5 +10342,17 @@
     "liberated": 43255.34423372402,
     "occupied": 64727.8044844509,
     "unspecified": 587.7731455530487
+  },
+  {
+    "id": 1711228520,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.9652/38.1723\">Серебрянському лісництві</a>, біля <a href=\"https://deepstatemap.live/#15/48.6068/37.9008\">Часового Яру</a>, <a href=\"https://deepstatemap.live/#15/48.5861/37.9094\">Іванівського</a>, північніше <a href=\"https://deepstatemap.live/#15/48.1733/37.6379\">Орлівки</a>, південніше <a href=\"https://deepstatemap.live/#15/48.1237/37.6333\">Тоненького</a>, південніше <a href=\"https://deepstatemap.live/#15/47.9773/37.5268\">Красногорівки</a> та західніше <a href=\"https://deepstatemap.live/#14/47.7399/36.7611\">Старомайорського</a>. Уточнено район <a href=\"https://deepstatemap.live/#14/47.4401/35.9186\">Вербового</a>.",
+    "descriptionEn": "The enemy advanced in the <a href=\"https://deepstatemap.live/en#15/48.9652/38.1723\">Serebryanka forestry</a>, near <a href=\"https://deepstatemap.live/en#15/48.6068/37.9008\">Chasiv Yar</a>, <a href=\"https://deepstatemap.live/en#15/48.5861/37.9094\">Ivanivske</a>, north of <a href=\"https://deepstatemap.live/en#15/48.1733/37.6379\">Orlivka</a>, south of <a href=\"https://deepstatemap.live/en#15/48.1237/37.6333\">Tonenke</a>, south of <a href=\"https://deepstatemap.live/en#15/47.9773/37.5268\">Krasnohorivka</a> and west of <a href=\"https://deepstatemap.live/en#14/47.7399/36.7611\">Staromayorsk</a>. The area of <a href=\"https://deepstatemap.live/en#14/47.4401/35.9186\">Verbove</a> has been clarified.",
+    "updatedAt": "2024-03-23T21:19:12.499Z",
+    "datetime": "23.03 o 22:15",
+    "status": true,
+    "createdAt": "2024-03-23T21:15:20.000Z",
+    "liberated": 43268.10012869797,
+    "occupied": 64735.330892210135,
+    "unspecified": 584.0446932765886
   }
 ]
