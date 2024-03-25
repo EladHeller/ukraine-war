@@ -10354,5 +10354,17 @@
     "liberated": 43268.10012869797,
     "occupied": 64735.330892210135,
     "unspecified": 584.0446932765886
+  },
+  {
+    "id": 1711314501,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#15/47.8559/37.4898\">Новомихайлівці</a> та околицях.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/47.8559/37.4898\">Novomykhailivka</a> and its outskirts.",
+    "updatedAt": "2024-03-24T22:42:36.124Z",
+    "datetime": "24.03 o 22:08",
+    "status": true,
+    "createdAt": "2024-03-24T21:08:21.000Z",
+    "liberated": 43268.10012869797,
+    "occupied": 64737.69172376031,
+    "unspecified": 585.6521514677689
   }
 ]
