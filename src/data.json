@@ -10390,5 +10390,17 @@
     "liberated": 43268.10012869797,
     "occupied": 64737.9966006464,
     "unspecified": 586.7498430760436
+  },
+  {
+    "id": 1711659963,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#16/47.8513/37.4807\">Новомихайлівці</a>, уточнено район <a href=\"https://deepstatemap.live/#15/48.1674/37.6295\">Орлівки</a> та <a href=\"https://deepstatemap.live/#15/46.7240/33.0504\">Кринок</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#16/47.8513/37.4807\">Novomykhailivka</a>, and the areas of <a href=\"https://deepstatemap.live/en#15/48.1674/37.6295\">Orlivka</a> and <a href=\"https://deepstatemap.live/en#15/46.7240/33.0504\">Krynky</a> were clarified.",
+    "updatedAt": "2024-03-28T21:30:27.981Z",
+    "datetime": "28.03 o 22:06",
+    "status": true,
+    "createdAt": "2024-03-28T21:06:03.000Z",
+    "liberated": 43268.10012869797,
+    "occupied": 64738.18583597949,
+    "unspecified": 586.5921700603114
   }
 ]
