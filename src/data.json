@@ -10402,5 +10402,17 @@
     "liberated": 43268.10012869797,
     "occupied": 64738.18583597949,
     "unspecified": 586.5921700603114
+  },
+  {
+    "id": 1711747670,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.0955/37.6015\">Первомайському</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.0955/37.6015\">Pervomaiske</a>.",
+    "updatedAt": "2024-03-29T21:45:34.224Z",
+    "datetime": "29.03 o 22:27",
+    "status": true,
+    "createdAt": "2024-03-29T21:27:50.000Z",
+    "liberated": 43268.10012869797,
+    "occupied": 64739.310139706395,
+    "unspecified": 586.7573875138792
   }
 ]
