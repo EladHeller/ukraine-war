@@ -10426,5 +10426,17 @@
     "liberated": 43268.10012869797,
     "occupied": 64738.304214419266,
     "unspecified": 591.6156724236162
+  },
+  {
+    "id": 1711917948,
+    "description": "Ворог просунувся східніше <a href=\"https://deepstatemap.live/#15/48.5924/37.8991\">Часового Яру</a>.",
+    "descriptionEn": "The enemy advanced east of <a href=\"https://deepstatemap.live/en#15/48.5924/37.8991\">Chasiv Yar</a>.",
+    "updatedAt": "2024-03-31T21:01:01.621Z",
+    "datetime": "31.03 o 22:45",
+    "status": true,
+    "createdAt": "2024-03-31T20:45:48.000Z",
+    "liberated": 43268.10012869797,
+    "occupied": 64739.188358074454,
+    "unspecified": 591.2531284426461
   }
 ]
