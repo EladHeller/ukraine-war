@@ -10438,5 +10438,17 @@
     "liberated": 43268.10012869797,
     "occupied": 64739.188358074454,
     "unspecified": 591.2531284426461
+  },
+  {
+    "id": 1712089235,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#15/48.1037/37.5944\">Водяне</a> та просунувся у <a href=\"https://deepstatemap.live/#15/48.5646/37.9184\">Іванівському</a>. Уточнюється лінія зіткнення біля <a href=\"https://deepstatemap.live/#15/47.4769/35.9430\">Вербового</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#15/48.1037/37.5944\">Vodyane</a> and advanced in <a href=\"https://deepstatemap.live/en#15/48.5646/37.9184\">Ivanivske</a>. The frontline near <a href=\"https://deepstatemap.live/en#15/47.4769/35.9430\">Verbove</a> is being clarified.",
+    "updatedAt": "2024-04-02T20:24:17.001Z",
+    "datetime": "02.04 o 22:20",
+    "status": true,
+    "createdAt": "2024-04-02T20:20:35.000Z",
+    "liberated": 43267.718009640106,
+    "occupied": 64740.436425843196,
+    "unspecified": 592.7859409849217
   }
 ]
