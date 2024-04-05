@@ -10462,5 +10462,17 @@
     "liberated": 43267.718009640106,
     "occupied": 64740.666533191696,
     "unspecified": 593.6993254128918
+  },
+  {
+    "id": 1712263319,
+    "description": "Ворога відкинуто біля <a href=\"https://deepstatemap.live/#15/48.0479/37.5778\">Невельського</a>. Тривають зіткнення біля <a href=\"https://deepstatemap.live/#14/48.7752/38.1807\">Веселого</a> та в <a href=\"https://deepstatemap.live/#15/47.4370/35.8364\">Роботиному</a>. Противник просунувся біля <a href=\"https://deepstatemap.live/#14/47.8684/37.4895\">Новомихайлівки</a>, <a href=\"https://deepstatemap.live/#14/47.7458/36.7585\">Старомайорського</a> та в <a href=\"https://deepstatemap.live/#15/48.5959/37.8862\">Часовому Яру</a>.",
+    "descriptionEn": "The enemy was pushed back near <a href=\"https://deepstatemap.live/en#15/48.0479/37.5778\">Nevelske</a>. Fighting continue near <a href=\"https://deepstatemap.live/en#14/48.7752/38.1807\">Vesele</a> and in <a href=\"https://deepstatemap.live/en#15/47.4370/35.8364\">Robotyne</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.8684/37.4895\">Novomykhailivka</a>, <a href=\"https://deepstatemap.live/en#14/47.7458/36.7585\">Staromayorske</a> and in <a href=\"https://deepstatemap.live/en#15/48.5959/37.8862\">Chasiv Yar</a>.",
+    "updatedAt": "2024-04-04T21:53:27.369Z",
+    "datetime": "04.04 o 22:41",
+    "status": true,
+    "createdAt": "2024-04-04T20:41:59.000Z",
+    "liberated": 43266.205122999585,
+    "occupied": 64742.901235306956,
+    "unspecified": 595.9195595757321
   }
 ]
