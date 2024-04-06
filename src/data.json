@@ -10474,5 +10474,17 @@
     "liberated": 43266.205122999585,
     "occupied": 64742.901235306956,
     "unspecified": 595.9195595757321
+  },
+  {
+    "id": 1712350773,
+    "description": "Сили Оборони відновили положення біля <a href=\"https://deepstatemap.live/#14/47.7429/36.7613\">Старомайорського</a>. Ворог просунувся біля <a href=\"https://deepstatemap.live/#15/48.1444/37.6007\">Уманського</a>.",
+    "descriptionEn": "Ukrainian Defence Forces regained their position near <a href=\"https://deepstatemap.live/en#14/47.7429/36.7613\">Staromayorsk</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#15/48.1444/37.6007\">Umanske</a>.",
+    "updatedAt": "2024-04-05T21:09:45.259Z",
+    "datetime": "05.04 o 22:59",
+    "status": true,
+    "createdAt": "2024-04-05T20:59:33.000Z",
+    "liberated": 43267.28390143819,
+    "occupied": 64743.59238023758,
+    "unspecified": 542.9456247558073
   }
 ]
