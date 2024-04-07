@@ -10486,5 +10486,17 @@
     "liberated": 43267.28390143819,
     "occupied": 64743.59238023758,
     "unspecified": 542.9456247558073
+  },
+  {
+    "id": 1712436822,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.1972/37.6488\">Бердичах</a> та біля <a href=\"https://deepstatemap.live/#14/47.4706/35.9396\">Вербового</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.1972/37.6488\">Berdychi</a> and near <a href=\"https://deepstatemap.live/en#14/47.4706/35.9396\">Verbove</a>.",
+    "updatedAt": "2024-04-06T21:00:25.786Z",
+    "datetime": "06.04 o 22:53",
+    "status": true,
+    "createdAt": "2024-04-06T20:53:42.000Z",
+    "liberated": 43266.69600913059,
+    "occupied": 64745.68584241551,
+    "unspecified": 543.3562042379352
   }
 ]
