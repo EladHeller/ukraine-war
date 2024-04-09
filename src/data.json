@@ -10510,5 +10510,17 @@
     "liberated": 43266.28890953554,
     "occupied": 64745.68584241551,
     "unspecified": 545.2766775501044
+  },
+  {
+    "id": 1712609336,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.6130/37.8905\">Богданівці</a>, <a href=\"https://deepstatemap.live/#15/47.8527/37.4810\">Новомихайлівці</a> та східніше <a href=\"https://deepstatemap.live/#14/48.5776/37.8991\">Часового Яру</a>. Тривають бої у <a href=\"https://deepstatemap.live/#15/47.4357/35.8363\">Роботиному</a>, південніше <a href=\"https://deepstatemap.live/#14/48.2329/37.7141\">Новокалинового</a>, <a href=\"https://deepstatemap.live/#15/48.1001/37.5843\">Первомайському</a> та <a href=\"https://deepstatemap.live/#15/47.9850/37.5217\">Красногорівці</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.6130/37.8905\">Bohdanivka</a>, <a href=\"https://deepstatemap.live/en#15/47.8527/37.4810\">Novomykhailivka</a> and east of <a href=\"https://deepstatemap.live/en#14/48.5776/37.8991\">Chasiv Yar</a>. Fighting continues in <a href=\"https://deepstatemap.live/en#15/47.4357/35.8363\">Robotyne</a>, south of <a href=\"https://deepstatemap.live/en#14/48.2329/37.7141\">Novokalynove</a>, <a href=\"https://deepstatemap.live/en#15/48.1001/37.5843\">Pervomaiske</a> and <a href=\"https://deepstatemap.live/en#15/47.9850/37.5217\">Krasnohorivka</a>.",
+    "updatedAt": "2024-04-08T21:07:29.710Z",
+    "datetime": "08.04 o 22:48",
+    "status": true,
+    "createdAt": "2024-04-08T20:48:56.000Z",
+    "liberated": 43266.28890953554,
+    "occupied": 64748.36458279795,
+    "unspecified": 547.1586557955031
   }
 ]
