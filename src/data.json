@@ -10522,5 +10522,17 @@
     "liberated": 43266.28890953554,
     "occupied": 64748.36458279795,
     "unspecified": 547.1586557955031
+  },
+  {
+    "id": 1712695162,
+    "description": "Ворог захопив <a href=\"https://deepstatemap.live/#14/48.1008/37.5841\">Первомайське</a> та просунувся південніше <a href=\"https://deepstatemap.live/#14/48.2338/37.7068\">Новокалинового</a>, східніше <a href=\"https://deepstatemap.live/#14/48.1487/37.5900\">Уманського</a>, південніше <a href=\"https://deepstatemap.live/#14/47.8457/37.4655\">Новомихайлівки</a>. Тривають активні бойові дії біля <a href=\"https://deepstatemap.live/#13/48.7827/38.1867\">Виїмки</a>, <a href=\"https://deepstatemap.live/#13/47.9858/37.5229\">Красногорівки</a>, <a href=\"https://deepstatemap.live/#13/48.1165/37.5986\">Водяного</a> та у <a href=\"https://deepstatemap.live/#15/47.4412/35.8356\">Роботиному</a>.",
+    "descriptionEn": "The enemy captured <a href=\"https://deepstatemap.live/en#14/48.1008/37.5841\">Pervomaiske</a> and advanced south of <a href=\"https://deepstatemap.live/en#14/48.2338/37.7068\">Novokalynove</a>, east of <a href=\"https://deepstatemap.live/en#14/48.1487/37.5900\">Umanske</a>, and south of <a href=\"https://deepstatemap.live/en#14/47.8457/37.4655\">Novomykhailivka</a>. Active fightings continued near <a href=\"https://deepstatemap.live/en#13/48.7827/38.1867\">Vyimka</a>, <a href=\"https://deepstatemap.live/en#13/47.9858/37.5229\">Krasnohorivka</a>, <a href=\"https://deepstatemap.live/en#13/48.1165/37.5986\">Vodyane</a> and in <a href=\"https://deepstatemap.live/en#15/47.4412/35.8356\">Robotyne</a>.",
+    "updatedAt": "2024-04-09T21:11:28.310Z",
+    "datetime": "09.04 o 22:39",
+    "status": true,
+    "createdAt": "2024-04-09T20:39:22.000Z",
+    "liberated": 43266.28890953554,
+    "occupied": 64752.23174591709,
+    "unspecified": 555.0352923414146
   }
 ]
