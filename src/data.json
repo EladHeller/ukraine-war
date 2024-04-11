@@ -10534,5 +10534,17 @@
     "liberated": 43266.28890953554,
     "occupied": 64752.23174591709,
     "unspecified": 555.0352923414146
+  },
+  {
+    "id": 1712782323,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/47.8550/37.4762\">Новомихайлівці</a>. Тривають бої у <a href=\"https://deepstatemap.live/#15/48.6145/37.8892\">Богданівці</a>, <a href=\"https://deepstatemap.live/#14/47.9916/37.5208\">Красногорівці</a>, <a href=\"https://deepstatemap.live/#14/47.7346/36.8280\">Урожайному</a> та <a href=\"https://deepstatemap.live/#14/47.4389/35.8345\">Роботиному</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/47.8550/37.4762\">Novomykhailivka</a>. Fighting continues in <a href=\"https://deepstatemap.live/en#15/48.6145/37.8892\">Bohdanivka</a>, <a href=\"https://deepstatemap.live/en#14/47.9916/37.5208\">Krasnohorivka</a>, <a href=\"https://deepstatemap.live/en#14/47.7346/36.8280\">Urozhayne</a> and <a href=\"https://deepstatemap.live/en#14/47.4389/35.8345\">Robotyne</a>.",
+    "updatedAt": "2024-04-11T06:42:26.547Z",
+    "datetime": "10.04 o 22:52",
+    "status": true,
+    "createdAt": "2024-04-10T20:52:03.000Z",
+    "liberated": 43265.856660021615,
+    "occupied": 64752.814868117355,
+    "unspecified": 555.8871056402652
   }
 ]
