@@ -10546,5 +10546,17 @@
     "liberated": 43265.856660021615,
     "occupied": 64752.814868117355,
     "unspecified": 555.8871056402652
+  },
+  {
+    "id": 1712866523,
+    "description": "Ворог просунувся північніше <a href=\"https://deepstatemap.live/#14/48.2057/37.6542\">Бердичів</a>. Тривають бої в <a href=\"https://deepstatemap.live/#14/47.4317/35.8263\">Роботиному</a>, <a href=\"https://deepstatemap.live/#14/47.9908/37.5283\">Красногорівці</a>, <a href=\"https://deepstatemap.live/#15/48.5711/37.9145\">Іванівському</a>, <a href=\"https://deepstatemap.live/#14/48.2417/37.7123\">Новокалиновому</a> та <a href=\"https://deepstatemap.live/#14/48.6180/37.8963\">Богданівці</a>.",
+    "descriptionEn": "The enemy advanced on north of <a href=\"https://deepstatemap.live/en#14/48.2057/37.6542\">Berdychi</a>. Fighting continues in <a href=\"https://deepstatemap.live/en#14/47.4317/35.8263\">Robotyne</a>, <a href=\"https://deepstatemap.live/en#14/47.9908/37.5283\">Krasnohorivka</a>, <a href=\"https://deepstatemap.live/en#15/48.5711/37.9145\">Ivanivske</a>, <a href=\"https://deepstatemap.live/en#14/48.2417/37.7123\">Novokalynove</a> and <a href=\"https://deepstatemap.live/en#14/48.6180/37.8963\">Bohdanivka</a>.",
+    "updatedAt": "2024-04-11T21:12:23.398Z",
+    "datetime": "11.04 o 22:15",
+    "status": true,
+    "createdAt": "2024-04-11T20:15:23.000Z",
+    "liberated": 43265.46685872496,
+    "occupied": 64753.34700425302,
+    "unspecified": 556.6921408950487
   }
 ]
