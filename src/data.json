@@ -10558,5 +10558,17 @@
     "liberated": 43265.46685872496,
     "occupied": 64753.34700425302,
     "unspecified": 556.6921408950487
+  },
+  {
+    "id": 1712955156,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#15/48.6172/37.8956\">Богданівку</a> та просунувся біля <a href=\"https://deepstatemap.live/#15/48.5753/37.8828\">Часового Яру</a>, <a href=\"https://deepstatemap.live/#15/48.2250/37.6663\">Новокалинового</a> та <a href=\"https://deepstatemap.live/#13/48.1246/37.5900\">Тоненького</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#15/48.6172/37.8956\">Bohdanivka</a> and advanced near <a href=\"https://deepstatemap.live/en#15/48.5753/37.8828\">Chasiv Yar</a>, <a href=\"https://deepstatemap.live/en#15/48.2250/37.6663\">Novokalynove</a> and <a href=\"https://deepstatemap.live/en#13/48.1246/37.5900\">Tonenke</a>.",
+    "updatedAt": "2024-04-12T21:35:56.543Z",
+    "datetime": "12.04 o 22:52",
+    "status": true,
+    "createdAt": "2024-04-12T20:52:36.000Z",
+    "liberated": 43265.46685872496,
+    "occupied": 64766.30270327945,
+    "unspecified": 548.7508371038407
   }
 ]
