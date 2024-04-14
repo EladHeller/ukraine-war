@@ -10582,5 +10582,17 @@
     "liberated": 43265.46685872496,
     "occupied": 64766.30270327945,
     "unspecified": 548.8873732687913
+  },
+  {
+    "id": 1713127184,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#15/48.6030/37.8891\">Часового Яру</a> та <a href=\"https://deepstatemap.live/#14/48.2244/37.6554\">Новобахмутівки</a>. Тривають бої в районі <a href=\"https://deepstatemap.live/#14/48.2113/37.6506\">Бердичів</a>, <a href=\"https://deepstatemap.live/#15/48.5861/37.8939\">Часового Яру</a>, <a href=\"https://deepstatemap.live/#14/47.7402/36.7660\">Старомайорського</a> та <a href=\"https://deepstatemap.live/#14/47.9891/37.5288\">Красногорівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#15/48.6030/37.8891\">Chasiv Yar</a> and <a href=\"https://deepstatemap.live/en#14/48.2244/37.6554\">Novobakhmutivka</a>. Fighting continues in the area of <a href=\"https://deepstatemap.live/en#14/48.2113/37.6506\">Berdychi</a>, <a href=\"https://deepstatemap.live/en#15/48.5861/37.8939\">Chasiv Yar</a>, <a href=\"https://deepstatemap.live/en#14/47.7402/36.7660\">Staromayorske</a> and <a href=\"https://deepstatemap.live/en#14/47.9891/37.5288\">Krasnohorivka</a>.",
+    "updatedAt": "2024-04-14T20:44:05.804Z",
+    "datetime": "14.04 o 22:39",
+    "status": true,
+    "createdAt": "2024-04-14T20:39:44.000Z",
+    "liberated": 43265.46685872496,
+    "occupied": 64767.77233476018,
+    "unspecified": 551.489054088811
   }
 ]
