@@ -10594,5 +10594,17 @@
     "liberated": 43265.46685872496,
     "occupied": 64767.77233476018,
     "unspecified": 551.489054088811
+  },
+  {
+    "id": 1713212131,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.2320/37.6377\">Очеретиного</a>, <a href=\"https://deepstatemap.live/#15/48.1855/37.6415\">Бердичів</a>, <a href=\"https://deepstatemap.live/#14/47.7406/36.7668\">Старомайорського</a> та <a href=\"https://deepstatemap.live/#14/47.9813/37.5395\">Красногорівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.2320/37.6377\">Ocheretyne</a>, <a href=\"https://deepstatemap.live/en#15/48.1855/37.6415\">Berdychi</a>, <a href=\"https://deepstatemap.live/en#14/47.7406/36.7668\">Staromayorske</a> and <a href=\"https://deepstatemap.live/en#14/47.9813/37.5395\">Krasnohorivka</a>.",
+    "updatedAt": "2024-04-15T20:25:33.431Z",
+    "datetime": "15.04 o 22:15",
+    "status": true,
+    "createdAt": "2024-04-15T20:15:31.000Z",
+    "liberated": 43264.66160120964,
+    "occupied": 64775.45942868954,
+    "unspecified": 549.8086655916887
   }
 ]
