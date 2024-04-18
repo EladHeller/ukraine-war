@@ -10618,5 +10618,17 @@
     "liberated": 43264.35035036306,
     "occupied": 64776.15002950976,
     "unspecified": 551.7601083657231
+  },
+  {
+    "id": 1713384227,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/48.2391/37.7185\">Новокалинового</a> та <a href=\"https://deepstatemap.live/#14/49.6659/37.9025\">Іванівки</a>. Тривають бої в <a href=\"https://deepstatemap.live/#16/48.2373/37.6206\">Очеретиному</a>, <a href=\"https://deepstatemap.live/#15/48.1996/37.6397\">Бердичах</a> та <a href=\"https://deepstatemap.live/#15/47.9918/37.5243\">Красногорівці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/48.2391/37.7185\">Novokalynove</a> and <a href=\"https://deepstatemap.live/en#14/49.6659/37.9025\">Ivanivka</a>. Fighting continues in <a href=\"https://deepstatemap.live/en#16/48.2373/37.6206\">Ocheretyne</a>, <a href=\"https://deepstatemap.live/en#15/48.1996/37.6397\">Berdychi</a> and <a href=\"https://deepstatemap.live/en#15/47.9918/37.5243\">Krasnohorivka</a>.",
+    "updatedAt": "2024-04-17T21:26:23.050Z",
+    "datetime": "17.04 o 22:03",
+    "status": true,
+    "createdAt": "2024-04-17T20:03:47.000Z",
+    "liberated": 43264.35035036306,
+    "occupied": 64781.829163558235,
+    "unspecified": 549.8788911878438
   }
 ]
