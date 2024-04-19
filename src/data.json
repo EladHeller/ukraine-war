@@ -10630,5 +10630,17 @@
     "liberated": 43264.35035036306,
     "occupied": 64781.829163558235,
     "unspecified": 549.8788911878438
+  },
+  {
+    "id": 1713473587,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#14/48.2468/37.7080\">Новокалиновому</a>. Тривають бої за електричну підстанцію в <a href=\"https://deepstatemap.live/#16/48.2366/37.6232\">Очеретиному</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.2468/37.7080\">Novokalynove</a>. Fighting continues for an electricity substation in <a href=\"https://deepstatemap.live/en#16/48.2366/37.6232\">Ocheretyne</a>.",
+    "updatedAt": "2024-04-18T20:55:44.600Z",
+    "datetime": "18.04 o 22:53",
+    "status": true,
+    "createdAt": "2024-04-18T20:53:07.000Z",
+    "liberated": 43264.35035036306,
+    "occupied": 64782.00801090277,
+    "unspecified": 549.3843802148086
   }
 ]
