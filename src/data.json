@@ -10642,5 +10642,17 @@
     "liberated": 43264.35035036306,
     "occupied": 64782.00801090277,
     "unspecified": 549.3843802148086
+  },
+  {
+    "id": 1713560305,
+    "description": "Ворог просунувся південніше <a href=\"https://deepstatemap.live/#14/47.9466/37.4657\">Георгіївки</a> та на околицях <a href=\"https://deepstatemap.live/#15/48.2376/37.6200\">Очеретиного</a>. Тривають бої південніше <a href=\"https://deepstatemap.live/#15/48.0919/37.5841\">Первомайського</a>.",
+    "descriptionEn": "The enemy has advanced south of <a href=\"https://deepstatemap.live/en#14/47.9466/37.4657\">Heorhiivka</a> and on the outskirts of <a href=\"https://deepstatemap.live/en#15/48.2376/37.6200\">Ocheretyne</a>. Fighting continues on south of <a href=\"https://deepstatemap.live/en#15/48.0919/37.5841\">Pervomaiske</a>.",
+    "updatedAt": "2024-04-19T22:08:37.083Z",
+    "datetime": "19.04 o 22:58",
+    "status": true,
+    "createdAt": "2024-04-19T20:58:25.000Z",
+    "liberated": 43264.35035036306,
+    "occupied": 64786.28090020577,
+    "unspecified": 549.3821791810735
   }
 ]
