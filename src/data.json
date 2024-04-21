@@ -10654,5 +10654,17 @@
     "liberated": 43264.35035036306,
     "occupied": 64786.28478745021,
     "unspecified": 549.378291936631
+  },
+  {
+    "id": 1713645581,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#13/47.8560/37.4705\">Новомихайлівці</a>. Тривають бої в <a href=\"https://deepstatemap.live/#14/48.2365/37.6189\">Очеретиному</a>, <a href=\"https://deepstatemap.live/#13/48.0881/37.5802\">Первомайському</a> та біля <a href=\"https://deepstatemap.live/#14/48.6061/37.8900\">Часового Яру</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#13/47.8560/37.4705\">Novomykhailivka</a>. Fighting continues in <a href=\"https://deepstatemap.live/en#14/48.2365/37.6189\">Ocheretyne</a>, <a href=\"https://deepstatemap.live/en#13/48.0881/37.5802\">Pervomaiske</a> and near <a href=\"https://deepstatemap.live/en#14/48.6061/37.8900\">Chasiv Yar</a>.",
+    "updatedAt": "2024-04-20T20:45:11.329Z",
+    "datetime": "20.04 o 22:39",
+    "status": true,
+    "createdAt": "2024-04-20T20:39:41.000Z",
+    "liberated": 43264.35035036306,
+    "occupied": 64788.02895550471,
+    "unspecified": 548.3204014296105
   }
 ]
