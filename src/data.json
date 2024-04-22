@@ -10678,5 +10678,17 @@
     "liberated": 43264.35035036306,
     "occupied": 64797.37290682158,
     "unspecified": 544.9400958285846
+  },
+  {
+    "id": 1713787380,
+    "description": "Ворог захопив південну частину <a href=\"https://deepstatemap.live/#15/48.2402/37.6104\">Очеретиного</a>.",
+    "descriptionEn": "The enemy captured the southern part of <a href=\"https://deepstatemap.live/en#15/48.2402/37.6104\">Ocheretyne</a>.",
+    "updatedAt": "2024-04-22T12:03:00.567Z",
+    "datetime": "22.04 o 14:03",
+    "status": true,
+    "createdAt": "2024-04-22T12:03:00.000Z",
+    "liberated": 43264.35035036306,
+    "occupied": 64797.69678333203,
+    "unspecified": 545.5961073704224
   }
 ]
