@@ -10702,5 +10702,17 @@
     "liberated": 43264.35035036306,
     "occupied": 64798.25516250956,
     "unspecified": 547.3356801964889
+  },
+  {
+    "id": 1713859211,
+    "description": "Сили Оборони України відновили положення південніше <a href=\"https://deepstatemap.live/#15/48.5550/37.9417\">Іванівського</a>. Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.2255/37.6194\">Новобахмутівку</a>.",
+    "descriptionEn": "Ukrainian Defence Forces regained positions on south of <a href=\"https://deepstatemap.live/en#15/48.5550/37.9417\">Ivanivske</a>. The enemy advanced into <a href=\"https://deepstatemap.live/en#15/48.2255/37.6194\">Novobakhmutivka</a>.",
+    "updatedAt": "2024-04-23T08:00:11.606Z",
+    "datetime": "23.04 o 10:00",
+    "status": true,
+    "createdAt": "2024-04-23T08:00:11.000Z",
+    "liberated": 43265.469945701894,
+    "occupied": 64799.228767528,
+    "unspecified": 546.815257399328
   }
 ]
