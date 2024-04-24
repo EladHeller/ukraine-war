@@ -10714,5 +10714,17 @@
     "liberated": 43265.469945701894,
     "occupied": 64799.228767528,
     "unspecified": 546.815257399328
+  },
+  {
+    "id": 1713908459,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#15/48.2454/37.6137\">Очеретиному</a>, <a href=\"https://deepstatemap.live/#15/48.2265/37.6155\">Новобахмутівці</a>, <a href=\"https://deepstatemap.live/#15/48.2519/37.7156\">Новокалиновому</a>, <a href=\"https://deepstatemap.live/#16/48.1930/37.6419\">Бердичах</a>, <a href=\"https://deepstatemap.live/#16/48.1776/37.6317\">Семенівці</a> та південніше <a href=\"https://deepstatemap.live/#15/47.9585/37.4555\">Георгіївки</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.2454/37.6137\">Ocheretyne</a>, <a href=\"https://deepstatemap.live/en#15/48.2265/37.6155\">Novobakhmutivka</a>, <a href=\"https://deepstatemap.live/en#15/48.2519/37.7156\">Novokalynove</a>, <a href=\"https://deepstatemap.live/en#16/48.1930/37.6419\">Berdychi</a>, <a href=\"https://deepstatemap.live/en#16/48.1776/37.6317\">Semenivka</a> and south of <a href=\"https://deepstatemap.live/en#15/47.9585/37.4555\">Heorhiivka</a>.",
+    "updatedAt": "2024-04-23T21:40:59.400Z",
+    "datetime": "23.04 o 23:40",
+    "status": true,
+    "createdAt": "2024-04-23T21:40:59.000Z",
+    "liberated": 43265.926142677024,
+    "occupied": 64802.775642019296,
+    "unspecified": 547.4123427713865
   }
 ]
