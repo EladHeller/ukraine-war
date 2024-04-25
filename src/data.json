@@ -10726,5 +10726,17 @@
     "liberated": 43265.926142677024,
     "occupied": 64802.775642019296,
     "unspecified": 547.4123427713865
+  },
+  {
+    "id": 1713995636,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.2249/37.6033\">Соловйове</a> та <a href=\"https://deepstatemap.live/#13/47.9930/37.5259\">Красногорівку</a>. Тривають бої біля <a href=\"https://deepstatemap.live/#14/48.2493/37.6002\">Очеретиного</a>, <a href=\"https://deepstatemap.live/#13/48.0844/37.6032\">Первомайського</a>, <a href=\"https://deepstatemap.live/#14/48.6056/37.8889\">Часового Яру</a> та <a href=\"https://deepstatemap.live/#13/47.8633/37.4666\">Новомихайлівки</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.2249/37.6033\">Solovyove</a> and <a href=\"https://deepstatemap.live/en#13/47.9930/37.5259\">Krasnohorivka</a>. Fighting continues near <a href=\"https://deepstatemap.live/en#14/48.2493/37.6002\">Ocheretyne</a>, <a href=\"https://deepstatemap.live/en#13/48.0844/37.6032\">Pervomaiske</a>, <a href=\"https://deepstatemap.live/en#14/48.6056/37.8889\">Chasiv Yar</a> and <a href=\"https://deepstatemap.live/en#13/47.8633/37.4666\">Novomykhailivka</a>.",
+    "updatedAt": "2024-04-24T22:02:14.135Z",
+    "datetime": "24.04 o 23:53",
+    "status": true,
+    "createdAt": "2024-04-24T21:53:56.000Z",
+    "liberated": 43265.8426929529,
+    "occupied": 64805.148584815375,
+    "unspecified": 548.9196428687525
   }
 ]
