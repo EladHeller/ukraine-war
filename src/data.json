@@ -10729,14 +10729,26 @@
   },
   {
     "id": 1713995636,
-    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.2249/37.6033\">Соловйове</a> та <a href=\"https://deepstatemap.live/#13/47.9930/37.5259\">Красногорівку</a>. Тривають бої біля <a href=\"https://deepstatemap.live/#14/48.2493/37.6002\">Очеретиного</a>, <a href=\"https://deepstatemap.live/#13/48.0844/37.6032\">Первомайського</a>, <a href=\"https://deepstatemap.live/#14/48.6056/37.8889\">Часового Яру</a> та <a href=\"https://deepstatemap.live/#13/47.8633/37.4666\">Новомихайлівки</a>.",
-    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.2249/37.6033\">Solovyove</a> and <a href=\"https://deepstatemap.live/en#13/47.9930/37.5259\">Krasnohorivka</a>. Fighting continues near <a href=\"https://deepstatemap.live/en#14/48.2493/37.6002\">Ocheretyne</a>, <a href=\"https://deepstatemap.live/en#13/48.0844/37.6032\">Pervomaiske</a>, <a href=\"https://deepstatemap.live/en#14/48.6056/37.8889\">Chasiv Yar</a> and <a href=\"https://deepstatemap.live/en#13/47.8633/37.4666\">Novomykhailivka</a>.",
-    "updatedAt": "2024-04-24T22:02:14.135Z",
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.2249/37.6033\">Соловйове</a> та <a href=\"https://deepstatemap.live/#13/47.9930/37.5259\">Красногорівку</a>. Тривають бої біля <a href=\"https://deepstatemap.live/#14/48.2493/37.6002\">Очеретиного</a>, <a href=\"https://deepstatemap.live/#13/48.0844/37.6032\">Первомайського</a>, <a href=\"https://deepstatemap.live/#14/48.6056/37.8889\">Часового Яру</a> та <a href=\"https://deepstatemap.live/#13/47.8633/37.4666\">Новомихайлівки</a>. Оновлено район <a href=\"https://deepstatemap.live/#15/46.7216/33.0418\">Кринків</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.2249/37.6033\">Solovyove</a> and <a href=\"https://deepstatemap.live/en#13/47.9930/37.5259\">Krasnohorivka</a>. Fighting continues near <a href=\"https://deepstatemap.live/en#14/48.2493/37.6002\">Ocheretyne</a>, <a href=\"https://deepstatemap.live/en#13/48.0844/37.6032\">Pervomaiske</a>, <a href=\"https://deepstatemap.live/en#14/48.6056/37.8889\">Chasiv Yar</a> and <a href=\"https://deepstatemap.live/en#13/47.8633/37.4666\">Novomykhailivka</a>. The <a href=\"https://deepstatemap.live/#15/46.7216/33.0418\">Krynky </a> area has been updated.",
+    "updatedAt": "2024-04-25T22:26:13.225Z",
     "datetime": "24.04 o 23:53",
     "status": true,
     "createdAt": "2024-04-24T21:53:56.000Z",
     "liberated": 43265.8426929529,
     "occupied": 64805.148584815375,
     "unspecified": 548.9196428687525
+  },
+  {
+    "id": 1714082526,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.2234/37.6018\">Соловйовому</a>, південніше <a href=\"https://deepstatemap.live/#15/48.2173/37.6205\">Новобахмутівки</a>, в <a href=\"https://deepstatemap.live/#14/48.2576/37.6972\">Новокалиновому</a> та <a href=\"https://deepstatemap.live/#15/47.9935/37.5092\">Красногорівці</a>. Тривають бої в <a href=\"https://deepstatemap.live/#15/49.6418/37.9132\">Кислівці</a>, <a href=\"https://deepstatemap.live/#15/47.7376/36.8264\">Урожайному</a>, біля <a href=\"https://deepstatemap.live/#15/47.4722/35.9255\">Вербового</a> та <a href=\"https://deepstatemap.live/#15/47.8524/37.4563\">Новомихайлівки</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.2234/37.6018\">Solovyove</a>, south of <a href=\"https://deepstatemap.live/en#15/48.2173/37.6205\">Novobakhmutivka</a>, in <a href=\"https://deepstatemap.live/en#14/48.2576/37.6972\">Novokalynove</a> and <a href=\"https://deepstatemap.live/en#15/47.9935/37.5092\">Krasnohorivka</a>. Fighting continues in <a href=\"https://deepstatemap.live/en#15/49.6418/37.9132\">Kyslivka</a>, <a href=\"https://deepstatemap.live/en#15/47.7376/36.8264\">Urozhayne</a>, near <a href=\"https://deepstatemap.live/en#15/47.4722/35.9255\">Verbove</a> and <a href=\"https://deepstatemap.live/en#15/47.8524/37.4563\">Novomykhailivka</a>.",
+    "updatedAt": "2024-04-25T22:02:06.781Z",
+    "datetime": "26.04 o 00:02",
+    "status": true,
+    "createdAt": "2024-04-25T22:02:06.000Z",
+    "liberated": 43264.96600220442,
+    "occupied": 64807.93979524848,
+    "unspecified": 553.0004345925529
   }
 ]
