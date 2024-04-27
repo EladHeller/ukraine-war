@@ -10750,5 +10750,17 @@
     "liberated": 43264.96600220442,
     "occupied": 64807.93979524848,
     "unspecified": 553.0004345925529
+  },
+  {
+    "id": 1714168843,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#15/48.1806/37.6307\">Семенівку</a> та <a href=\"https://deepstatemap.live/#15/48.2255/37.6000\">Соловйове</a>, а також просунувся у <a href=\"https://deepstatemap.live/#14/48.2506/37.6948\">Новокалиновому</a>, <a href=\"https://deepstatemap.live/#15/48.5667/37.9129\">Іванівському</a> та <a href=\"https://deepstatemap.live/#15/49.6418/37.9085\">Кислівці</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#15/48.1806/37.6307\">Semenivka</a> and <a href=\"https://deepstatemap.live/en#15/48.2255/37.6000\">Solovyove</a>, and advanced in <a href=\"https://deepstatemap.live/en#14/48.2506/37.6948\">Novokalynove</a>, <a href=\"https://deepstatemap.live/en#15/48.5667/37.9129\">Ivanivske</a> and <a href=\"https://deepstatemap.live/en#15/49.6418/37.9085\">Kyslivka</a>.",
+    "updatedAt": "2024-04-26T22:00:52.890Z",
+    "datetime": "27.04 o 00:00",
+    "status": true,
+    "createdAt": "2024-04-26T22:00:43.000Z",
+    "liberated": 43263.5927836626,
+    "occupied": 64812.96995793809,
+    "unspecified": 553.070854912972
   }
 ]
