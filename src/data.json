@@ -10762,5 +10762,17 @@
     "liberated": 43263.5927836626,
     "occupied": 64812.96995793809,
     "unspecified": 553.070854912972
+  },
+  {
+    "id": 1714254784,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#15/48.1963/37.6415\">Бердичі</a> та просунувся у <a href=\"https://deepstatemap.live/#14/49.6409/37.9090\">Кислівці</a>. Тривають бої у <a href=\"https://deepstatemap.live/#15/47.9972/37.5170\">Красногорівці</a> та <a href=\"https://deepstatemap.live/#14/48.2357/37.6878\">Новокалиновому</a>.",
+    "descriptionEn": "The enemy has occupied <a href=\"https://deepstatemap.live/en#15/48.1963/37.6415\">Berdychi</a> and advanced into <a href=\"https://deepstatemap.live/en#14/49.6409/37.9090\">Kyslivka</a>. Fighting continues in <a href=\"https://deepstatemap.live/en#15/47.9972/37.5170\">Krasnohorivka</a> and <a href=\"https://deepstatemap.live/en#14/48.2357/37.6878\">Novokalynove</a>.",
+    "updatedAt": "2024-04-27T21:53:04.077Z",
+    "datetime": "27.04 o 23:53",
+    "status": true,
+    "createdAt": "2024-04-27T21:53:04.000Z",
+    "liberated": 43263.3953356531,
+    "occupied": 64818.08584147984,
+    "unspecified": 552.6733753506087
   }
 ]
