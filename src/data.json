@@ -10774,5 +10774,17 @@
     "liberated": 43263.3953356531,
     "occupied": 64818.08584147984,
     "unspecified": 552.6733753506087
+  },
+  {
+    "id": 1714345054,
+    "description": "Звільнено острів <a href=\"https://deepstatemap.live/#14/46.5421/32.3810\">Нестрига</a>. Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.1049/37.5639\">Нетайлове</a>, біля <a href=\"https://deepstatemap.live/#14/48.2597/37.5879\">Новоолександрівки</a> та захопив <a href=\"https://deepstatemap.live/#14/47.8651/37.4720\">Новомихайлівку</a>.",
+    "descriptionEn": "The island of <a href=\"https://deepstatemap.live/en#14/46.5421/32.3810\">Nestryga</a> has been liberated. The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.1049/37.5639\">Netaylove</a>, near <a href=\"https://deepstatemap.live/en#14/48.2597/37.5879\">Novooleksandrivka</a> and captured <a href=\"https://deepstatemap.live/en#14/47.8651/37.4720\">Novomykhailivka</a>.",
+    "updatedAt": "2024-04-28T22:57:51.238Z",
+    "datetime": "29.04 o 00:57",
+    "status": true,
+    "createdAt": "2024-04-28T22:57:34.000Z",
+    "liberated": 43269.62301887745,
+    "occupied": 64850.56414094953,
+    "unspecified": 561.8735257046812
   }
 ]
