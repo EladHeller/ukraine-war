@@ -10786,5 +10786,17 @@
     "liberated": 43269.62301887745,
     "occupied": 64850.56414094953,
     "unspecified": 561.8735257046812
+  },
+  {
+    "id": 1714429122,
+    "description": "Ворог просунувся західніше <a href=\"https://deepstatemap.live/#14/48.2568/37.5777\">Очеретиного</a>, в <a href=\"https://deepstatemap.live/#14/48.2476/37.6790\">Кераміку</a>, <a href=\"https://deepstatemap.live/#15/48.0093/37.5455\">Красногорівці</a>, <a href=\"https://deepstatemap.live/#15/49.6393/37.9058\">Кислівці</a> та намагається відновити втрачене положення на острові <a href=\"https://deepstatemap.live/#14/46.5441/32.3967\">Нестрига</a>.",
+    "descriptionEn": "The enemy has advanced on west of <a href=\"https://deepstatemap.live/en#14/48.2568/37.5777\">Ocheretyne</a>, in <a href=\"https://deepstatemap.live/en#14/48.2476/37.6790\">Keramik</a>, <a href=\"https://deepstatemap.live/en#15/48.0093/37.5455\">Krasnohorivka</a>, <a href=\"https://deepstatemap.live/en#15/49.6393/37.9058\">Kyslivka</a> and is trying to regain its lost position on the island of <a href=\"https://deepstatemap.live/en#14/46.5441/32.3967\">Nestryga</a>.",
+    "updatedAt": "2024-04-29T22:52:29.185Z",
+    "datetime": "30.04 o 00:18",
+    "status": true,
+    "createdAt": "2024-04-29T22:18:42.000Z",
+    "liberated": 43262.20670696978,
+    "occupied": 64860.30992999585,
+    "unspecified": 561.9283827811183
   }
 ]
