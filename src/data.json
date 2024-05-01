@@ -10798,5 +10798,17 @@
     "liberated": 43262.20670696978,
     "occupied": 64860.30992999585,
     "unspecified": 561.9283827811183
+  },
+  {
+    "id": 1714512461,
+    "description": "Сили Оборони відновили позиції східніше <a href=\"https://deepstatemap.live/#14/49.0532/37.9869\">Ямполівки</a>. Ворог захопив <a href=\"https://deepstatemap.live/#15/48.2530/37.6844\">Керамік</a> та <a href=\"https://deepstatemap.live/#15/48.2451/37.6947\">Новокалинове</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/48.2686/37.5894\">Новоолександрівки</a> та в <a href=\"https://deepstatemap.live/#15/47.7350/36.8293\">Урожайному</a>. Ситуація у <a href=\"https://deepstatemap.live/#14/47.4387/35.8363\">Роботиному</a> уточнюється.",
+    "descriptionEn": "Ukrainian Defence Forces regained positions east of <a href=\"https://deepstatemap.live/en#14/49.0532/37.9869\">Yampolivka</a>. The enemy captured <a href=\"https://deepstatemap.live/en#15/48.2530/37.6844\">Keramik</a> and <a href=\"https://deepstatemap.live/en#15/48.2451/37.6947\">Novokalynove</a>, and advanced near <a href=\"https://deepstatemap.live/en#14/48.2686/37.5894\">Novooleksandrivka</a> and in <a href=\"https://deepstatemap.live/en#15/47.7350/36.8293\">Urozhayne</a>. The situation in <a href=\"https://deepstatemap.live/en#14/47.4387/35.8363\">Robotyne</a> is being clarified.",
+    "updatedAt": "2024-04-30T21:27:41.890Z",
+    "datetime": "30.04 o 23:27",
+    "status": true,
+    "createdAt": "2024-04-30T21:27:41.000Z",
+    "liberated": 43262.25467218218,
+    "occupied": 64870.37961239929,
+    "unspecified": 557.3409637927576
   }
 ]
