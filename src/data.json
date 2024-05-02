@@ -10810,5 +10810,17 @@
     "liberated": 43262.25467218218,
     "occupied": 64870.37961239929,
     "unspecified": 557.3409637927576
+  },
+  {
+    "id": 1714602710,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#13/48.2673/37.6508\">Архангельському</a>, біля <a href=\"https://deepstatemap.live/#13/48.2737/37.5778\">Новоолександрівки</a>, південніше <a href=\"https://deepstatemap.live/#14/48.0871/37.5806\">Первомайскього</a> та в <a href=\"https://deepstatemap.live/#13/47.7398/36.8257\">Урожайному</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/#13/48.2673/37.6508\">Arkhangelske</a>, near <a href=\"https://deepstatemap.live/#13/48.2737/37.5778\">Novooleksandrivka</a>, south of <a href=\"https://deepstatemap.live/#14/48.0871/37.5806\">Pervomaiske</a> and in <a href=\"https://deepstatemap.live/#13/47.7398/36.8257\">Urozhayne</a>.",
+    "updatedAt": "2024-05-01T22:33:20.232Z",
+    "datetime": "02.05 o 00:31",
+    "status": true,
+    "createdAt": "2024-05-01T22:31:50.000Z",
+    "liberated": 43261.59806466956,
+    "occupied": 64880.715696353676,
+    "unspecified": 558.8030929232256
   }
 ]
