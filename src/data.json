@@ -10834,5 +10834,17 @@
     "liberated": 43260.314302698964,
     "occupied": 64883.06275832818,
     "unspecified": 561.2708779892803
+  },
+  {
+    "id": 1714786849,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#15/48.1067/37.5554\">Нетайловому</a>. Уточнено район <a href=\"https://deepstatemap.live/#15/48.5991/37.8883\">Часового Яру</a>, <a href=\"https://deepstatemap.live/#13/47.4246/35.8708\">Роботиного</a>, <a href=\"https://deepstatemap.live/#15/48.2353/37.5900\">Соловйового</a> та <a href=\"https://deepstatemap.live/#15/46.7212/33.0419\">Кринків</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.1067/37.5554\">Netailove</a>. The areas of <a href=\"https://deepstatemap.live/en#15/48.5991/37.8883\">Chasiv Yar</a>, <a href=\"https://deepstatemap.live/en#13/47.4246/35.8708\">Robotyne</a>, <a href=\"https://deepstatemap.live/en#15/48.2353/37.5900\">Solovyove</a> and <a href=\"https://deepstatemap.live/en#15/46.7212/33.0419\">Krynky</a> have been clarified.",
+    "updatedAt": "2024-05-04T05:09:09.266Z",
+    "datetime": "04.05 o 03:40",
+    "status": true,
+    "createdAt": "2024-05-04T01:40:49.000Z",
+    "liberated": 43259.12505992702,
+    "occupied": 64883.916750646604,
+    "unspecified": 562.9707385023212
   }
 ]
