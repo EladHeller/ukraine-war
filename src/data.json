@@ -10846,5 +10846,17 @@
     "liberated": 43259.12505992702,
     "occupied": 64883.916750646604,
     "unspecified": 562.9707385023212
+  },
+  {
+    "id": 1714858645,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#16/48.2683/37.6422\">Архангельське</a> та <a href=\"https://deepstatemap.live/#15/49.6317/37.9032\">Котлярівку</a>, вийшов на адміністративні межі <a href=\"https://deepstatemap.live/#15/48.2496/37.6216\">Очеретиного</a> та просунувся біля <a href=\"https://deepstatemap.live/#14/48.2033/37.5969\">Новопокровського</a>, <a href=\"https://deepstatemap.live/#14/48.1598/37.6148\">Уманського</a>, <a href=\"https://deepstatemap.live/#16/48.0786/37.6214\">Первомайського</a> та в <a href=\"https://deepstatemap.live/#16/47.9940/37.5087\">Красногорівці</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#16/48.2683/37.6422\">Arkhangelske</a> and <a href=\"https://deepstatemap.live/en#15/49.6317/37.9032\">Kotlyarivka</a>, reached the administrative boundaries of <a href=\"https://deepstatemap.live/en#15/48.2496/37.6216\">Ocheretyne</a> and advanced near <a href=\"https://deepstatemap.live/en#14/48.2033/37.5969\">Novopokrovske</a>, <a href=\"https://deepstatemap.live/en#14/48.1598/37.6148\">Umanske</a>, <a href=\"https://deepstatemap.live/en#16/48.0786/37.6214\">Pervomayske</a> and in <a href=\"https://deepstatemap.live/en#16/47.9940/37.5087\">Krasnohorivka</a>.",
+    "updatedAt": "2024-05-04T21:37:25.191Z",
+    "datetime": "04.05 o 23:37",
+    "status": true,
+    "createdAt": "2024-05-04T21:37:25.000Z",
+    "liberated": 43257.53783004395,
+    "occupied": 64894.8790845786,
+    "unspecified": 561.2252884723501
   }
 ]
