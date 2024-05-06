@@ -10858,5 +10858,17 @@
     "liberated": 43257.53783004395,
     "occupied": 64894.8790845786,
     "unspecified": 561.2252884723501
+  },
+  {
+    "id": 1714945310,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#15/49.6412/37.8934\">Кислівку</a> та просунувся південніше <a href=\"https://deepstatemap.live/#14/48.0810/37.6147\">Первомайського</a> та північніше <a href=\"https://deepstatemap.live/#14/48.1176/37.5733\">Нетайлового</a>. Тривають бої біля <a href=\"https://deepstatemap.live/#14/48.6015/37.8867\">Часового Яру</a>, <a href=\"https://deepstatemap.live/#14/48.2685/37.5666\">Новоолександрівки</a>, <a href=\"https://deepstatemap.live/#14/48.1927/37.6139\">Семенівки</a>, <a href=\"https://deepstatemap.live/#15/47.7453/36.7914\">Старомайорського</a> та в <a href=\"https://deepstatemap.live/#15/47.9966/37.5111\">Красногорівці</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#15/49.6412/37.8934\">Kyslivka</a> and advanced on south of <a href=\"https://deepstatemap.live/en#14/48.0810/37.6147\">Pervomaiske</a> and north of <a href=\"https://deepstatemap.live/en#14/48.1176/37.5733\">Netailove</a>. Fighting continued near <a href=\"https://deepstatemap.live/en#14/48.6015/37.8867\">Chasiv Yar</a>, <a href=\"https://deepstatemap.live/en#14/48.2685/37.5666\">Novooleksandrivka</a>, <a href=\"https://deepstatemap.live/en#14/48.1927/37.6139\">Semenivka</a>, <a href=\"https://deepstatemap.live/en#15/47.7453/36.7914\">Staromayorske</a> and in <a href=\"https://deepstatemap.live/en#15/47.9966/37.5111\">Krasnohorivka</a>.",
+    "updatedAt": "2024-05-05T21:41:50.903Z",
+    "datetime": "05.05 o 23:41",
+    "status": true,
+    "createdAt": "2024-05-05T21:41:50.000Z",
+    "liberated": 43254.980748848895,
+    "occupied": 64897.405521994835,
+    "unspecified": 562.8329684263648
   }
 ]
