@@ -10870,5 +10870,17 @@
     "liberated": 43254.980748848895,
     "occupied": 64897.405521994835,
     "unspecified": 562.8329684263648
+  },
+  {
+    "id": 1715032384,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#15/48.2018/37.5988\">Новопокровського</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#15/48.2018/37.5988\">Novopokrovske</a>.",
+    "updatedAt": "2024-05-06T21:53:04.574Z",
+    "datetime": "06.05 o 23:53",
+    "status": true,
+    "createdAt": "2024-05-06T21:53:04.000Z",
+    "liberated": 43254.980748848895,
+    "occupied": 64897.722007640405,
+    "unspecified": 562.5164827807657
   }
 ]
