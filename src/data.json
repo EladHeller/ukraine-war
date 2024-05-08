@@ -10882,5 +10882,17 @@
     "liberated": 43254.980748848895,
     "occupied": 64897.722007640405,
     "unspecified": 562.5164827807657
+  },
+  {
+    "id": 1715133457,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/47.7486/36.7896\">Старомайорського</a> та в <a href=\"https://deepstatemap.live/#15/48.0060/37.5370\">Красногорівці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.7486/36.7896\">Staromayorske</a> and in <a href=\"https://deepstatemap.live/en#15/48.0060/37.5370\">Krasnohorivka</a>.",
+    "updatedAt": "2024-05-08T02:11:54.622Z",
+    "datetime": "08.05 o 03:57",
+    "status": true,
+    "createdAt": "2024-05-08T01:57:37.000Z",
+    "liberated": 43248.39855156235,
+    "occupied": 64903.115961018775,
+    "unspecified": 564.1080767479024
   }
 ]
