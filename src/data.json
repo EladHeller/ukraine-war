@@ -10894,5 +10894,17 @@
     "liberated": 43248.39855156235,
     "occupied": 64903.115961018775,
     "unspecified": 564.1080767479024
+  },
+  {
+    "id": 1715202408,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.1294/37.5703\">Нетайлового</a> та південніше <a href=\"https://deepstatemap.live/#15/48.0758/37.6109\">Первомайського</a>. Уточнено район <a href=\"https://deepstatemap.live/#13/47.7404/36.7830\">Старомайорського</a> та просування ворога за останні тижні біля <a href=\"https://deepstatemap.live/#13/48.7511/38.1506\">Веселого</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/48.1294/37.5703\">Netailove</a> and south of <a href=\"https://deepstatemap.live/en#15/48.0758/37.6109\">Pervomaiske</a>. The area of <a href=\"https://deepstatemap.live/en#13/47.7404/36.7830\">Staromayorske</a> and the enemy's advance in recent weeks near <a href=\"https://deepstatemap.live/en#13/48.7511/38.1506\">Vesele</a> have been clarified.",
+    "updatedAt": "2024-05-08T21:06:48.155Z",
+    "datetime": "08.05 o 23:06",
+    "status": true,
+    "createdAt": "2024-05-08T21:06:48.000Z",
+    "liberated": 43249.33314329175,
+    "occupied": 64914.63479642617,
+    "unspecified": 560.0848822471135
   }
 ]
