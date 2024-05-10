@@ -10906,5 +10906,17 @@
     "liberated": 43249.33314329175,
     "occupied": 64914.63479642617,
     "unspecified": 560.0848822471135
+  },
+  {
+    "id": 1715298170,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#15/49.7688/37.7330\">Синьківки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#15/49.7688/37.7330\">Synkivka</a>.",
+    "updatedAt": "2024-05-09T23:42:50.102Z",
+    "datetime": "10.05 o 01:42",
+    "status": true,
+    "createdAt": "2024-05-09T23:42:50.000Z",
+    "liberated": 43248.79262954426,
+    "occupied": 64914.879488846535,
+    "unspecified": 561.9634595484664
   }
 ]
