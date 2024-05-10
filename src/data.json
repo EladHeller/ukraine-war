@@ -10918,5 +10918,17 @@
     "liberated": 43248.79262954426,
     "occupied": 64914.879488846535,
     "unspecified": 561.9634595484664
+  },
+  {
+    "id": 1715334771,
+    "description": "Ворог проводить штурмові дії біля <a href=\"https://deepstatemap.live/#12/50.3388/36.9286\">Плетенівки</a> та по лінії <a href=\"https://deepstatemap.live/#13/50.3017/36.3963\">Стрілеча</a>-<a href=\"https://deepstatemap.live/#13/50.2745/36.5571\">Борисівка</a>.",
+    "descriptionEn": "The enemy is conducting assault operations near <a href=\"https://deepstatemap.live/en#12/50.3388/36.9286\">Pletenivka</a> and along the line of <a href=\"https://deepstatemap.live/en#13/50.3017/36.3963\">Strylecha</a>-<a href=\"https://deepstatemap.live/en#13/50.2745/36.5571\">Borysivka</a>.",
+    "updatedAt": "2024-05-10T09:52:51.070Z",
+    "datetime": "10.05 o 11:52",
+    "status": true,
+    "createdAt": "2024-05-10T09:52:51.000Z",
+    "liberated": 43207.67489927591,
+    "occupied": 64914.879488846535,
+    "unspecified": 602.9369426111634
   }
 ]
