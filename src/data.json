@@ -10930,5 +10930,17 @@
     "liberated": 43207.67489927591,
     "occupied": 64914.879488846535,
     "unspecified": 602.9369426111634
+  },
+  {
+    "id": 1715378330,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#13/48.0027/37.5145\">Красногорівці</a>, південніше <a href=\"https://deepstatemap.live/#13/48.0664/37.6159\">Первомайського</a>, в <a href=\"https://deepstatemap.live/#13/48.1048/37.5503\">Нетайловому</a> та біля <a href=\"https://deepstatemap.live/#13/49.4590/37.9328\">Коломийчихи</a>. Триває наступ противника біля <a href=\"https://deepstatemap.live/#12/50.3019/36.8641\">Гатища</a>, <a href=\"https://deepstatemap.live/#12/50.2559/36.5129\">Лук'янців</a> та <a href=\"https://deepstatemap.live/#12/50.2642/36.4261\">Глибокого</a>. Бої продовжуються біля <a href=\"https://deepstatemap.live/#13/48.1557/37.5836\">Уманського</a>, <a href=\"https://deepstatemap.live/#14/48.5745/37.9133\">Іванівського</a>, <a href=\"https://deepstatemap.live/#14/48.2002/37.5982\">Новопокровського</a>, <a href=\"https://deepstatemap.live/#14/48.2805/37.5915\">Новоолександрівки</a>, <a href=\"https://deepstatemap.live/#14/48.0007/37.5121\">Красногорівки</a> та <a href=\"https://deepstatemap.live/#14/47.9629/37.4419\">Георгіївки</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#13/48.0027/37.5145\">Krasnohorivka</a>, south of <a href=\"https://deepstatemap.live/en#13/48.0664/37.6159\">Pervomaiske</a>, in <a href=\"https://deepstatemap.live/en#13/48.1048/37.5503\">Netailove</a> and near <a href=\"https://deepstatemap.live/#13/49.4590/37.9328\">Kolomyichykha</a>. The enemy's offensive continues near <a href=\"https://deepstatemap.live/en#12/50.3019/36.8641\">Gatyshche</a>, <a href=\"https://deepstatemap.live/en#12/50.2559/36.5129\">Lukyantsi</a> and <a href=\"https://deepstatemap.live/en#12/50.2642/36.4261\">Hlyboke</a>. Fighting continues near <a href=\"https://deepstatemap.live/en#13/48.1557/37.5836\">Umanske</a>, <a href=\"https://deepstatemap.live/en#14/48.5745/37.9133\">Ivanivske</a>, <a href=\"https://deepstatemap.live/en#14/48.2002/37.5982\">Novopokrovske</a>, <a href=\"https://deepstatemap.live/en#14/48.2805/37.5915\">Novooleksandrivka</a>, <a href=\"https://deepstatemap.live/en#14/48.0007/37.5121\">Krasnohorivka</a> and <a href=\"https://deepstatemap.live/en#14/47.9629/37.4419\">Heorhiivka</a>.",
+    "updatedAt": "2024-05-10T21:59:35.199Z",
+    "datetime": "10.05 o 23:58",
+    "status": true,
+    "createdAt": "2024-05-10T21:58:50.000Z",
+    "liberated": 43168.48519520483,
+    "occupied": 64919.8260372845,
+    "unspecified": 640.9014232477176
   }
 ]
