@@ -10942,5 +10942,17 @@
     "liberated": 43168.48519520483,
     "occupied": 64919.8260372845,
     "unspecified": 640.9014232477176
+  },
+  {
+    "id": 1715467260,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#14/48.0028/37.5133\">Красногорівці</a>, біля <a href=\"https://deepstatemap.live/#13/47.7574/37.4049\">Володимирівки</a> та окупував <a href=\"https://deepstatemap.live/#14/50.3015/36.4008\">Стрілечу</a>, <a href=\"https://deepstatemap.live/#14/50.2865/36.5191\">Пильне</a>, <a href=\"https://deepstatemap.live/#14/50.2822/36.4531\">Красне</a>, <a href=\"https://deepstatemap.live/#14/50.2788/36.5581\">Борисівку</a>, <a href=\"https://deepstatemap.live/#14/50.3006/36.8422\">Огірцеве</a> та <a href=\"https://deepstatemap.live/#13/50.3345/36.9289\">Плетенівку</a>. Уточнено просування противника у <a href=\"https://deepstatemap.live/#14/48.5691/37.9025\">Іванівському</a> та околицях.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.0028/37.5133\">Krasnohorivka</a>, near <a href=\"https://deepstatemap.live/en#13/47.7574/37.4049\">Volodymyrivka</a> and occupied <a href=\"https://deepstatemap.live/en#14/50.3015/36.4008\">Strilecha</a>, <a href=\"https://deepstatemap.live/en#14/50.2865/36.5191\">Pylne</a>, <a href=\"https://deepstatemap.live/en#14/50.2822/36.4531\">Krasne</a>, <a href=\"https://deepstatemap.live/en#14/50.2788/36.5581\">Borysivka</a>, <a href=\"https://deepstatemap.live/en#14/50.3006/36.8422\">Ohirtseve</a> and <a href=\"https://deepstatemap.live/en#13/50.3345/36.9289\">Pletenivka</a>. Advancement of the enemy in <a href=\"https://deepstatemap.live/en#14/48.5691/37.9025\">Ivanivske</a> and its area was claryfied.",
+    "updatedAt": "2024-05-11T22:41:00.856Z",
+    "datetime": "12.05 o 00:41",
+    "status": true,
+    "createdAt": "2024-05-11T22:41:00.000Z",
+    "liberated": 43082.57544368554,
+    "occupied": 65017.297009061884,
+    "unspecified": 633.2018416402542
   }
 ]
