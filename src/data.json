@@ -10954,5 +10954,17 @@
     "liberated": 43082.57544368554,
     "occupied": 65017.297009061884,
     "unspecified": 633.2018416402542
+  },
+  {
+    "id": 1715550422,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/47.4436/35.9301\">Вербового</a>, в <a href=\"https://deepstatemap.live/#16/48.0025/37.5122\">Красногорівці</a>, в <a href=\"https://deepstatemap.live/#15/48.1090/37.5518\">Нетайловому</a>, західніше <a href=\"https://deepstatemap.live/#14/48.1800/37.6183\">Семенівки</a>, східніше <a href=\"https://deepstatemap.live/#14/48.2067/37.5881\">Новопокровського</a> та окупував села Харківщини: <a href=\"https://deepstatemap.live/#14/50.2725/36.4680\">Мороховець</a>, <a href=\"https://deepstatemap.live/#14/50.2668/36.4847\">Олійникове</a> та <a href=\"https://deepstatemap.live/#14/50.2208/36.5862\">Зелене</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.4436/35.9301\">Verbove</a>, in <a href=\"https://deepstatemap.live/en#16/48.0025/37.5122\">Krasnohorivka</a>, in <a href=\"https://deepstatemap.live/en#15/48.1090/37.5518\">Netailove</a>, west of <a href=\"https://deepstatemap.live/en#14/48.1800/37.6183\">Semenivka</a>, east of <a href=\"https://deepstatemap.live/en#14/48.2067/37.5881\">Novopokrovske</a> and occupied villages in Kharkiv region: <a href=\"https://deepstatemap.live/en#14/50.2725/36.4680\">Morokhovets</a>, <a href=\"https://deepstatemap.live/en#14/50.2668/36.4847\">Oliynykove</a> and <a href=\"https://deepstatemap.live/en#14/50.2208/36.5862\">Zelene</a>.",
+    "updatedAt": "2024-05-12T21:47:02.482Z",
+    "datetime": "12.05 o 23:47",
+    "status": true,
+    "createdAt": "2024-05-12T21:47:02.000Z",
+    "liberated": 43053.881694505,
+    "occupied": 65043.70451652047,
+    "unspecified": 640.0394776683233
   }
 ]
