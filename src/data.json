@@ -10966,5 +10966,17 @@
     "liberated": 43053.881694505,
     "occupied": 65043.70451652047,
     "unspecified": 640.0394776683233
+  },
+  {
+    "id": 1715636924,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/50.3028/36.9236\">Вовчанська</a>, в <a href=\"https://deepstatemap.live/#14/50.2547/36.4288\">Глибокому</a>, біля <a href=\"https://deepstatemap.live/#14/49.6560/37.9052\">Ягідного</a>, південніше <a href=\"https://deepstatemap.live/#14/48.0821/37.6005\">Первомайського</a>, в <a href=\"https://deepstatemap.live/#15/48.0017/37.5147\">Красногорівці</a>, біля <a href=\"https://deepstatemap.live/#14/47.7482/36.7945\">Старомайорського</a> та <a href=\"https://deepstatemap.live/#13/47.4726/35.9257\">Вербового</a>. Противник окупував <a href=\"https://deepstatemap.live/#13/50.2436/36.5061\">Лук'янці</a>, уточнено ситуацію у <a href=\"https://deepstatemap.live/#14/50.2212/36.5838\">Зеленому</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/50.3028/36.9236\">Vovchansk</a>, in <a href=\"https://deepstatemap.live/en#14/50.2547/36.4288\">Hlyboke</a>, near <a href=\"https://deepstatemap.live/en#14/49.6560/37.9052\">Yahidne</a>, south of <a href=\"https://deepstatemap.live/en#14/48.0821/37.6005\">Pervomaiske</a>, in <a href=\"https://deepstatemap.live/en#15/48.0017/37.5147\">Krasnohorivka</a>, near <a href=\"https://deepstatemap.live/en#14/47.7482/36.7945\">Staromayorske</a> and <a href=\"https://deepstatemap.live/en#13/47.4726/35.9257\">Verbove</a>. The enemy occupied <a href=\"https://deepstatemap.live/en#13/50.2436/36.5061\">Lukantsi</a>, the situation in <a href=\"https://deepstatemap.live/en#14/50.2212/36.5838\">Zelene</a> was updated.",
+    "updatedAt": "2024-05-13T22:25:19.821Z",
+    "datetime": "13.05 o 23:48",
+    "status": true,
+    "createdAt": "2024-05-13T21:48:44.000Z",
+    "liberated": 43053.739949665076,
+    "occupied": 65055.7720680779,
+    "unspecified": 629.5012387501796
   }
 ]
