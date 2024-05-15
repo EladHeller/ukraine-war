@@ -10978,5 +10978,17 @@
     "liberated": 43053.739949665076,
     "occupied": 65055.7720680779,
     "unspecified": 629.5012387501796
+  },
+  {
+    "id": 1715735436,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#12/50.3026/36.9050\">Вовчанська</a> та <a href=\"https://deepstatemap.live/#15/48.6131/37.8759\">Калинівки</a>. Уточнення в <a href=\"https://deepstatemap.live/#15/48.0029/37.5040\">Красногорівці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#12/50.3026/36.9050\">Vovchansk</a> and <a href=\"https://deepstatemap.live/en#15/48.6131/37.8759\">Kalynivka</a>. Update in <a href=\"https://deepstatemap.live/en#15/48.0029/37.5040\">Krasnohorivka</a>.",
+    "updatedAt": "2024-05-15T01:11:28.652Z",
+    "datetime": "15.05 o 03:10",
+    "status": true,
+    "createdAt": "2024-05-15T01:10:36.000Z",
+    "liberated": 43032.94813501547,
+    "occupied": 65075.32351599285,
+    "unspecified": 631.5065036292727
   }
 ]
