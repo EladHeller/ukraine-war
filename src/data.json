@@ -10990,5 +10990,17 @@
     "liberated": 43032.94813501547,
     "occupied": 65075.32351599285,
     "unspecified": 631.5065036292727
+  },
+  {
+    "id": 1715852154,
+    "description": "Ворог мав частковий успіх біля <a href=\"https://deepstatemap.live/#14/49.6471/37.9027\">Кислівки</a>, <a href=\"https://deepstatemap.live/#13/49.5630/37.8991\">Берестового</a> та уточнено просування у <a href=\"https://deepstatemap.live/#14/50.2975/36.9398\">Вовчанську</a>.",
+    "descriptionEn": "The enemy had partial success near <a href=\"https://deepstatemap.live/#14/49.6471/37.9027\">Kyslivka</a>, <a href=\"https://deepstatemap.live/#13/49.5630/37.8991\">Berestove</a> and made further advances in <a href=\"https://deepstatemap.live/#14/50.2975/36.9398\">Vovchansk</a>.",
+    "updatedAt": "2024-05-16T09:35:55.009Z",
+    "datetime": "16.05 o 11:35",
+    "status": true,
+    "createdAt": "2024-05-16T09:35:54.000Z",
+    "liberated": 43016.01984354011,
+    "occupied": 65084.69352775391,
+    "unspecified": 641.4477009203183
   }
 ]
