@@ -11002,5 +11002,17 @@
     "liberated": 43016.01984354011,
     "occupied": 65084.69352775391,
     "unspecified": 641.4477009203183
+  },
+  {
+    "id": 1716040264,
+    "description": "Ворог зайняв <a href=\"https://deepstatemap.live/#14/50.2521/36.8233\">Бугруватку</a>, просунувся в <a href=\"https://deepstatemap.live/#14/48.1092/37.5534\">Нетайловому</a>, мав частковий успіх в районі <a href=\"https://deepstatemap.live/#14/49.5497/37.8961\">Берестового</a> та на півдні <a href=\"https://deepstatemap.live/#14/47.8508/37.4593\">Новомихайлівки</a>. Уточнення в районі <a href=\"https://deepstatemap.live/#14/50.2346/36.4504\">Липців</a>, <a href=\"https://deepstatemap.live/#14/50.3019/36.9781\">Вовчанська</a> та <a href=\"https://deepstatemap.live/#14/47.4455/35.8348\">Роботиному</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/50.2521/36.8233\">Buhruvatka</a>, advanced in <a href=\"https://deepstatemap.live/en#14/48.1092/37.5534 \">Netailove</a>, had partial success in Berestove</a> and in the south of <a href=\"https://deepstatemap.live/en#14/47.8508/37.4593\">Novomykhailivka</a>. Update in the area of ​​<a href=\"https://deepstatemap.live/en#14/50.2346/36.4504\">Lyptsi</a>, <a href=\"https://deepstatemap.live/en#14/50.3019/36.9781\" >Vovchansk</a> and <a href=\"https://deepstatemap.live/en#14/47.4455/35.8348\">Robotyne</a>.",
+    "updatedAt": "2024-05-18T14:01:31.104Z",
+    "datetime": "18.05 o 15:51",
+    "status": true,
+    "createdAt": "2024-05-18T13:51:04.000Z",
+    "liberated": 42992.92421613423,
+    "occupied": 65092.431878821866,
+    "unspecified": 657.7921564894888
   }
 ]
