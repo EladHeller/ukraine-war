@@ -11014,5 +11014,17 @@
     "liberated": 42992.92421613423,
     "occupied": 65092.431878821866,
     "unspecified": 657.7921564894888
+  },
+  {
+    "id": 1716152127,
+    "description": "Ворог просунувся південно-східніше та південніше <a href=\"https://deepstatemap.live/#14/47.4419/35.8346\">Роботиного</a>, біля <a href=\"https://deepstatemap.live/#14/47.4510/35.9182\">Вербового</a>, в <a href=\"https://deepstatemap.live/#14/47.8662/37.4481\">Парасковіїівці</a>, в <a href=\"https://deepstatemap.live/#15/48.1102/37.5472\">Нетайловому</a>, біля <a href=\"https://deepstatemap.live/#15/48.1235/37.5625\">Яснобродівки</a>, <a href=\"https://deepstatemap.live/#15/48.1986/37.6004\">Новопокровського</a>, <a href=\"https://deepstatemap.live/#14/48.2589/37.7276\">Кераміка</a>, <a href=\"https://deepstatemap.live/#13/49.5538/37.8933\">Берестового</a>, в <a href=\"https://deepstatemap.live/#14/50.2301/36.5945\">Зеленому</a> та біля <a href=\"https://deepstatemap.live/#13/50.2727/36.8429\">Бугруватки</a>.<br />Уточнено просування південніше <a href=\"https://deepstatemap.live/#14/47.8306/37.4244\">Новомихайлівки</a>, біля <a href=\"https://deepstatemap.live/#15/48.1440/37.5875\">Уманського</a>, <a href=\"https://deepstatemap.live/#13/50.2432/36.4596\">Липців</a> та в <a href=\"https://deepstatemap.live/#14/47.9992/37.5284\">Красногорівці</a>.",
+    "descriptionEn": "The enemy advanced southeast and south of <a href=\"https://deepstatemap.live/en#14/47.4419/35.8346\">Robotyne</a>, near <a href=\"https://deepstatemap.live/en#14/47.4510/35.9182\">Verbove</a>, in <a href=\"https://deepstatemap.live/en#14/47.8662/37.4481\">Paraskoviivka</a>, in <a href=\"https://deepstatemap.live/en#15/48.1102/37.5472\">Netailove</a>, near <a href=\"https://deepstatemap.live/en#15/48.1235/37.5625\">Yasnobrodivka</a>, <a href=\"https://deepstatemap.live/en#15/48.1986/37.6004\">Novopokrovske</a>, <a href=\"https://deepstatemap.live/en#14/48.2589/37.7276\">Keramik</a>, <a href=\"https://deepstatemap.live/en#13/49.5538/37.8933\">Berestove</a>, in <a href=\"https://deepstatemap.live/en#14/50.2301/36.5945\">Zelene</a> and near <a href=\"https://deepstatemap.live/en#13/50.2727/36.8429\">Buhruvatka</a>.<br />The advance on south of <a href=\"https://deepstatemap.live/en#14/47.8306/37.4244\">Novomykhailivka</a>, near <a href=\"https://deepstatemap.live/en#15/48.1440/37.5875\">Umanske</a>, <a href=\"https://deepstatemap.live/en#13/50.2432/36.4596\">Lyptsi</a> and in <a href=\"https://deepstatemap.live/en#14/47.9992/37.5284\">Krasnohorivka</a> has been clarifed.",
+    "updatedAt": "2024-05-19T21:11:01.768Z",
+    "datetime": "19.05 o 22:55",
+    "status": true,
+    "createdAt": "2024-05-19T20:55:27.000Z",
+    "liberated": 42987.230370861456,
+    "occupied": 65117.61149399613,
+    "unspecified": 646.596122124699
   }
 ]
