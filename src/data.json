@@ -11026,5 +11026,17 @@
     "liberated": 42987.230370861456,
     "occupied": 65117.61149399613,
     "unspecified": 646.596122124699
+  },
+  {
+    "id": 1716238692,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/49.4656/37.9330\">Стельмахівки</a> та уточнено просування у <a href=\"https://deepstatemap.live/#14/50.2975/36.9387\">Вовчанську</a> та навколишніх <a href=\"https://deepstatemap.live/#14/50.2524/36.7902\">селах</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.4656/37.9330\">Stelmakhivka</a> and clarified the advance in <a href=\"https://deepstatemap.liveen/#14/50.2975/36.9387\">Vovchansk</a> and surrounding <a href=\"https://deepstatemap.live/en#14/50.2524/36.7902\">villages</a>.",
+    "updatedAt": "2024-05-20T21:04:18.299Z",
+    "datetime": "20.05 o 22:58",
+    "status": true,
+    "createdAt": "2024-05-20T20:58:12.000Z",
+    "liberated": 42985.31569246644,
+    "occupied": 65140.101508508,
+    "unspecified": 625.9305478607062
   }
 ]
