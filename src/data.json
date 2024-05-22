@@ -11030,13 +11030,25 @@
   {
     "id": 1716238692,
     "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/49.4656/37.9330\">Стельмахівки</a> та уточнено просування у <a href=\"https://deepstatemap.live/#14/50.2975/36.9387\">Вовчанську</a> та навколишніх <a href=\"https://deepstatemap.live/#14/50.2524/36.7902\">селах</a>.",
-    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.4656/37.9330\">Stelmakhivka</a> and clarified the advance in <a href=\"https://deepstatemap.liveen/#14/50.2975/36.9387\">Vovchansk</a> and surrounding <a href=\"https://deepstatemap.live/en#14/50.2524/36.7902\">villages</a>.",
-    "updatedAt": "2024-05-20T21:04:18.299Z",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.4656/37.9330\">Stelmakhivka</a> and clarified the advance in <a href=\"https://deepstatemap.live/en#14/50.2975/36.9387\">Vovchansk</a> and surrounding <a href=\"https://deepstatemap.live/en#14/50.2524/36.7902\">villages</a>.",
+    "updatedAt": "2024-05-21T23:08:01.275Z",
     "datetime": "20.05 o 22:58",
     "status": true,
     "createdAt": "2024-05-20T20:58:12.000Z",
     "liberated": 42985.31569246644,
     "occupied": 65140.101508508,
     "unspecified": 625.9305478607062
+  },
+  {
+    "id": 1716333343,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#15/48.5953/37.8844\">Часовому Яру</a>, біля <a href=\"https://deepstatemap.live/#14/48.2475/37.5741\">Сокола</a>, <a href=\"https://deepstatemap.live/#15/48.0970/37.5478\">Нетайлового</a> та <a href=\"https://deepstatemap.live/#14/48.2270/37.5904\">Соловйового</a>. Лінія зіткнення у <a href=\"https://deepstatemap.live/#14/48.5322/37.9628\">Кліщіївці</a> уточнюється.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.5953/37.8844\">Chasiv Yar</a>, near <a href=\"https://deepstatemap.live/en#14/48.2475/37.5741\">Sokil</a>, <a href=\"https://deepstatemap.live/en#15/48.0970/37.5478\">Netailove</a> and <a href=\"https://deepstatemap.live/en#14/48.2270/37.5904\">Solovyove</a>. The line of contact in <a href=\"https://deepstatemap.live/en#14/48.5322/37.9628\">Klishchiyivka</a> is being clarified.",
+    "updatedAt": "2024-05-21T23:15:43.437Z",
+    "datetime": "22.05 o 01:15",
+    "status": true,
+    "createdAt": "2024-05-21T23:15:43.000Z",
+    "liberated": 42976.98263908032,
+    "occupied": 65141.514897223446,
+    "unspecified": 641.2367238347048
   }
 ]
