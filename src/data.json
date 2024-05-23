@@ -11050,5 +11050,17 @@
     "liberated": 42976.98263908032,
     "occupied": 65141.514897223446,
     "unspecified": 641.2367238347048
+  },
+  {
+    "id": 1716427440,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#15/48.5872/37.8853\">Часового Яру</a>, в <a href=\"https://deepstatemap.live/#14/48.5365/37.9666\">Кліщіївці</a> та <a href=\"https://deepstatemap.live/#14/48.0008/37.4940\">Красногорівці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#15/48.5872/37.8853\">Chasiv Yar</a>, in <a href=\"https://deepstatemap.live/en#14/48.5365/37.9666\">Klishchiivka</a> and <a href=\"https://deepstatemap.live/en#14/48.0008/37.4940\">Krasnohorivka</a>.",
+    "updatedAt": "2024-05-23T01:24:00.943Z",
+    "datetime": "23.05 o 03:24",
+    "status": true,
+    "createdAt": "2024-05-23T01:24:00.000Z",
+    "liberated": 42975.884063646845,
+    "occupied": 65143.51162972088,
+    "unspecified": 643.4210194337179
   }
 ]
