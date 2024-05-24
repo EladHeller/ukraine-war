@@ -11062,5 +11062,17 @@
     "liberated": 42975.884063646845,
     "occupied": 65143.51162972088,
     "unspecified": 643.4210194337179
+  },
+  {
+    "id": 1716501445,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.2617/37.6089\">Очеретиного</a>. Тривають бої у <a href=\"https://deepstatemap.live/#13/50.2988/36.9435\">Вовчанську</a>, <a href=\"https://deepstatemap.live/#14/49.5448/37.8924\">Берестовому</a>, <a href=\"https://deepstatemap.live/#14/48.5298/37.9605\">Кліщіївці</a>, <a href=\"https://deepstatemap.live/#14/48.1558/37.5752\">Уманському</a> та <a href=\"https://deepstatemap.live/#14/48.0048/37.5075\">Красногорівці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.2617/37.6089\">Ocheretyne</a>. Fighting continues in <a href=\"https://deepstatemap.live/en#13/50.2988/36.9435\">Vovchansk</a>, <a href=\"https://deepstatemap.live/en#14/49.5448/37.8924\">Berestove</a>, <a href=\"https://deepstatemap.live/en#14/48.5298/37.9605\">Klishchiivka</a>, <a href=\"https://deepstatemap.live/en#14/48.1558/37.5752\">Umanske</a> and <a href=\"https://deepstatemap.live/en#14/48.0048/37.5075\">Krasnohorivka</a>.",
+    "updatedAt": "2024-05-23T21:57:25.421Z",
+    "datetime": "23.05 o 23:57",
+    "status": true,
+    "createdAt": "2024-05-23T21:57:25.000Z",
+    "liberated": 42975.802350553575,
+    "occupied": 65144.01202364872,
+    "unspecified": 645.1930153980048
   }
 ]
