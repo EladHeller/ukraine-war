@@ -11074,5 +11074,17 @@
     "liberated": 42975.802350553575,
     "occupied": 65144.01202364872,
     "unspecified": 645.1930153980048
+  },
+  {
+    "id": 1716589548,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.2648/37.6362\">Архангельського</a>, <a href=\"https://deepstatemap.live/#13/48.1627/37.5939\">Уманського</a> та в <a href=\"https://deepstatemap.live/#14/48.5315/37.9611\">Кліщіївці</a>. Тривають бої біля <a href=\"https://deepstatemap.live/#13/49.5420/37.9041\">Берестового</a>, <a href=\"https://deepstatemap.live/#15/49.6600/37.8952\">Іванівки</a>, <a href=\"https://deepstatemap.live/#14/47.9854/37.4941\">Красногорівки</a> та у <a href=\"https://deepstatemap.live/#13/50.3042/36.9698\">Вовчанську</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.2648/37.6362\">Arkhangelske</a>, <a href=\"https://deepstatemap.live/en#13/48.1627/37.5939\">Umanske</a> and in <a href=\"https://deepstatemap.live/en#14/48.5315/37.9611\">Klishchiivka</a>. Fighting continues near <a href=\"https://deepstatemap.live/en#13/49.5420/37.9041\">Berestove</a>, <a href=\"https://deepstatemap.live/en#15/49.6600/37.8952\">Ivanivka</a>, <a href=\"https://deepstatemap.live/en#14/47.9854/37.4941\">Krasnohorivka</a> and in <a href=\"https://deepstatemap.live/en#13/50.3042/36.9698\">Vovchansk</a>.",
+    "updatedAt": "2024-05-24T22:25:48.445Z",
+    "datetime": "25.05 o 00:25",
+    "status": true,
+    "createdAt": "2024-05-24T22:25:48.000Z",
+    "liberated": 42973.09769955962,
+    "occupied": 65147.304415574465,
+    "unspecified": 648.5011749836189
   }
 ]
