@@ -11086,5 +11086,17 @@
     "liberated": 42973.09769955962,
     "occupied": 65147.304415574465,
     "unspecified": 648.5011749836189
+  },
+  {
+    "id": 1716670998,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.1561/37.5647\">Уманське</a> та просунувся в <a href=\"https://deepstatemap.live/#15/49.6622/37.8904\">Іванівці</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.1561/37.5647\">Umanske</a> and advanced in <a href=\"https://deepstatemap.live/en#15/49.6622/37.8904\">Ivanivka</a>.",
+    "updatedAt": "2024-05-25T21:27:26.837Z",
+    "datetime": "25.05 o 23:03",
+    "status": true,
+    "createdAt": "2024-05-25T21:03:18.000Z",
+    "liberated": 42969.60902135267,
+    "occupied": 65156.75122917784,
+    "unspecified": 646.3024626511217
   }
 ]
