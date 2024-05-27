@@ -11098,5 +11098,17 @@
     "liberated": 42969.60902135267,
     "occupied": 65156.75122917784,
     "unspecified": 646.3024626511217
+  },
+  {
+    "id": 1716757927,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/47.7967/37.4190\">Солодкого</a>, <a href=\"https://deepstatemap.live/#14/47.8513/37.4525\">Новомихайлівки</a>, <a href=\"https://deepstatemap.live/#14/48.2247/37.5704\">Соколу</a>, <a href=\"https://deepstatemap.live/#14/48.2540/37.5641\">Очеретиного</a>, <a href=\"https://deepstatemap.live/#14/48.2801/37.6000\">Новоолександрівки</a>, <a href=\"https://deepstatemap.live/#15/48.5891/37.8814\">Часового Яру</a>, в <a href=\"https://deepstatemap.live/#15/49.5414/37.8968\">Берестовому</a> та окупував <a href=\"https://deepstatemap.live/#15/48.1107/37.5406\">Нетайлове</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/47.7967/37.4190\">Solodke</a>, <a href=\"https://deepstatemap.live/en#14/47.8513/37.4525\">Novomykhailivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2247/37.5704\">Sokil</a>, <a href=\"https://deepstatemap.live/en#14/48.2540/37.5641\">Ocheretyne</a>, <a href=\"https://deepstatemap.live/en#14/48.2801/37.6000\">Novooleksandrivka</a>, <a href=\"https://deepstatemap.live/en#15/48.5891/37.8814\">Chasiv Yar</a>, in <a href=\"https://deepstatemap.live/en#15/49.5414/37.8968\">Berestove</a> and occupied <a href=\"https://deepstatemap.live/en#15/48.1107/37.5406\">Netaylove</a>.",
+    "updatedAt": "2024-05-26T21:12:49.393Z",
+    "datetime": "26.05 o 23:12",
+    "status": true,
+    "createdAt": "2024-05-26T21:12:07.000Z",
+    "liberated": 42969.123327024005,
+    "occupied": 65166.92000201727,
+    "unspecified": 645.6149227874125
   }
 ]
