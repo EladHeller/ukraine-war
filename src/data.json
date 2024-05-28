@@ -11110,5 +11110,17 @@
     "liberated": 42969.123327024005,
     "occupied": 65166.92000201727,
     "unspecified": 645.6149227874125
+  },
+  {
+    "id": 1716843835,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/49.7584/37.7720\">Вільшани</a>, <a href=\"https://deepstatemap.live/#14/48.1659/37.5841\">Уманського</a> та <a href=\"https://deepstatemap.live/#14/48.0958/37.5610\">Нетайлового</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.7584/37.7720\">Vilshany</a>, <a href=\"https://deepstatemap.live/en#14/48.1659/37.5841\">Umanske</a> and <a href=\"https://deepstatemap.live/en#14/48.0958/37.5610\">Netailove</a>.",
+    "updatedAt": "2024-05-27T21:03:55.419Z",
+    "datetime": "27.05 o 23:03",
+    "status": true,
+    "createdAt": "2024-05-27T21:03:55.000Z",
+    "liberated": 42969.123327024005,
+    "occupied": 65172.13136427912,
+    "unspecified": 640.969500075019
   }
 ]
