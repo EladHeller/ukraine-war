@@ -11122,5 +11122,17 @@
     "liberated": 42969.123327024005,
     "occupied": 65172.13136427912,
     "unspecified": 640.969500075019
+  },
+  {
+    "id": 1716932873,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#15/48.1704/37.5954\">Уманського</a> та в <a href=\"https://deepstatemap.live/#14/47.7528/36.7909\">Старомайорському</a>. Уточнено район <a href=\"https://deepstatemap.live/#15/48.6114/37.8716\">Богданівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#15/48.1704/37.5954\">Umanske</a> and in <a href=\"https://deepstatemap.live/en#14/47.7528/36.7909\">Staromayorske</a>. The area of <a href=\"https://deepstatemap.live/#15/48.6114/37.8716\">Bohdanivka</a> has been clarified.",
+    "updatedAt": "2024-05-28T21:47:53.805Z",
+    "datetime": "28.05 o 23:47",
+    "status": true,
+    "createdAt": "2024-05-28T21:47:53.000Z",
+    "liberated": 42968.41215298757,
+    "occupied": 65173.689731283215,
+    "unspecified": 640.7048760631577
   }
 ]
