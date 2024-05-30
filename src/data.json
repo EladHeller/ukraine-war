@@ -11134,5 +11134,17 @@
     "liberated": 42968.41215298757,
     "occupied": 65173.689731283215,
     "unspecified": 640.7048760631577
+  },
+  {
+    "id": 1717020099,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.1138/37.5488\">Нетайлового</a> та <a href=\"https://deepstatemap.live/#14/48.5216/37.9878\">Андріївки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.1138/37.5488\">Netailove</a> and <a href=\"https://deepstatemap.live/en#14/48.5216/37.9878\">Andriivka</a>.",
+    "updatedAt": "2024-05-29T22:01:39.735Z",
+    "datetime": "30.05 o 00:01",
+    "status": true,
+    "createdAt": "2024-05-29T22:01:39.000Z",
+    "liberated": 42968.372687600146,
+    "occupied": 65176.24379899901,
+    "unspecified": 640.0494982814084
   }
 ]
