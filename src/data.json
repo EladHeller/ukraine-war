@@ -11146,5 +11146,17 @@
     "liberated": 42968.372687600146,
     "occupied": 65176.24379899901,
     "unspecified": 640.0494982814084
+  },
+  {
+    "id": 1717130347,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.2149/37.5819\">Новопокровського</a>, <a href=\"https://deepstatemap.live/#14/47.4373/35.8315\">Роботиного</a> та в <a href=\"https://deepstatemap.live/#15/48.6005/37.8855\">Часовому Яру</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/#14/48.2149/37.5819\">Novopokrovske</a>, <a href=\"https://deepstatemap.live/#14/47.4373/35.8315\">Robotyne</a> and in <a href=\"https://deepstatemap.live/#15/48.6005/37.8855\">Chasiv Yar</a>.",
+    "updatedAt": "2024-05-31T04:39:07.583Z",
+    "datetime": "31.05 o 06:39",
+    "status": true,
+    "createdAt": "2024-05-31T04:39:07.000Z",
+    "liberated": 42967.42673234469,
+    "occupied": 65177.31712860697,
+    "unspecified": 640.2058223885599
   }
 ]
