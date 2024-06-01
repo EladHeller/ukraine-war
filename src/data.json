@@ -11158,5 +11158,17 @@
     "liberated": 42967.42673234469,
     "occupied": 65177.31712860697,
     "unspecified": 640.2058223885599
+  },
+  {
+    "id": 1717225039,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.2305/37.5708\">Соколу</a>, <a href=\"https://deepstatemap.live/#14/48.1823/37.6032\">Семенівки</a>, <a href=\"https://deepstatemap.live/#13/47.5027/35.6397\">Нестерянки</a> та в <a href=\"https://deepstatemap.live/#15/48.6004/37.8811\">Часовому Яру</a>. Тривають бої біля <a href=\"https://deepstatemap.live/#12/49.1596/38.0479\">Невського</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.2305/37.5708\">Sokil</a>, <a href=\"https://deepstatemap.live/en#14/48.1823/37.6032\">Semenivka</a>, <a href=\"https://deepstatemap.live/en#13/47.5027/35.6397\">Nesterianka</a> and in <a href=\"https://deepstatemap.live/en#15/48.6004/37.8811\">Chasiv Yar</a>. Fighting continues near <a href=\"https://deepstatemap.live/en#12/49.1596/38.0479\">Nevske</a>.",
+    "updatedAt": "2024-06-01T06:57:19.268Z",
+    "datetime": "01.06 o 08:57",
+    "status": true,
+    "createdAt": "2024-06-01T06:57:19.000Z",
+    "liberated": 42963.747205905216,
+    "occupied": 65183.813937236344,
+    "unspecified": 641.9353642206042
   }
 ]
