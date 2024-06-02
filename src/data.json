@@ -11170,5 +11170,17 @@
     "liberated": 42963.747205905216,
     "occupied": 65183.813937236344,
     "unspecified": 641.9353642206042
+  },
+  {
+    "id": 1717334668,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#15/48.0030/37.5029\">Красногорівці</a>, уточнено лінію зіткнення біля <a href=\"https://deepstatemap.live/#15/48.5570/37.9204\">Іванівського</a> та <a href=\"https://deepstatemap.live/#14/47.5449/36.0762\">Лугівського</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.0030/37.5029\">Krasnohorivka</a>, the front line near <a href=\"https://deepstatemap.live/en#15/48.5570/37.9204\">Ivanivske</a> and <a href=\"https://deepstatemap.live/en#14/47.5449/36.0762\">Luhivske</a> was clarified.",
+    "updatedAt": "2024-06-02T13:24:28.711Z",
+    "datetime": "02.06 o 15:24",
+    "status": true,
+    "createdAt": "2024-06-02T13:24:28.000Z",
+    "liberated": 42966.13038710622,
+    "occupied": 65180.63763829726,
+    "unspecified": 642.887674068933
   }
 ]
