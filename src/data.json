@@ -11182,5 +11182,17 @@
     "liberated": 42966.13038710622,
     "occupied": 65180.63763829726,
     "unspecified": 642.887674068933
+  },
+  {
+    "id": 1717421354,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.1119/37.5199\">Карлівці</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.1119/37.5199\">Karlivka</a>.",
+    "updatedAt": "2024-06-03T13:29:14.956Z",
+    "datetime": "03.06 o 15:29",
+    "status": true,
+    "createdAt": "2024-06-03T13:29:14.000Z",
+    "liberated": 42966.13038710622,
+    "occupied": 65182.38567388112,
+    "unspecified": 643.4778292138667
   }
 ]
