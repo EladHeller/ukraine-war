@@ -11218,5 +11218,17 @@
     "liberated": 42959.549969011874,
     "occupied": 65195.26206501683,
     "unspecified": 644.2712616853505
+  },
+  {
+    "id": 1717703793,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/49.6668/37.8835\">Іванівку</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/49.6668/37.8835\">Ivanivka</a>.",
+    "updatedAt": "2024-06-06T19:56:33.319Z",
+    "datetime": "06.06 o 21:56",
+    "status": true,
+    "createdAt": "2024-06-06T19:56:33.000Z",
+    "liberated": 42957.15761258153,
+    "occupied": 65197.65923308679,
+    "unspecified": 644.9457686891379
   }
 ]
