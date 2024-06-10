@@ -11254,5 +11254,17 @@
     "liberated": 42956.78254950825,
     "occupied": 65199.49372319823,
     "unspecified": 646.6955802999831
+  },
+  {
+    "id": 1717961532,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.1600/37.5443\">Уманського</a> та в <a href=\"https://deepstatemap.live/#15/48.2797/37.5588\">Новоолександрівці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.1600/37.5443\">Umanske</a> and in <a href=\"https://deepstatemap.live/en#15/48.2797/37.5588\">Novooleksandrivka</a>.",
+    "updatedAt": "2024-06-09T19:52:03.426Z",
+    "datetime": "09.06 o 21:32",
+    "status": true,
+    "createdAt": "2024-06-09T19:32:12.000Z",
+    "liberated": 42956.78254950825,
+    "occupied": 65202.715488242044,
+    "unspecified": 650.6152824391162
   }
 ]
