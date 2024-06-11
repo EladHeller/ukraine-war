@@ -11266,5 +11266,17 @@
     "liberated": 42956.78254950825,
     "occupied": 65202.715488242044,
     "unspecified": 650.6152824391162
+  },
+  {
+    "id": 1718048397,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.2094/37.5762\">Новопокровського</a>, в <a href=\"https://deepstatemap.live/#15/47.7543/36.7930\">Старомайорському</a> та захопив <a href=\"https://deepstatemap.live/#14/48.5627/37.9097\">Іванівське</a>. Уточнено лінію зіткнення в <a href=\"https://deepstatemap.live/#14/48.5328/37.9595\">Кліщіївці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.2094/37.5762\">Novopokrovske</a>, in <a href=\"https://deepstatemap.live/en#15/47.7543/36.7930\">Staromayorske</a> and captured <a href=\"https://deepstatemap.live/en#14/48.5627/37.9097\">Ivanivske</a>. The front line in <a href=\"https://deepstatemap.live/en#14/48.5328/37.9595\">Klishchiyivka</a> was clarified.",
+    "updatedAt": "2024-06-10T19:41:01.357Z",
+    "datetime": "10.06 o 21:39",
+    "status": true,
+    "createdAt": "2024-06-10T19:39:57.000Z",
+    "liberated": 42955.75621076956,
+    "occupied": 65206.27017162892,
+    "unspecified": 651.7397430382655
   }
 ]
