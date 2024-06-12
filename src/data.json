@@ -11278,5 +11278,17 @@
     "liberated": 42955.75621076956,
     "occupied": 65206.27017162892,
     "unspecified": 651.7397430382655
+  },
+  {
+    "id": 1718136420,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.2322/37.5649\">Соколу</a>, в <a href=\"https://deepstatemap.live/#14/48.2039/37.5656\">Новопокровському</a> та його околицях.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.2322/37.5649\">Sokil</a>, in <a href=\"https://deepstatemap.live/en#14/48.2039/37.5656\">Novopokrovske</a> and its outskirts.",
+    "updatedAt": "2024-06-11T20:48:50.947Z",
+    "datetime": "11.06 o 22:07",
+    "status": true,
+    "createdAt": "2024-06-11T20:07:00.000Z",
+    "liberated": 42955.75621076956,
+    "occupied": 65208.553434797206,
+    "unspecified": 651.1660027536691
   }
 ]
