@@ -11290,5 +11290,17 @@
     "liberated": 42955.75621076956,
     "occupied": 65208.553434797206,
     "unspecified": 651.1660027536691
+  },
+  {
+    "id": 1718225785,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.7864/38.1789\">Виїмки</a>, <a href=\"https://deepstatemap.live/#14/48.2722/37.5535\">Новоолександрівки</a>, <a href=\"https://deepstatemap.live/#14/48.1186/37.5208\">Карлівки</a>, в <a href=\"https://deepstatemap.live/#15/48.2034/37.5644\">Новопокровському</a>, <a href=\"https://deepstatemap.live/#16/47.7568/36.7983\">Старомайорському</a>, <a href=\"https://deepstatemap.live/#15/47.9925/37.4990\">Красногорівці</a> та <a href=\"https://deepstatemap.live/#16/48.0578/37.5779\">Невельському</a>. Уточнено лінію зіткнення східніше <a href=\"https://deepstatemap.live/#14/50.3278/36.9723\">Вовчанська</a> та на <a href=\"https://deepstatemap.live/#16/50.2910/36.9419\">Агрегатному заводі</a> в місті.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.7864/38.1789\">Vyimka</a>, <a href=\"https://deepstatemap.live/en#14/48.2722/37.5535\">Novooleksandrivka</a>, <a href=\"https://deepstatemap.live/en#14/48.1186/37.5208\">Karlivka</a>, in <a href=\"https://deepstatemap.live/en#15/48.2034/37.5644\">Novopokrovske</a>, <a href=\"https://deepstatemap.live/en#16/47.7568/36.7983\">Staromayorske</a>, <a href=\"https://deepstatemap.live/en#15/47.9925/37.4990\">Krasnohorivka</a> and <a href=\"https://deepstatemap.live/en#16/48.0578/37.5779\">Nevelske</a>. The front line was clarified on east of <a href=\"https://deepstatemap.live/en#14/50.3278/36.9723\">Vovchansk</a> and at the <a href=\"https://deepstatemap.live/en#16/50.2910/36.9419\">Aggregate plant</a> in the city.",
+    "updatedAt": "2024-06-12T21:05:22.916Z",
+    "datetime": "12.06 o 22:56",
+    "status": true,
+    "createdAt": "2024-06-12T20:56:25.000Z",
+    "liberated": 42955.674952829424,
+    "occupied": 65222.76437785373,
+    "unspecified": 642.6690360998795
   }
 ]
