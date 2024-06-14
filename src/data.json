@@ -11302,5 +11302,17 @@
     "liberated": 42955.674952829424,
     "occupied": 65222.76437785373,
     "unspecified": 642.6690360998795
+  },
+  {
+    "id": 1718310222,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/48.7435/38.1008\">Роздолівки</a> та окупував <a href=\"https://deepstatemap.live/#14/48.2023/37.5602\">Новопокровське</a>. Тривають бої біля <a href=\"https://deepstatemap.live/#14/50.2549/36.4255\">Глибокого</a> та <a href=\"https://deepstatemap.live/#12/49.2633/37.9864\">Нововодяного</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/48.7435/38.1008\">Rozdolivka</a> and occupied <a href=\"https://deepstatemap.live/en#14/48.2023/37.5602\">Novopokrovske</a>. Fighting continues near <a href=\"https://deepstatemap.live/en#14/50.2549/36.4255\">Hlyboke</a> and <a href=\"https://deepstatemap.live/en#12/49.2633/37.9864\">Novovodyane</a>.",
+    "updatedAt": "2024-06-13T20:49:34.796Z",
+    "datetime": "13.06 o 22:23",
+    "status": true,
+    "createdAt": "2024-06-13T20:23:42.000Z",
+    "liberated": 42955.674952829424,
+    "occupied": 65231.62794576181,
+    "unspecified": 637.8549657521688
   }
 ]
