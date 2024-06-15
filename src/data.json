@@ -11314,5 +11314,17 @@
     "liberated": 42955.674952829424,
     "occupied": 65231.62794576181,
     "unspecified": 637.8549657521688
+  },
+  {
+    "id": 1718397860,
+    "description": "Ворог відступив у <a href=\"https://deepstatemap.live/#15/48.9652/38.1933\">Серебрянському лісництві</a> та <a href=\"https://deepstatemap.live/#14/48.5354/37.9653\">Кліщіївці</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#13/48.6073/37.8899\">Калинівки</a>, <a href=\"https://deepstatemap.live/#15/48.2014/37.5728\">Новопокровського</a> та <a href=\"https://deepstatemap.live/#14/48.1242/37.5519\">Яснобродівки</a>.",
+    "descriptionEn": "The enemy retreated in <a href=\"https://deepstatemap.live/en#15/48.9652/38.1933\">Serebryanske forestry</a> and <a href=\"https://deepstatemap.live/en#14/48.5354/37.9653\">Klishchiyivka</a>, and advanced near <a href=\"https://deepstatemap.live/en#13/48.6073/37.8899\">Kalynivka</a>, <a href=\"https://deepstatemap.live/en#15/48.2014/37.5728\">Novopokrovske</a> and <a href=\"https://deepstatemap.live/en#14/48.1242/37.5519\">Yasnobrodivka</a>.",
+    "updatedAt": "2024-06-15T00:48:31.128Z",
+    "datetime": "14.06 o 22:44",
+    "status": true,
+    "createdAt": "2024-06-14T20:44:20.000Z",
+    "liberated": 42955.674952829424,
+    "occupied": 65233.65000966752,
+    "unspecified": 638.510246803274
   }
 ]
