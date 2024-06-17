@@ -11338,5 +11338,17 @@
     "liberated": 42955.674952829424,
     "occupied": 65236.67354260831,
     "unspecified": 638.6440619210749
+  },
+  {
+    "id": 1718570220,
+    "description": "Сили Оборони відкинули ворога в <a href=\"https://deepstatemap.live/#15/48.9713/38.1824\">Серебрянському лісництві</a> (<a href=\"https://t.me/DeepStateUA/19715\">деталі</a>). Противнику не дали закріпитися біля <a href=\"https://deepstatemap.live/#14/48.1770/37.5470\">Новоселівки Першої</a>. Ворог просунувся у <a href=\"https://deepstatemap.live/#16/48.0052/37.4993\">Красногорівці</a>.",
+    "descriptionEn": "Ukrainian Defense Forces drove back the enemy in <a href=\"https://deepstatemap.live/en#15/48.9713/38.1824\">Serebryanka forestry</a> (<a href=\"https://t.me/DeepStateUA/19715\">details</a>). The enemy was not allowed to gain a foothold near <a href=\"https://deepstatemap.live/en#14/48.1770/37.5470\">Novoselivka Persha</a>. The enemy advanced in <a href=\"https://deepstatemap.live/en#16/48.0052/37.4993\">Krasnohorivka</a>.",
+    "updatedAt": "2024-06-16T20:40:33.363Z",
+    "datetime": "16.06 o 22:37",
+    "status": true,
+    "createdAt": "2024-06-16T20:37:00.000Z",
+    "liberated": 42958.0372718159,
+    "occupied": 65234.07901579215,
+    "unspecified": 637.5353475319743
   }
 ]
