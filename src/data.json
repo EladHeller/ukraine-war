@@ -11350,5 +11350,17 @@
     "liberated": 42958.0372718159,
     "occupied": 65234.07901579215,
     "unspecified": 637.5353475319743
+  },
+  {
+    "id": 1718656456,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#15/48.1671/37.5736\">Уманського</a>, <a href=\"https://deepstatemap.live/#14/48.2448/37.5609\">Соколу</a> та <a href=\"https://deepstatemap.live/#15/48.2745/37.6300\">Архангельського</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#15/48.1671/37.5736\">Umanske</a>, <a href=\"https://deepstatemap.live/en#14/48.2448/37.5609\">Sokil</a> and <a href=\"https://deepstatemap.live/en#15/48.2745/37.6300\">Arkhangelske</a>.",
+    "updatedAt": "2024-06-17T21:35:53.641Z",
+    "datetime": "17.06 o 22:34",
+    "status": true,
+    "createdAt": "2024-06-17T20:34:16.000Z",
+    "liberated": 42958.0372718159,
+    "occupied": 65238.63453933312,
+    "unspecified": 636.7955174733155
   }
 ]
