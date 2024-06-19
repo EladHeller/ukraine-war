@@ -11362,5 +11362,17 @@
     "liberated": 42958.0372718159,
     "occupied": 65238.63453933312,
     "unspecified": 636.7955174733155
+  },
+  {
+    "id": 1718743883,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.4010/37.9509\">Північного</a> та <a href=\"https://deepstatemap.live/#13/48.2673/37.7733\">Олександрополя</a>. Уточнено лінію фронту східніше <a href=\"https://deepstatemap.live/#13/50.3021/36.9655\">Вовчанська</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.4010/37.9509\">Pivnichne</a> and <a href=\"https://deepstatemap.live/en#13/48.2673/37.7733\">Oleksandropil</a>. The front line on east of <a href=\"https://deepstatemap.live/en#13/50.3021/36.9655\">Vovchansk</a> has been clarified.",
+    "updatedAt": "2024-06-18T21:04:55.503Z",
+    "datetime": "18.06 o 22:51",
+    "status": true,
+    "createdAt": "2024-06-18T20:51:23.000Z",
+    "liberated": 42958.530860232066,
+    "occupied": 65244.14378192583,
+    "unspecified": 635.8045917367799
   }
 ]
