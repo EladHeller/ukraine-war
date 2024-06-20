@@ -11374,5 +11374,17 @@
     "liberated": 42958.530860232066,
     "occupied": 65244.14378192583,
     "unspecified": 635.8045917367799
+  },
+  {
+    "id": 1718828583,
+    "description": "Ворога відкинуто біля <a href=\"https://deepstatemap.live/#14/48.2684/37.7756\">Олександрополя</a>. Противник просунувся біля <a href=\"https://deepstatemap.live/#13/49.1942/38.0339\">Площанки</a>.",
+    "descriptionEn": "The enemy was pushed back near <a href=\"https://deepstatemap.live/en#14/48.2684/37.7756\">Oleksandropil</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#13/49.1942/38.0339\">Ploshchanka</a>.",
+    "updatedAt": "2024-06-19T23:56:12.564Z",
+    "datetime": "19.06 o 22:23",
+    "status": true,
+    "createdAt": "2024-06-19T20:23:03.000Z",
+    "liberated": 42956.93515640366,
+    "occupied": 65245.85225944966,
+    "unspecified": 635.5750207683463
   }
 ]
