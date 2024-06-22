@@ -11398,5 +11398,17 @@
     "liberated": 42956.93515640366,
     "occupied": 65245.85225944966,
     "unspecified": 636.0713568764306
+  },
+  {
+    "id": 1718995519,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.3808/37.9352\">Шуми</a> та просунувся у <a href=\"https://deepstatemap.live/#15/48.2363/37.5551\">Соколі</a> та <a href=\"https://deepstatemap.live/#14/48.4005/37.9351\">Північному</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.3808/37.9352\">Shumy</a> and advanced in <a href=\"https://deepstatemap.live/en#15/48.2363/37.5551\">Sokil and <a href=\"https://deepstatemap.live/en#14/48.4005/37.9351\">Pivnichne</a>.",
+    "updatedAt": "2024-06-21T19:17:52.678Z",
+    "datetime": "21.06 o 20:45",
+    "status": true,
+    "createdAt": "2024-06-21T18:45:19.000Z",
+    "liberated": 42956.93515640366,
+    "occupied": 65250.88651945248,
+    "unspecified": 636.9058367176492
   }
 ]
