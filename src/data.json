@@ -11410,5 +11410,17 @@
     "liberated": 42956.93515640366,
     "occupied": 65250.88651945248,
     "unspecified": 636.9058367176492
+  },
+  {
+    "id": 1719086553,
+    "description": "Ворог просунувся південніше <a href=\"https://deepstatemap.live/#13/49.7570/37.7656\">Вільшан</a>, біля <a href=\"https://deepstatemap.live/#14/48.1973/37.5931\">Новопокровського</a>, <a href=\"https://deepstatemap.live/#15/48.3919/37.9271\">Північного</a> та <a href=\"https://deepstatemap.live/#14/47.8387/37.4235\">Костянтинівки</a>.",
+    "descriptionEn": "The enemy advanced to the south of <a href=\"https://deepstatemap.live/en#13/49.7570/37.7656\">Vilshany</a>, near <a href=\"https://deepstatemap.live/en#14/48.1973/37.5931\">Novopokrovske</a>, <a href=\"https://deepstatemap.live/en#15/48.3919/37.9271\">Pivnichne</a> and <a href=\"https://deepstatemap.live/en#14/47.8387/37.4235\">Kostiantynivka</a>.",
+    "updatedAt": "2024-06-22T20:02:33.902Z",
+    "datetime": "22.06 o 22:02",
+    "status": true,
+    "createdAt": "2024-06-22T20:02:33.000Z",
+    "liberated": 42954.88070970047,
+    "occupied": 65259.40606365128,
+    "unspecified": 633.6847519681339
   }
 ]
