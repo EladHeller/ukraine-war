@@ -11434,5 +11434,17 @@
     "liberated": 42954.88070970047,
     "occupied": 65276.94345998679,
     "unspecified": 629.55255961177
+  },
+  {
+    "id": 1719259351,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#16/48.0013/37.5192\">Красногорівці</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#16/48.0013/37.5192\">Krasnohorivka</a>.",
+    "updatedAt": "2024-06-24T20:02:31.155Z",
+    "datetime": "24.06 o 22:02",
+    "status": true,
+    "createdAt": "2024-06-24T20:02:31.000Z",
+    "liberated": 43007.056053902554,
+    "occupied": 65277.04313193758,
+    "unspecified": 630.5048500400599
   }
 ]
