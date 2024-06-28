@@ -11470,5 +11470,17 @@
     "liberated": 43010.73072720218,
     "occupied": 65274.91909127728,
     "unspecified": 633.2128756630112
+  },
+  {
+    "id": 1719520267,
+    "description": "Ворогу не дали закріпитися у <a href=\"https://deepstatemap.live/#13/50.4334993/35.9159354\">Сотницькому Козачку</a>.",
+    "descriptionEn": "The enemy was pushed back in <a href=\"https://deepstatemap.live/en#13/50.4334993/35.9159354\">Sotnytskyi Kozachok</a>.",
+    "updatedAt": "2024-06-27T21:21:26.965Z",
+    "datetime": "27.06 o 22:31",
+    "status": true,
+    "createdAt": "2024-06-27T20:31:07.000Z",
+    "liberated": 43010.73072720218,
+    "occupied": 65274.91909127728,
+    "unspecified": 631.2486913575652
   }
 ]
