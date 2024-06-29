@@ -11494,5 +11494,17 @@
     "liberated": 43005.7078152756,
     "occupied": 65287.085909242756,
     "unspecified": 632.4468433364037
+  },
+  {
+    "id": 1719670437,
+    "description": "Сили Оборони відкинули ворога у <a href=\"https://deepstatemap.live/#14/48.9399/38.1995\">Серебрянському лісництві</a>.",
+    "descriptionEn": "The Defense Forces push back the enemies in <a href=\"https://deepstatemap.live/en#14/48.9399/38.1995\">Serebryanske Forestry</a>.",
+    "updatedAt": "2024-06-29T14:27:44.642Z",
+    "datetime": "29.06 o 16:13",
+    "status": true,
+    "createdAt": "2024-06-29T14:13:57.000Z",
+    "liberated": 43007.36557655823,
+    "occupied": 65287.085909242756,
+    "unspecified": 632.3387395910312
   }
 ]
