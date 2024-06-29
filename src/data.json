@@ -11482,5 +11482,17 @@
     "liberated": 43010.73072720218,
     "occupied": 65274.91909127728,
     "unspecified": 631.2486913575652
+  },
+  {
+    "id": 1719608166,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#13/48.3674/37.9149\">Південному</a>, <a href=\"https://deepstatemap.live/#14/48.2366/37.5450\">Соколі</a>, біля <a href=\"https://deepstatemap.live/#13/49.1573/38.0463\">Невського</a> та <a href=\"https://deepstatemap.live/#14/48.1787/37.5706\">Новоселівки Першої</a>. Уточнено лінію зіткнення біля <a href=\"https://deepstatemap.live/#13/48.3923/37.9288\">Шумів</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#13/48.3674/37.9149\">Pivdenne</a>, <a href=\"https://deepstatemap.live/en#14/48.2366/37.5450\">Sokil</a>, near <a href=\"https://deepstatemap.live/en#13/49.1573/38.0463\">Nevske</a> and <a href=\"https://deepstatemap.live/en#14/48.1787/37.5706\">Novoselivka Persha</a>. Front line near <a href=\"https://deepstatemap.live/en#13/48.3923/37.9288\">Shumy</a> has been updated.",
+    "updatedAt": "2024-06-28T21:23:44.223Z",
+    "datetime": "28.06 o 22:56",
+    "status": true,
+    "createdAt": "2024-06-28T20:56:06.000Z",
+    "liberated": 43005.7078152756,
+    "occupied": 65287.085909242756,
+    "unspecified": 632.4468433364037
   }
 ]
