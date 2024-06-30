@@ -11506,5 +11506,17 @@
     "liberated": 43007.36557655823,
     "occupied": 65287.085909242756,
     "unspecified": 632.3387395910312
+  },
+  {
+    "id": 1719745832,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.2350/37.5331\">Євгенівці</a>, біля <a href=\"https://deepstatemap.live/#14/48.2689/37.5415\">Новоолександрівки</a> та <a href=\"https://deepstatemap.live/#14/48.2461/37.5420\">Соколу</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.2350/37.5331\">Yevhenivka</a>, near <a href=\"https://deepstatemap.live/en#14/48.2689/37.5415\">Novooleksandrivka</a> and <a href=\"https://deepstatemap.live/en#14/48.2461/37.5420\">Sokil</a>.",
+    "updatedAt": "2024-06-30T11:13:42.857Z",
+    "datetime": "30.06 o 13:10",
+    "status": true,
+    "createdAt": "2024-06-30T11:10:32.000Z",
+    "liberated": 43007.36557655823,
+    "occupied": 65291.901803160305,
+    "unspecified": 632.24683208058
   }
 ]
