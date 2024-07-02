@@ -11518,5 +11518,17 @@
     "liberated": 43007.36557655823,
     "occupied": 65291.901803160305,
     "unspecified": 632.24683208058
+  },
+  {
+    "id": 1719866623,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/49.4726/37.9170\">Стельмахівки</a>, <a href=\"https://deepstatemap.live/#13/49.2171/37.9997\">Макіївки</a>, <a href=\"https://deepstatemap.live/#14/48.2409/37.5313\">Євгенівки</a> та <a href=\"https://deepstatemap.live/#14/48.0668/37.5903\">Невельського</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.4726/37.9170\">Stelmakhivka</a>, <a href=\"https://deepstatemap.live/en#13/49.2171/37.9997\">Makiivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2409/37.5313\">Yevhenivka</a> and <a href=\"https://deepstatemap.live/en#14/48.0668/37.5903\">Nevelske</a>.",
+    "updatedAt": "2024-07-01T21:18:58.106Z",
+    "datetime": "01.07 o 22:43",
+    "status": true,
+    "createdAt": "2024-07-01T20:43:43.000Z",
+    "liberated": 43002.44042635718,
+    "occupied": 65297.65913938364,
+    "unspecified": 634.5936017451376
   }
 ]
