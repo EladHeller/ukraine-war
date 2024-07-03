@@ -11530,5 +11530,29 @@
     "liberated": 43002.44042635718,
     "occupied": 65297.65913938364,
     "unspecified": 634.5936017451376
+  },
+  {
+    "id": 1719953609,
+    "description": "Уточнено лінію зіткнення.",
+    "descriptionEn": "The frontline has been clarified.",
+    "updatedAt": "2024-07-02T20:53:32.411Z",
+    "datetime": "02.07 o 22:53",
+    "status": true,
+    "createdAt": "2024-07-02T20:53:29.000Z",
+    "liberated": 43002.43962634173,
+    "occupied": 65297.655279200466,
+    "unspecified": 642.8638530887459
+  },
+  {
+    "id": 1719956814,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.2538538/37.5258237\">Прогресу</a>, <a href=\"https://deepstatemap.live/#14/47.7739736/37.3615408\">Володимирівки</a>, в <a href=\"https://deepstatemap.live/#15/48.1222547/37.5105264\">Карлівці</a>, <a href=\"https://deepstatemap.live/#15/48.0062649/37.4989285\">Красногорівці</a>, <a href=\"https://deepstatemap.live/#14/48.3024620/37.8448444\">Нью Йорку</a>, <a href=\"https://deepstatemap.live/#15/48.5939940/37.8768470\">Часовому Яру</a> та <a href=\"https://deepstatemap.live/#14/49.2253399/37.9865623\">Макіївці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.2538538/37.5258237\">Prohres</a>, <a href=\"https://deepstatemap.live/en#14/47.7739736/37.3615408\">Volodymyrivka</a>, <a href=\"https://deepstatemap.live/en#15/48.1222547/37.5105264\">Karlivka</a>, <a href=\"https://deepstatemap.live/en#14/48.3024620/37.8448444\">Krasnohorivka</a>, <a href=\"https://deepstatemap.live/en#14/48.3024620/37.8448444\">New York</a>,<a href=\"https://deepstatemap.live/en#15/48.5939940/37.8768470\">Chasiv Yar</a> and <a href=\"https://deepstatemap.live/en#14/49.2253399/37.9865623\">Makiivka</a>.",
+    "updatedAt": "2024-07-02T22:07:27.871Z",
+    "datetime": "02.07 o 23:46",
+    "status": true,
+    "createdAt": "2024-07-02T21:46:54.000Z",
+    "liberated": 43000.356388395434,
+    "occupied": 65313.43854517815,
+    "unspecified": 636.1576986138393
   }
 ]
