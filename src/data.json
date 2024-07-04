@@ -11546,13 +11546,25 @@
   {
     "id": 1719956814,
     "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.2538538/37.5258237\">Прогресу</a>, <a href=\"https://deepstatemap.live/#14/47.7739736/37.3615408\">Володимирівки</a>, в <a href=\"https://deepstatemap.live/#15/48.1222547/37.5105264\">Карлівці</a>, <a href=\"https://deepstatemap.live/#15/48.0062649/37.4989285\">Красногорівці</a>, <a href=\"https://deepstatemap.live/#14/48.3024620/37.8448444\">Нью Йорку</a>, <a href=\"https://deepstatemap.live/#15/48.5939940/37.8768470\">Часовому Яру</a> та <a href=\"https://deepstatemap.live/#14/49.2253399/37.9865623\">Макіївці</a>.",
-    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.2538538/37.5258237\">Prohres</a>, <a href=\"https://deepstatemap.live/en#14/47.7739736/37.3615408\">Volodymyrivka</a>, <a href=\"https://deepstatemap.live/en#15/48.1222547/37.5105264\">Karlivka</a>, <a href=\"https://deepstatemap.live/en#14/48.3024620/37.8448444\">Krasnohorivka</a>, <a href=\"https://deepstatemap.live/en#14/48.3024620/37.8448444\">New York</a>,<a href=\"https://deepstatemap.live/en#15/48.5939940/37.8768470\">Chasiv Yar</a> and <a href=\"https://deepstatemap.live/en#14/49.2253399/37.9865623\">Makiivka</a>.",
-    "updatedAt": "2024-07-02T22:07:27.871Z",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.2538538/37.5258237\">Prohres</a>, <a href=\"https://deepstatemap.live/en#14/47.7739736/37.3615408\">Volodymyrivka</a>, <a href=\"https://deepstatemap.live/en#15/48.1222547/37.5105264\">Karlivka</a>, <a href=\"https://deepstatemap.live/#15/48.0062649/37.4989285\">Krasnohorivka</a>, <a href=\"https://deepstatemap.live/en#14/48.3024620/37.8448444\">New York</a>,<a href=\"https://deepstatemap.live/en#15/48.5939940/37.8768470\">Chasiv Yar</a> and <a href=\"https://deepstatemap.live/en#14/49.2253399/37.9865623\">Makiivka</a>.",
+    "updatedAt": "2024-07-03T22:40:35.653Z",
     "datetime": "02.07 o 23:46",
     "status": true,
     "createdAt": "2024-07-02T21:46:54.000Z",
     "liberated": 43000.356388395434,
     "occupied": 65313.43854517815,
     "unspecified": 636.1576986138393
+  },
+  {
+    "id": 1720046704,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.2312708/37.5540497\">Сокіл</a> та <a href=\"https://deepstatemap.live/#14/48.2287559/37.5312234\">Восход</a>, а також просунувся в <a href=\"https://deepstatemap.live/#13/50.4317542/35.9207455\">Сотницькому Козачку</a>, <a href=\"https://deepstatemap.live/#14/48.3774484/37.9151402\">Північному</a>, біля <a href=\"https://deepstatemap.live/#15/48.4097904/37.9482992\">Дружби</a>, <a href=\"https://deepstatemap.live/#15/48.2444957/37.5214666\">Євгенівки</a> та <a href=\"https://deepstatemap.live/#14/48.2139453/37.5537143\">Новопокровського</a>.",
+    "descriptionEn": "",
+    "updatedAt": "2024-07-03T22:45:23.348Z",
+    "datetime": "04.07 o 00:45",
+    "status": true,
+    "createdAt": "2024-07-03T22:45:04.000Z",
+    "liberated": 43000.37258630497,
+    "occupied": 65325.10828070909,
+    "unspecified": 634.7386577923127
   }
 ]
