@@ -11566,5 +11566,17 @@
     "liberated": 43000.37258630497,
     "occupied": 65325.10828070909,
     "unspecified": 634.7386577923127
+  },
+  {
+    "id": 1720210845,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.2981053/37.8547053\">Нью Йорку</a>, <a href=\"https://deepstatemap.live/#15/48.4032658/37.9315044\">Дружбі</a> та біля <a href=\"https://deepstatemap.live/#14/48.2189258/37.5156990\">Новоселівки Першої</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.2981053/37.8547053\">New York</a>, <a href=\"https://deepstatemap.live/en#15/48.4032658/37.9315044\">Druzhba</a> and near <a href=\"https://deepstatemap.live/en#14/48.2189258/37.5156990\">Novoselivka Persha</a>.",
+    "updatedAt": "2024-07-05T20:41:17.157Z",
+    "datetime": "05.07 o 22:20",
+    "status": true,
+    "createdAt": "2024-07-05T20:20:45.000Z",
+    "liberated": 43000.37258630497,
+    "occupied": 65328.80595872015,
+    "unspecified": 634.9296542551537
   }
 ]
