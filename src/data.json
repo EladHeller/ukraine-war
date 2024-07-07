@@ -11578,5 +11578,17 @@
     "liberated": 43000.37258630497,
     "occupied": 65328.80595872015,
     "unspecified": 634.9296542551537
+  },
+  {
+    "id": 1720299570,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#13/49.5669243/37.8404247\">Піщаному</a>, <a href=\"https://deepstatemap.live/#14/48.2332253/37.5271962\">Євгенівці</a>, <a href=\"https://deepstatemap.live/#15/48.3799544/37.9029840\">Північному</a>, біля <a href=\"https://deepstatemap.live/#14/48.2683698/37.5303717\">Лозуватського</a>, <a href=\"https://deepstatemap.live/#14/49.2233393/37.9978038\">Макіївки</a>, <a href=\"https://deepstatemap.live/#13/48.2107836/37.5079319\">Новоселівки Першої</a>, <a href=\"https://deepstatemap.live/#14/48.5741388/37.8774706\">Часового Яру</a>, <a href=\"https://deepstatemap.live/#14/48.6027431/37.8668298\">Калинівки</a>. <br/>Сили Оборони України відкидають ворога в <a href=\"https://deepstatemap.live/#13/50.2626527/36.4122643\">Глибокому</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#13/49.5669243/37.8404247\">Pishchane</a>, <a href=\"https://deepstatemap.live/en#14/48.2332253/37.5271962\">Yevhenivka</a>, <a href=\"https://deepstatemap.live/en#15/48.3799544/37.9029840\">Pivnichne</a>, near <a href=\"https://deepstatemap.live/en#14/48.2683698/37.5303717\">Lozuvatske</a>, <a href=\"https://deepstatemap.live/en#14/49.2233393/37.9978038\">Makiivka</a>, <a href=\"https://deepstatemap.live/en#13/48.2107836/37.5079319\">Novoselivka Persha</a>, <a href=\"https://deepstatemap.live/en#14/48.5741388/37.8774706\">Chasovyi Yar</a>, <a href=\"https://deepstatemap.live/en#14/48.6027431/37.8668298\">Kalynivka</a>. <br/>Ukrainian Defense Forces are pushing back the enemy in <a href=\"https://deepstatemap.live/en#13/50.2626527/36.4122643\">Hlyboke</a>.",
+    "updatedAt": "2024-07-06T22:19:25.095Z",
+    "datetime": "06.07 o 22:59",
+    "status": true,
+    "createdAt": "2024-07-06T20:59:30.000Z",
+    "liberated": 42994.25781137975,
+    "occupied": 65337.00238017492,
+    "unspecified": 637.9680681607053
   }
 ]
