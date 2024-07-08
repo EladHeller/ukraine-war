@@ -11590,5 +11590,17 @@
     "liberated": 42994.25781137975,
     "occupied": 65337.00238017492,
     "unspecified": 637.9680681607053
+  },
+  {
+    "id": 1720385367,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/49.7397356/37.7947732\">Петропавлівки</a>, <a href=\"https://deepstatemap.live/#15/48.2356895/37.5209485\">Євгенівки</a> та в <a href=\"https://deepstatemap.live/#15/48.0039773/37.5126654\">Красногорівці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/49.7397356/37.7947732\">Petropavlivka</a>, <a href=\"https://deepstatemap.live/en#15/48.2356895/37.5209485\">Yevhenivka</a> and <a href=\"https://deepstatemap.live/en#15/48.0039773/37.5126654\">Krasnohorivka</a>.",
+    "updatedAt": "2024-07-07T21:38:54.610Z",
+    "datetime": "07.07 o 22:49",
+    "status": true,
+    "createdAt": "2024-07-07T20:49:27.000Z",
+    "liberated": 42993.17805224034,
+    "occupied": 65338.868799766875,
+    "unspecified": 637.2926594617968
   }
 ]
