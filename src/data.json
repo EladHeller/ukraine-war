@@ -11614,5 +11614,17 @@
     "liberated": 42993.17805224034,
     "occupied": 65343.858619521634,
     "unspecified": 639.0193305264356
+  },
+  {
+    "id": 1720557567,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/49.7617246/37.7388509\">Синьківки</a>, <a href=\"https://deepstatemap.live/#15/48.2333477/37.5207378\">Євгенівки</a> та продовжує тиск в бік центру <a href=\"https://deepstatemap.live/#14/48.3260953/37.8251114\">Нью-Йорку</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/49.7617246/37.7388509\">Synkivka</a>, <a href=\"https://deepstatemap.live/en#15/48.2333477/37.5207378\">Yevhenivka</a> and continues to put pressure on the center of <a href=\"https://deepstatemap.live/en#14/48.3260953/37.8251114\">New York</a>.",
+    "updatedAt": "2024-07-09T21:06:14.670Z",
+    "datetime": "09.07 o 22:39",
+    "status": true,
+    "createdAt": "2024-07-09T20:39:27.000Z",
+    "liberated": 42990.0555343504,
+    "occupied": 65346.73771280977,
+    "unspecified": 643.1388274654178
   }
 ]
