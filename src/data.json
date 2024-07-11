@@ -11626,5 +11626,17 @@
     "liberated": 42990.0555343504,
     "occupied": 65346.73771280977,
     "unspecified": 643.1388274654178
+  },
+  {
+    "id": 1720642656,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#15/48.2299709/37.5224109\">Євгенівку</a> та просунувся біля <a href=\"https://deepstatemap.live/#15/48.2974271/37.8320436\">Юр'ївки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#15/48.2974271/37.8320436\">Yevhenivka</a> and advanced near <a href=\"https://deepstatemap.live/en#15/48.2974271/37.8320436\">Yurivka</a>.",
+    "updatedAt": "2024-07-10T21:22:32.350Z",
+    "datetime": "10.07 o 22:17",
+    "status": true,
+    "createdAt": "2024-07-10T20:17:36.000Z",
+    "liberated": 42990.0555343504,
+    "occupied": 65348.07282443378,
+    "unspecified": 644.1651136089895
   }
 ]
