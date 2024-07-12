@@ -11638,5 +11638,17 @@
     "liberated": 42990.0555343504,
     "occupied": 65348.07282443378,
     "unspecified": 644.1651136089895
+  },
+  {
+    "id": 1720728095,
+    "description": "Оновлено ситуацію у <a href=\"https://deepstatemap.live/#13/50.2996977/36.9419458\">Вовчанську</a>. Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.2979498/37.5309699\">Воздвиженки</a>&nbsp;та <a href=\"https://deepstatemap.live/#14/48.7631747/38.1128138\">Роздолівки</a>.",
+    "descriptionEn": "The situation in <a href=\"https://deepstatemap.live/en#13/50.2996977/36.9419458\">Vovchansk</a> has been updated. The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.2979498/37.5309699\">Vozdvyzhenka</a> and <a href=\"https://deepstatemap.live/en#14/48.7631747/38.1128138\">Rozdolivka</a>.",
+    "updatedAt": "2024-07-11T20:05:55.668Z",
+    "datetime": "11.07 o 22:01",
+    "status": true,
+    "createdAt": "2024-07-11T20:01:35.000Z",
+    "liberated": 42990.0555343504,
+    "occupied": 65350.82290733674,
+    "unspecified": 644.3924523030117
   }
 ]
