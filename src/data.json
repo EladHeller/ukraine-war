@@ -11650,5 +11650,17 @@
     "liberated": 42990.0555343504,
     "occupied": 65350.82290733674,
     "unspecified": 644.3924523030117
+  },
+  {
+    "id": 1720814988,
+    "description": "Сили Оборони України вибили противника з <a href=\"https://deepstatemap.live/#13/50.4318664/35.9185168\">Сотницького Козачка</a>. Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.3000634/37.5300291\">Воздвиженки</a>, <a href=\"https://deepstatemap.live/#14/48.3021746/37.8307644\">Юріївки</a>, в <a href=\"https://deepstatemap.live/#14/48.7513503/38.0836359\">Роздолівці</a> та <a href=\"https://deepstatemap.live/#13/48.2028739/37.5390045\">Новоселівці Першій</a>. Тривають бої в <a href=\"https://deepstatemap.live/#14/47.7480667/36.8201259\">Урожайному</a> та <a href=\"https://deepstatemap.live/#14/48.0085341/37.5150098\">Красногорівці</a>.",
+    "descriptionEn": "Ukrainian Defense Forces drove the enemy out of <a href=\"https://deepstatemap.live/en#13/50.4318664/35.9185168\">Sotnytsia Kozachok</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.3000634/37.5300291\">Vozdvyzhenka</a>, <a href=\"https://deepstatemap.live/en#14/48.3021746/37.8307644\">Yuriyivka</a>, in <a href=\"https://deepstatemap.live/en#14/48.7513503/38.0836359\">Razdolivka</a> and <a href=\"https://deepstatemap.live/en#13/48.2028739/37.5390045\">Novoselivka Persha</a>. Fighting continues in <a href=\"https://deepstatemap.live/en#14/47.7480667/36.8201259\">Urozhayne</a> and <a href=\"https://deepstatemap.live/en#14/48.0085341/37.5150098\">Krasnohorivka</a>.",
+    "updatedAt": "2024-07-12T20:16:03.586Z",
+    "datetime": "12.07 o 22:09",
+    "status": true,
+    "createdAt": "2024-07-12T20:09:48.000Z",
+    "liberated": 42990.738138461704,
+    "occupied": 65359.93370619456,
+    "unspecified": 636.8901005591714
   }
 ]
