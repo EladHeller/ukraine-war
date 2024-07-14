@@ -11662,5 +11662,17 @@
     "liberated": 42990.738138461704,
     "occupied": 65359.93370619456,
     "unspecified": 636.8901005591714
+  },
+  {
+    "id": 1720903902,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#15/47.7606911/36.8212138\">Урожайне</a> та просунувся біля <a href=\"https://deepstatemap.live/#13/48.2866407/37.8296193\">Олександрополя</a>, <a href=\"https://deepstatemap.live/#13/48.1870870/37.5599424\">Новоселівки Першої</a> та у <a href=\"https://deepstatemap.live/#14/49.2215481/37.9847603\">Макіївці</a>. Тривають бої у <a href=\"https://deepstatemap.live/#14/48.3695053/37.8966925\">Залізному</a> та <a href=\"https://deepstatemap.live/#14/48.5273137/37.9560939\">Кліщіївці</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#15/47.7606911/36.8212138\">Urozhayne</a> and advanced near <a href=\"https://deepstatemap.live/en#13/48.2866407/37.8296193\">Oleksandropol</a>, <a href=\"https://deepstatemap.live/en#13/48.1870870/37.5599424\">Novoselivka Persha</a> and in <a href=\"https://deepstatemap.live/en#14/49.2215481/37.9847603\">Makiivka</a>. Fighting continues in <a href=\"https://deepstatemap.live/en#14/48.3695053/37.8966925\">Zalizne</a> and <a href=\"https://deepstatemap.live/en#14/48.5273137/37.9560939\">Klishchiyivka</a>.",
+    "updatedAt": "2024-07-13T21:47:23.470Z",
+    "datetime": "13.07 o 22:51",
+    "status": true,
+    "createdAt": "2024-07-13T20:51:42.000Z",
+    "liberated": 42987.50542763053,
+    "occupied": 65366.99908366467,
+    "unspecified": 635.6617214035139
   }
 ]
