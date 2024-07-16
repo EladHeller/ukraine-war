@@ -11686,5 +11686,17 @@
     "liberated": 42987.50542763053,
     "occupied": 65370.47995223718,
     "unspecified": 636.5496257613853
+  },
+  {
+    "id": 1721075912,
+    "description": "Тривають бойові дії на багатьох ділянках, ситуація уточнюється.",
+    "descriptionEn": "Fighting continues in many areas, the situation is being clarified.",
+    "updatedAt": "2024-07-15T21:48:46.914Z",
+    "datetime": "15.07 o 22:38",
+    "status": true,
+    "createdAt": "2024-07-15T20:38:32.000Z",
+    "liberated": 42987.50542763053,
+    "occupied": 65371.162186188914,
+    "unspecified": 638.132875453804
   }
 ]
