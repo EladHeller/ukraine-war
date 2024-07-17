@@ -11698,5 +11698,17 @@
     "liberated": 42987.50542763053,
     "occupied": 65371.162186188914,
     "unspecified": 638.132875453804
+  },
+  {
+    "id": 1721161729,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.3265647/37.8374017\">Нью-Йорку</a>, <a href=\"https://deepstatemap.live/#14/48.2749924/37.5127737\">Лозуватському</a>, <a href=\"https://deepstatemap.live/#14/48.1994136/37.5217003\">Новоселівці Першій</a> та біля <a href=\"https://deepstatemap.live/#14/48.2439622/37.5120885\">Прогресу</a>. Противника відкинуто у районі вулиці Заводська міста <a href=\"https://deepstatemap.live/#15/48.3230847/37.8247872\">Нью-Йорк</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.3265647/37.8374017\">New York</a>, <a href=\"https://deepstatemap.live/en#14/48.2749924/37.5127737\">Lozuvatske</a>, <a href=\"https://deepstatemap.live/en#14/48.1994136/37.5217003\">Novoselivka Persha</a> and near <a href=\"https://deepstatemap.live/en#14/48.2439622/37.5120885\">Progress</a>. The enemy was pushed back in the area of Zavodska Avenue in city <a href=\"https://deepstatemap.live/en#15/48.3230847/37.8247872\">New York</a>.",
+    "updatedAt": "2024-07-16T21:00:24.757Z",
+    "datetime": "16.07 o 22:28",
+    "status": true,
+    "createdAt": "2024-07-16T20:28:49.000Z",
+    "liberated": 42987.50542763053,
+    "occupied": 65372.27128797699,
+    "unspecified": 640.3047164339467
   }
 ]
