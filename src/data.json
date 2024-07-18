@@ -11722,5 +11722,17 @@
     "liberated": 42987.50542763053,
     "occupied": 65375.22842583955,
     "unspecified": 644.3470620362532
+  },
+  {
+    "id": 1721301759,
+    "description": "Оновлено лінію зіткнення у <a href=\"https://deepstatemap.live/#13/46.7312118/33.0608601\">Кринках</a>.",
+    "descriptionEn": "The contact line in <a href=\"https://deepstatemap.live/en#13/46.7312118/33.0608601\">Krynky</a> has been updated.",
+    "updatedAt": "2024-07-18T11:22:45.879Z",
+    "datetime": "18.07 o 13:22",
+    "status": true,
+    "createdAt": "2024-07-18T11:22:39.000Z",
+    "liberated": 42987.50542763053,
+    "occupied": 65381.41060056091,
+    "unspecified": 638.7402660956461
   }
 ]
