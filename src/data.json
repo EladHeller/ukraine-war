@@ -11710,5 +11710,17 @@
     "liberated": 42987.50542763053,
     "occupied": 65372.27128797699,
     "unspecified": 640.3047164339467
+  },
+  {
+    "id": 1721248760,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.6133077/37.8627982\">Калинівці</a>, біля <a href=\"https://deepstatemap.live/#15/48.1233329/37.5089130\">Карлівки</a> та у <a href=\"https://deepstatemap.live/#14/48.3708798/37.8912896\">Залізному</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.6133077/37.8627982\">Kalynivka</a>, near <a href=\"https://deepstatemap.live/en#15/48.1233329/37.5089130\">Karlivka</a> and in <a href=\"https://deepstatemap.live/en#14/48.3708798/37.8912896\">Zalizne</a>.",
+    "updatedAt": "2024-07-17T21:28:30.820Z",
+    "datetime": "17.07 o 22:39",
+    "status": true,
+    "createdAt": "2024-07-17T20:39:20.000Z",
+    "liberated": 42987.50542763053,
+    "occupied": 65375.22842583955,
+    "unspecified": 644.3470620362532
   }
 ]
