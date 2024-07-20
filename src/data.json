@@ -11746,5 +11746,17 @@
     "liberated": 42984.081883896375,
     "occupied": 65386.51275838002,
     "unspecified": 638.7346549726954
+  },
+  {
+    "id": 1721420777,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.2472974/37.4933986\">Прогресі</a> та окупував <a href=\"https://deepstatemap.live/#14/48.7565566/38.0771112\">Роздолівку</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.2472974/37.4933986\">Prohres</a> and occupied <a href=\"https://deepstatemap.live/en#14/48.7565566/38.0771112\">Rozdolivka</a>.",
+    "updatedAt": "2024-07-20T00:44:32.632Z",
+    "datetime": "19.07 o 22:26",
+    "status": true,
+    "createdAt": "2024-07-19T20:26:17.000Z",
+    "liberated": 42982.53680933623,
+    "occupied": 65388.60693760673,
+    "unspecified": 640.410690306886
   }
 ]
