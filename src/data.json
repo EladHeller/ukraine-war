@@ -11758,5 +11758,17 @@
     "liberated": 42982.53680933623,
     "occupied": 65388.60693760673,
     "unspecified": 640.410690306886
+  },
+  {
+    "id": 1721508340,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#15/48.2444733/37.4924578\">Прогрес</a> та просунувся у <a href=\"https://deepstatemap.live/#15/48.0065616/37.5151129\">Красногорівці</a>, <a href=\"https://deepstatemap.live/#13/49.5687040/37.8284176\">Піщаному</a>, біля <a href=\"https://deepstatemap.live/#14/48.2696844/37.5081420\">Лозуватського</a>, <a href=\"https://deepstatemap.live/#14/48.2887562/37.5350874\">Новоолександрівки</a>, <a href=\"https://deepstatemap.live/#15/48.2505297/37.4953326\">Прогресу</a> та <a href=\"https://deepstatemap.live/#14/49.4295415/37.9202967\">Андріївки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#15/48.2444733/37.4924578\">Prohres</a> and advanced in <a href=\"https://deepstatemap.live/en#15/48.0065616/37.5151129\">Krasnohorivka</a>, <a href=\"https://deepstatemap.live/en#13/49.5687040/37.8284176\">Pishchane</a>, near <a href=\"https://deepstatemap.live/en#14/48.2696844/37.5081420\">Lozuvatske</a>, <a href=\"https://deepstatemap.live/en#14/48.2887562/37.5350874\">Novooleksandrivka</a>, <a href=\"https://deepstatemap.live/en#15/48.2505297/37.4953326\">Prohres</a> and <a href=\"https://deepstatemap.live/en#14/49.4295415/37.9202967\">Andriivka</a>.",
+    "updatedAt": "2024-07-20T21:22:22.559Z",
+    "datetime": "20.07 o 22:45",
+    "status": true,
+    "createdAt": "2024-07-20T20:45:40.000Z",
+    "liberated": 42980.669305492534,
+    "occupied": 65394.08143840892,
+    "unspecified": 640.7283999998324
   }
 ]
