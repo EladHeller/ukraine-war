@@ -11770,5 +11770,17 @@
     "liberated": 42980.669305492534,
     "occupied": 65394.08143840892,
     "unspecified": 640.7283999998324
+  },
+  {
+    "id": 1721593588,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.3154096/37.8501507\">Нью-Йорку</a>, <a href=\"https://deepstatemap.live/#14/48.3689412/37.8916408\">Залізному</a>, біля <a href=\"https://deepstatemap.live/#14/48.2954916/37.8182281\">Пантелеймонівки</a> та <a href=\"https://deepstatemap.live/#14/48.6257892/37.8832197\">Калинівки</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.3154096/37.8501507\">New York</a>, <a href=\"https://deepstatemap.live/en#14/48.3689412/37.8916408\">Zalizne</a>, near <a href=\"https://deepstatemap.live/en#14/48.2954916/37.8182281\">Panteleymonivka</a> and <a href=\"https://deepstatemap.live/en#14/48.6257892/37.8832197\">Kalynivka</a>.",
+    "updatedAt": "2024-07-21T20:34:34.518Z",
+    "datetime": "21.07 o 22:26",
+    "status": true,
+    "createdAt": "2024-07-21T20:26:28.000Z",
+    "liberated": 42980.669305492534,
+    "occupied": 65403.300419308296,
+    "unspecified": 639.4825799328811
   }
 ]
