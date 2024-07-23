@@ -11782,5 +11782,17 @@
     "liberated": 42980.669305492534,
     "occupied": 65403.300419308296,
     "unspecified": 639.4825799328811
+  },
+  {
+    "id": 1721680238,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/49.5701753/37.8316362\">Піщаному</a>, біля <a href=\"https://deepstatemap.live/#15/48.2980314/37.8120900\">Пантелеймонівки</a> та <a href=\"https://deepstatemap.live/#14/47.7894867/37.3558767\">Микільського</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/49.5701753/37.8316362\">Pishchane</a>, near <a href=\"https://deepstatemap.live/en#15/48.2980314/37.8120900\">Panteleymonivka</a> and <a href=\"https://deepstatemap.live/en#14/47.7894867/37.3558767\">Mykilske</a>.",
+    "updatedAt": "2024-07-22T21:00:46.070Z",
+    "datetime": "22.07 o 22:30",
+    "status": true,
+    "createdAt": "2024-07-22T20:30:38.000Z",
+    "liberated": 42979.57272973325,
+    "occupied": 65410.41624683672,
+    "unspecified": 636.3509264173367
   }
 ]
