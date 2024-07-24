@@ -11806,5 +11806,17 @@
     "liberated": 42975.534222327355,
     "occupied": 65416.02072586048,
     "unspecified": 638.2150674729189
+  },
+  {
+    "id": 1721800859,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.2735839/37.4978479\">Тимофіївки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.2735839/37.4978479\">Tymofiyivka</a>.",
+    "updatedAt": "2024-07-24T06:01:03.219Z",
+    "datetime": "24.07 o 08:00",
+    "status": true,
+    "createdAt": "2024-07-24T06:00:59.000Z",
+    "liberated": 42975.534222327355,
+    "occupied": 65417.503628792736,
+    "unspecified": 639.6877010314397
   }
 ]
