@@ -11794,5 +11794,17 @@
     "liberated": 42979.57272973325,
     "occupied": 65410.41624683672,
     "unspecified": 636.3509264173367
+  },
+  {
+    "id": 1721767987,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/49.5688245/37.8246868\">Піщане</a> та просунувся у <a href=\"https://deepstatemap.live/#14/48.1935199/37.5418720\">Новоселівці Першій</a>, біля <a href=\"https://deepstatemap.live/#15/48.2360927/37.5100039\">Вовчого</a> та <a href=\"https://deepstatemap.live/#15/48.2439821/37.4838291\">Прогресу</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/49.5688245/37.8246868\">Pishchane</a> and advanced in <a href=\"https://deepstatemap.live/en#14/48.1935199/37.5418720\">Novoselivka Persha</a>, near <a href=\"https://deepstatemap.live/en#15/48.2360927/37.5100039\">Vovche</a> and <a href=\"https://deepstatemap.live/en#15/48.2439821/37.4838291\">Prohres</a>.",
+    "updatedAt": "2024-07-23T21:07:28.857Z",
+    "datetime": "23.07 o 22:53",
+    "status": true,
+    "createdAt": "2024-07-23T20:53:07.000Z",
+    "liberated": 42975.534222327355,
+    "occupied": 65416.02072586048,
+    "unspecified": 638.2150674729189
   }
 ]
