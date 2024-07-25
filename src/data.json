@@ -11818,5 +11818,17 @@
     "liberated": 42975.534222327355,
     "occupied": 65417.503628792736,
     "unspecified": 639.6877010314397
+  },
+  {
+    "id": 1721890514,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.2917874/37.8189237\">Пантелеймонівки</a>, <a href=\"https://deepstatemap.live/#14/48.2402530/37.4663477\">Іванівки</a>, <a href=\"https://deepstatemap.live/#14/48.2599069/37.5003297\">Прогресу</a>, в <a href=\"https://deepstatemap.live/#14/48.1903989/37.5402329\">Новоселівці Першій</a> та <a href=\"https://deepstatemap.live/#14/48.2364244/37.4889166\">Вовчому</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.2917874/37.8189237\">Panteleymonivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2402530/37.4663477\">Ivanivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2599069/37.5003297\">Prohres</a>, <a href=\"https://deepstatemap.live/en#14/48.1903989/37.5402329\">Novoselivka Persha</a> and <a href=\"https://deepstatemap.live/en#14/48.2364244/37.4889166\">Vovche</a>.",
+    "updatedAt": "2024-07-25T11:59:37.991Z",
+    "datetime": "25.07 o 08:55",
+    "status": true,
+    "createdAt": "2024-07-25T06:55:14.000Z",
+    "liberated": 42975.534222327355,
+    "occupied": 65422.4369555799,
+    "unspecified": 641.8325380431696
   }
 ]
