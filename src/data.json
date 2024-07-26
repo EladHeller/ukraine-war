@@ -11830,5 +11830,17 @@
     "liberated": 42975.534222327355,
     "occupied": 65422.4369555799,
     "unspecified": 641.8325380431696
+  },
+  {
+    "id": 1721939963,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.2633399/37.5188661\">Прогресу</a>, <a href=\"https://deepstatemap.live/#14/48.2668812/37.4805075\">Лисичного</a>, <a href=\"https://deepstatemap.live/#14/48.2364239/37.4532114\">Веселого</a>, <a href=\"https://deepstatemap.live/#14/48.2299657/37.4528682\">Желанного</a> та <a href=\"https://deepstatemap.live/#14/48.2943532/37.8061450\">Пантелеймонівки</a>. Тривають бої в <a href=\"https://deepstatemap.live/#15/48.3769906/37.8924253\">Залізничному</a> та біля <a href=\"https://deepstatemap.live/#13/48.8035319/38.2007489\">Івано-Дар'ївки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.2633399/37.5188661\">Prohres</a>, <a href=\"https://deepstatemap.live/en#14/48.2668812/37.4805075\">Lysychne</a>, <a href=\"https://deepstatemap.live/en#14/48.2364239/37.4532114\">Vesele</a>, <a href=\"https://deepstatemap.live/en#14/48.2299657/37.4528682\">Zhelanne</a> and <a href=\"https://deepstatemap.live/en#14/48.2943532/37.8061450\">Panteleimonivka</a>. Fighting continues in <a href=\"https://deepstatemap.live/en#15/48.3769906/37.8924253\">Zaliznychne</a> and near <a href=\"https://deepstatemap.live/en#13/48.8035319/38.2007489\">Ivano-Daryivka</a>.",
+    "updatedAt": "2024-07-25T21:19:44.059Z",
+    "datetime": "25.07 o 22:39",
+    "status": true,
+    "createdAt": "2024-07-25T20:39:23.000Z",
+    "liberated": 42975.534222327355,
+    "occupied": 65426.30845139111,
+    "unspecified": 640.3938138481723
   }
 ]
