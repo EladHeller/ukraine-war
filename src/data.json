@@ -11842,5 +11842,17 @@
     "liberated": 42975.534222327355,
     "occupied": 65426.30845139111,
     "unspecified": 640.3938138481723
+  },
+  {
+    "id": 1722023750,
+    "description": "Ворог захопив <a href=\"https://deepstatemap.live/#15/48.2327486/37.4906502\">Вовче</a> та просунувся в <a href=\"https://deepstatemap.live/#14/48.1363331/37.5441020\">Яснобродівці</a>, <a href=\"https://deepstatemap.live/#14/48.0097679/37.5098618\">Красногорівці</a>, біля <a href=\"https://deepstatemap.live/#14/49.0096976/38.0697311\">Діброви</a> та <a href=\"https://deepstatemap.live/#14/48.2257848/37.4653136\">Желанного</a>.",
+    "descriptionEn": "The enemy captured <a href=\"https://deepstatemap.live/en#15/48.2327486/37.4906502\">Vovche</a> and advanced in <a href=\"https://deepstatemap.live/en#14/48.1363331/37.5441020\">Yasnobrodivka</a>, <a href=\"https://deepstatemap.live/en#14/48.0097679/37.5098618\">Krasnohorivka</a>, near <a href=\"https://deepstatemap.live/en#14/49.0096976/38.0697311\">Dibrova</a> and <a href=\"https://deepstatemap.live/en#14/48.2257848/37.4653136\">Zhelanne</a>.",
+    "updatedAt": "2024-07-26T20:51:25.974Z",
+    "datetime": "26.07 o 21:55",
+    "status": true,
+    "createdAt": "2024-07-26T19:55:50.000Z",
+    "liberated": 42973.763750665814,
+    "occupied": 65432.79364274315,
+    "unspecified": 641.0898866433084
   }
 ]
