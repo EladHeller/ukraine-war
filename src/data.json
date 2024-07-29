@@ -11866,5 +11866,17 @@
     "liberated": 42969.04678956759,
     "occupied": 65442.78189101953,
     "unspecified": 646.1954010017473
+  },
+  {
+    "id": 1722199147,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.2367705/37.4387993\">Веселому</a>, <a href=\"https://deepstatemap.live/#15/48.0130604/37.5025386\">Красногорівці</a>, біля <a href=\"https://deepstatemap.live/#14/48.2239105/37.4588796\">Желанного</a> та <a href=\"https://deepstatemap.live/#14/48.2849820/37.5267009\">Новоолександрівки</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.2367705/37.4387993\">Vesele</a>, <a href=\"https://deepstatemap.live/en#15/48.0130604/37.5025386\">Krasnohorivka</a>, near <a href=\"https://deepstatemap.live/en#14/48.2239105/37.4588796\">Zhelanne</a> and <a href=\"https://deepstatemap.live/en#14/48.2849820/37.5267009\">Novooleksandrivka</a>.",
+    "updatedAt": "2024-07-28T20:42:52.039Z",
+    "datetime": "28.07 o 22:39",
+    "status": true,
+    "createdAt": "2024-07-28T20:39:07.000Z",
+    "liberated": 42969.04678956759,
+    "occupied": 65445.637163496554,
+    "unspecified": 645.8665761231531
   }
 ]
