@@ -11878,5 +11878,17 @@
     "liberated": 42969.04678956759,
     "occupied": 65445.637163496554,
     "unspecified": 645.8665761231531
+  },
+  {
+    "id": 1722284448,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.7830906/38.2169267\">Спірного</a>, <a href=\"https://deepstatemap.live/#14/48.7615301/38.0872386\">Роздолівки</a>, <a href=\"https://deepstatemap.live/#14/48.2802780/37.4932893\">Тимофіївки</a>, <a href=\"https://deepstatemap.live/#14/48.2555686/37.4887411\">Прогресу</a>, <a href=\"https://deepstatemap.live/#13/47.8331748/37.4052836\">Костянтинівки</a>, в <a href=\"https://deepstatemap.live/#14/48.3853534/37.9078497\">Північному</a> та <a href=\"https://deepstatemap.live/#14/48.3737847/37.8901721\">Залізному</a>. Оновлено район <a href=\"https://deepstatemap.live/#15/48.2203410/37.4513841\">Желанного</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.7830906/38.2169267\">Spirne</a>, <a href=\"https://deepstatemap.live/en#14/48.7615301/38.0872386\">Rozdolivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2802780/37.4932893\">Tymofiivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2555686/37.4887411\">Prohres</a>, <a href=\"https://deepstatemap.live/en#13/47.8331748/37.4052836\">Kostiantynivka</a>, in <a href=\"https://deepstatemap.live/en#14/48.3853534/37.9078497\">Pivnichne</a> and <a href=\"https://deepstatemap.live/en#14/48.3737847/37.8901721\">Zalizne</a>. The area of <a href=\"https://deepstatemap.live/en#15/48.2203410/37.4513841\">Zhelanne</a> has been updated.",
+    "updatedAt": "2024-07-29T20:47:14.494Z",
+    "datetime": "29.07 o 22:20",
+    "status": true,
+    "createdAt": "2024-07-29T20:20:48.000Z",
+    "liberated": 42968.0503052299,
+    "occupied": 65459.480594236906,
+    "unspecified": 647.8608054688002
   }
 ]
