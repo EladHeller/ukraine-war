@@ -11890,5 +11890,17 @@
     "liberated": 42968.0503052299,
     "occupied": 65459.480594236906,
     "unspecified": 647.8608054688002
+  },
+  {
+    "id": 1722371412,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.0160936/37.4971771\">Красногорівці</a> та біля <a href=\"https://deepstatemap.live/#13/47.7502292/36.8319413\">Урожайного</a>. Уточнено просування противника біля <a href=\"https://deepstatemap.live/#14/47.4540155/35.8037330\">Роботиного</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.0160936/37.4971771\">Krasnohorivka</a> and near <a href=\"https://deepstatemap.live/en#13/47.7502292/36.8319413\">Urozhayne</a>. The enemy's advance near <a href=\"https://deepstatemap.live/en#14/47.4540155/35.8037330\">Robotyne</a> has been clarified.",
+    "updatedAt": "2024-07-30T23:26:30.261Z",
+    "datetime": "30.07 o 22:30",
+    "status": true,
+    "createdAt": "2024-07-30T20:30:12.000Z",
+    "liberated": 42963.87357422071,
+    "occupied": 65466.74399590356,
+    "unspecified": 651.5832584242978
   }
 ]
