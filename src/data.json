@@ -11902,5 +11902,17 @@
     "liberated": 42963.87357422071,
     "occupied": 65466.74399590356,
     "unspecified": 651.5832584242978
+  },
+  {
+    "id": 1722459268,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#15/48.2819779/37.4869179\">Тимофіївку</a> та просунувся біля <a href=\"https://deepstatemap.live/#13/47.9807838/37.5063781\">Красногорівки</a>, <a href=\"https://deepstatemap.live/#14/48.2945887/37.8004856\">Пантелеймонівки</a>, <a href=\"https://deepstatemap.live/#14/48.2487953/37.4529729\">Іванівки</a>, <a href=\"https://deepstatemap.live/#14/48.2187906/37.4863542\">Желанного</a>, <a href=\"https://deepstatemap.live/#14/48.2277081/37.4333216\">Веселого</a> та в <a href=\"https://deepstatemap.live/#14/48.3291171/37.8299125\">Нью-Йорку</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#15/48.2819779/37.4869179\">Tymofiivka</a> and advanced near <a href=\"https://deepstatemap.live/en#13/47.9807838/37.5063781\">Krasnohorivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2945887/37.8004856\">Panteleymonivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2487953/37.4529729\">Ivanivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2187906/37.4863542\">Zhelanne</a>, <a href=\"https://deepstatemap.live/en#14/48.2277081/37.4333216\">Vesele</a> and in <a href=\"https://deepstatemap.live/en#14/48.3291171/37.8299125\">New York</a>.",
+    "updatedAt": "2024-07-31T21:06:12.329Z",
+    "datetime": "31.07 o 22:54",
+    "status": true,
+    "createdAt": "2024-07-31T20:54:28.000Z",
+    "liberated": 42963.87357422071,
+    "occupied": 65473.035297909046,
+    "unspecified": 650.6572984934298
   }
 ]
