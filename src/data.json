@@ -11914,5 +11914,17 @@
     "liberated": 42963.87357422071,
     "occupied": 65473.035297909046,
     "unspecified": 650.6572984934298
+  },
+  {
+    "id": 1722544807,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.2404740/37.4328778\">Веселе</a> та просунувся біля <a href=\"https://deepstatemap.live/#14/48.2746919/37.4745831\">Лисичного</a>, <a href=\"https://deepstatemap.live/#14/48.2516730/37.4675464\">Іванівки</a>, <a href=\"https://deepstatemap.live/#14/48.2218415/37.4311616\">Сергіївки</a> та <a href=\"https://deepstatemap.live/#14/48.2162390/37.4764710\">Желанного</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/#14/48.2404740/37.4328778\">Vesele</a> and advanced near <a href=\"https://deepstatemap.live/#14/48.2746919/37.4745831 \">Lysychne</a>, <a href=\"https://deepstatemap.live/#14/48.2516730/37.4675464\">Ivanivka</a>, <a href=\"https://deepstatemap.live/#14 /48.2218415/37.4311616\">Serhiyivka</a> and <a href=\"https://deepstatemap.live/#14/48.2162390/37.4764710\">Zhelanne</a>.",
+    "updatedAt": "2024-08-01T21:16:17.274Z",
+    "datetime": "01.08 o 22:40",
+    "status": true,
+    "createdAt": "2024-08-01T20:40:07.000Z",
+    "liberated": 42963.87357422071,
+    "occupied": 65480.88391121984,
+    "unspecified": 653.1524677394368
   }
 ]
