@@ -11926,5 +11926,17 @@
     "liberated": 42963.87357422071,
     "occupied": 65480.88391121984,
     "unspecified": 653.1524677394368
+  },
+  {
+    "id": 1722631168,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#16/48.2102390/37.4284146\">Желанному</a> та <a href=\"https://deepstatemap.live/#15/48.3757626/37.8861585\">Залізному</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#16/48.2102390/37.4284146\">Zhelane</a> and <a href=\"https://deepstatemap.live/en#15/48.3757626/37.8861585\">Zalizne</a>.",
+    "updatedAt": "2024-08-02T21:06:45.512Z",
+    "datetime": "02.08 o 22:39",
+    "status": true,
+    "createdAt": "2024-08-02T20:39:28.000Z",
+    "liberated": 42963.87357422071,
+    "occupied": 65481.14502051193,
+    "unspecified": 655.2553765373781
   }
 ]
