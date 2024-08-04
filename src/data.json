@@ -11857,9 +11857,9 @@
   },
   {
     "id": 1722112958,
-    "description": "Ворог просунувся біля&nbsp;<a href=\"https://deepstatemap.live/#13/47.7975876/37.3711386\">Водяного</a>, <a href=\"https://deepstatemap.live/#14/48.1566177/37.5361191\">Уманського</a>, <a href=\"https://deepstatemap.live/#14/48.1957516/37.5217549\">Новоселівки Першої</a>, <a href=\"https://deepstatemap.live/#14/48.2179598/37.4400782\">Желанного</a>, <a href=\"https://deepstatemap.live/#14/48.2289923/37.4400782\">Веселого</a> та у <a href=\"https://deepstatemap.live/#14/48.0111506/37.5037074\">Красногорівці</a>. Тривають бої біля <a href=\"https://deepstatemap.live/#14/47.7532611/36.8304267\">Урожайного</a> та у <a href=\"https://deepstatemap.live/#14/48.3282574/37.8366942\">Нью-Йорку</a>.",
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/47.7975876/37.3711386\">Водяного</a>, <a href=\"https://deepstatemap.live/#14/48.1566177/37.5361191\">Уманського</a>, <a href=\"https://deepstatemap.live/#14/48.1957516/37.5217549\">Новоселівки Першої</a>, <a href=\"https://deepstatemap.live/#14/48.2179598/37.4400782\">Желанного</a>, <a href=\"https://deepstatemap.live/#14/48.2289923/37.4400782\">Веселого</a> та у <a href=\"https://deepstatemap.live/#14/48.0111506/37.5037074\">Красногорівці</a>. Тривають бої біля <a href=\"https://deepstatemap.live/#14/47.7532611/36.8304267\">Урожайного</a> та у <a href=\"https://deepstatemap.live/#14/48.3282574/37.8366942\">Нью-Йорку</a>.",
     "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/47.7975876/37.3711386\">Vodiane</a>, <a href=\"https://deepstatemap.live/en#14/48.1566177/37.5361191\">Umanske</a>, <a href=\"https://deepstatemap.live/en#14/48.1957516/37.5217549\">Novoselivka Persha</a>, <a href=\"https://deepstatemap.live/en#14/48.2179598/37.4400782\">Zhelanne</a>, <a href=\"https://deepstatemap.live/en#14/48.2289923/37.4400782\">Vesele</a> and <a href=\"https://deepstatemap.live/en#14/48.0111506/37.5037074\">Krasnohorivka</a>. Fighting continues near <a href=\"https://deepstatemap.live/en#14/47.7532611/36.8304267\">Urozhayne</a> and in <a href=\"https://deepstatemap.live/en#14/48.3282574/37.8366942\">New York</a>.",
-    "updatedAt": "2024-07-27T20:56:11.604Z",
+    "updatedAt": "2024-08-03T21:12:36.953Z",
     "datetime": "27.07 o 22:42",
     "status": true,
     "createdAt": "2024-07-27T20:42:38.000Z",
@@ -11918,8 +11918,8 @@
   {
     "id": 1722544807,
     "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.2404740/37.4328778\">Веселе</a> та просунувся біля <a href=\"https://deepstatemap.live/#14/48.2746919/37.4745831\">Лисичного</a>, <a href=\"https://deepstatemap.live/#14/48.2516730/37.4675464\">Іванівки</a>, <a href=\"https://deepstatemap.live/#14/48.2218415/37.4311616\">Сергіївки</a> та <a href=\"https://deepstatemap.live/#14/48.2162390/37.4764710\">Желанного</a>.",
-    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/#14/48.2404740/37.4328778\">Vesele</a> and advanced near <a href=\"https://deepstatemap.live/#14/48.2746919/37.4745831 \">Lysychne</a>, <a href=\"https://deepstatemap.live/#14/48.2516730/37.4675464\">Ivanivka</a>, <a href=\"https://deepstatemap.live/#14 /48.2218415/37.4311616\">Serhiyivka</a> and <a href=\"https://deepstatemap.live/#14/48.2162390/37.4764710\">Zhelanne</a>.",
-    "updatedAt": "2024-08-01T21:16:17.274Z",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.2404740/37.4328778\">Vesele</a> and advanced near <a href=\"https://deepstatemap.live/en#14/48.2746919/37.4745831 \">Lysychne</a>, <a href=\"https://deepstatemap.live/en#14/48.2516730/37.4675464\">Ivanivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2218415/37.4311616\">Serhiyivka</a> and <a href=\"https://deepstatemap.live/en#14/48.2162390/37.4764710\">Zhelanne</a>.",
+    "updatedAt": "2024-08-03T21:12:16.312Z",
     "datetime": "01.08 o 22:40",
     "status": true,
     "createdAt": "2024-08-01T20:40:07.000Z",
@@ -11938,5 +11938,17 @@
     "liberated": 42963.87357422071,
     "occupied": 65481.14502051193,
     "unspecified": 655.2553765373781
+  },
+  {
+    "id": 1722718316,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#16/48.5978324/37.8601851\">Часовому Яру</a>. Тривають бої біля <a href=\"https://deepstatemap.live/#14/48.1875186/37.5229730\">Новоселівки Першої</a> та у <a href=\"https://deepstatemap.live/#15/48.3653870/37.8724275\">Залізному</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#16/48.5978324/37.8601851\">Chasovyi Yar</a>. Fighting continues near <a href=\"https://deepstatemap.live/en#14/48.1875186/37.5229730\">Novoselivka Persha</a> and in <a href=\"https://deepstatemap.live/en#15/48.3653870/37.8724275\">Zalizne</a>.",
+    "updatedAt": "2024-08-03T21:16:19.858Z",
+    "datetime": "03.08 o 22:51",
+    "status": true,
+    "createdAt": "2024-08-03T20:51:56.000Z",
+    "liberated": 42963.87357422071,
+    "occupied": 65482.546018912515,
+    "unspecified": 656.5476053396917
   }
 ]
