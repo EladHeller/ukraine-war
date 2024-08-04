@@ -11950,5 +11950,17 @@
     "liberated": 42963.87357422071,
     "occupied": 65482.546018912515,
     "unspecified": 656.5476053396917
+  },
+  {
+    "id": 1722775504,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.2078923/37.4726949\">Желанного</a> та <a href=\"https://deepstatemap.live/#14/48.2712202/37.4792956\">Тимофіївки</a>. Тривають бої в <a href=\"https://deepstatemap.live/#14/48.5904884/37.8604769\">Часовому Яру</a> та <a href=\"https://deepstatemap.live/#13/48.3630321/37.8687534\">Залізному</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.2078923/37.4726949\">Zhelanne</a> and <a href=\"https://deepstatemap.live/en#14/48.2712202/37.4792956\">Tymofiivka</a>. Fighting continues in <a href=\"https://deepstatemap.live/en#14/48.5904884/37.8604769\">Chasovyi Yar</a> and <a href=\"https://deepstatemap.live/en#13/48.3630321/37.8687534\">Zalizne</a>.",
+    "updatedAt": "2024-08-04T12:45:50.223Z",
+    "datetime": "04.08 o 14:45",
+    "status": true,
+    "createdAt": "2024-08-04T12:45:04.000Z",
+    "liberated": 42963.87357422071,
+    "occupied": 65485.02116060235,
+    "unspecified": 658.2739296239578
   }
 ]
