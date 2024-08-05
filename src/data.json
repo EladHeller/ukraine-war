@@ -11962,5 +11962,17 @@
     "liberated": 42963.87357422071,
     "occupied": 65485.02116060235,
     "unspecified": 658.2739296239578
+  },
+  {
+    "id": 1722805059,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#13/48.3957584/37.9171658\">Північному</a>, <a href=\"https://deepstatemap.live/#14/48.3799445/37.8888001\">Залізному</a>, <a href=\"https://deepstatemap.live/#15/48.2097310/37.4321598\">Желанному</a>, <a href=\"https://deepstatemap.live/#15/48.2142193/37.4189446\">Сергіївці</a>, <a href=\"https://deepstatemap.live/#15/48.2571545/37.4527143\">Іванівці</a>, біля <a href=\"https://deepstatemap.live/#15/48.2663853/37.4597962\">Лисичного</a> та <a href=\"https://deepstatemap.live/#15/48.2198542/37.4572221\">Желанного</a>. Сили Оборони України відійшли з урочища <a href=\"https://deepstatemap.live/#13/48.5816755/37.8766321\">Ступки Голубовські-2</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#13/48.3957584/37.9171658\">Pivnichne</a>, <a href=\"https://deepstatemap.live/en#14/48.3799445/37.8888001\">Zalizne,</a> <a href=\"https://deepstatemap.live/en#15/48.2097310/37.4321598\">Zhelanne</a>, <a href=\"https://deepstatemap.live/en#15/48.2142193/37.4189446\">Serhiivka</a>, <a href=\"https://deepstatemap.live/en#15/48.2571545/37.4527143\">Ivanivka</a>, near <a href=\"https://deepstatemap.live/en#15/48.2663853/37.4597962\">Lysychne</a> and <a href=\"https://deepstatemap.live/en#15/48.2198542/37.4572221\">Zhelanne</a>. Ukrainian Defense Forces withdrew from the <a href=\"https://deepstatemap.live/en#13/48.5816755/37.8766321\">Stupky Holubovski-2</a> tract.",
+    "updatedAt": "2024-08-04T21:04:13.196Z",
+    "datetime": "04.08 o 22:57",
+    "status": true,
+    "createdAt": "2024-08-04T20:57:39.000Z",
+    "liberated": 42963.87357422071,
+    "occupied": 65492.47520956291,
+    "unspecified": 655.528028370899
   }
 ]
