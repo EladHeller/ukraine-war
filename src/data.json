@@ -11974,5 +11974,17 @@
     "liberated": 42963.87357422071,
     "occupied": 65492.47520956291,
     "unspecified": 655.528028370899
+  },
+  {
+    "id": 1722889303,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.2073150/37.4635025\">Желанного</a>, <a href=\"https://deepstatemap.live/#12/48.3027248/37.8858347\">Нью-Йорка</a>, в <a href=\"https://deepstatemap.live/#13/48.3638259/37.8744233\">Залізному</a> та <a href=\"https://deepstatemap.live/#14/48.3976582/37.9087926\">Північному</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.2073150/37.4635025\">Zhelanne</a>, <a href=\"https://deepstatemap.live/en#12/48.3027248/37.8858347\">New York</a>, in <a href=\"https://deepstatemap.live/en#13/48.3638259/37.8744233\">Zalizne</a> and <a href=\"https://deepstatemap.live/en#14/48.3976582/37.9087926\">Pivdenne</a>.",
+    "updatedAt": "2024-08-05T21:16:32.803Z",
+    "datetime": "05.08 o 22:21",
+    "status": true,
+    "createdAt": "2024-08-05T20:21:43.000Z",
+    "liberated": 42963.87357422071,
+    "occupied": 65504.93048440851,
+    "unspecified": 659.7857230993512
   }
 ]
