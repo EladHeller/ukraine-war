@@ -11986,5 +11986,17 @@
     "liberated": 42963.87357422071,
     "occupied": 65504.93048440851,
     "unspecified": 659.7857230993512
+  },
+  {
+    "id": 1722977162,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#15/47.7715071/37.3366237\">Микільського</a>, в <a href=\"https://deepstatemap.live/#16/48.3364468/37.8232132\">Нью-Йорку</a> та <a href=\"https://deepstatemap.live/#15/48.2093589/37.4599304\">Желанному</a>. Уточнено лінію зіткнення&nbsp;у <a href=\"https://deepstatemap.live/#14/50.2579888/36.4101067\">Глибокому</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#15/47.7715071/37.3366237\">Mykilske</a>, in <a href=\"https://deepstatemap.live/en#16/48.3364468/37.8232132\">New York</a> and <a href=\"https://deepstatemap.live/en#15/48.2093589/37.4599304\">Zhelanne</a>. The front line in <a href=\"https://deepstatemap.live/en#14/50.2579888/36.4101067\">Hlyboke</a> has been clarified.",
+    "updatedAt": "2024-08-06T21:37:36.820Z",
+    "datetime": "06.08 o 22:46",
+    "status": true,
+    "createdAt": "2024-08-06T20:46:02.000Z",
+    "liberated": 42965.82311688253,
+    "occupied": 65509.745473665826,
+    "unspecified": 654.4480993133515
   }
 ]
