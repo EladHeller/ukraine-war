@@ -11998,5 +11998,17 @@
     "liberated": 42965.82311688253,
     "occupied": 65509.745473665826,
     "unspecified": 654.4480993133515
+  },
+  {
+    "id": 1723059640,
+    "description": "Ворог захопив <a href=\"https://deepstatemap.live/#14/48.2187579/37.4131240\">Сергіївку</a> та просунувся біля <a href=\"https://deepstatemap.live/#14/48.7674173/38.0720442\">Переїзного</a>, <a href=\"https://deepstatemap.live/#13/47.8122949/37.3778040\">Водяного</a>, <a href=\"https://deepstatemap.live/#14/48.1835537/37.5354257\">Новоселівки Першої</a>, <a href=\"https://deepstatemap.live/#14/48.2773297/37.4706257\">Тимофіївки</a>, <a href=\"https://deepstatemap.live/#14/48.2656793/37.4532914\">Лисичного</a>, <a href=\"https://deepstatemap.live/#14/48.2464847/37.4163058\">Гродівки</a>, <a href=\"https://deepstatemap.live/#14/48.2015957/37.4197344\">Новожеланного</a>, в <a href=\"https://deepstatemap.live/#14/48.2088580/37.4392998\">Желанному</a> та <a href=\"https://deepstatemap.live/#14/48.2574540/37.4492581\">Іванівці</a>. Сили Оборони України відкинули ворога у <a href=\"https://deepstatemap.live/#15/48.3360412/37.8230749\">Нью-Йорку</a>.",
+    "descriptionEn": "The enemy captured <a href=\"https://deepstatemap.live/en#14/48.2187579/37.4131240\">Serhiivka</a> and advanced near <a href=\"https://deepstatemap.live/en#14/48.7674173/38.0720442\">Pereyizne</a>, <a href=\"https://deepstatemap.live/en#13/47.8122949/37.3778040\">Vodyane</a>, <a href=\"https://deepstatemap.live/en#14/48.1835537/37.5354257\">Novoselivka Persha</a>, <a href=\"https://deepstatemap.live/en#14/48.2773297/37.4706257\">Tymofiyivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2656793/37.4532914\">Lysychne</a>, <a href=\"https://deepstatemap.live/en#14/48.2464847/37.4163058\">Hrodivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2015957/37.4197344\">Novozhelanne</a>, in <a href=\"https://deepstatemap.live/en#14/48.2088580/37.4392998\">Zhelanne</a> and <a href=\"https://deepstatemap.live/en#14/48.2574540/37.4492581\">Ivanivka</a>. The Ukrainian Defense Forces pushed back the enemy in <a href=\"https://deepstatemap.live/en#15/48.3360412/37.8230749\">New York</a>.",
+    "updatedAt": "2024-08-07T19:46:53.505Z",
+    "datetime": "07.08 o 21:40",
+    "status": true,
+    "createdAt": "2024-08-07T19:40:40.000Z",
+    "liberated": 42965.82311688253,
+    "occupied": 65530.20729114424,
+    "unspecified": 654.233155173617
   }
 ]
