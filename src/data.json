@@ -12010,5 +12010,17 @@
     "liberated": 42965.82311688253,
     "occupied": 65530.20729114424,
     "unspecified": 654.233155173617
+  },
+  {
+    "id": 1723150336,
+    "description": "Бої за Курськ. День перший - 6 серпня. Сили Оборони України звільнили <a href=\"https://deepstatemap.live/#13/51.2492914/35.1245785\">Свердліково</a>, <a href=\"https://deepstatemap.live/#14/51.2596317/35.0344132\">Дар'їно</a> та <a href=\"https://deepstatemap.live/#14/51.1509980/35.1513251\">Олешню</a>.",
+    "descriptionEn": "The Battle in Kursk. Day one - August 6. The Ukrainian Defense Forces liberated <a href=\"https://deepstatemap.live/en#13/51.2492914/35.1245785\">Sverdlikovo</a>, <a href=\"https://deepstatemap.live/en#14/51.2596317/35.0344132\">Daryino</a>, and <a href=\"https://deepstatemap.live/en#14/51.1509980/35.1513251\">Oleshnya</a>.",
+    "updatedAt": "2024-08-08T20:58:25.702Z",
+    "datetime": "08.08 o 22:52",
+    "status": true,
+    "createdAt": "2024-08-08T20:52:16.000Z",
+    "liberated": 42962.83836755154,
+    "occupied": 65530.20729114424,
+    "unspecified": 654.233155173617
   }
 ]
