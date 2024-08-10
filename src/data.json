@@ -12022,5 +12022,17 @@
     "liberated": 42962.83836755154,
     "occupied": 65530.20729114424,
     "unspecified": 654.233155173617
+  },
+  {
+    "id": 1723228327,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/48.3058583/37.8100393\">Пантелеймонівки</a>, <a href=\"https://deepstatemap.live/#14/48.2487344/37.4079914\">Гродівки</a>, <a href=\"https://deepstatemap.live/#14/48.2284474/37.3970072\">Сергіївки</a> та в <a href=\"https://deepstatemap.live/#14/47.9960375/37.4935467\">Красногорівці</a>. Уточнено лінію зіткнення у <a href=\"https://deepstatemap.live/#14/48.2123836/37.4491817\">Желанному</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/48.3058583/37.8100393\">Panteleymonivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2487344/37.4079914\">Hrodivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2284474/37.3970072\">Serhiivka</a> and <a href=\"https://deepstatemap.live/en#14/47.9960375/37.4935467\">Krasnohorivka</a>. The line of contact in <a href=\"https://deepstatemap.live/en#14/48.2123836/37.4491817\">Zhelanne</a> was clarified.",
+    "updatedAt": "2024-08-09T18:40:51.345Z",
+    "datetime": "09.08 o 20:32",
+    "status": true,
+    "createdAt": "2024-08-09T18:32:07.000Z",
+    "liberated": 42962.83836755154,
+    "occupied": 65534.80184471568,
+    "unspecified": 660.7402609829638
   }
 ]
