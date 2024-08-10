@@ -12034,5 +12034,17 @@
     "liberated": 42962.83836755154,
     "occupied": 65534.80184471568,
     "unspecified": 660.7402609829638
+  },
+  {
+    "id": 1723298634,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/49.5869326/37.8409918\">Піщаного</a>, <a href=\"https://deepstatemap.live/#13/49.5213740/37.9119961\">Стельмахівки</a>, в <a href=\"https://deepstatemap.live/#14/48.2587060/37.4403293\">Іванівці</a> та <a href=\"https://deepstatemap.live/#15/48.0161274/37.5020662\">Красногорівці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.5869326/37.8409918\">Pishchane</a>, <a href=\"https://deepstatemap.live/en#13/49.5213740/37.9119961\">Stelmakhivka</a>, in <a href=\"https://deepstatemap.live/en#14/48.2587060/37.4403293\">Ivanivka</a> and <a href=\"https://deepstatemap.live/en#15/48.0161274/37.5020662\">Krasnohorivka</a>.",
+    "updatedAt": "2024-08-10T14:21:23.068Z",
+    "datetime": "10.08 o 16:03",
+    "status": true,
+    "createdAt": "2024-08-10T14:03:54.000Z",
+    "liberated": 42945.13098145043,
+    "occupied": 65557.40204365118,
+    "unspecified": 657.918307719647
   }
 ]
