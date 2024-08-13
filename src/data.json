@@ -12058,5 +12058,17 @@
     "liberated": 42945.32364011875,
     "occupied": 65571.12942421804,
     "unspecified": 651.8372951262836
+  },
+  {
+    "id": 1723492591,
+    "description": "Бої за Курськ. День другий - 7 серпня. Сили Оборони України просунулися у <a href=\"https://deepstatemap.live/#13/51.2043525/35.2519474\">Суджі</a> та звільнили <a href=\"https://deepstatemap.live/#14/51.0899655/35.2682161\">Гуєво</a>, <a href=\"https://deepstatemap.live/#14/51.1911495/35.2111300\">Горналь</a>, <a href=\"https://deepstatemap.live/#14/51.1856642/35.1840130\">Гоголівку</a>, <a href=\"https://deepstatemap.live/#14/51.1911495/35.2111300\">Рубанщину</a>, <a href=\"https://deepstatemap.live/#14/51.2821867/35.0720921\">Нижній Клин</a> та <a href=\"https://deepstatemap.live/#14/51.2432478/35.0059211\">Миколаєво-Дар'їно</a>.",
+    "descriptionEn": "The Battle of Kursk. Day two - August 7. The Ukrainian Defense Forces advanced into <a href=\"https://deepstatemap.live/en#13/51.2043525/35.2519474\">Suzha</a> and liberated <a href=\"https://deepstatemap.live/en#14/51.0899655/35.2682161\">Guievo</a>, <a href=\"https://deepstatemap.live/en#14/51.1911495/35.2111300\">Hornal</a>, <a href=\"https://deepstatemap.live/en#14/51.1856642/35.1840130\">Gogolivka</a>, <a href=\"https://deepstatemap.live/en#14/51.1911495/35.2111300\">Rubanshchyna</a>, <a href=\"https://deepstatemap.live/en#14/51.2821867/35.0720921\">Nyzhniy Klyn</a>, and <a href=\"https://deepstatemap.live/en#14/51.2432478/35.0059211\">Mykolaiv-Daryno</a>.",
+    "updatedAt": "2024-08-12T20:37:29.886Z",
+    "datetime": "12.08 o 21:56",
+    "status": true,
+    "createdAt": "2024-08-12T19:56:31.000Z",
+    "liberated": 42945.32364011875,
+    "occupied": 65571.12942421804,
+    "unspecified": 651.8372951262836
   }
 ]
