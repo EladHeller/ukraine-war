@@ -12070,5 +12070,17 @@
     "liberated": 42945.32364011875,
     "occupied": 65571.12942421804,
     "unspecified": 651.8372951262836
+  },
+  {
+    "id": 1723548365,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.2736216/37.4629889\">Лисичне</a>, <a href=\"https://deepstatemap.live/#14/48.2620846/37.4455688\">Іванівку</a>, <a href=\"https://deepstatemap.live/#14/48.2825295/37.4439383\">Свиридонівку</a> та просунувся у <a href=\"https://deepstatemap.live/#14/48.2536872/37.4000019\">Гродівці</a>, <a href=\"https://deepstatemap.live/#13/47.8623418/37.4236489\">Костянтинівці</a>, <a href=\"https://deepstatemap.live/#14/48.0600424/37.5775748\">Невельському</a>, біля <a href=\"https://deepstatemap.live/#14/48.2276867/37.3962261\">Сергіївки</a>, <a href=\"https://deepstatemap.live/#13/49.5671461/37.8268828\">Піщаного</a> та <a href=\"https://deepstatemap.live/#14/48.2677963/37.4161348\">Новоторецького</a>. Противника відкинуто біля <a href=\"https://deepstatemap.live/#13/49.5097746/37.9011908\">Стельмахівки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.2736216/37.4629889\">Lysychne</a>, <a href=\"https://deepstatemap.live/en#14/48.2620846/37.4455688\">Ivanivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2825295/37.4439383\">Svyrydonivka</a> and advanced in <a href=\"https://deepstatemap.live/en#14/48.2536872/37.4000019\">Hrodivka</a>, <a href=\"https://deepstatemap.live/en#13/47.8623418/37.4236489\">Kostiantynivka</a>, <a href=\"https://deepstatemap.live/en#14/48.0600424/37.5775748\">Nevelske</a>, near <a href=\"https://deepstatemap.live/en#14/48.2276867/37.3962261\">Serhiyivka</a>, <a href=\"https://deepstatemap.live/en#13/49.5671461/37.8268828\">Pishchane</a> and <a href=\"https://deepstatemap.live/en#14/48.2677963/37.4161348\">Novotoretske</a>. The enemy was pushed back near <a href=\"https://deepstatemap.live/en#13/49.5097746/37.9011908\">Stelmakhivka</a>.",
+    "updatedAt": "2024-08-13T11:31:38.557Z",
+    "datetime": "13.08 o 13:26",
+    "status": true,
+    "createdAt": "2024-08-13T11:26:05.000Z",
+    "liberated": 42943.09193953996,
+    "occupied": 65589.37484623234,
+    "unspecified": 655.4588055248646
   }
 ]
