@@ -12082,5 +12082,17 @@
     "liberated": 42943.09193953996,
     "occupied": 65589.37484623234,
     "unspecified": 655.4588055248646
+  },
+  {
+    "id": 1723635752,
+    "description": "Бої за Курськ. Сили Оборони України звільнили <a href=\"https://deepstatemap.live/#13/51.1969314/35.2787181\">Суджу</a>, <a href=\"https://deepstatemap.live/#13/51.3103750/35.0260430\">Любимівку</a>, <a href=\"https://deepstatemap.live/#14/51.1888432/35.2495894\">Гончарівку</a>, <a href=\"https://deepstatemap.live/#13/51.2592844/35.1731646\">Лебедівку</a>, <a href=\"https://deepstatemap.live/#13/51.2007995/35.2569330\">Заолешенка</a>, <a href=\"https://deepstatemap.live/#13/51.1373054/35.2680900\">Курилівку</a>, <a href=\"https://deepstatemap.live/#13/51.1006679/35.3305642\">Плехово</a> та інші населені пункти Курщини.",
+    "descriptionEn": "Fighting for Kursk. The Ukrainian Defense Forces liberated <a href=\"https://deepstatemap.live/en#13/51.1969314/35.2787181\">Sudzha</a>, <a href=\"https://deepstatemap.live/en#13/51.3103750/35.0260430\">Lyubymivka</a>, <a href=\"https://deepstatemap.live/en#14/51.1888432/35.2495894\">Honcharivka</a>, <a href=\"https://deepstatemap.live/en#13/51.2592844/35.1731646\">Lebedivka</a>, <a href=\"https://deepstatemap.live/en#13/51.2007995/35.2569330\">Zaoleshenka</a>, <a href=\"https://deepstatemap.live/en#13/51.1373054/35.2680900\">Kurylivka</a>, <a href=\"https://deepstatemap.live/en#13/51.1006679/35.3305642\">Plekhovo</a> and other settlements in the Kursk region.",
+    "updatedAt": "2024-08-14T11:56:17.666Z",
+    "datetime": "14.08 o 13:42",
+    "status": true,
+    "createdAt": "2024-08-14T11:42:32.000Z",
+    "liberated": 42943.09193953996,
+    "occupied": 65589.37484623234,
+    "unspecified": 657.2597510316457
   }
 ]
