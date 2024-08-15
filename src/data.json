@@ -12094,5 +12094,17 @@
     "liberated": 42943.09193953996,
     "occupied": 65589.37484623234,
     "unspecified": 657.2597510316457
+  },
+  {
+    "id": 1723661653,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.2058566/37.4453094\">Желанне</a>, <a href=\"https://deepstatemap.live/#14/48.2133485/37.3760459\">Орлівку</a>, а також просунувся у <a href=\"https://deepstatemap.live/#14/48.3327453/37.8384158\">Нью-Йорку</a>, <a href=\"https://deepstatemap.live/#14/48.1891507/37.3896081\">Миколаївці</a>, <a href=\"https://deepstatemap.live/#14/48.2256421/37.3659181\">Журавці</a> та <a href=\"https://deepstatemap.live/#16/48.0198550/37.4996746\">Красногорівці</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.2058566/37.4453094\">Zhelanne</a> and <a href=\"https://deepstatemap.live/en#14/48.2133485/37.3760459\">Orlivka</a>, and advanced in <a href=\"https://deepstatemap.live/en#14/48.3327453/37.8384158\">New York</a>, <a href=\"https://deepstatemap.live/en#14/48.1891507/37.3896081\">Mykolaivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2256421/37.3659181\">Zhuravka</a> and <a href=\"https://deepstatemap.live/en#16/48.0198550/37.4996746\">Krasnohorivka</a>.",
+    "updatedAt": "2024-08-14T19:40:50.980Z",
+    "datetime": "14.08 o 20:54",
+    "status": true,
+    "createdAt": "2024-08-14T18:54:13.000Z",
+    "liberated": 42943.09193953996,
+    "occupied": 65605.33658092616,
+    "unspecified": 658.0970531646982
   }
 ]
