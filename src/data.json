@@ -12106,5 +12106,17 @@
     "liberated": 42943.09193953996,
     "occupied": 65605.33658092616,
     "unspecified": 658.0970531646982
+  },
+  {
+    "id": 1723752578,
+    "description": "Сили Оборони України звільнили <a href=\"https://deepstatemap.live/#12/51.2465514/34.8807335\">Внєзапноє</a>. Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/49.5868133/37.8304345\">Піщаного</a> та в <a href=\"https://deepstatemap.live/#14/48.0176821/37.4925183\">Красногорівці</a>.",
+    "descriptionEn": "Ukrainian Defense Forces liberated <a href=\"https://deepstatemap.live/en#12/51.2465514/34.8807335\">Vnezapne</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.5868133/37.8304345\">Pishchane</a> and in <a href=\"https://deepstatemap.live/en#14/48.0176821/37.4925183\">Krasnohorivka</a>.",
+    "updatedAt": "2024-08-15T23:47:34.190Z",
+    "datetime": "15.08 o 22:09",
+    "status": true,
+    "createdAt": "2024-08-15T20:09:38.000Z",
+    "liberated": 42936.18076790538,
+    "occupied": 65612.46817817944,
+    "unspecified": 661.758718644366
   }
 ]
