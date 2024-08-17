@@ -12118,5 +12118,17 @@
     "liberated": 42936.18076790538,
     "occupied": 65612.46817817944,
     "unspecified": 661.758718644366
+  },
+  {
+    "id": 1723839267,
+    "description": "Сили Оборони звільнили <a href=\"https://deepstatemap.live/#13/51.1013032/35.4091885\">Борки</a> на Курщині. Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.2525590/37.3983667\">Гродівці</a>, <a href=\"https://deepstatemap.live/#14/48.1885898/37.3886698\">Миколаївці</a> та <a href=\"https://deepstatemap.live/#14/48.3974972/37.8863957\">Північному</a>.",
+    "descriptionEn": "The Defense Forces liberated <a href=\"https://deepstatemap.live/en#13/51.1013032/35.4091885\">Borky</a> in Kursk region. The enemy advanced in <a href=\"https://deepstatemap.live/en14/48.2525590/37.3983667\">Hrodivka</a>, <a href=\"https://deepstatemap.live/en#14/48.1885898/37.3886698\">Mykolaivka</a> and <a href=\"https://deepstatemap.live/en#14/48.3974972/37.8863957\">Pivdenne</a>.",
+    "updatedAt": "2024-08-16T21:22:41.348Z",
+    "datetime": "16.08 o 22:14",
+    "status": true,
+    "createdAt": "2024-08-16T20:14:27.000Z",
+    "liberated": 42936.18076790538,
+    "occupied": 65614.01472534465,
+    "unspecified": 668.967270789803
   }
 ]
