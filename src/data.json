@@ -12130,5 +12130,17 @@
     "liberated": 42936.18076790538,
     "occupied": 65614.01472534465,
     "unspecified": 668.967270789803
+  },
+  {
+    "id": 1723919692,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#13/48.1858362/37.3899741\">Миколаївку</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/47.7984867/37.3235233\">Водяного</a>, <a href=\"https://deepstatemap.live/#13/48.1848065/37.4380296\">Новожеланного</a> та <a href=\"https://deepstatemap.live/#13/48.2016224/37.4865999\">Желанного</a>. Противника відкинули біля <a href=\"https://deepstatemap.live/#14/51.3090117/34.2882801\">Отруби</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#13/48.1858362/37.3899741\">Mykolaivka</a> and advanced near <a href=\"https://deepstatemap.live/en#14/47.7984867/37.3235233\">Vodiane</a>, <a href=\"https://deepstatemap.live/en#13/48.1848065/37.4380296\">Novozhelanne</a> and <a href=\"https://deepstatemap.live/en#13/48.2016224/37.4865999\">Zhelanne</a>. The enemy was pushed back near <a href=\"https://deepstatemap.live/en#14/51.3090117/34.2882801\">Otruba</a>.",
+    "updatedAt": "2024-08-17T19:55:07.044Z",
+    "datetime": "17.08 o 20:34",
+    "status": true,
+    "createdAt": "2024-08-17T18:34:52.000Z",
+    "liberated": 42936.194488193556,
+    "occupied": 65632.80042774633,
+    "unspecified": 693.4999899724354
   }
 ]
