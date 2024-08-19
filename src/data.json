@@ -12142,5 +12142,17 @@
     "liberated": 42936.194488193556,
     "occupied": 65632.80042774633,
     "unspecified": 693.4999899724354
+  },
+  {
+    "id": 1724012492,
+    "description": "Сили Оборони звільнили <a href=\"https://deepstatemap.live/#13/51.2936001/34.8658675\">Апанасівку</a>, <a href=\"https://deepstatemap.live/#13/51.3097462/34.8972995\">Снагость</a>, <a href=\"https://deepstatemap.live/#13/51.3184084/34.3009650\">Отрубу</a> та просунулися у <a href=\"https://deepstatemap.live/#13/51.4038588/35.0149031\">Ольгівці</a>. Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/49.5545536/37.8018111\">Піщаного</a>, <a href=\"https://deepstatemap.live/#13/48.1696936/37.5207727\">Скучного</a>, <a href=\"https://deepstatemap.live/#13/48.1897179/37.3778077\">Миколаївки</a>, <a href=\"https://deepstatemap.live/#14/48.7083228/37.9131743\">Залізнянського</a>, <a href=\"https://deepstatemap.live/#13/48.1893747/37.4529802\">Новожеланного</a> у <a href=\"https://deepstatemap.live/#15/48.3496704/37.8310091\">Неліпівці</a> та <a href=\"https://deepstatemap.live/#14/48.3340269/37.8471588\">Нью-Йорку</a>. Уточнено лінію зіткнення <a href=\"https://deepstatemap.live/#14/48.3246144/37.8090577\">західніше Нью-Йорку</a>.",
+    "descriptionEn": "The Defense Forces liberated <a href=\"https://deepstatemap.live/en#13/51.2936001/34.8658675\">Apanasivka</a>, <a href=\"https://deepstatemap.live/en#13/51.3097462/34.8972995\">Snahost</a>, <a href=\"https://deepstatemap.live/en#13/51.3184084/34.3009650\">Otruba</a> and advanced in <a href=\"https://deepstatemap.live/en#13/51.4038588/35.0149031\">Olgivka</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#13/49.5545536/37.8018111\">Pishchane</a>, <a href=\"https://deepstatemap.live/en#13/48.1696936/37.5207727\">Skuchne</a>, <a href=\"https://deepstatemap.live/en#13/48.1897179/37.3778077\">Mykolayivka</a>, <a href=\"https://deepstatemap.live/en#14/48.7083228/37.9131743\">Zaliznyanske</a>, <a href=\"https://deepstatemap.live/en#13/48.1893747/37.4529802\">Novozhelanne</a>, <a href=\"https://deepstatemap.live/en#15/48.3496704/37.8310091\">Nelipivka</a> and <a href=\"https://deepstatemap.live/en#14/48.3340269/37.8471588\">New York</a>. The contact line on <a href=\"https://deepstatemap.live/en#14/48.3246144/37.8090577\">west of New York</a> has been clarified.",
+    "updatedAt": "2024-08-18T20:50:29.272Z",
+    "datetime": "18.08 o 22:21",
+    "status": true,
+    "createdAt": "2024-08-18T20:21:32.000Z",
+    "liberated": 42934.38025509897,
+    "occupied": 65651.32165341717,
+    "unspecified": 677.5097511581371
   }
 ]
