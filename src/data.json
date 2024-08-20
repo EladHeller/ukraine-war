@@ -12154,5 +12154,17 @@
     "liberated": 42934.38025509897,
     "occupied": 65651.32165341717,
     "unspecified": 677.5097511581371
+  },
+  {
+    "id": 1724098717,
+    "description": "Сили Оборони просунулися біля <a href=\"https://deepstatemap.live/#12/51.2461215/35.3601837\">Мартинівки</a>. Ворог окупував <a href=\"https://deepstatemap.live/#14/48.1799160/37.4909222\">Межове</a>, <a href=\"https://deepstatemap.live/#14/48.1646329/37.4932396\">Скучне</a> та <a href=\"https://deepstatemap.live/#14/48.2291041/37.3640724\">Журавку</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#13/48.2396094/37.3694634\">Гродівки</a> та в <a href=\"https://deepstatemap.live/#14/48.1779252/37.4317502\">Завітному</a>. Тривають важкі бої за <a href=\"https://deepstatemap.live/#13/48.3417032/37.8503036\">Нью-Йорк</a>.",
+    "descriptionEn": "Defense forces advanced near <a href=\"https://deepstatemap.live/en#12/51.2461215/35.3601837\">Martynivka</a>. The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.1799160/37.4909222\">Mezhove</a>, <a href=\"https://deepstatemap.live/en#14/48.1646329/37.4932396\">Skuchne</a> and <a href=\"https://deepstatemap.live/en#14/48.2291041/37.3640724\">Zhuravka</a>, and advanced near <a href=\"https://deepstatemap.live/en#13/48.2396094/37.3694634\">Hrodivka</a> and <a href=\"https://deepstatemap.live/en#14/48.1779252/37.4317502\">Zavetne</a>. Heavy fighting for <a href=\"https://deepstatemap.live/en#13/48.3417032/37.8503036\">New York</a> continues.",
+    "updatedAt": "2024-08-19T21:09:14.108Z",
+    "datetime": "19.08 o 22:18",
+    "status": true,
+    "createdAt": "2024-08-19T20:18:37.000Z",
+    "liberated": 42934.38025509897,
+    "occupied": 65667.26544706493,
+    "unspecified": 669.5330136018972
   }
 ]
