@@ -12166,5 +12166,17 @@
     "liberated": 42934.38025509897,
     "occupied": 65667.26544706493,
     "unspecified": 669.5330136018972
+  },
+  {
+    "id": 1724184993,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.4016344/37.9036597\">Північному</a>, <a href=\"https://deepstatemap.live/#15/48.4104061/37.9251559\">Дружбі</a>, <a href=\"https://deepstatemap.live/#14/48.1747975/37.4313734\">Завітному</a>, біля <a href=\"https://deepstatemap.live/#14/48.1989592/37.3649795\">Новогродівки</a> та <a href=\"https://deepstatemap.live/#14/48.6282725/37.8658838\">Григорівки</a>. Тривають бої в <a href=\"https://deepstatemap.live/#14/48.3392206/37.8321456\">Нью-Йорку</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.4016344/37.9036597\">Pivnichne</a>, <a href=\"https://deepstatemap.live/en#15/48.4104061/37.9251559\">Druzhba</a>, <a href=\"https://deepstatemap.live/en#14/48.1747975/37.4313734\">Zavetne</a>, near <a href=\"https://deepstatemap.live/en#14/48.1989592/37.3649795\">Novohrodivka</a> and <a href=\"https://deepstatemap.live/en#14/48.6282725/37.8658838\">Hryhorivka</a>. Fighting continues in <a href=\"https://deepstatemap.live/en#14/48.3392206/37.8321456\">New York</a>.",
+    "updatedAt": "2024-08-20T21:12:22.505Z",
+    "datetime": "20.08 o 22:16",
+    "status": true,
+    "createdAt": "2024-08-20T20:16:33.000Z",
+    "liberated": 42934.514211069516,
+    "occupied": 65674.15236689181,
+    "unspecified": 669.837080500327
   }
 ]
