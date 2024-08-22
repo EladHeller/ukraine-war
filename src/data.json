@@ -12178,5 +12178,17 @@
     "liberated": 42934.514211069516,
     "occupied": 65674.15236689181,
     "unspecified": 669.837080500327
+  },
+  {
+    "id": 1724272310,
+    "description": "Ворог захопив <a href=\"https://deepstatemap.live/#14/48.1802847/37.4682981\">Комишівку</a>, <a href=\"https://deepstatemap.live/#14/48.1766230/37.4324282\">Завітне</a> та <a href=\"https://deepstatemap.live/#14/48.1858339/37.4395507\">Новожеланне</a> та просунувся біля <a href=\"https://deepstatemap.live/#14/48.1728467/37.3940696\">Миколаївки</a>. Оновлено просування Сил Оборони України на <a href=\"https://deepstatemap.live/#10/51.3181501/35.0703879\">Курщині</a>.",
+    "descriptionEn": "The enemy captured <a href=\"https://deepstatemap.live/en#14/48.1802847/37.4682981\">Komyshivka</a>, <a href=\"https://deepstatemap.live/en#14/48.1766230/37.4324282\">Zavitne</a> and <a href=\"https://deepstatemap.live/en#14/48.1858339/37.4395507\">Novozhelanne</a> and advanced near <a href=\"https://deepstatemap.live/en#14/48.1728467/37.3940696\">Mykolaivka</a>. The advance of the Ukrainian Defense Forces in the <a href=\"https://deepstatemap.live/en#10/51.3181501/35.0703879\">Kursk region</a> has been updated.",
+    "updatedAt": "2024-08-21T20:51:36.160Z",
+    "datetime": "21.08 o 22:31",
+    "status": true,
+    "createdAt": "2024-08-21T20:31:50.000Z",
+    "liberated": 42934.514211069516,
+    "occupied": 65691.34449824027,
+    "unspecified": 667.6339350030756
   }
 ]
