@@ -12190,5 +12190,17 @@
     "liberated": 42934.514211069516,
     "occupied": 65691.34449824027,
     "unspecified": 667.6339350030756
+  },
+  {
+    "id": 1724357880,
+    "description": "Сили Оборони України досягнули успіху біля <a href=\"https://deepstatemap.live/#14/49.2648676/37.9940246\">Нововодяного</a>. Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.2001565/37.3527827\">Новогродівки</a>, <a href=\"https://deepstatemap.live/#14/48.1585547/37.4160383\">Завітного</a>, у <a href=\"https://deepstatemap.live/#15/48.3969976/37.8803673\">Торецьку</a> та <a href=\"https://deepstatemap.live/#14/48.1659948/37.4519083\">Птичому</a>.",
+    "descriptionEn": "Ukrainian Defense Forces achieved success near <a href=\"https://deepstatemap.live/en#14/49.2648676/37.9940246\">Novovodyane</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.2001565/37.3527827\">Novohrodivka</a>, <a href=\"https://deepstatemap.live/en#14/48.1585547/37.4160383\">Zavitne</a>, <a href=\"https://deepstatemap.live/en#15/48.3969976/37.8803673\">Toretsk</a> and <a href=\"https://deepstatemap.live/en#14/48.1659948/37.4519083\">Ptyche</a>.",
+    "updatedAt": "2024-08-22T20:18:06.362Z",
+    "datetime": "22.08 o 22:18",
+    "status": true,
+    "createdAt": "2024-08-22T20:18:00.000Z",
+    "liberated": 42936.586068052384,
+    "occupied": 65691.09290035913,
+    "unspecified": 671.3784788776278
   }
 ]
