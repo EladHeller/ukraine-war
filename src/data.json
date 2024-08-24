@@ -12202,5 +12202,17 @@
     "liberated": 42936.586068052384,
     "occupied": 65691.09290035913,
     "unspecified": 671.3784788776278
+  },
+  {
+    "id": 1724445676,
+    "description": "Сили Оборони України мали успіх східніше <a href=\"https://deepstatemap.live/#12/51.1682173/35.3390975\">Суджі</a>. Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.2005961/37.3509193\">Новогродівці</a> та біля <a href=\"https://deepstatemap.live/#15/48.2479840/37.3751660\">Гродівки</a>.",
+    "descriptionEn": "Ukrainian Defense Forces were successful east of <a href=\"https://deepstatemap.live/en#12/51.1682173/35.3390975\">Sudzha</a>. The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.2005961/37.3509193\">Novohrodivka</a> and near <a href=\"https://deepstatemap.live/en#15/48.2479840/37.3751660\">Hrodivka</a>.",
+    "updatedAt": "2024-08-23T21:06:57.056Z",
+    "datetime": "23.08 o 22:41",
+    "status": true,
+    "createdAt": "2024-08-23T20:41:16.000Z",
+    "liberated": 42936.586068052384,
+    "occupied": 65691.5504486145,
+    "unspecified": 672.6002027729598
   }
 ]
