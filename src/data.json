@@ -12214,5 +12214,17 @@
     "liberated": 42936.586068052384,
     "occupied": 65691.5504486145,
     "unspecified": 672.6002027729598
+  },
+  {
+    "id": 1724531322,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/47.8099546/37.3557021\">Водяного</a>, <a href=\"https://deepstatemap.live/#14/48.1744107/37.3650549\">Маринівки</a>, <a href=\"https://deepstatemap.live/#14/48.1501969/37.4276296\">Калинового</a>, <a href=\"https://deepstatemap.live/#14/48.2068518/37.3670432\">Орлівки</a> та в <a href=\"https://deepstatemap.live/#14/48.1993604/37.3473920\">Новогродівці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.8099546/37.3557021\">Vodiane</a>, <a href=\"https://deepstatemap.live/en#14/48.1744107/37.3650549\">Marynivka</a>, <a href=\"https://deepstatemap.live/en#14/48.1501969/37.4276296\">Kalynove</a>, <a href=\"https://deepstatemap.live/en#14/48.2068518/37.3670432\">Orlivka</a> and <a href=\"https://deepstatemap.live/en#14/48.1993604/37.3473920\">Novohrodivka</a>.",
+    "updatedAt": "2024-08-24T20:28:49.050Z",
+    "datetime": "24.08 o 22:28",
+    "status": true,
+    "createdAt": "2024-08-24T20:28:42.000Z",
+    "liberated": 42936.586068052384,
+    "occupied": 65709.84557017611,
+    "unspecified": 668.0995687229757
   }
 ]
