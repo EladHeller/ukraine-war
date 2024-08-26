@@ -12226,5 +12226,17 @@
     "liberated": 42936.586068052384,
     "occupied": 65709.84557017611,
     "unspecified": 668.0995687229757
+  },
+  {
+    "id": 1724617038,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/48.2824392/37.4184778\">Новоторецька</a>, <a href=\"https://deepstatemap.live/#14/48.1660585/37.3678611\">Михайлівки</a>, <a href=\"https://deepstatemap.live/#13/48.1298479/37.5307376\">Яснобродівки</a>, у <a href=\"https://deepstatemap.live/#13/47.8570127/37.4157518\">Костянтинівці</a>, <a href=\"https://deepstatemap.live/#14/48.2019275/37.3452922\">Новогродівці</a> та <a href=\"https://deepstatemap.live/#15/48.3723118/37.8821657\">Залізному</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/48.2824392/37.4184778\">Novotoretsk</a>, <a href=\"https://deepstatemap.live/en#14/48.1660585/37.3678611\">Mykhailivka</a>, <a href=\"https://deepstatemap.live/en#13/48.1298479/37.5307376\">Yasnobrodivka</a>, <a href=\"https://deepstatemap.live/en#13/47.8570127/37.4157518\">Kostiantynivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2019275/37.3452922\">Novohrodivka</a> and <a href=\"https://deepstatemap.live/en#15/48.3723118/37.8821657\">Zalizne</a>.",
+    "updatedAt": "2024-08-26T01:28:40.322Z",
+    "datetime": "25.08 o 22:17",
+    "status": true,
+    "createdAt": "2024-08-25T20:17:18.000Z",
+    "liberated": 42937.18692208402,
+    "occupied": 65722.908248823,
+    "unspecified": 667.8016653158471
   }
 ]
