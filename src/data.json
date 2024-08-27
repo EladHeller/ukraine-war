@@ -12238,5 +12238,17 @@
     "liberated": 42937.18692208402,
     "occupied": 65722.908248823,
     "unspecified": 667.8016653158471
+  },
+  {
+    "id": 1724703303,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#13/48.1642052/37.4514247\">Птиче</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/49.5502490/37.7999647\">Піщаного</a>, <a href=\"https://deepstatemap.live/#13/48.1403923/37.4533126\">Калинового</a>, в <a href=\"https://deepstatemap.live/#13/48.1271072/37.5008532\">Карлівці</a>, <a href=\"https://deepstatemap.live/#13/48.1269926/37.3982204\">Мемрику</a>, <a href=\"https://deepstatemap.live/#13/48.2411775/37.3427961\">Красному Яру</a>, <a href=\"https://deepstatemap.live/#13/48.1479495/37.3596044\">Михайлівці</a>, <a href=\"https://deepstatemap.live/#14/48.3921291/37.8969452\">Північному</a>, <a href=\"https://deepstatemap.live/#13/48.2073374/37.3367892\">Новогродівці</a> та околицях.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#13/48.1642052/37.4514247\">Ptyche</a> and advanced near <a href=\"https://deepstatemap.live/en#14/49.5502490/37.7999647\">Pishchane</a>, <a href=\"https://deepstatemap.live/en#13/48.1403923/37.4533126\">Kalynove</a>, <a href=\"https://deepstatemap.live/en#13/48.1271072/37.5008532\">Karlivka</a>, <a href=\"https://deepstatemap.live/en#13/48.1269926/37.3982204\">Memryk</a>, <a href=\"https://deepstatemap.live/en#13/48.2411775/37.3427961\">Krasnyi Yar</a>, <a href=\"https://deepstatemap.live/en#13/48.1479495/37.3596044\">Mykhailivka</a>, <a href=\"https://deepstatemap.live/en#14/48.3921291/37.8969452\">Pivnichne</a>, <a href=\"https://deepstatemap.live/en#13/48.2073374/37.3367892\">Novohrodivka</a> and the surrounding area.",
+    "updatedAt": "2024-08-26T20:24:07.282Z",
+    "datetime": "26.08 o 22:15",
+    "status": true,
+    "createdAt": "2024-08-26T20:15:03.000Z",
+    "liberated": 42935.0241316513,
+    "occupied": 65750.63744524607,
+    "unspecified": 665.4837365017465
   }
 ]
