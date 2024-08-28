@@ -12250,5 +12250,17 @@
     "liberated": 42935.0241316513,
     "occupied": 65750.63744524607,
     "unspecified": 665.4837365017465
+  },
+  {
+    "id": 1724790513,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#13/48.1199671/37.3996110\">Мемрик</a> та <a href=\"https://deepstatemap.live/#13/48.1390946/37.4433758\">Калинове</a>, а також просунувся в <a href=\"https://deepstatemap.live/#14/48.1971776/37.3387993\">Новогродівці</a>, <a href=\"https://deepstatemap.live/#14/47.8674515/37.3987055\">Костянтинівці</a>, біля <a href=\"https://deepstatemap.live/#13/48.1441449/37.3807277\">Михайлівки</a>, <a href=\"https://deepstatemap.live/#13/48.1095531/37.3882793\">Лісівки</a> та <a href=\"https://deepstatemap.live/#13/47.8389129/37.3766046\">Водяного</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#13/48.1199671/37.3996110\">Memryk</a> and <a href=\"https://deepstatemap.live/en#13/48.1390946/37.4433758\">Kalynove</a>, and advanced in <a href=\"https://deepstatemap.live/en#14/48.1971776/37.3387993\">Novohrodivka</a>, <a href=\"https://deepstatemap.live/en#14/47.8674515/37.3987055\">Kostiantynivka</a>, near <a href=\"https://deepstatemap.live/en#13/48.1441449/37.3807277\">Mykhailivka</a>, <a href=\"https://deepstatemap.live/en#13/48.1095531/37.3882793\">Lisivka</a> and <a href=\"https://deepstatemap.live/en#13/47.8389129/37.3766046\">Vodiane</a>.",
+    "updatedAt": "2024-08-28T00:44:54.556Z",
+    "datetime": "27.08 o 22:28",
+    "status": true,
+    "createdAt": "2024-08-27T20:28:33.000Z",
+    "liberated": 42921.420316168544,
+    "occupied": 65764.05559713415,
+    "unspecified": 685.4054106490016
   }
 ]
