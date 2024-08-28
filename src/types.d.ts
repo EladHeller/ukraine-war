@@ -15,8 +15,12 @@ export interface HistoryRecord {
   createdAt: string;
 }
 
-export interface HistoryRecordWithAreas extends HistoryRecord {
+export interface Areas {
   liberated: number;
   occupied: number;
   unspecified: number;
+  occupiedInRussia?: number;
+  occupiedInRussiaUnspecified?: number;
 }
+
+export type HistoryRecordWithAreas = HistoryRecord & Areas;

@@ -20,6 +20,7 @@ const distinctData = warData
     name: new Date(war.createdAt).toLocaleDateString('en-GB'),
     משוחרר: war.liberated.toFixed(2),
     כבוש: war.occupied.toFixed(2),
+    'כיבושי אוקראינה ברוסיה': war.occupiedInRussia?.toFixed(2) ?? null,
     'לא ידוע': war.unspecified.toFixed(2),
   }))
   .reverse()
@@ -73,6 +74,7 @@ export default function App() {
         <Line type="monotone" dataKey="לא ידוע" stroke="#00c02b" />
         <Line type="monotone" dataKey="משוחרר" stroke="blue" />
         <Line type="monotone" dataKey="כבוש" stroke="red" />
+        <Line type="monotone" dataKey="כיבושי אוקראינה ברוסיה" stroke="purple" />
         <Brush dataKey="name" height={30} stroke="#8884d8" />
       </LineChart>
     </ResponsiveContainer>
