@@ -369,7 +369,8 @@
     "createdAt": "2022-04-12T19:43:00.000Z",
     "liberated": 19646.837511995516,
     "occupied": 66445.98937788892,
-    "unspecified": 6327.209899123954
+    "unspecified": 6327.209899123954,
+    "occupiedInRussiaUnspecified": 6.12210263249497
   },
   {
     "id": 1649969903,
@@ -381,7 +382,8 @@
     "createdAt": "2022-04-14T20:58:23.000Z",
     "liberated": 19646.837511995516,
     "occupied": 66434.68479176261,
-    "unspecified": 6327.209899123954
+    "unspecified": 6327.209899123954,
+    "occupiedInRussiaUnspecified": 6.12210263249497
   },
   {
     "id": 1650057822,
@@ -393,7 +395,8 @@
     "createdAt": "2022-04-15T21:23:42.000Z",
     "liberated": 19652.614280637135,
     "occupied": 68753.28822700611,
-    "unspecified": 4283.434743128463
+    "unspecified": 4283.434743128463,
+    "occupiedInRussiaUnspecified": 6.12210263249497
   },
   {
     "id": 1650119121,
@@ -405,7 +408,8 @@
     "createdAt": "2022-04-16T14:25:21.000Z",
     "liberated": 19646.837511995516,
     "occupied": 68682.23353653513,
-    "unspecified": 4283.434743128463
+    "unspecified": 4283.434743128463,
+    "occupiedInRussiaUnspecified": 6.12210263249497
   },
   {
     "id": 1650124819,
@@ -417,7 +421,8 @@
     "createdAt": "2022-04-16T16:00:19.000Z",
     "liberated": 19737.948138727683,
     "occupied": 71181.7812381547,
-    "unspecified": 3019.9421326346037
+    "unspecified": 3019.9421326346037,
+    "occupiedInRussiaUnspecified": 6.12210263249497
   },
   {
     "id": 1650128815,
@@ -429,7 +434,8 @@
     "createdAt": "2022-04-16T17:06:55.000Z",
     "liberated": 19739.908172591036,
     "occupied": 71432.40483576953,
-    "unspecified": 3019.9421326346037
+    "unspecified": 3019.9421326346037,
+    "occupiedInRussiaUnspecified": 6.12210263249497
   },
   {
     "id": 1650128824,
@@ -441,7 +447,8 @@
     "createdAt": "2022-04-16T17:07:04.000Z",
     "liberated": 19739.908172591036,
     "occupied": 71436.36261978708,
-    "unspecified": 3019.9421326346037
+    "unspecified": 3019.9421326346037,
+    "occupiedInRussiaUnspecified": 6.12210263249497
   },
   {
     "id": 1650217023,
@@ -453,7 +460,8 @@
     "createdAt": "2022-04-17T17:37:03.000Z",
     "liberated": 19739.908172591036,
     "occupied": 71436.36261978708,
-    "unspecified": 3019.9421326346037
+    "unspecified": 3019.9421326346037,
+    "occupiedInRussiaUnspecified": 6.12210263249497
   },
   {
     "id": 1650217084,
@@ -465,7 +473,8 @@
     "createdAt": "2022-04-17T17:38:04.000Z",
     "liberated": 19744.121201697195,
     "occupied": 71562.93644726243,
-    "unspecified": 3019.9421326346037
+    "unspecified": 3019.9421326346037,
+    "occupiedInRussiaUnspecified": 294.8236818216679
   },
   {
     "id": 1650264432,
@@ -477,7 +486,8 @@
     "createdAt": "2022-04-18T06:47:12.000Z",
     "liberated": 19744.121201697195,
     "occupied": 71562.93650428443,
-    "unspecified": 3019.9421326346037
+    "unspecified": 3019.9421326346037,
+    "occupiedInRussiaUnspecified": 294.8236818216679
   },
   {
     "id": 1650267725,
@@ -489,7 +499,8 @@
     "createdAt": "2022-04-18T07:42:05.000Z",
     "liberated": 19733.623051558225,
     "occupied": 71566.96985188415,
-    "unspecified": 3019.9421326346037
+    "unspecified": 3019.9421326346037,
+    "occupiedInRussiaUnspecified": 294.8236818216679
   },
   {
     "id": 1650355009,
@@ -501,7 +512,8 @@
     "createdAt": "2022-04-19T07:56:49.000Z",
     "liberated": 19733.623051558225,
     "occupied": 71544.40816091563,
-    "unspecified": 3019.9421326346037
+    "unspecified": 3019.9421326346037,
+    "occupiedInRussiaUnspecified": 321.2524618187015
   },
   {
     "id": 1650383675,
@@ -513,7 +525,8 @@
     "createdAt": "2022-04-19T15:54:35.000Z",
     "liberated": 19745.930107297343,
     "occupied": 72149.37950947492,
-    "unspecified": 2468.9095403064753
+    "unspecified": 2468.9095403064753,
+    "occupiedInRussiaUnspecified": 294.8236818216679
   },
   {
     "id": 1650390547,
@@ -525,7 +538,8 @@
     "createdAt": "2022-04-19T17:49:07.000Z",
     "liberated": 19754.786071615374,
     "occupied": 72806.9350860815,
-    "unspecified": 2469.456574808098
+    "unspecified": 2469.456574808098,
+    "occupiedInRussiaUnspecified": 969.1814407614922
   },
   {
     "id": 1650397463,
@@ -537,7 +551,8 @@
     "createdAt": "2022-04-19T19:44:23.000Z",
     "liberated": 19754.786071615374,
     "occupied": 72814.36719688782,
-    "unspecified": 2469.456574808098
+    "unspecified": 2469.456574808098,
+    "occupiedInRussiaUnspecified": 969.1814407614922
   },
   {
     "id": 1650433971,
@@ -549,7 +564,8 @@
     "createdAt": "2022-04-20T05:52:51.000Z",
     "liberated": 19754.786071615374,
     "occupied": 72920.5579474705,
-    "unspecified": 2469.456574808098
+    "unspecified": 2469.456574808098,
+    "occupiedInRussiaUnspecified": 1193.867434622073
   },
   {
     "id": 1650471988,
@@ -561,7 +577,8 @@
     "createdAt": "2022-04-20T16:26:28.000Z",
     "liberated": 19754.786071615374,
     "occupied": 72845.67895713473,
-    "unspecified": 2469.456574808098
+    "unspecified": 2469.456574808098,
+    "occupiedInRussiaUnspecified": 1194.166183517327
   },
   {
     "id": 1650527386,
@@ -573,7 +590,8 @@
     "createdAt": "2022-04-21T07:49:46.000Z",
     "liberated": 19754.786071615374,
     "occupied": 72868.1247087599,
-    "unspecified": 2469.456574808098
+    "unspecified": 2469.456574808098,
+    "occupiedInRussiaUnspecified": 1226.7989831024036
   },
   {
     "id": 1650601853,
@@ -585,7 +603,8 @@
     "createdAt": "2022-04-22T04:30:53.000Z",
     "liberated": 19743.042781032964,
     "occupied": 72880.21955226031,
-    "unspecified": 2469.456574808098
+    "unspecified": 2469.456574808098,
+    "occupiedInRussiaUnspecified": 1226.7989831024036
   },
   {
     "id": 1650651470,
@@ -597,7 +616,8 @@
     "createdAt": "2022-04-22T18:17:50.000Z",
     "liberated": 19743.042781032964,
     "occupied": 72928.41632057373,
-    "unspecified": 2469.456574808098
+    "unspecified": 2469.456574808098,
+    "occupiedInRussiaUnspecified": 1193.3268780656806
   },
   {
     "id": 1650657336,
@@ -609,7 +629,8 @@
     "createdAt": "2022-04-22T19:55:36.000Z",
     "liberated": 19824.322418242,
     "occupied": 74949.92854387757,
-    "unspecified": 1234.2030075652694
+    "unspecified": 1234.2030075652694,
+    "occupiedInRussiaUnspecified": 518.9691191258562
   },
   {
     "id": 1650663475,
@@ -621,7 +642,8 @@
     "createdAt": "2022-04-22T21:37:55.000Z",
     "liberated": 19824.322418242,
     "occupied": 75166.94359109185,
-    "unspecified": 1234.2030075652694
+    "unspecified": 1234.2030075652694,
+    "occupiedInRussiaUnspecified": 518.9691191258562
   },
   {
     "id": 1650747156,
@@ -633,7 +655,8 @@
     "createdAt": "2022-04-23T20:52:36.000Z",
     "liberated": 19824.322418242,
     "occupied": 75222.38133131426,
-    "unspecified": 1234.2030075652694
+    "unspecified": 1234.2030075652694,
+    "occupiedInRussiaUnspecified": 518.9691191258562
   },
   {
     "id": 1650804969,
@@ -645,7 +668,8 @@
     "createdAt": "2022-04-24T12:56:09.000Z",
     "liberated": 19824.91102774806,
     "occupied": 76480.44454863641,
-    "unspecified": 215.72392381185307
+    "unspecified": 215.72392381185307,
+    "occupiedInRussiaUnspecified": 519.1534128185017
   },
   {
     "id": 1650816802,
@@ -657,7 +681,8 @@
     "createdAt": "2022-04-24T16:13:22.000Z",
     "liberated": 20172.28221244329,
     "occupied": 76386.45074121958,
-    "unspecified": 293.99473506045973
+    "unspecified": 293.99473506045973,
+    "occupiedInRussiaUnspecified": 519.1534128185017
   },
   {
     "id": 1650820154,
@@ -669,7 +694,8 @@
     "createdAt": "2022-04-24T17:09:14.000Z",
     "liberated": 20201.23535258081,
     "occupied": 76405.52551930869,
-    "unspecified": 293.99473506045973
+    "unspecified": 293.99473506045973,
+    "occupiedInRussiaUnspecified": 519.1534128185017
   },
   {
     "id": 1650838456,
@@ -681,7 +707,8 @@
     "createdAt": "2022-04-24T22:14:16.000Z",
     "liberated": 20201.23535258081,
     "occupied": 76482.69631005812,
-    "unspecified": 293.99473506045973
+    "unspecified": 293.99473506045973,
+    "occupiedInRussiaUnspecified": 519.1534128185017
   },
   {
     "id": 1650874660,
@@ -693,7 +720,8 @@
     "createdAt": "2022-04-25T08:17:40.000Z",
     "liberated": 20201.23535258081,
     "occupied": 76688.24881117909,
-    "unspecified": 296.31218682698386
+    "unspecified": 296.31218682698386,
+    "occupiedInRussiaUnspecified": 519.1534128185017
   },
   {
     "id": 1650912571,
@@ -705,7 +733,8 @@
     "createdAt": "2022-04-25T18:49:31.000Z",
     "liberated": 20201.23535258081,
     "occupied": 77012.65788884278,
-    "unspecified": 296.31218682698386
+    "unspecified": 296.31218682698386,
+    "occupiedInRussiaUnspecified": 519.1534128185017
   },
   {
     "id": 1651006720,
@@ -717,7 +746,8 @@
     "createdAt": "2022-04-26T20:58:40.000Z",
     "liberated": 20239.430731774133,
     "occupied": 77086.39288393337,
-    "unspecified": 296.31218682698386
+    "unspecified": 296.31218682698386,
+    "occupiedInRussiaUnspecified": 512.8470164933613
   },
   {
     "id": 1651041499,
@@ -729,7 +759,8 @@
     "createdAt": "2022-04-27T06:38:19.000Z",
     "liberated": 20214.537802630202,
     "occupied": 77283.75780131127,
-    "unspecified": 262.95846277133836
+    "unspecified": 262.95846277133836,
+    "occupiedInRussiaUnspecified": 627.8169113021174
   },
   {
     "id": 1651042918,
@@ -741,7 +772,8 @@
     "createdAt": "2022-04-27T07:01:58.000Z",
     "liberated": 20214.537802630202,
     "occupied": 77283.76661582192,
-    "unspecified": 262.95846277133836
+    "unspecified": 262.95846277133836,
+    "occupiedInRussiaUnspecified": 627.8169113021174
   },
   {
     "id": 1651093140,
@@ -753,7 +785,8 @@
     "createdAt": "2022-04-27T20:59:00.000Z",
     "liberated": 20195.37660743532,
     "occupied": 77354.46878977476,
-    "unspecified": 262.95846277133836
+    "unspecified": 262.95846277133836,
+    "occupiedInRussiaUnspecified": 627.8169113021174
   },
   {
     "id": 1651144162,
@@ -765,7 +798,8 @@
     "createdAt": "2022-04-28T11:09:22.000Z",
     "liberated": 20195.37660743532,
     "occupied": 78014.84744009608,
-    "unspecified": 262.95846277133836
+    "unspecified": 262.95846277133836,
+    "occupiedInRussiaUnspecified": 403.671473997929
   },
   {
     "id": 1651162114,
@@ -777,7 +811,8 @@
     "createdAt": "2022-04-28T16:08:34.000Z",
     "liberated": 20189.86934805231,
     "occupied": 78140.99312059654,
-    "unspecified": 262.95846277133836
+    "unspecified": 262.95846277133836,
+    "occupiedInRussiaUnspecified": 575.3123736386874
   },
   {
     "id": 1651163513,
@@ -789,7 +824,8 @@
     "createdAt": "2022-04-28T16:31:53.000Z",
     "liberated": 20200.156879531274,
     "occupied": 78133.04839737584,
-    "unspecified": 229.40927083209374
+    "unspecified": 229.40927083209374,
+    "occupiedInRussiaUnspecified": 575.3123736386874
   },
   {
     "id": 1651181350,
@@ -801,7 +837,8 @@
     "createdAt": "2022-04-28T21:29:10.000Z",
     "liberated": 20200.156879531274,
     "occupied": 78071.37507444905,
-    "unspecified": 229.40927083209374
+    "unspecified": 229.40927083209374,
+    "occupiedInRussiaUnspecified": 596.6115103715783
   },
   {
     "id": 1651228602,
@@ -813,7 +850,8 @@
     "createdAt": "2022-04-29T10:36:42.000Z",
     "liberated": 20200.156879531274,
     "occupied": 78050.69112193321,
-    "unspecified": 229.40927083209374
+    "unspecified": 229.40927083209374,
+    "occupiedInRussiaUnspecified": 596.6115103715783
   },
   {
     "id": 1651233493,
@@ -825,7 +863,8 @@
     "createdAt": "2022-04-29T11:58:13.000Z",
     "liberated": 20221.456016264165,
     "occupied": 78047.31717052382,
-    "unspecified": 232.7822748397855
+    "unspecified": 232.7822748397855,
+    "occupiedInRussiaUnspecified": 575.3123736386874
   },
   {
     "id": 1651333972,
@@ -1557,7 +1596,8 @@
     "createdAt": "2022-05-26T16:09:14.000Z",
     "liberated": 22875.292020316334,
     "occupied": 79600.07171336113,
-    "unspecified": 1069.024074011482
+    "unspecified": 1069.024074011482,
+    "occupiedInRussiaUnspecified": 6.130575424498478
   },
   {
     "id": 1653611587,
@@ -1569,7 +1609,8 @@
     "createdAt": "2022-05-27T00:33:07.000Z",
     "liberated": 22875.292020316334,
     "occupied": 79521.96669581406,
-    "unspecified": 1120.2965604716132
+    "unspecified": 1120.2965604716132,
+    "occupiedInRussiaUnspecified": 22.688867192691934
   },
   {
     "id": 1653682399,
@@ -1581,7 +1622,8 @@
     "createdAt": "2022-05-27T20:13:19.000Z",
     "liberated": 22876.68321172095,
     "occupied": 79574.18158617025,
-    "unspecified": 1122.384193415119
+    "unspecified": 1122.384193415119,
+    "occupiedInRussiaUnspecified": 22.688867192691934
   },
   {
     "id": 1653735578,
@@ -1593,7 +1635,8 @@
     "createdAt": "2022-05-28T10:59:38.000Z",
     "liberated": 22876.69671668062,
     "occupied": 79581.30578965979,
-    "unspecified": 1115.1825811938338
+    "unspecified": 1115.1825811938338,
+    "occupiedInRussiaUnspecified": 22.688867192691934
   },
   {
     "id": 1653754118,
@@ -1605,7 +1648,8 @@
     "createdAt": "2022-05-28T16:08:38.000Z",
     "liberated": 22876.69671668062,
     "occupied": 79556.67886380137,
-    "unspecified": 1142.5653736268407
+    "unspecified": 1142.5653736268407,
+    "occupiedInRussiaUnspecified": 22.688867192691934
   },
   {
     "id": 1653767177,
@@ -1617,7 +1661,8 @@
     "createdAt": "2022-05-28T19:46:17.000Z",
     "liberated": 22876.69671668062,
     "occupied": 79546.08583396643,
-    "unspecified": 1141.969897729722
+    "unspecified": 1141.969897729722,
+    "occupiedInRussiaUnspecified": 22.688867192691934
   },
   {
     "id": 1653771443,
@@ -1629,7 +1674,8 @@
     "createdAt": "2022-05-28T20:57:23.000Z",
     "liberated": 22876.69671668062,
     "occupied": 79518.95881258056,
-    "unspecified": 1169.0969191155968
+    "unspecified": 1169.0969191155968,
+    "occupiedInRussiaUnspecified": 22.688867192691934
   },
   {
     "id": 1653817703,
@@ -1641,7 +1687,8 @@
     "createdAt": "2022-05-29T09:48:23.000Z",
     "liberated": 22963.712363324175,
     "occupied": 79495.33517289086,
-    "unspecified": 1188.3916901297364
+    "unspecified": 1188.3916901297364,
+    "occupiedInRussiaUnspecified": 22.688867192691934
   },
   {
     "id": 1653845722,
@@ -1833,7 +1880,8 @@
     "createdAt": "2022-06-05T15:58:47.000Z",
     "liberated": 23306.80372586511,
     "occupied": 79914.70489985889,
-    "unspecified": 955.6222385060938
+    "unspecified": 955.6222385060938,
+    "occupiedInRussiaUnspecified": 7.632137829392284
   },
   {
     "id": 1654466784,
@@ -1845,7 +1893,8 @@
     "createdAt": "2022-06-05T22:06:24.000Z",
     "liberated": 23331.179048281385,
     "occupied": 79835.74745079369,
-    "unspecified": 1035.6024521892323
+    "unspecified": 1035.6024521892323,
+    "occupiedInRussiaUnspecified": 7.632137829392284
   },
   {
     "id": 1654547504,
@@ -1857,7 +1906,8 @@
     "createdAt": "2022-06-06T20:31:44.000Z",
     "liberated": 23323.23219618002,
     "occupied": 79887.28019563579,
-    "unspecified": 1050.585816759786
+    "unspecified": 1050.585816759786,
+    "occupiedInRussiaUnspecified": 7.632137829392284
   },
   {
     "id": 1654631143,
@@ -1869,7 +1919,8 @@
     "createdAt": "2022-06-07T19:45:43.000Z",
     "liberated": 23320.241506639635,
     "occupied": 79917.58357689803,
-    "unspecified": 1058.4764501432492
+    "unspecified": 1058.4764501432492,
+    "occupiedInRussiaUnspecified": 7.632137829392284
   },
   {
     "id": 1654637835,
@@ -1977,7 +2028,8 @@
     "createdAt": "2022-06-12T08:50:25.000Z",
     "liberated": 23238.918307497242,
     "occupied": 80382.86987751568,
-    "unspecified": 665.1135877886969
+    "unspecified": 665.1135877886969,
+    "occupiedInRussiaUnspecified": 94.07503623974247
   },
   {
     "id": 1655069785,
@@ -1989,7 +2041,8 @@
     "createdAt": "2022-06-12T21:36:25.000Z",
     "liberated": 23230.88409151097,
     "occupied": 80483.61709596953,
-    "unspecified": 646.1177179346058
+    "unspecified": 646.1177179346058,
+    "occupiedInRussiaUnspecified": 53.00267853691367
   },
   {
     "id": 1655123372,
@@ -2001,7 +2054,8 @@
     "createdAt": "2022-06-13T12:29:32.000Z",
     "liberated": 23229.559400950613,
     "occupied": 80625.01390463609,
-    "unspecified": 534.7958660674003
+    "unspecified": 534.7958660674003,
+    "occupiedInRussiaUnspecified": 53.00267853691367
   },
   {
     "id": 1655240838,
@@ -2013,7 +2067,8 @@
     "createdAt": "2022-06-14T21:07:18.000Z",
     "liberated": 23325.785681875295,
     "occupied": 80644.64161143386,
-    "unspecified": 546.803472044439
+    "unspecified": 546.803472044439,
+    "occupiedInRussiaUnspecified": 53.00267853691367
   },
   {
     "id": 1655321331,
@@ -2025,7 +2080,8 @@
     "createdAt": "2022-06-15T19:28:51.000Z",
     "liberated": 23325.785681875295,
     "occupied": 80673.80996517873,
-    "unspecified": 598.5290532061591
+    "unspecified": 598.5290532061591,
+    "occupiedInRussiaUnspecified": 53.00267853691367
   },
   {
     "id": 1655381865,
@@ -2037,7 +2093,8 @@
     "createdAt": "2022-06-16T12:17:45.000Z",
     "liberated": 23325.785681875295,
     "occupied": 80697.96000866914,
-    "unspecified": 551.5420081184991
+    "unspecified": 551.5420081184991,
+    "occupiedInRussiaUnspecified": 53.00267853691367
   },
   {
     "id": 1655485820,
@@ -2049,7 +2106,8 @@
     "createdAt": "2022-06-17T17:10:20.000Z",
     "liberated": 23372.25202019043,
     "occupied": 80704.68128788602,
-    "unspecified": 574.5022837302263
+    "unspecified": 574.5022837302263,
+    "occupiedInRussiaUnspecified": 69.1011675975486
   },
   {
     "id": 1655495845,
@@ -2061,7 +2119,8 @@
     "createdAt": "2022-06-17T19:57:25.000Z",
     "liberated": 23337.456942520617,
     "occupied": 80793.95688984319,
-    "unspecified": 542.124666240915
+    "unspecified": 542.124666240915,
+    "occupiedInRussiaUnspecified": 69.1011675975486
   },
   {
     "id": 1655579804,
@@ -2073,7 +2132,8 @@
     "createdAt": "2022-06-18T19:16:44.000Z",
     "liberated": 23332.544030781355,
     "occupied": 80818.23469347869,
-    "unspecified": 526.4369726939831
+    "unspecified": 526.4369726939831,
+    "occupiedInRussiaUnspecified": 69.1011675975486
   },
   {
     "id": 1655669874,
@@ -2085,7 +2145,8 @@
     "createdAt": "2022-06-19T20:17:54.000Z",
     "liberated": 23321.05178438464,
     "occupied": 80829.61748148636,
-    "unspecified": 541.881820785427
+    "unspecified": 541.881820785427,
+    "occupiedInRussiaUnspecified": 69.1011675975486
   },
   {
     "id": 1655742696,
@@ -2097,7 +2158,8 @@
     "createdAt": "2022-06-20T16:31:36.000Z",
     "liberated": 23321.05178438464,
     "occupied": 80830.95548764658,
-    "unspecified": 531.3553579274735
+    "unspecified": 531.3553579274735,
+    "occupiedInRussiaUnspecified": 69.1011675975486
   },
   {
     "id": 1655807836,
@@ -2109,7 +2171,8 @@
     "createdAt": "2022-06-21T10:37:16.000Z",
     "liberated": 23321.05178438464,
     "occupied": 80845.16350611385,
-    "unspecified": 555.8211999784613
+    "unspecified": 555.8211999784613,
+    "occupiedInRussiaUnspecified": 69.1011675975486
   },
   {
     "id": 1655822947,
@@ -2121,7 +2184,8 @@
     "createdAt": "2022-06-21T14:49:07.000Z",
     "liberated": 23321.05178438464,
     "occupied": 80846.62086301252,
-    "unspecified": 558.1671764797103
+    "unspecified": 558.1671764797103,
+    "occupiedInRussiaUnspecified": 69.1011675975486
   },
   {
     "id": 1655828167,
@@ -2133,7 +2197,8 @@
     "createdAt": "2022-06-21T16:16:07.000Z",
     "liberated": 23321.05178438464,
     "occupied": 80861.1015515596,
-    "unspecified": 553.2705624436786
+    "unspecified": 553.2705624436786,
+    "occupiedInRussiaUnspecified": 69.1011675975486
   },
   {
     "id": 1655837430,
@@ -2145,7 +2210,8 @@
     "createdAt": "2022-06-21T18:50:30.000Z",
     "liberated": 23321.05178438464,
     "occupied": 80759.89374178801,
-    "unspecified": 642.5418824285439
+    "unspecified": 642.5418824285439,
+    "occupiedInRussiaUnspecified": 69.1011675975486
   },
   {
     "id": 1655843056,
@@ -2157,7 +2223,8 @@
     "createdAt": "2022-06-21T20:24:16.000Z",
     "liberated": 23321.05178438464,
     "occupied": 80774.47022947384,
-    "unspecified": 642.5418824285439
+    "unspecified": 642.5418824285439,
+    "occupiedInRussiaUnspecified": 69.1011675975486
   },
   {
     "id": 1655888278,
@@ -2169,7 +2236,8 @@
     "createdAt": "2022-06-22T08:57:58.000Z",
     "liberated": 23324.024855774856,
     "occupied": 80819.01689750832,
-    "unspecified": 595.0355291674413
+    "unspecified": 595.0355291674413,
+    "occupiedInRussiaUnspecified": 69.1011675975486
   },
   {
     "id": 1655923754,
@@ -2181,7 +2249,8 @@
     "createdAt": "2022-06-22T18:49:14.000Z",
     "liberated": 23324.024855774856,
     "occupied": 80882.74193798167,
-    "unspecified": 640.5407777669103
+    "unspecified": 640.5407777669103,
+    "occupiedInRussiaUnspecified": 69.1011675975486
   },
   {
     "id": 1655964892,
@@ -2193,7 +2262,8 @@
     "createdAt": "2022-06-23T06:14:52.000Z",
     "liberated": 23324.024855774856,
     "occupied": 80897.9854856199,
-    "unspecified": 631.471564927716
+    "unspecified": 631.471564927716,
+    "occupiedInRussiaUnspecified": 69.1011675975486
   },
   {
     "id": 1655967380,
@@ -2205,7 +2275,8 @@
     "createdAt": "2022-06-23T06:56:20.000Z",
     "liberated": 23324.024855774856,
     "occupied": 80903.67692257972,
-    "unspecified": 631.5916144217219
+    "unspecified": 631.5916144217219,
+    "occupiedInRussiaUnspecified": 69.1011675975486
   },
   {
     "id": 1656022063,
@@ -2217,7 +2288,8 @@
     "createdAt": "2022-06-23T22:07:43.000Z",
     "liberated": 23354.755081007926,
     "occupied": 80917.37802502509,
-    "unspecified": 603.627850132984
+    "unspecified": 603.627850132984,
+    "occupiedInRussiaUnspecified": 69.1011675975486
   },
   {
     "id": 1656088919,
@@ -2229,7 +2301,8 @@
     "createdAt": "2022-06-24T16:41:59.000Z",
     "liberated": 23357.377579099106,
     "occupied": 80920.93370658452,
-    "unspecified": 642.8182633669219
+    "unspecified": 642.8182633669219,
+    "occupiedInRussiaUnspecified": 69.1011675975486
   },
   {
     "id": 1656187815,
@@ -2241,7 +2314,8 @@
     "createdAt": "2022-06-25T20:10:15.000Z",
     "liberated": 23348.532782145518,
     "occupied": 80981.87329264694,
-    "unspecified": 653.9536826681007
+    "unspecified": 653.9536826681007,
+    "occupiedInRussiaUnspecified": 78.15014188689847
   },
   {
     "id": 1656248124,
@@ -2253,7 +2327,8 @@
     "createdAt": "2022-06-26T12:55:24.000Z",
     "liberated": 23349.323155516267,
     "occupied": 81028.10490449374,
-    "unspecified": 641.6917426956129
+    "unspecified": 641.6917426956129,
+    "occupiedInRussiaUnspecified": 66.65531924723106
   },
   {
     "id": 1656323976,
@@ -2265,7 +2340,8 @@
     "createdAt": "2022-06-27T09:59:36.000Z",
     "liberated": 23355.525447526263,
     "occupied": 81053.64199735297,
-    "unspecified": 638.2645098525702
+    "unspecified": 638.2645098525702,
+    "occupiedInRussiaUnspecified": 60.41689088656599
   },
   {
     "id": 1656355673,
@@ -2277,7 +2353,8 @@
     "createdAt": "2022-06-27T18:47:53.000Z",
     "liberated": 23355.525447526263,
     "occupied": 81052.68857880915,
-    "unspecified": 660.9669806594
+    "unspecified": 660.9669806594,
+    "occupiedInRussiaUnspecified": 60.41689088656599
   },
   {
     "id": 1656452241,
@@ -2289,7 +2366,8 @@
     "createdAt": "2022-06-28T21:37:21.000Z",
     "liberated": 23341.265112126286,
     "occupied": 81111.3311408311,
-    "unspecified": 664.2809602822629
+    "unspecified": 664.2809602822629,
+    "occupiedInRussiaUnspecified": 44.93299301945656
   },
   {
     "id": 1656499469,
@@ -2301,7 +2379,8 @@
     "createdAt": "2022-06-29T10:44:29.000Z",
     "liberated": 23341.265112126286,
     "occupied": 81098.34491944754,
-    "unspecified": 664.2809602822629
+    "unspecified": 664.2809602822629,
+    "occupiedInRussiaUnspecified": 57.91921440302071
   },
   {
     "id": 1656580773,
@@ -2313,7 +2392,8 @@
     "createdAt": "2022-06-30T09:19:33.000Z",
     "liberated": 23341.265112126286,
     "occupied": 81123.86846172808,
-    "unspecified": 654.9702568735589
+    "unspecified": 654.9702568735589,
+    "occupiedInRussiaUnspecified": 57.91921440302071
   },
   {
     "id": 1656609069,
@@ -2325,7 +2405,8 @@
     "createdAt": "2022-06-30T17:11:09.000Z",
     "liberated": 23341.265112126286,
     "occupied": 81133.16988454867,
-    "unspecified": 672.5974138197589
+    "unspecified": 672.5974138197589,
+    "occupiedInRussiaUnspecified": 57.91921440302071
   },
   {
     "id": 1656655372,
@@ -2337,7 +2418,8 @@
     "createdAt": "2022-07-01T06:02:52.000Z",
     "liberated": 23341.265112126286,
     "occupied": 81140.30229120915,
-    "unspecified": 665.465007159286
+    "unspecified": 665.465007159286,
+    "occupiedInRussiaUnspecified": 57.91921440302071
   },
   {
     "id": 1656709042,
@@ -2349,7 +2431,8 @@
     "createdAt": "2022-07-01T20:57:22.000Z",
     "liberated": 23341.265112126286,
     "occupied": 81168.81341260725,
-    "unspecified": 665.465007159286
+    "unspecified": 665.465007159286,
+    "occupiedInRussiaUnspecified": 57.91921440302071
   },
   {
     "id": 1656780536,
@@ -2361,7 +2444,8 @@
     "createdAt": "2022-07-02T16:48:56.000Z",
     "liberated": 23364.25134902693,
     "occupied": 81158.69342693541,
-    "unspecified": 653.3192729398855
+    "unspecified": 653.3192729398855,
+    "occupiedInRussiaUnspecified": 57.91921440302071
   },
   {
     "id": 1656844138,
@@ -2373,7 +2457,8 @@
     "createdAt": "2022-07-03T10:28:58.000Z",
     "liberated": 23361.33361523318,
     "occupied": 81247.8767433541,
-    "unspecified": 768.3915104905816
+    "unspecified": 768.3915104905816,
+    "occupiedInRussiaUnspecified": 57.91921440302071
   },
   {
     "id": 1656868117,
@@ -2385,7 +2470,8 @@
     "createdAt": "2022-07-03T17:08:37.000Z",
     "liberated": 23361.33361523318,
     "occupied": 81376.68064022179,
-    "unspecified": 648.2270591943708
+    "unspecified": 648.2270591943708,
+    "occupiedInRussiaUnspecified": 57.91921440302071
   },
   {
     "id": 1656919088,
@@ -2397,7 +2483,8 @@
     "createdAt": "2022-07-04T07:18:08.000Z",
     "liberated": 23361.444299079725,
     "occupied": 81376.69981570987,
-    "unspecified": 676.5698809914898
+    "unspecified": 676.5698809914898,
+    "occupiedInRussiaUnspecified": 57.91921440302071
   },
   {
     "id": 1656935338,
@@ -2409,7 +2496,8 @@
     "createdAt": "2022-07-04T11:48:58.000Z",
     "liberated": 23368.066813586607,
     "occupied": 81376.69981570987,
-    "unspecified": 669.9473664846084
+    "unspecified": 669.9473664846084,
+    "occupiedInRussiaUnspecified": 57.91921440302071
   },
   {
     "id": 1657108149,
@@ -2421,7 +2509,8 @@
     "createdAt": "2022-07-06T11:49:09.000Z",
     "liberated": 23381.9844618165,
     "occupied": 81633.55765403555,
-    "unspecified": 440.5024212700593
+    "unspecified": 440.5024212700593,
+    "occupiedInRussiaUnspecified": 45.32510355854127
   },
   {
     "id": 1657188796,
@@ -2433,7 +2522,8 @@
     "createdAt": "2022-07-07T10:13:16.000Z",
     "liberated": 23381.9844618165,
     "occupied": 81663.31130508128,
-    "unspecified": 410.74877022433037
+    "unspecified": 410.74877022433037,
+    "occupiedInRussiaUnspecified": 45.32510355854127
   },
   {
     "id": 1657228212,
@@ -2445,7 +2535,8 @@
     "createdAt": "2022-07-07T21:10:12.000Z",
     "liberated": 23383.955594712737,
     "occupied": 81671.02947018058,
-    "unspecified": 448.3072107414617
+    "unspecified": 448.3072107414617,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1657310451,
@@ -2457,7 +2548,8 @@
     "createdAt": "2022-07-08T20:00:51.000Z",
     "liberated": 23383.955594712737,
     "occupied": 81669.9487242097,
-    "unspecified": 469.3256415804887
+    "unspecified": 469.3256415804887,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1657393470,
@@ -2469,7 +2561,8 @@
     "createdAt": "2022-07-09T19:04:30.000Z",
     "liberated": 23383.955594712737,
     "occupied": 81673.5542301487,
-    "unspecified": 479.8092930393047
+    "unspecified": 479.8092930393047,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1657492920,
@@ -2481,7 +2574,8 @@
     "createdAt": "2022-07-10T22:42:00.000Z",
     "liberated": 23383.955594712737,
     "occupied": 81690.38877099993,
-    "unspecified": 477.71050965502917
+    "unspecified": 477.71050965502917,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1657527189,
@@ -2493,7 +2587,8 @@
     "createdAt": "2022-07-11T08:13:09.000Z",
     "liberated": 23383.955594712737,
     "occupied": 81673.24534854267,
-    "unspecified": 467.53644293668486
+    "unspecified": 467.53644293668486,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1657608689,
@@ -2505,7 +2600,8 @@
     "createdAt": "2022-07-12T06:51:29.000Z",
     "liberated": 23389.74473926471,
     "occupied": 81719.70657922735,
-    "unspecified": 473.5132009363861
+    "unspecified": 473.5132009363861,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1657660387,
@@ -2517,7 +2613,8 @@
     "createdAt": "2022-07-12T21:13:07.000Z",
     "liberated": 23389.562208814452,
     "occupied": 81717.68567462516,
-    "unspecified": 473.5132009363861
+    "unspecified": 473.5132009363861,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1657802206,
@@ -2529,7 +2626,8 @@
     "createdAt": "2022-07-14T12:36:46.000Z",
     "liberated": 23389.562208814452,
     "occupied": 81722.3454114371,
-    "unspecified": 473.5132009363861
+    "unspecified": 473.5132009363861,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1657917566,
@@ -2541,7 +2639,8 @@
     "createdAt": "2022-07-15T20:39:26.000Z",
     "liberated": 23432.676511925238,
     "occupied": 81720.06477287266,
-    "unspecified": 482.0780588779839
+    "unspecified": 482.0780588779839,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1657957171,
@@ -2553,7 +2652,8 @@
     "createdAt": "2022-07-16T07:39:31.000Z",
     "liberated": 23433.272960255443,
     "occupied": 81684.86276699274,
-    "unspecified": 519.928469001724
+    "unspecified": 519.928469001724,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1658009478,
@@ -2565,7 +2665,8 @@
     "createdAt": "2022-07-16T22:11:18.000Z",
     "liberated": 23433.272960255443,
     "occupied": 81690.73630143731,
-    "unspecified": 519.5766581220292
+    "unspecified": 519.5766581220292,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1658132042,
@@ -2577,7 +2678,8 @@
     "createdAt": "2022-07-18T08:14:02.000Z",
     "liberated": 23433.272960255443,
     "occupied": 81702.12152651834,
-    "unspecified": 521.658155171292
+    "unspecified": 521.658155171292,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1658169783,
@@ -2589,7 +2691,8 @@
     "createdAt": "2022-07-18T18:43:03.000Z",
     "liberated": 23444.165743791047,
     "occupied": 81678.73945110361,
-    "unspecified": 570.3716019598046
+    "unspecified": 570.3716019598046,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1658240202,
@@ -2601,7 +2704,8 @@
     "createdAt": "2022-07-19T14:16:42.000Z",
     "liberated": 23444.73553308054,
     "occupied": 81572.3026737542,
-    "unspecified": 557.2321552179834
+    "unspecified": 557.2321552179834,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1658246155,
@@ -2613,7 +2717,8 @@
     "createdAt": "2022-07-19T15:55:55.000Z",
     "liberated": 23444.73553308054,
     "occupied": 81610.47129782688,
-    "unspecified": 544.1018312378793
+    "unspecified": 544.1018312378793,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1658256736,
@@ -2625,7 +2730,8 @@
     "createdAt": "2022-07-19T18:52:16.000Z",
     "liberated": 23654.11317916913,
     "occupied": 81610.47129782688,
-    "unspecified": 544.1018312378793
+    "unspecified": 544.1018312378793,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1658270576,
@@ -2637,7 +2743,8 @@
     "createdAt": "2022-07-19T22:42:56.000Z",
     "liberated": 23659.850214640937,
     "occupied": 81615.39227101297,
-    "unspecified": 547.0767216477007
+    "unspecified": 547.0767216477007,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1658324626,
@@ -2649,7 +2756,8 @@
     "createdAt": "2022-07-20T13:43:46.000Z",
     "liberated": 23659.7957218717,
     "occupied": 81601.95300718359,
-    "unspecified": 553.1874993599107
+    "unspecified": 553.1874993599107,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1658400544,
@@ -2661,7 +2769,8 @@
     "createdAt": "2022-07-21T10:49:04.000Z",
     "liberated": 23655.61127750142,
     "occupied": 81606.08993334911,
-    "unspecified": 553.1874993599107
+    "unspecified": 553.1874993599107,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1658418254,
@@ -2673,7 +2782,8 @@
     "createdAt": "2022-07-21T15:44:14.000Z",
     "liberated": 23655.651742221486,
     "occupied": 81571.76038413402,
-    "unspecified": 573.9484980338469
+    "unspecified": 573.9484980338469,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1658468394,
@@ -2685,7 +2795,8 @@
     "createdAt": "2022-07-22T05:39:54.000Z",
     "liberated": 23655.651742221486,
     "occupied": 81577.44956797414,
-    "unspecified": 573.0528196699528
+    "unspecified": 573.0528196699528,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1658605391,
@@ -2697,7 +2808,8 @@
     "createdAt": "2022-07-23T19:43:11.000Z",
     "liberated": 23998.675109604654,
     "occupied": 81621.42239410256,
-    "unspecified": 570.8544714178474
+    "unspecified": 570.8544714178474,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1658687367,
@@ -2709,7 +2821,8 @@
     "createdAt": "2022-07-24T18:29:27.000Z",
     "liberated": 24079.38443919421,
     "occupied": 81619.8206789809,
-    "unspecified": 560.2480291283024
+    "unspecified": 560.2480291283024,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1658764799,
@@ -2721,7 +2834,8 @@
     "createdAt": "2022-07-25T15:59:59.000Z",
     "liberated": 24079.38443919421,
     "occupied": 81594.19861917473,
-    "unspecified": 538.9460205284119
+    "unspecified": 538.9460205284119,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1658788062,
@@ -2733,7 +2847,8 @@
     "createdAt": "2022-07-25T22:27:42.000Z",
     "liberated": 24079.38443919421,
     "occupied": 81613.4234583768,
-    "unspecified": 572.4578116843172
+    "unspecified": 572.4578116843172,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1658843569,
@@ -2745,7 +2860,8 @@
     "createdAt": "2022-07-26T13:52:49.000Z",
     "liberated": 24079.38443919421,
     "occupied": 81624.24150486561,
-    "unspecified": 561.6397651955333
+    "unspecified": 561.6397651955333,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1658878803,
@@ -2757,7 +2873,8 @@
     "createdAt": "2022-07-26T23:40:03.000Z",
     "liberated": 24082.22540519725,
     "occupied": 81645.60872962122,
-    "unspecified": 541.1954422133779
+    "unspecified": 541.1954422133779,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1658955740,
@@ -2769,7 +2886,8 @@
     "createdAt": "2022-07-27T21:02:20.000Z",
     "liberated": 24082.22540519725,
     "occupied": 81633.68543983025,
-    "unspecified": 578.4197148285806
+    "unspecified": 578.4197148285806,
+    "occupiedInRussiaUnspecified": 16.09848906063492
   },
   {
     "id": 1659043773,
@@ -2781,7 +2899,8 @@
     "createdAt": "2022-07-28T21:29:33.000Z",
     "liberated": 24082.304065070475,
     "occupied": 81630.13845575618,
-    "unspecified": 587.3043933039452
+    "unspecified": 587.3043933039452,
+    "occupiedInRussiaUnspecified": 32.31375511824278
   },
   {
     "id": 1659051571,
@@ -2793,7 +2912,8 @@
     "createdAt": "2022-07-28T23:39:31.000Z",
     "liberated": 24113.25602170192,
     "occupied": 81624.44481080193,
-    "unspecified": 562.1180588348647
+    "unspecified": 562.1180588348647,
+    "occupiedInRussiaUnspecified": 32.31375511824278
   },
   {
     "id": 1659192026,
@@ -2805,7 +2925,8 @@
     "createdAt": "2022-07-30T14:40:26.000Z",
     "liberated": 24115.30923947462,
     "occupied": 81614.02735084988,
-    "unspecified": 566.7521998444341
+    "unspecified": 566.7521998444341,
+    "occupiedInRussiaUnspecified": 32.31375511824278
   },
   {
     "id": 1659264086,
@@ -2817,7 +2938,8 @@
     "createdAt": "2022-07-31T10:41:26.000Z",
     "liberated": 24115.30923947462,
     "occupied": 81629.19974691496,
-    "unspecified": 551.5108967077765
+    "unspecified": 551.5108967077765,
+    "occupiedInRussiaUnspecified": 32.31375511824278
   },
   {
     "id": 1659357805,
@@ -2829,7 +2951,8 @@
     "createdAt": "2022-08-01T12:43:25.000Z",
     "liberated": 24115.30923947462,
     "occupied": 81644.0507861217,
-    "unspecified": 571.4609730525306
+    "unspecified": 571.4609730525306,
+    "occupiedInRussiaUnspecified": 32.31375511824278
   },
   {
     "id": 1659461204,
@@ -2841,7 +2964,8 @@
     "createdAt": "2022-08-02T17:26:44.000Z",
     "liberated": 24115.30923947462,
     "occupied": 81679.5667821076,
-    "unspecified": 569.0967771382291
+    "unspecified": 569.0967771382291,
+    "occupiedInRussiaUnspecified": 32.31375511824278
   },
   {
     "id": 1659557563,
@@ -2853,7 +2977,8 @@
     "createdAt": "2022-08-03T20:12:43.000Z",
     "liberated": 24115.30923947462,
     "occupied": 81634.93151814278,
-    "unspecified": 538.3015974957665
+    "unspecified": 538.3015974957665,
+    "occupiedInRussiaUnspecified": 89.00136685085333
   },
   {
     "id": 1659641826,
@@ -2865,7 +2990,8 @@
     "createdAt": "2022-08-04T19:37:06.000Z",
     "liberated": 24192.880499009392,
     "occupied": 81596.26235579806,
-    "unspecified": 535.6926794981596
+    "unspecified": 535.6926794981596,
+    "occupiedInRussiaUnspecified": 100.86375074470115
   },
   {
     "id": 1659653770,
@@ -2877,7 +3003,8 @@
     "createdAt": "2022-08-04T22:56:10.000Z",
     "liberated": 24192.880499009392,
     "occupied": 81591.16449926463,
-    "unspecified": 496.78854885928376
+    "unspecified": 496.78854885928376,
+    "occupiedInRussiaUnspecified": 100.86375074470115
   },
   {
     "id": 1659778231,
@@ -2889,7 +3016,8 @@
     "createdAt": "2022-08-06T09:30:31.000Z",
     "liberated": 24183.68458863608,
     "occupied": 81609.88635790545,
-    "unspecified": 487.2626005919036
+    "unspecified": 487.2626005919036,
+    "occupiedInRussiaUnspecified": 100.86375074470115
   },
   {
     "id": 1659891938,
@@ -2901,7 +3029,8 @@
     "createdAt": "2022-08-07T17:05:38.000Z",
     "liberated": 24183.948252873328,
     "occupied": 81610.97559970547,
-    "unspecified": 476.3743239663999
+    "unspecified": 476.3743239663999,
+    "occupiedInRussiaUnspecified": 100.86375074470115
   },
   {
     "id": 1659988228,
@@ -2913,7 +3042,8 @@
     "createdAt": "2022-08-08T19:50:28.000Z",
     "liberated": 24174.90886379126,
     "occupied": 81639.54789529552,
-    "unspecified": 477.1005356161476
+    "unspecified": 477.1005356161476,
+    "occupiedInRussiaUnspecified": 85.3727767144749
   },
   {
     "id": 1660079631,
@@ -2925,7 +3055,8 @@
     "createdAt": "2022-08-09T21:13:51.000Z",
     "liberated": 24175.10341983652,
     "occupied": 81656.96792884884,
-    "unspecified": 476.43361920744843
+    "unspecified": 476.43361920744843,
+    "occupiedInRussiaUnspecified": 85.3727767144749
   },
   {
     "id": 1660147751,
@@ -2937,7 +3068,8 @@
     "createdAt": "2022-08-10T16:09:11.000Z",
     "liberated": 24172.227948207874,
     "occupied": 81661.50373963424,
-    "unspecified": 576.2181957966403
+    "unspecified": 576.2181957966403,
+    "occupiedInRussiaUnspecified": 88.15957993084501
   },
   {
     "id": 1660247828,
@@ -2949,7 +3081,8 @@
     "createdAt": "2022-08-11T19:57:08.000Z",
     "liberated": 24190.88816446767,
     "occupied": 81661.50373963424,
-    "unspecified": 557.5579795368434
+    "unspecified": 557.5579795368434,
+    "occupiedInRussiaUnspecified": 88.15957993084501
   },
   {
     "id": 1660336770,
@@ -2961,7 +3094,8 @@
     "createdAt": "2022-08-12T20:39:30.000Z",
     "liberated": 24190.88816446767,
     "occupied": 81689.4252847195,
-    "unspecified": 538.6963483812709
+    "unspecified": 538.6963483812709,
+    "occupiedInRussiaUnspecified": 84.67334570619474
   },
   {
     "id": 1660417820,
@@ -2973,7 +3107,8 @@
     "createdAt": "2022-08-13T19:10:20.000Z",
     "liberated": 24190.88816446767,
     "occupied": 81691.40417229434,
-    "unspecified": 539.5415986097748
+    "unspecified": 539.5415986097748,
+    "occupiedInRussiaUnspecified": 84.67334570619474
   },
   {
     "id": 1660513442,
@@ -2985,7 +3120,8 @@
     "createdAt": "2022-08-14T21:44:02.000Z",
     "liberated": 24190.6403648324,
     "occupied": 81699.58277464267,
-    "unspecified": 534.9124705372554
+    "unspecified": 534.9124705372554,
+    "occupiedInRussiaUnspecified": 84.67334570619474
   },
   {
     "id": 1660682177,
@@ -2997,7 +3133,8 @@
     "createdAt": "2022-08-16T20:36:17.000Z",
     "liberated": 24190.532750279068,
     "occupied": 81703.88076822064,
-    "unspecified": 507.9403499655015
+    "unspecified": 507.9403499655015,
+    "occupiedInRussiaUnspecified": 84.67334570619474
   },
   {
     "id": 1660771805,
@@ -3009,7 +3146,8 @@
     "createdAt": "2022-08-17T21:30:05.000Z",
     "liberated": 24190.532750279068,
     "occupied": 81813.34855361219,
-    "unspecified": 410.03263290868665
+    "unspecified": 410.03263290868665,
+    "occupiedInRussiaUnspecified": 84.67334570619474
   },
   {
     "id": 1660854784,
@@ -3021,7 +3159,8 @@
     "createdAt": "2022-08-18T20:33:04.000Z",
     "liberated": 24190.532750279064,
     "occupied": 81827.99517321751,
-    "unspecified": 410.03263290868665
+    "unspecified": 410.03263290868665,
+    "occupiedInRussiaUnspecified": 84.67334570619474
   },
   {
     "id": 1660952724,
@@ -3033,7 +3172,8 @@
     "createdAt": "2022-08-19T23:45:24.000Z",
     "liberated": 24184.620201723974,
     "occupied": 81860.56714229897,
-    "unspecified": 439.71238656261494
+    "unspecified": 439.71238656261494,
+    "occupiedInRussiaUnspecified": 83.9020242558546
   },
   {
     "id": 1661030558,
@@ -3045,7 +3185,8 @@
     "createdAt": "2022-08-20T21:22:38.000Z",
     "liberated": 24184.620201723974,
     "occupied": 81862.50227967583,
-    "unspecified": 439.9865315064502
+    "unspecified": 439.9865315064502,
+    "occupiedInRussiaUnspecified": 83.9020242558546
   },
   {
     "id": 1661288707,
@@ -3057,7 +3198,8 @@
     "createdAt": "2022-08-23T21:05:07.000Z",
     "liberated": 24134.944599687067,
     "occupied": 81906.86719152224,
-    "unspecified": 512.655510939476
+    "unspecified": 512.655510939476,
+    "occupiedInRussiaUnspecified": 102.66989186595067
   },
   {
     "id": 1661423325,
@@ -3069,7 +3211,8 @@
     "createdAt": "2022-08-25T10:28:45.000Z",
     "liberated": 24134.944599687067,
     "occupied": 81913.34483786655,
-    "unspecified": 509.04268122363277
+    "unspecified": 509.04268122363277,
+    "occupiedInRussiaUnspecified": 102.69131161937273
   },
   {
     "id": 1661471661,
@@ -3081,7 +3224,8 @@
     "createdAt": "2022-08-25T23:54:21.000Z",
     "liberated": 24134.944599687067,
     "occupied": 81914.34370401545,
-    "unspecified": 505.51582384407914
+    "unspecified": 505.51582384407914,
+    "occupiedInRussiaUnspecified": 102.69131161937273
   },
   {
     "id": 1661640869,
@@ -3093,7 +3237,8 @@
     "createdAt": "2022-08-27T22:54:29.000Z",
     "liberated": 24165.746532877572,
     "occupied": 81912.65739632247,
-    "unspecified": 508.1025312165667
+    "unspecified": 508.1025312165667,
+    "occupiedInRussiaUnspecified": 88.61620359930176
   },
   {
     "id": 1661718037,
@@ -3105,7 +3250,8 @@
     "createdAt": "2022-08-28T20:20:37.000Z",
     "liberated": 24176.894447584997,
     "occupied": 81961.50494698167,
-    "unspecified": 469.8423841363609
+    "unspecified": 469.8423841363609,
+    "occupiedInRussiaUnspecified": 82.40351605821911
   },
   {
     "id": 1661807683,
@@ -3117,7 +3263,8 @@
     "createdAt": "2022-08-29T21:14:43.000Z",
     "liberated": 24175.678818508346,
     "occupied": 81970.42183754565,
-    "unspecified": 489.12159017294346
+    "unspecified": 489.12159017294346,
+    "occupiedInRussiaUnspecified": 82.40351605821911
   },
   {
     "id": 1661893485,
@@ -3129,7 +3276,8 @@
     "createdAt": "2022-08-30T21:04:45.000Z",
     "liberated": 24143.18933011934,
     "occupied": 81951.8339511686,
-    "unspecified": 505.40141892809135
+    "unspecified": 505.40141892809135,
+    "occupiedInRussiaUnspecified": 82.40351605821911
   },
   {
     "id": 1661978687,
@@ -3141,7 +3289,8 @@
     "createdAt": "2022-08-31T20:44:47.000Z",
     "liberated": 24143.18933011934,
     "occupied": 81951.8339511686,
-    "unspecified": 494.866295048828
+    "unspecified": 494.866295048828,
+    "occupiedInRussiaUnspecified": 82.40351605821911
   },
   {
     "id": 1662064277,
@@ -3153,7 +3302,8 @@
     "createdAt": "2022-09-01T20:31:17.000Z",
     "liberated": 24143.18933011934,
     "occupied": 81949.84325749587,
-    "unspecified": 496.82118196605563
+    "unspecified": 496.82118196605563,
+    "occupiedInRussiaUnspecified": 82.40351605821911
   },
   {
     "id": 1662240097,
@@ -3165,7 +3315,8 @@
     "createdAt": "2022-09-03T21:21:37.000Z",
     "liberated": 24143.18933011934,
     "occupied": 81951.36684287268,
-    "unspecified": 507.27937942596054
+    "unspecified": 507.27937942596054,
+    "occupiedInRussiaUnspecified": 82.40351605821911
   },
   {
     "id": 1662300023,
@@ -3177,7 +3328,8 @@
     "createdAt": "2022-09-04T14:00:23.000Z",
     "liberated": 24144.60882097678,
     "occupied": 81864.8815905889,
-    "unspecified": 592.6991352657577
+    "unspecified": 592.6991352657577,
+    "occupiedInRussiaUnspecified": 82.40351605821911
   },
   {
     "id": 1662330358,
@@ -3189,7 +3341,8 @@
     "createdAt": "2022-09-04T22:25:58.000Z",
     "liberated": 24187.608055478755,
     "occupied": 81852.46216997936,
-    "unspecified": 566.5351033203538
+    "unspecified": 566.5351033203538,
+    "occupiedInRussiaUnspecified": 82.40351605821911
   },
   {
     "id": 1662411667,
@@ -3201,7 +3354,8 @@
     "createdAt": "2022-09-05T21:01:07.000Z",
     "liberated": 24173.705161089707,
     "occupied": 81769.60804201181,
-    "unspecified": 648.8721674101868
+    "unspecified": 648.8721674101868,
+    "occupiedInRussiaUnspecified": 82.40351605821911
   },
   {
     "id": 1662501910,
@@ -3213,7 +3367,8 @@
     "createdAt": "2022-09-06T22:05:10.000Z",
     "liberated": 24196.95258929601,
     "occupied": 81620.06671559128,
-    "unspecified": 790.9386229930833
+    "unspecified": 790.9386229930833,
+    "occupiedInRussiaUnspecified": 82.40351605821911
   },
   {
     "id": 1662543371,
@@ -3225,7 +3380,8 @@
     "createdAt": "2022-09-07T09:36:11.000Z",
     "liberated": 24196.95258929601,
     "occupied": 81499.88066980573,
-    "unspecified": 903.8318416249339
+    "unspecified": 903.8318416249339,
+    "occupiedInRussiaUnspecified": 82.40351605821911
   },
   {
     "id": 1662568041,
@@ -3237,7 +3393,8 @@
     "createdAt": "2022-09-07T16:27:21.000Z",
     "liberated": 24216.191398575615,
     "occupied": 81465.5518839683,
-    "unspecified": 917.7377108051852
+    "unspecified": 917.7377108051852,
+    "occupiedInRussiaUnspecified": 82.40351605821911
   },
   {
     "id": 1662588326,
@@ -3249,7 +3406,8 @@
     "createdAt": "2022-09-07T22:05:26.000Z",
     "liberated": 24220.416481068387,
     "occupied": 81433.14484473497,
-    "unspecified": 942.5452815162982
+    "unspecified": 942.5452815162982,
+    "occupiedInRussiaUnspecified": 82.40351605821911
   },
   {
     "id": 1662647935,
@@ -3261,7 +3419,8 @@
     "createdAt": "2022-09-08T14:38:55.000Z",
     "liberated": 24417.219713130464,
     "occupied": 81194.01521352811,
-    "unspecified": 984.830840104606
+    "unspecified": 984.830840104606,
+    "occupiedInRussiaUnspecified": 82.40351605821911
   },
   {
     "id": 1662652076,
@@ -3273,7 +3432,8 @@
     "createdAt": "2022-09-08T15:47:56.000Z",
     "liberated": 24514.4197729996,
     "occupied": 81003.61707263225,
-    "unspecified": 1087.3431201374478
+    "unspecified": 1087.3431201374478,
+    "occupiedInRussiaUnspecified": 78.6110423654438
   },
   {
     "id": 1662654988,
@@ -3285,7 +3445,8 @@
     "createdAt": "2022-09-08T16:36:28.000Z",
     "liberated": 24594.95854401718,
     "occupied": 80972.22335681388,
-    "unspecified": 1037.6730084197984
+    "unspecified": 1037.6730084197984,
+    "occupiedInRussiaUnspecified": 78.6110423654438
   },
   {
     "id": 1662673076,
@@ -3297,7 +3458,8 @@
     "createdAt": "2022-09-08T21:37:56.000Z",
     "liberated": 24706.285619571565,
     "occupied": 80810.36127677592,
-    "unspecified": 1088.6872012004596
+    "unspecified": 1088.6872012004596,
+    "occupiedInRussiaUnspecified": 78.6110423654438
   },
   {
     "id": 1662717073,
@@ -3309,7 +3471,8 @@
     "createdAt": "2022-09-09T09:51:13.000Z",
     "liberated": 25054.37027598397,
     "occupied": 80468.24573800222,
-    "unspecified": 1213.227545318266
+    "unspecified": 1213.227545318266,
+    "occupiedInRussiaUnspecified": 81.72748493859974
   },
   {
     "id": 1662722654,
@@ -3321,7 +3484,8 @@
     "createdAt": "2022-09-09T11:24:14.000Z",
     "liberated": 25054.37027598397,
     "occupied": 80247.89551810207,
-    "unspecified": 1433.8409703455293
+    "unspecified": 1433.8409703455293,
+    "occupiedInRussiaUnspecified": 81.72748493859974
   },
   {
     "id": 1662762322,
@@ -3333,7 +3497,8 @@
     "createdAt": "2022-09-09T22:25:22.000Z",
     "liberated": 25112.28937403774,
     "occupied": 80012.84487841406,
-    "unspecified": 1611.033606266213
+    "unspecified": 1611.033606266213,
+    "occupiedInRussiaUnspecified": 81.95353240481239
   },
   {
     "id": 1662802147,
@@ -3345,7 +3510,8 @@
     "createdAt": "2022-09-10T09:29:07.000Z",
     "liberated": 25517.304672424012,
     "occupied": 79267.94366855761,
-    "unspecified": 1951.3831569074107
+    "unspecified": 1951.3831569074107,
+    "occupiedInRussiaUnspecified": 81.95353240481239
   },
   {
     "id": 1662817875,
@@ -3357,7 +3523,8 @@
     "createdAt": "2022-09-10T13:51:15.000Z",
     "liberated": 26035.79808627329,
     "occupied": 77596.83938603742,
-    "unspecified": 2730.034938129812
+    "unspecified": 2730.034938129812,
+    "occupiedInRussiaUnspecified": 475.71740176645744
   },
   {
     "id": 1662823401,
@@ -3369,7 +3536,8 @@
     "createdAt": "2022-09-10T15:23:21.000Z",
     "liberated": 26414.540464976,
     "occupied": 77165.91958328683,
-    "unspecified": 2779.313904992051
+    "unspecified": 2779.313904992051,
+    "occupiedInRussiaUnspecified": 475.71740176645744
   },
   {
     "id": 1662846587,
@@ -3381,7 +3549,8 @@
     "createdAt": "2022-09-10T21:49:47.000Z",
     "liberated": 26685.115595576764,
     "occupied": 76474.40570247945,
-    "unspecified": 2862.0974207495924
+    "unspecified": 2862.0974207495924,
+    "occupiedInRussiaUnspecified": 802.718074798958
   },
   {
     "id": 1662901759,
@@ -3393,7 +3562,8 @@
     "createdAt": "2022-09-11T13:09:19.000Z",
     "liberated": 27318.347977285597,
     "occupied": 75784.5332164589,
-    "unspecified": 3095.920007073233
+    "unspecified": 3095.920007073233,
+    "occupiedInRussiaUnspecified": 625.4856365470571
   },
   {
     "id": 1662907210,
@@ -3405,7 +3575,8 @@
     "createdAt": "2022-09-11T14:40:10.000Z",
     "liberated": 27994.586122824956,
     "occupied": 74019.51984197351,
-    "unspecified": 4203.841341843011
+    "unspecified": 4203.841341843011,
+    "occupiedInRussiaUnspecified": 610.6072313524066
   },
   {
     "id": 1662934073,
@@ -3417,7 +3588,8 @@
     "createdAt": "2022-09-11T22:07:53.000Z",
     "liberated": 29858.02522872217,
     "occupied": 73023.08282843733,
-    "unspecified": 3934.2089811906426
+    "unspecified": 3934.2089811906426,
+    "occupiedInRussiaUnspecified": 12.576599822435483
   },
   {
     "id": 1662982685,
@@ -3429,7 +3601,8 @@
     "createdAt": "2022-09-12T11:38:05.000Z",
     "liberated": 31790.319889258928,
     "occupied": 72933.09316574351,
-    "unspecified": 2094.2594007403372
+    "unspecified": 2094.2594007403372,
+    "occupiedInRussiaUnspecified": 12.576599822435483
   },
   {
     "id": 1662998815,
@@ -3441,7 +3614,8 @@
     "createdAt": "2022-09-12T16:06:55.000Z",
     "liberated": 31850.322063371612,
     "occupied": 72584.47643193367,
-    "unspecified": 2396.349553561895
+    "unspecified": 2396.349553561895,
+    "occupiedInRussiaUnspecified": 12.576599822435483
   },
   {
     "id": 1663054503,
@@ -3453,7 +3627,8 @@
     "createdAt": "2022-09-13T07:35:03.000Z",
     "liberated": 31849.999586157268,
     "occupied": 72551.54175804809,
-    "unspecified": 2441.0530590203907
+    "unspecified": 2441.0530590203907,
+    "occupiedInRussiaUnspecified": 12.576599822435483
   },
   {
     "id": 1663074084,
@@ -3465,7 +3640,8 @@
     "createdAt": "2022-09-13T13:01:24.000Z",
     "liberated": 32933.81378919242,
     "occupied": 72567.56101750494,
-    "unspecified": 1375.3416555851763
+    "unspecified": 1375.3416555851763,
+    "occupiedInRussiaUnspecified": 12.576599822435483
   },
   {
     "id": 1663166027,
@@ -3477,7 +3653,8 @@
     "createdAt": "2022-09-14T14:33:47.000Z",
     "liberated": 33141.51814965987,
     "occupied": 72457.25205455234,
-    "unspecified": 1352.534663969742
+    "unspecified": 1352.534663969742,
+    "occupiedInRussiaUnspecified": 12.576599822435483
   },
   {
     "id": 1663271871,
@@ -3489,7 +3666,8 @@
     "createdAt": "2022-09-15T19:57:51.000Z",
     "liberated": 33155.29088689866,
     "occupied": 72626.31377865806,
-    "unspecified": 1170.8795288386737
+    "unspecified": 1170.8795288386737,
+    "occupiedInRussiaUnspecified": 12.576599822435483
   },
   {
     "id": 1663356276,
@@ -3501,7 +3679,8 @@
     "createdAt": "2022-09-16T19:24:36.000Z",
     "liberated": 33180.84792234016,
     "occupied": 72609.94267250712,
-    "unspecified": 1161.8235745116042
+    "unspecified": 1161.8235745116042,
+    "occupiedInRussiaUnspecified": 12.599867564326306
   },
   {
     "id": 1663406480,
@@ -3513,7 +3692,8 @@
     "createdAt": "2022-09-17T09:21:20.000Z",
     "liberated": 33345.76562871013,
     "occupied": 72524.36004486955,
-    "unspecified": 1208.6236713492797
+    "unspecified": 1208.6236713492797,
+    "occupiedInRussiaUnspecified": 12.599867564326306
   },
   {
     "id": 1663502889,
@@ -3525,7 +3705,8 @@
     "createdAt": "2022-09-18T12:08:09.000Z",
     "liberated": 33359.42616436886,
     "occupied": 72437.18075371766,
-    "unspecified": 1238.868916808901
+    "unspecified": 1238.868916808901,
+    "occupiedInRussiaUnspecified": 12.599867564326306
   },
   {
     "id": 1663537536,
@@ -3537,7 +3718,8 @@
     "createdAt": "2022-09-18T21:45:36.000Z",
     "liberated": 33359.42616436886,
     "occupied": 72514.89645066105,
-    "unspecified": 1246.8683607440923
+    "unspecified": 1246.8683607440923,
+    "occupiedInRussiaUnspecified": 12.599867564326306
   },
   {
     "id": 1663618539,
@@ -3549,7 +3731,8 @@
     "createdAt": "2022-09-19T20:15:39.000Z",
     "liberated": 33733.79216604579,
     "occupied": 72491.29497924547,
-    "unspecified": 1147.8451880293103
+    "unspecified": 1147.8451880293103,
+    "occupiedInRussiaUnspecified": 12.599867564326306
   },
   {
     "id": 1663702119,
@@ -3561,7 +3744,8 @@
     "createdAt": "2022-09-20T19:28:39.000Z",
     "liberated": 33691.9954677918,
     "occupied": 72449.29877697323,
-    "unspecified": 1183.4619005663885
+    "unspecified": 1183.4619005663885,
+    "occupiedInRussiaUnspecified": 12.599867564326306
   },
   {
     "id": 1663791274,
@@ -3573,7 +3757,8 @@
     "createdAt": "2022-09-21T20:14:34.000Z",
     "liberated": 33811.91330367245,
     "occupied": 72457.10428611649,
-    "unspecified": 1120.7969869116205
+    "unspecified": 1120.7969869116205,
+    "occupiedInRussiaUnspecified": 12.599867564326306
   },
   {
     "id": 1663876599,
@@ -3585,7 +3770,8 @@
     "createdAt": "2022-09-22T19:56:39.000Z",
     "liberated": 33811.91330367245,
     "occupied": 72412.46661956533,
-    "unspecified": 1163.0553230032149
+    "unspecified": 1163.0553230032149,
+    "occupiedInRussiaUnspecified": 12.599867564326306
   },
   {
     "id": 1663964795,
@@ -3597,7 +3783,8 @@
     "createdAt": "2022-09-23T20:26:35.000Z",
     "liberated": 33833.630455167775,
     "occupied": 72715.6283498767,
-    "unspecified": 1172.7230320035535
+    "unspecified": 1172.7230320035535,
+    "occupiedInRussiaUnspecified": 12.599867564326306
   },
   {
     "id": 1664055163,
@@ -3609,7 +3796,8 @@
     "createdAt": "2022-09-24T21:32:43.000Z",
     "liberated": 33849.85597457965,
     "occupied": 72642.32374779621,
-    "unspecified": 1230.5212895210807
+    "unspecified": 1230.5212895210807,
+    "occupiedInRussiaUnspecified": 12.599867564326306
   },
   {
     "id": 1664141413,
@@ -3621,7 +3809,8 @@
     "createdAt": "2022-09-25T21:30:13.000Z",
     "liberated": 33850.97822927736,
     "occupied": 72574.20626358123,
-    "unspecified": 1348.3023491656293
+    "unspecified": 1348.3023491656293,
+    "occupiedInRussiaUnspecified": 12.599867564326306
   },
   {
     "id": 1664217574,
@@ -3633,7 +3822,8 @@
     "createdAt": "2022-09-26T18:39:34.000Z",
     "liberated": 33891.63285947253,
     "occupied": 72591.119429755,
-    "unspecified": 1324.8265919926616
+    "unspecified": 1324.8265919926616,
+    "occupiedInRussiaUnspecified": 12.599867564326306
   },
   {
     "id": 1664226970,
@@ -3645,7 +3835,8 @@
     "createdAt": "2022-09-26T21:16:10.000Z",
     "liberated": 33926.15264926289,
     "occupied": 72508.94912353577,
-    "unspecified": 1284.8495924750412
+    "unspecified": 1284.8495924750412,
+    "occupiedInRussiaUnspecified": 12.599867564326306
   },
   {
     "id": 1664282719,
@@ -3657,7 +3848,8 @@
     "createdAt": "2022-09-27T12:45:19.000Z",
     "liberated": 33845.25209449685,
     "occupied": 72314.60505480983,
-    "unspecified": 1434.338822982733
+    "unspecified": 1434.338822982733,
+    "occupiedInRussiaUnspecified": 12.599867564326306
   },
   {
     "id": 1664310229,
@@ -3669,7 +3861,8 @@
     "createdAt": "2022-09-27T20:23:49.000Z",
     "liberated": 34072.98220908523,
     "occupied": 72312.43704020222,
-    "unspecified": 1307.4128690059026
+    "unspecified": 1307.4128690059026,
+    "occupiedInRussiaUnspecified": 12.599867564326306
   },
   {
     "id": 1664359423,
@@ -3681,7 +3874,8 @@
     "createdAt": "2022-09-28T10:03:43.000Z",
     "liberated": 34150.47663247929,
     "occupied": 72201.63416280066,
-    "unspecified": 1340.7027018522547
+    "unspecified": 1340.7027018522547,
+    "occupiedInRussiaUnspecified": 12.599867564326306
   },
   {
     "id": 1664398183,
@@ -4353,7 +4547,8 @@
     "createdAt": "2022-11-09T20:58:18.000Z",
     "liberated": 37457.062276715056,
     "occupied": 69095.7291894514,
-    "unspecified": 1174.1871228965695
+    "unspecified": 1174.1871228965695,
+    "occupiedInRussiaUnspecified": 79.43105693335154
   },
   {
     "id": 1668034232,
@@ -4365,7 +4560,8 @@
     "createdAt": "2022-11-09T22:50:32.000Z",
     "liberated": 37455.303503479285,
     "occupied": 69038.9641061629,
-    "unspecified": 1232.7109794205621
+    "unspecified": 1232.7109794205621,
+    "occupiedInRussiaUnspecified": 79.43105693335154
   },
   {
     "id": 1668074687,
@@ -4377,7 +4573,8 @@
     "createdAt": "2022-11-10T10:04:47.000Z",
     "liberated": 37480.53797596744,
     "occupied": 68895.8689277877,
-    "unspecified": 1375.249558690395
+    "unspecified": 1375.249558690395,
+    "occupiedInRussiaUnspecified": 54.196584445197445
   },
   {
     "id": 1668088139,
@@ -6777,7 +6974,8 @@
     "createdAt": "2023-05-22T09:51:19.000Z",
     "liberated": 42991.88670791112,
     "occupied": 65251.70031160463,
-    "unspecified": 934.1342586329422
+    "unspecified": 934.1342586329422,
+    "occupiedInRussiaUnspecified": 4.933938976095014
   },
   {
     "id": 1684792954,
@@ -6789,7 +6987,8 @@
     "createdAt": "2023-05-22T22:02:34.000Z",
     "liberated": 42998.194729792216,
     "occupied": 65251.70031160463,
-    "unspecified": 934.1355100812528
+    "unspecified": 934.1355100812528,
+    "occupiedInRussiaUnspecified": 31.074137132297878
   },
   {
     "id": 1684913022,
@@ -12021,7 +12220,9 @@
     "createdAt": "2024-08-08T20:52:16.000Z",
     "liberated": 42962.83836755154,
     "occupied": 65530.20729114424,
-    "unspecified": 654.233155173617
+    "unspecified": 654.233155173617,
+    "occupiedInRussia": 142.98957352567515,
+    "occupiedInRussiaUnspecified": 110.7137826389552
   },
   {
     "id": 1723228327,
@@ -12033,7 +12234,9 @@
     "createdAt": "2024-08-09T18:32:07.000Z",
     "liberated": 42962.83836755154,
     "occupied": 65534.80184471568,
-    "unspecified": 660.7402609829638
+    "unspecified": 660.7402609829638,
+    "occupiedInRussia": 142.98957352567515,
+    "occupiedInRussiaUnspecified": 110.7137826389552
   },
   {
     "id": 1723298634,
@@ -12045,7 +12248,9 @@
     "createdAt": "2024-08-10T14:03:54.000Z",
     "liberated": 42945.13098145043,
     "occupied": 65557.40204365118,
-    "unspecified": 657.918307719647
+    "unspecified": 657.918307719647,
+    "occupiedInRussia": 142.98957352567515,
+    "occupiedInRussiaUnspecified": 110.7137826389552
   },
   {
     "id": 1723408252,
@@ -12057,7 +12262,9 @@
     "createdAt": "2024-08-11T20:30:52.000Z",
     "liberated": 42945.32364011875,
     "occupied": 65571.12942421804,
-    "unspecified": 651.8372951262836
+    "unspecified": 651.8372951262836,
+    "occupiedInRussia": 142.98957352567515,
+    "occupiedInRussiaUnspecified": 110.7137826389552
   },
   {
     "id": 1723492591,
@@ -12069,7 +12276,9 @@
     "createdAt": "2024-08-12T19:56:31.000Z",
     "liberated": 42945.32364011875,
     "occupied": 65571.12942421804,
-    "unspecified": 651.8372951262836
+    "unspecified": 651.8372951262836,
+    "occupiedInRussia": 313.3069493589354,
+    "occupiedInRussiaUnspecified": 268.38014558241565
   },
   {
     "id": 1723548365,
@@ -12081,7 +12290,9 @@
     "createdAt": "2024-08-13T11:26:05.000Z",
     "liberated": 42943.09193953996,
     "occupied": 65589.37484623234,
-    "unspecified": 655.4588055248646
+    "unspecified": 655.4588055248646,
+    "occupiedInRussia": 313.48316526684073,
+    "occupiedInRussiaUnspecified": 268.38014558241565
   },
   {
     "id": 1723635752,
@@ -12093,7 +12304,9 @@
     "createdAt": "2024-08-14T11:42:32.000Z",
     "liberated": 42943.09193953996,
     "occupied": 65589.37484623234,
-    "unspecified": 657.2597510316457
+    "unspecified": 657.2597510316457,
+    "occupiedInRussia": 469.0222920474161,
+    "occupiedInRussiaUnspecified": 506.0115581910458
   },
   {
     "id": 1723661653,
@@ -12105,7 +12318,9 @@
     "createdAt": "2024-08-14T18:54:13.000Z",
     "liberated": 42943.09193953996,
     "occupied": 65605.33658092616,
-    "unspecified": 658.0970531646982
+    "unspecified": 658.0970531646982,
+    "occupiedInRussia": 469.0222920474161,
+    "occupiedInRussiaUnspecified": 596.8834610317299
   },
   {
     "id": 1723752578,
@@ -12117,7 +12332,9 @@
     "createdAt": "2024-08-15T20:09:38.000Z",
     "liberated": 42936.18076790538,
     "occupied": 65612.46817817944,
-    "unspecified": 661.758718644366
+    "unspecified": 661.758718644366,
+    "occupiedInRussia": 507.76296643068196,
+    "occupiedInRussiaUnspecified": 640.9178924973797
   },
   {
     "id": 1723839267,
@@ -12129,7 +12346,9 @@
     "createdAt": "2024-08-16T20:14:27.000Z",
     "liberated": 42936.18076790538,
     "occupied": 65614.01472534465,
-    "unspecified": 668.967270789803
+    "unspecified": 668.967270789803,
+    "occupiedInRussia": 532.3958011601329,
+    "occupiedInRussiaUnspecified": 628.9326716179733
   },
   {
     "id": 1723919692,
@@ -12141,7 +12360,9 @@
     "createdAt": "2024-08-17T18:34:52.000Z",
     "liberated": 42936.194488193556,
     "occupied": 65632.80042774633,
-    "unspecified": 693.4999899724354
+    "unspecified": 693.4999899724354,
+    "occupiedInRussia": 532.5388130257994,
+    "occupiedInRussiaUnspecified": 632.8187262152808
   },
   {
     "id": 1724012492,
@@ -12153,7 +12374,9 @@
     "createdAt": "2024-08-18T20:21:32.000Z",
     "liberated": 42934.38025509897,
     "occupied": 65651.32165341717,
-    "unspecified": 677.5097511581371
+    "unspecified": 677.5097511581371,
+    "occupiedInRussia": 620.1423316974915,
+    "occupiedInRussiaUnspecified": 568.7950623610162
   },
   {
     "id": 1724098717,
@@ -12165,7 +12388,9 @@
     "createdAt": "2024-08-19T20:18:37.000Z",
     "liberated": 42934.38025509897,
     "occupied": 65667.26544706493,
-    "unspecified": 669.5330136018972
+    "unspecified": 669.5330136018972,
+    "occupiedInRussia": 657.8679467913423,
+    "occupiedInRussiaUnspecified": 592.5175060161469
   },
   {
     "id": 1724184993,
@@ -12177,7 +12402,9 @@
     "createdAt": "2024-08-20T20:16:33.000Z",
     "liberated": 42934.514211069516,
     "occupied": 65674.15236689181,
-    "unspecified": 669.837080500327
+    "unspecified": 669.837080500327,
+    "occupiedInRussia": 658.0779351857573,
+    "occupiedInRussiaUnspecified": 592.5175060161469
   },
   {
     "id": 1724272310,
@@ -12189,7 +12416,9 @@
     "createdAt": "2024-08-21T20:31:50.000Z",
     "liberated": 42934.514211069516,
     "occupied": 65691.34449824027,
-    "unspecified": 667.6339350030756
+    "unspecified": 667.6339350030756,
+    "occupiedInRussia": 826.8838750191418,
+    "occupiedInRussiaUnspecified": 424.59593334979496
   },
   {
     "id": 1724357880,
@@ -12201,7 +12430,9 @@
     "createdAt": "2024-08-22T20:18:00.000Z",
     "liberated": 42936.586068052384,
     "occupied": 65691.09290035913,
-    "unspecified": 671.3784788776278
+    "unspecified": 671.3784788776278,
+    "occupiedInRussia": 826.8838750191418,
+    "occupiedInRussiaUnspecified": 424.59593334979496
   },
   {
     "id": 1724445676,
@@ -12213,7 +12444,9 @@
     "createdAt": "2024-08-23T20:41:16.000Z",
     "liberated": 42936.586068052384,
     "occupied": 65691.5504486145,
-    "unspecified": 672.6002027729598
+    "unspecified": 672.6002027729598,
+    "occupiedInRussia": 834.7748559768229,
+    "occupiedInRussiaUnspecified": 416.7049523920434
   },
   {
     "id": 1724531322,
@@ -12225,7 +12458,9 @@
     "createdAt": "2024-08-24T20:28:42.000Z",
     "liberated": 42936.586068052384,
     "occupied": 65709.84557017611,
-    "unspecified": 668.0995687229757
+    "unspecified": 668.0995687229757,
+    "occupiedInRussia": 834.7748559768229,
+    "occupiedInRussiaUnspecified": 416.7049523920434
   },
   {
     "id": 1724617038,
@@ -12237,7 +12472,9 @@
     "createdAt": "2024-08-25T20:17:18.000Z",
     "liberated": 42937.18692208402,
     "occupied": 65722.908248823,
-    "unspecified": 667.8016653158471
+    "unspecified": 667.8016653158471,
+    "occupiedInRussia": 834.7748559768229,
+    "occupiedInRussiaUnspecified": 416.7049523920434
   },
   {
     "id": 1724703303,
@@ -12249,7 +12486,9 @@
     "createdAt": "2024-08-26T20:15:03.000Z",
     "liberated": 42935.0241316513,
     "occupied": 65750.63744524607,
-    "unspecified": 665.4837365017465
+    "unspecified": 665.4837365017465,
+    "occupiedInRussia": 834.7748559768229,
+    "occupiedInRussiaUnspecified": 416.7049523920434
   },
   {
     "id": 1724790513,
@@ -12261,6 +12500,22 @@
     "createdAt": "2024-08-27T20:28:33.000Z",
     "liberated": 42921.420316168544,
     "occupied": 65764.05559713415,
-    "unspecified": 685.4054106490016
+    "unspecified": 685.4054106490016,
+    "occupiedInRussia": 834.7748559768229,
+    "occupiedInRussiaUnspecified": 416.7049523920434
+  },
+  {
+    "id": 1724874202,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#14/48.2237202/37.3132193\">Новогродівці</a>, <a href=\"https://deepstatemap.live/#14/48.3933393/37.8785036\">Торецьку</a>, <a href=\"https://deepstatemap.live/#14/48.1413679/37.3664660\">Михайлівці</a>, біля <a href=\"https://deepstatemap.live/#13/47.7495423/37.1668486\">Павлівки</a>, <a href=\"https://deepstatemap.live/#14/48.3006946/37.7949852\">Пантелеймонівки</a> та <a href=\"https://deepstatemap.live/#13/47.7817542/37.3144713\">Вугледару</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.2237202/37.3132193\">Novohrodivka</a>, <a href=\"https://deepstatemap.live/en#14/48.3933393/37.8785036\">Toretsk</a>, <a href=\"https://deepstatemap.live/en#14/48.1413679/37.3664660\">Mykhailivka</a>, near <a href=\"https://deepstatemap.live/en#13/47.7495423/37.1668486\">Pavlivka</a>, <a href=\"https://deepstatemap.live/en#14/48.3006946/37.7949852\">Panteleymonivka</a> and <a href=\"https://deepstatemap.live/en#13/47.7817542/37.3144713\">Vuhledar</a>.",
+    "updatedAt": "2024-08-28T19:57:05.196Z",
+    "datetime": "28.08 o 21:43",
+    "status": true,
+    "createdAt": "2024-08-28T19:43:22.000Z",
+    "liberated": 42921.420316168544,
+    "occupied": 65784.21022268731,
+    "unspecified": 672.4488570717098,
+    "occupiedInRussia": 834.7748559768229,
+    "occupiedInRussiaUnspecified": 416.7049523920434
   }
 ]
