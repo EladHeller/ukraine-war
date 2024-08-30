@@ -12517,5 +12517,19 @@
     "unspecified": 672.4488570717098,
     "occupiedInRussia": 834.7748559768229,
     "occupiedInRussiaUnspecified": 416.7049523920434
+  },
+  {
+    "id": 1724962482,
+    "description": "Ворог захопив село <a href=\"https://deepstatemap.live/#13/51.4040769/34.9228755\">Кореньово</a> (Курщина), а також просунувся у <a href=\"https://deepstatemap.live/#14/48.1443024/37.3499542\">Михайлівці</a>, біля <a href=\"https://deepstatemap.live/#14/48.3158216/37.7981592\">Пантелеймонівки</a>, <a href=\"https://deepstatemap.live/#13/49.5564523/37.7938980\">Піщаного</a> та <a href=\"https://deepstatemap.live/#14/49.4297558/37.9097489\">Андріївки</a>.",
+    "descriptionEn": "",
+    "updatedAt": "2024-08-29T20:50:52.910Z",
+    "datetime": "29.08 o 22:14",
+    "status": true,
+    "createdAt": "2024-08-29T20:14:42.000Z",
+    "liberated": 42915.18887409677,
+    "occupied": 65790.64699523812,
+    "unspecified": 676.3390914737441,
+    "occupiedInRussia": 823.992102491174,
+    "occupiedInRussiaUnspecified": 423.1018124322541
   }
 ]
