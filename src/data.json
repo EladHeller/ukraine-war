@@ -12545,5 +12545,19 @@
     "unspecified": 670.7770058574603,
     "occupiedInRussia": 823.992102491174,
     "occupiedInRussiaUnspecified": 423.1018124322541
+  },
+  {
+    "id": 1725137213,
+    "description": "Ворог окупував&nbsp;<a href=\"https://deepstatemap.live/#14/47.8674557/37.4448792\">Парасковіївку</a>, а також просунувся у <a href=\"https://deepstatemap.live/#14/47.8706214/37.4180196\">Костянтинівці</a>, <a href=\"https://deepstatemap.live/#14/48.2554508/37.3940681\">Гродівці</a>, <a href=\"https://deepstatemap.live/#13/48.1026734/37.4536774\">Галицинівці</a> та біля <a href=\"https://deepstatemap.live/#14/49.5363831/37.7925781\">Піщаного</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/47.8674557/37.4448792\">Paraskoviivka</a> and advanced in <a href=\"https://deepstatemap.live/en#14/47.8706214/37.4180196\">Kostiantynivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2554508/37.3940681\">Hrodivka</a>, <a href=\"https://deepstatemap.live/en#13/48.1026734/37.4536774\">Halytsynivka</a> and near <a href=\"https://deepstatemap.live/en#14/49.5363831/37.7925781\">Pishchane</a>.",
+    "updatedAt": "2024-08-31T21:20:39.325Z",
+    "datetime": "31.08 o 22:46",
+    "status": true,
+    "createdAt": "2024-08-31T20:46:53.000Z",
+    "liberated": 42908.18809027529,
+    "occupied": 65836.24748063697,
+    "unspecified": 665.3933555898421,
+    "occupiedInRussia": 823.992102491174,
+    "occupiedInRussiaUnspecified": 423.1018124322541
   }
 ]
