@@ -12559,5 +12559,19 @@
     "unspecified": 665.3933555898421,
     "occupiedInRussia": 823.992102491174,
     "occupiedInRussiaUnspecified": 423.1018124322541
+  },
+  {
+    "id": 1725222208,
+    "description": "Сили Оборони закінчили зачистку по лінії <a href=\"https://deepstatemap.live/#12/51.3431643/35.2261288\">Мала Локня-Погребки</a>. Ворог окупував <a href=\"https://deepstatemap.live/#14/48.0975464/37.4136537\">Долинівку</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/49.2100605/38.0090528\">Макіївки</a> та в <a href=\"https://deepstatemap.live/#14/48.3824077/37.8819768\">Торецьку</a>.",
+    "descriptionEn": "The Defense Forces completed the clearing of the <a href=\"https://deepstatemap.live/en#12/51.3431643/35.2261288\">Mala Loknya-Pohrebky</a> line. The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.0975464/37.4136537\">Dolyna</a> and advanced near <a href=\"https://deepstatemap.live/en#14/49.2100605/38.0090528\">Makiivka</a> and <a href=\"https://deepstatemap.live/en#14/48.3824077/37.8819768\">Toretsk</a>.",
+    "updatedAt": "2024-09-01T21:36:46.344Z",
+    "datetime": "01.09 o 22:23",
+    "status": true,
+    "createdAt": "2024-09-01T20:23:28.000Z",
+    "liberated": 42903.39069269027,
+    "occupied": 65840.71861775662,
+    "unspecified": 664.4805077027218,
+    "occupiedInRussia": 907.5042478743833,
+    "occupiedInRussiaUnspecified": 337.61869490843446
   }
 ]
