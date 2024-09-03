@@ -12573,5 +12573,19 @@
     "unspecified": 664.4805077027218,
     "occupiedInRussia": 907.5042478743833,
     "occupiedInRussiaUnspecified": 337.61869490843446
+  },
+  {
+    "id": 1725309179,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.3219336/37.8076737\">Нью-Йорку</a> та <a href=\"https://deepstatemap.live/#12/47.7698816/37.0745334\">Пречистівці</a>. Уточнюється лінія зіткнення біля <a href=\"https://deepstatemap.live/#14/49.7726641/37.6727627\">Лиману Першого</a> та <a href=\"https://deepstatemap.live/#14/47.8186600/37.3162252\">Водяного</a>. Відносна стабілізація фронту біля <a href=\"https://deepstatemap.live/#14/48.1037350/37.4280584\">Галицинівки</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.3219336/37.8076737\">New York</a> and <a href=\"https://deepstatemap.live/en#12/47.7698816/37.0745334\">Prechystivka</a>. The line of contact near <a href=\"https://deepstatemap.live/en#14/49.7726641/37.6727627\">Lyman Pershyi</a> and <a href=\"https://deepstatemap.live/en#14/47.8186600/37.3162252\">Vodyane</a> is being clarified. Relative stabilization of the front near <a href=\"https://deepstatemap.live/en#14/48.1037350/37.4280584\">Halytsynivka</a>.",
+    "updatedAt": "2024-09-02T21:00:03.288Z",
+    "datetime": "02.09 o 22:32",
+    "status": true,
+    "createdAt": "2024-09-02T20:32:59.000Z",
+    "liberated": 42887.026073782436,
+    "occupied": 65859.47693346131,
+    "unspecified": 685.2854697306625,
+    "occupiedInRussia": 907.5042478743833,
+    "occupiedInRussiaUnspecified": 337.61869490843446
   }
 ]
