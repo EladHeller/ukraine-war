@@ -12587,5 +12587,19 @@
     "unspecified": 685.2854697306625,
     "occupiedInRussia": 907.5042478743833,
     "occupiedInRussiaUnspecified": 337.61869490843446
+  },
+  {
+    "id": 1725394431,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/47.7796816/37.0748638\">Пречистівку</a> та просунувся біля <a href=\"https://deepstatemap.live/#14/47.8113987/37.3161303\">Водяного</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/47.7796816/37.0748638\">Prechystivka</a> and advanced near <a href=\"https://deepstatemap.live/en#14/47.8113987/37.3161303\">Vodyane</a>.",
+    "updatedAt": "2024-09-03T20:37:37.311Z",
+    "datetime": "03.09 o 22:13",
+    "status": true,
+    "createdAt": "2024-09-03T20:13:51.000Z",
+    "liberated": 42884.071856112714,
+    "occupied": 65871.20910639627,
+    "unspecified": 686.4615024475077,
+    "occupiedInRussia": 907.5042478743833,
+    "occupiedInRussiaUnspecified": 337.61869490843446
   }
 ]
