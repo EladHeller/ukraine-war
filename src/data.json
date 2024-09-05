@@ -12601,5 +12601,19 @@
     "unspecified": 686.4615024475077,
     "occupiedInRussia": 907.5042478743833,
     "occupiedInRussiaUnspecified": 337.61869490843446
+  },
+  {
+    "id": 1725481410,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#12/47.7715111/37.0172343\">Пречистівки</a>, <a href=\"https://deepstatemap.live/#14/48.3262647/37.7970424\">Сухої Балки</a> та в <a href=\"https://deepstatemap.live/#15/48.4069139/37.9147399\">Дружбі</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#12/47.7715111/37.0172343\">Prechystivka</a>, <a href=\"https://deepstatemap.live/en#14/48.3262647/37.7970424\">Sukha Balka</a> and <a href=\"https://deepstatemap.live/en#15/48.4069139/37.9147399\">Druzhba</a>.",
+    "updatedAt": "2024-09-04T20:38:17.440Z",
+    "datetime": "04.09 o 22:23",
+    "status": true,
+    "createdAt": "2024-09-04T20:23:30.000Z",
+    "liberated": 42856.30071342317,
+    "occupied": 65885.16809793908,
+    "unspecified": 705.1930484024584,
+    "occupiedInRussia": 907.5042478743833,
+    "occupiedInRussiaUnspecified": 337.61869490843446
   }
 ]
