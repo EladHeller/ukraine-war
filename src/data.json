@@ -12615,5 +12615,19 @@
     "unspecified": 705.1930484024584,
     "occupiedInRussia": 907.5042478743833,
     "occupiedInRussiaUnspecified": 337.61869490843446
+  },
+  {
+    "id": 1725566785,
+    "description": "Сили Оборони відновили позиції у <a href=\"https://deepstatemap.live/#15/48.3345259/37.8328565\">Нью-Йорку</a>, <a href=\"https://deepstatemap.live/#15/48.3488692/37.8325990\">Неліпівці</a> та біля <a href=\"https://deepstatemap.live/#13/50.2251697/36.4423373\">Липців</a>. Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/49.5682700/37.7790042\">Піщаного</a>, <a href=\"https://deepstatemap.live/#13/49.5137066/37.9173353\">Стельмахівки</a>, <a href=\"https://deepstatemap.live/#14/48.0743896/37.3890956\">Гірника</a>, в <a href=\"https://deepstatemap.live/#14/48.6088758/37.8505165\">Калинівці</a>, <a href=\"https://deepstatemap.live/#14/48.0990354/37.3807717\">Лісівці</a> та <a href=\"https://deepstatemap.live/#14/48.0993793/37.4370653\">Галицинівці</a>.",
+    "descriptionEn": "The Defense Forces of Ukraine regained positions in <a href=\"https://deepstatemap.live/en#15/48.3345259/37.8328565\">New York</a>, <a href=\"https://deepstatemap.live/en#15/48.3488692/37.8325990\">Nelipivka</a> and near <a href=\"https://deepstatemap.live/en#13/50.2251697/36.4423373\">Liptsy</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#13/49.5682700/37.7790042\">Pishchane</a>, <a href=\"https://deepstatemap.live/en#13/49.5137066/37.9173353\">Stelmakhivka</a>, <a href=\"https://deepstatemap.live/en#14/48.0743896/37.3890956\">Hirnyk</a>, <a href=\"https://deepstatemap.live/en#14/48.6088758/37.8505165\">Kalynivka</a>, <a href=\"https://deepstatemap.live/en#14/48.0990354/37.3807717\">Lisivka</a> and <a href=\"https://deepstatemap.live/en#14/48.0993793/37.4370653\">Halytsynivka</a>.",
+    "updatedAt": "2024-09-05T20:48:43.001Z",
+    "datetime": "05.09 o 22:06",
+    "status": true,
+    "createdAt": "2024-09-05T20:06:25.000Z",
+    "liberated": 42856.82758900539,
+    "occupied": 65900.77045609234,
+    "unspecified": 702.6048570391459,
+    "occupiedInRussia": 907.5042478743833,
+    "occupiedInRussiaUnspecified": 337.61869490843446
   }
 ]
