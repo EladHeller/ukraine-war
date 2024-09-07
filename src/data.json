@@ -12629,5 +12629,19 @@
     "unspecified": 702.6048570391459,
     "occupiedInRussia": 907.5042478743833,
     "occupiedInRussiaUnspecified": 337.61869490843446
+  },
+  {
+    "id": 1725654859,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#16/48.0878045/37.3670235\">Українську</a> та біля <a href=\"https://deepstatemap.live/#14/48.0223946/37.5176652\">Красногорівки</a>. Уточнено лінію зіткнення на околицях <a href=\"https://deepstatemap.live/#13/50.3057317/36.9790363\">Вовчанська та Тихого</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#16/48.0878045/37.3670235\">Ukrainske</a> and near <a href=\"https://deepstatemap.live/en#14/48.0223946/37.5176652\">Krasnohorivka</a>. The line of contact on the outskirts of <a href=\"https://deepstatemap.live/en#13/50.3057317/36.9790363\">Vovchansk and Tykhe</a> has been clarified.",
+    "updatedAt": "2024-09-06T21:12:46.394Z",
+    "datetime": "06.09 o 22:34",
+    "status": true,
+    "createdAt": "2024-09-06T20:34:19.000Z",
+    "liberated": 42857.46984344823,
+    "occupied": 65909.24813843874,
+    "unspecified": 705.9254323333507,
+    "occupiedInRussia": 907.6095728977542,
+    "occupiedInRussiaUnspecified": 337.61869490843446
   }
 ]
