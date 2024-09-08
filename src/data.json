@@ -12643,5 +12643,19 @@
     "unspecified": 705.9254323333507,
     "occupiedInRussia": 907.6095728977542,
     "occupiedInRussiaUnspecified": 337.61869490843446
+  },
+  {
+    "id": 1725740856,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#13/48.0595538/37.5734816\">Невельське</a> та просунувся у <a href=\"https://deepstatemap.live/#14/48.0180932/37.4650555\">Красногорівці</a>. Тривають бої північніше <a href=\"https://deepstatemap.live/#14/48.0811287/37.3863664\">Гірника</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#13/48.0595538/37.5734816\">Nevelske</a> and advanced in <a href=\"https://deepstatemap.live/en#14/48.0180932/37.4650555\">Krasnohorivka</a>. Fighting continues north of <a href=\"https://deepstatemap.live/en#14/48.0811287/37.3863664\">Hirnyk</a>.",
+    "updatedAt": "2024-09-07T20:27:46.000Z",
+    "datetime": "07.09 o 22:27",
+    "status": true,
+    "createdAt": "2024-09-07T20:27:36.000Z",
+    "liberated": 42857.46984344823,
+    "occupied": 65917.57494758509,
+    "unspecified": 720.4767725766724,
+    "occupiedInRussia": 907.6095728977542,
+    "occupiedInRussiaUnspecified": 337.61869490843446
   }
 ]
