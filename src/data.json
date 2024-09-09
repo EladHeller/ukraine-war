@@ -12666,9 +12666,9 @@
     "datetime": "08.09 o 22:44",
     "status": true,
     "createdAt": "2024-09-08T20:44:53.000Z",
-    "liberated": 42857.46984344814,
-    "occupied": 65922.52810405358,
-    "unspecified": 721.6008055245305,
+    "liberated": 42856.66932702043,
+    "occupied": 65922.54936668035,
+    "unspecified": 722.4186911783136,
     "occupiedInRussia": 907.6095728977542,
     "occupiedInRussiaUnspecified": 337.61869490843446
   }
