@@ -12671,5 +12671,19 @@
     "unspecified": 722.4186911783136,
     "occupiedInRussia": 907.6095728977542,
     "occupiedInRussiaUnspecified": 337.61869490843446
+  },
+  {
+    "id": 1725915056,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.0165939/37.4439415\">Красногорівці</a>, біля <a href=\"https://deepstatemap.live/#14/48.2018097/37.3187995\">Новогродівки</a> та <a href=\"https://deepstatemap.live/#15/47.7906844/37.2905799\">Вугледару</a>. Уточнено лінію зіткнення у <a href=\"https://deepstatemap.live/#16/48.3973043/37.8750122\">Торецьку</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.0165939/37.4439415\">Krasnohorivka</a>, near <a href=\"https://deepstatemap.live/en#14/48.2018097/37.3187995\">Novohrodivka</a> and <a href=\"https://deepstatemap.live/en#15/47.7906844/37.2905799\">Vuhledar</a>. The contact line in <a href=\"https://deepstatemap.live/en#16/48.3973043/37.8750122\">Toretsk</a> has been clarified.",
+    "updatedAt": "2024-09-10T01:05:26.204Z",
+    "datetime": "09.09 o 22:50",
+    "status": true,
+    "createdAt": "2024-09-09T20:50:56.000Z",
+    "liberated": 42856.66932702043,
+    "occupied": 65928.30551371133,
+    "unspecified": 725.1026391667122,
+    "occupiedInRussia": 907.6095728977542,
+    "occupiedInRussiaUnspecified": 337.61869490843446
   }
 ]
