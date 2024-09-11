@@ -12685,5 +12685,19 @@
     "unspecified": 725.1026391667122,
     "occupiedInRussia": 907.6095728977542,
     "occupiedInRussiaUnspecified": 337.61869490843446
+  },
+  {
+    "id": 1726001946,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.1838300/37.3355399\">Маринівки</a>, в <a href=\"https://deepstatemap.live/#14/48.0872242/37.3626574\">Українську</a> та <a href=\"https://deepstatemap.live/#14/48.1194311/37.3660895\">околицях</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.1838300/37.3355399\">Marynivka</a>, in <a href=\"https://deepstatemap.live/en#14/48.0872242/37.3626574\">Ukrainske</a> and <a href=\"https://deepstatemap.live/en#14/48.1194311/37.3660895\">the area near it</a>.",
+    "updatedAt": "2024-09-10T22:22:13.651Z",
+    "datetime": "10.09 o 22:59",
+    "status": true,
+    "createdAt": "2024-09-10T20:59:06.000Z",
+    "liberated": 42856.66932702043,
+    "occupied": 65936.86369036234,
+    "unspecified": 728.5835515644571,
+    "occupiedInRussia": 907.6095728977542,
+    "occupiedInRussiaUnspecified": 337.61869490843446
   }
 ]
