@@ -12699,5 +12699,19 @@
     "unspecified": 728.5835515644571,
     "occupiedInRussia": 907.6095728977542,
     "occupiedInRussiaUnspecified": 337.61869490843446
+  },
+  {
+    "id": 1726086949,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.0970267/37.3769887\">Лісівку</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/48.2106198/37.2990567\">Лисівки</a>, <a href=\"https://deepstatemap.live/#13/48.5327838/37.9274640\">Кліщіївки</a>, <a href=\"https://deepstatemap.live/#13/48.0628702/37.5381305\">Невельського</a>, в <a href=\"https://deepstatemap.live/#14/48.0822297/37.3579390\">Українську та околицях</a>. Уточнено район <a href=\"https://deepstatemap.live/#14/48.6075780/37.8476837\">Калинівки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.0970267/37.3769887\">Lisivka</a> and advanced near <a href=\"https://deepstatemap.live/en#14/48.2106198/37.2990567\">Lisivka</a>, <a href=\"https://deepstatemap.live/en#13/48.5327838/37.9274640\">Klishchiyivka</a>, <a href=\"https://deepstatemap.live/en#13/48.0628702/37.5381305\">Nevelske</a>, <a href=\"https://deepstatemap.live/en#14/48.0822297/37.3579390\">Ukrainske and the outskirts</a>. The area of <a href=\"https://deepstatemap.live/en#14/48.6075780/37.8476837\">Kalynivka</a> was clarified.",
+    "updatedAt": "2024-09-11T22:00:27.262Z",
+    "datetime": "11.09 o 22:35",
+    "status": true,
+    "createdAt": "2024-09-11T20:35:49.000Z",
+    "liberated": 42849.71897293269,
+    "occupied": 65978.35148319684,
+    "unspecified": 716.5869693882938,
+    "occupiedInRussia": 886.6522571994198,
+    "occupiedInRussiaUnspecified": 358.5760106067688
   }
 ]
