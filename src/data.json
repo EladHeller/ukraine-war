@@ -12713,5 +12713,19 @@
     "unspecified": 716.5869693882938,
     "occupiedInRussia": 886.6522571994198,
     "occupiedInRussiaUnspecified": 358.5760106067688
+  },
+  {
+    "id": 1726170617,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/49.2304008/37.9917944\">Макіївці</a>, <a href=\"https://deepstatemap.live/#14/48.0155063/37.4352697\">Красногорівці</a>, <a href=\"https://deepstatemap.live/#15/48.2590344/37.3804027\">Гродівці</a>, а також біля <a href=\"https://deepstatemap.live/#13/49.5432168/37.7825705\">Піщаного</a> та <a href=\"https://deepstatemap.live/#13/47.7705379/37.0135387\">Пречистівки</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/49.2304008/37.9917944\">Makiivka</a>, <a href=\"https://deepstatemap.live/en#14/48.0155063/37.4352697\">Krasnohorivka</a>, <a href=\"https://deepstatemap.live/en#15/48.2590344/37.3804027\">Hrodivka</a>, as well as near <a href=\"https://deepstatemap.live/en#13/49.5432168/37.7825705\">Pishchane</a> and <a href=\"https://deepstatemap.live/en#13/47.7705379/37.0135387\">Prechystivka</a>.",
+    "updatedAt": "2024-09-12T19:52:21.354Z",
+    "datetime": "12.09 o 21:50",
+    "status": true,
+    "createdAt": "2024-09-12T19:50:17.000Z",
+    "liberated": 42843.62216656834,
+    "occupied": 65992.58480494472,
+    "unspecified": 715.2872967237669,
+    "occupiedInRussia": 886.6522571994198,
+    "occupiedInRussiaUnspecified": 358.5760106067688
   }
 ]
