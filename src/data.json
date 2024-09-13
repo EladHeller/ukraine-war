@@ -12722,10 +12722,10 @@
     "datetime": "12.09 o 21:50",
     "status": true,
     "createdAt": "2024-09-12T19:50:17.000Z",
-    "liberated": 42843.62216656834,
-    "occupied": 65992.58480494472,
-    "unspecified": 715.2872967237669,
-    "occupiedInRussia": 886.6522571994198,
-    "occupiedInRussiaUnspecified": 358.5760106067688
+    "liberated": 42843.62192755468,
+    "occupied": 65992.57991883454,
+    "unspecified": 715.2324617753299,
+    "occupiedInRussia": 886.6527574425419,
+    "occupiedInRussiaUnspecified": 358.57644091560263
   }
 ]
