@@ -12727,5 +12727,19 @@
     "unspecified": 715.2324617753299,
     "occupiedInRussia": 886.6527574425419,
     "occupiedInRussiaUnspecified": 358.57644091560263
+  },
+  {
+    "id": 1726316720,
+    "description": "Сили Оборони зайняли <a href=\"https://deepstatemap.live/#13/51.4207835/34.9910171\">Вітряно</a>, <a href=\"https://deepstatemap.live/#13/51.4143624/35.0364981\">Дуровку</a> та частину <a href=\"https://deepstatemap.live/#13/51.4173590/35.0958809\">Журавлів</a>. Ворог окупував <a href=\"https://deepstatemap.live/#13/48.0917505/37.4274119\">Галицинівку</a> та <a href=\"https://deepstatemap.live/#11/51.3089556/34.8700580\">Снагость з навколишніми селами</a>, а також просунувся в бік <a href=\"https://deepstatemap.live/#13/51.3042723/34.9709408\">Любимівки</a>, біля <a href=\"https://deepstatemap.live/#13/49.5880672/37.7834307\">Піщаного</a>, <a href=\"https://deepstatemap.live/#14/48.6239169/37.8512062\">Григорівки</a>, <a href=\"https://deepstatemap.live/#14/48.0077542/37.4283145\">Гострого</a>, <a href=\"https://deepstatemap.live/#14/47.9736597/37.4839510\">Георгіївки</a>, в <a href=\"https://deepstatemap.live/#13/49.7673530/37.6989798\">Синьківці</a>, <a href=\"https://deepstatemap.live/#14/48.3377348/37.8348951\">Нью-Йорку</a> та <a href=\"https://deepstatemap.live/#14/48.0967985/37.3615192\">Українську</a>.",
+    "descriptionEn": "The Defense Forces liberated <a href=\"https://deepstatemap.live/en#13/51.4207835/34.9910171\">Vitryano</a>, <a href=\"https://deepstatemap.live/en#13/51.4143624/35.0364981\">Durovka</a> and part of <a href=\"https://deepstatemap.live/en#13/51.4173590/35.0958809\">Zhuravly</a>. The enemy occupied <a href=\"https://deepstatemap.live/en#13/48.0917505/37.4274119\">Halytsynivka</a> and <a href=\"https://deepstatemap.live/en#11/51.3089556/34.8700580\">Snahost with the surrounding villages</a>, and advanced towards <a href=\"https://deepstatemap.live/en#13/51.3042723/34.9709408\">Lyubymivka</a>, near <a href=\"https://deepstatemap.live/en#13/49.5880672/37.7834307\">Pishchane</a>, <a href=\"https://deepstatemap.live/en#14/47.9736597/37.4839510\">Hryhorivka</a>, <a href=\"https://deepstatemap.live/en#14/48.0077542/37.4283145\">Horoshne</a>, <a href=\"https://deepstatemap.live/en#14/47.9736597/37.4839510\">Heorhiivka</a>, <a href=\"https://deepstatemap.live/en#13/49.7673530/37.6989798\">Sinkivka</a>, <a href=\"https://deepstatemap.live/en#14/48.3377348/37.8348951\">New York</a> and <a href=\"https://deepstatemap.live/en#14/48.0967985/37.3615192\">Ukrainsk</a>.",
+    "updatedAt": "2024-09-14T12:33:14.537Z",
+    "datetime": "14.09 o 14:25",
+    "status": true,
+    "createdAt": "2024-09-14T12:25:20.000Z",
+    "liberated": 42831.1976994485,
+    "occupied": 66016.68874308384,
+    "unspecified": 725.6294786434626,
+    "occupiedInRussia": 819.6616914334178,
+    "occupiedInRussiaUnspecified": 351.6286102615267
   }
 ]
