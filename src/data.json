@@ -12741,5 +12741,19 @@
     "unspecified": 725.6294786434626,
     "occupiedInRussia": 819.6616914334178,
     "occupiedInRussiaUnspecified": 351.6286102615267
+  },
+  {
+    "id": 1726432458,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/49.5492119/37.7662979\">Колісниківки</a>, <a href=\"https://deepstatemap.live/#13/47.8371941/37.3623596\">Катеринівки</a>, <a href=\"https://deepstatemap.live/#14/47.8216791/37.2896503\">Водяного</a>, <a href=\"https://deepstatemap.live/#15/47.7837100/37.2826379\">Вугледару</a>, у <a href=\"https://deepstatemap.live/#14/48.8069972/38.2454167\">Спірному</a> та <a href=\"https://deepstatemap.live/#15/48.1005672/37.3654653\">Українську</a>. Уточнено ситуацію в <a href=\"https://deepstatemap.live/#13/51.3947599/35.0859569\">Кремінному</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.5492119/37.7662979\">Kolisnykivka</a>, <a href=\"https://deepstatemap.live/en#13/47.8371941/37.3623596\">Katerynivka</a>, <a href=\"https://deepstatemap.live/en#14/47.8216791/37.2896503\">Vodiane</a>, <a href=\"https://deepstatemap.live/en#15/47.7837100/37.2826379\">Vuhledar</a>, <a href=\"https://deepstatemap.live/en#14/48.8069972/38.2454167\">Spirne</a> and <a href=\"https://deepstatemap.live/en#15/48.1005672/37.3654653\">Ukrainsk</a>. The situation in <a href=\"https://deepstatemap.live/en#13/51.3947599/35.0859569\">Kremyannoe</a> has been clarified.",
+    "updatedAt": "2024-09-15T20:37:16.209Z",
+    "datetime": "15.09 o 22:34",
+    "status": true,
+    "createdAt": "2024-09-15T20:34:18.000Z",
+    "liberated": 42824.94169750905,
+    "occupied": 66031.91860024109,
+    "unspecified": 737.5262867140129,
+    "occupiedInRussia": 816.7905923449025,
+    "occupiedInRussiaUnspecified": 354.4997093500266
   }
 ]
