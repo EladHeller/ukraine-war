@@ -12755,5 +12755,19 @@
     "unspecified": 737.5262867140129,
     "occupiedInRussia": 816.7905923449025,
     "occupiedInRussiaUnspecified": 354.4997093500266
+  },
+  {
+    "id": 1726517043,
+    "description": "Сили Оборони України відновили положення біля <a href=\"https://deepstatemap.live/#13/49.0384812/37.9841174\">Торського</a>. Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/49.5465751/37.7559308\">Колесниківки</a>, <a href=\"https://deepstatemap.live/#12/49.1604826/38.0269456\">Невського</a>, <a href=\"https://deepstatemap.live/#12/49.1050157/38.0393028\">Новосадового</a>, <a href=\"https://deepstatemap.live/#15/48.2304519/37.3223896\">Новогродівки</a>, в <a href=\"https://deepstatemap.live/#15/48.2569013/37.3803613\">Гродівці</a> та <a href=\"https://deepstatemap.live/#14/48.0786870/37.4258220\">Желанному Першому</a>.",
+    "descriptionEn": "Ukrainian Defense Forces regained their position near <a href=\"https://deepstatemap.live/en#13/49.0384812/37.9841174\">Torske</a>. The enemy advanced near <a href=\"https://deepstatemap.live/#14/49.5465751/37.7559308\">Kolesnykivka</a>, <a href=\"https://deepstatemap.live/en#12/49.1604826/38.0269456\">Nevske</a>, <a href=\"https://deepstatemap.live/en#12/49.1050157/38.0393028\">Novosadove</a>, <a href=\"https://deepstatemap.live/en#15/48.2304519/37.3223896\">Novohrodivka</a>, in <a href=\"https://deepstatemap.live/en#15/48.2569013/37.3803613\">Hrodivka</a> and <a href=\"https://deepstatemap.live/en#14/48.0786870/37.4258220\">Zhelane Pershne</a>.",
+    "updatedAt": "2024-09-16T20:04:09.710Z",
+    "datetime": "16.09 o 22:04",
+    "status": true,
+    "createdAt": "2024-09-16T20:04:03.000Z",
+    "liberated": 42811.24825742782,
+    "occupied": 66056.16228582388,
+    "unspecified": 730.7186055424079,
+    "occupiedInRussia": 816.7905923449025,
+    "occupiedInRussiaUnspecified": 354.4997093500266
   }
 ]
