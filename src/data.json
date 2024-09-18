@@ -12769,5 +12769,19 @@
     "unspecified": 730.7186055424079,
     "occupiedInRussia": 816.7905923449025,
     "occupiedInRussiaUnspecified": 354.4997093500266
+  },
+  {
+    "id": 1726606456,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/49.5027155/37.9233012\">Стельмахівки</a>, в <a href=\"https://deepstatemap.live/#14/48.2600274/37.3727873\">Гродівці</a> та <a href=\"https://deepstatemap.live/#14/48.1000056/37.3545860\">Українську</a>. Тривають бої в районі <a href=\"https://deepstatemap.live/#14/48.0745487/37.4250548\">Желанного Першого</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.5027155/37.9233012\">Stelmakhivka</a>, in <a href=\"https://deepstatemap.live/en#14/48.2600274/37.3727873\">Hrodivka</a> and <a href=\"https://deepstatemap.live/en#14/48.1000056/37.3545860\">Ukrainske</a>. Fighting continues in the area of <a href=\"https://deepstatemap.live/en#14/48.0745487/37.4250548\">Zhelanne Persha.</a>",
+    "updatedAt": "2024-09-18T00:40:30.030Z",
+    "datetime": "17.09 o 22:54",
+    "status": true,
+    "createdAt": "2024-09-17T20:54:16.000Z",
+    "liberated": 42808.870668209165,
+    "occupied": 66060.63203676156,
+    "unspecified": 736.8733738727067,
+    "occupiedInRussia": 816.1210099662171,
+    "occupiedInRussiaUnspecified": 355.16929172874717
   }
 ]
