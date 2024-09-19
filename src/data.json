@@ -12783,5 +12783,19 @@
     "unspecified": 736.8733738727067,
     "occupiedInRussia": 816.1210099662171,
     "occupiedInRussiaUnspecified": 355.16929172874717
+  },
+  {
+    "id": 1726693021,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#12/51.2877510/34.9510969\">Обуховки</a>, <a href=\"https://deepstatemap.live/#13/49.6083111/37.7937400\">Піщаного</a>, <a href=\"https://deepstatemap.live/#13/48.1062246/37.3307766\">Марфополя</a>, <a href=\"https://deepstatemap.live/#13/48.1062246/37.3307766\">Українська</a>, в <a href=\"https://deepstatemap.live/#14/48.3760817/37.8744295\">Залізному</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#12/51.2877510/34.9510969\">Obukhivka</a>, <a href=\"https://deepstatemap.live/en#13/49.6083111/37.7937400\">Pishchane</a>, <a href=\"https://deepstatemap.live/en#13/48.1062246/37.3307766\">Marfopol</a>, <a href=\"https://deepstatemap.live/en#13/48.1062246/37.3307766\">Ukrayinka</a>, and <a href=\"https://deepstatemap.live/en#14/48.3760817/37.8744295\">Zalizne</a>.",
+    "updatedAt": "2024-09-18T21:44:21.817Z",
+    "datetime": "18.09 o 22:57",
+    "status": true,
+    "createdAt": "2024-09-18T20:57:01.000Z",
+    "liberated": 42808.870668209165,
+    "occupied": 66063.92831054889,
+    "unspecified": 739.0663737541116,
+    "occupiedInRussia": 790.6392700362297,
+    "occupiedInRussiaUnspecified": 366.8430002987708
   }
 ]
