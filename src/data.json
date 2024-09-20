@@ -12797,5 +12797,19 @@
     "unspecified": 739.0663737541116,
     "occupiedInRussia": 790.6392700362297,
     "occupiedInRussiaUnspecified": 366.8430002987708
+  },
+  {
+    "id": 1726789221,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#15/48.3254496/37.8056019\">Нью-Йорку</a>, <a href=\"https://deepstatemap.live/#14/48.5490297/37.9312807\">Іванівського</a>, <a href=\"https://deepstatemap.live/#14/48.0898026/37.4798965\">Галицинівки</a> та в <a href=\"https://deepstatemap.live/#16/48.3961201/37.8731653\">Торецьку</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#15/48.3254496/37.8056019\">New York</a>, <a href=\"https://deepstatemap.live/en#14/48.5490297/37.9312807\">Ivanivske</a>, <a href=\"https://deepstatemap.live/en#14/48.0898026/37.4798965\">Halytsynivka</a> and <a href=\"https://deepstatemap.live/en#16/48.3961201/37.8731653\">Toretsk</a>.",
+    "updatedAt": "2024-09-19T23:40:25.670Z",
+    "datetime": "20.09 o 01:40",
+    "status": true,
+    "createdAt": "2024-09-19T23:40:21.000Z",
+    "liberated": 42803.031581879506,
+    "occupied": 66074.0132402287,
+    "unspecified": 738.6067311014917,
+    "occupiedInRussia": 790.6392700362297,
+    "occupiedInRussiaUnspecified": 366.8430002987708
   }
 ]
