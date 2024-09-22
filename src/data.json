@@ -12825,5 +12825,19 @@
     "unspecified": 753.480097326574,
     "occupiedInRussia": 790.6392700362297,
     "occupiedInRussiaUnspecified": 366.8430002987708
+  },
+  {
+    "id": 1726958541,
+    "description": "Сили Оборони України відновили позиції біля <a href=\"https://deepstatemap.live/#14/48.7066788/37.9148083\">Залізнянського</a> та просунулися біля <a href=\"https://deepstatemap.live/#12/51.3596465/35.2697287\">Камишовки</a>. Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/49.5320870/37.7712097\">Кругляківки</a>, <a href=\"https://deepstatemap.live/#14/48.5342034/37.9649315\">Кліщіївки</a>, <a href=\"https://deepstatemap.live/#13/48.0007883/37.4651766\">Красногорівки</a>, <a href=\"https://deepstatemap.live/#15/47.9939325/37.3783903\">Гострого</a>, в <a href=\"https://deepstatemap.live/#14/49.1561196/37.9789979\">Невському</a>, <a href=\"https://deepstatemap.live/#15/48.4047918/37.8944899\">Північному</a>, <a href=\"https://deepstatemap.live/#15/48.3916877/37.8615385\">Торецьку</a>, <a href=\"https://deepstatemap.live/#15/47.9645969/37.4391504\">Георгіївці</a> та <a href=\"https://deepstatemap.live/#15/47.9716056/37.4161953\">Максимільянівці</a>.",
+    "descriptionEn": "Ukrainian Defense Forces regained positions near <a href=\"https://deepstatemap.live/en#14/48.7066788/37.9148083\">Zaliznyanske</a> and advanced near <a href=\"https://deepstatemap.live/en#12/51.3596465/35.2697287\">Kamyshivka</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.5320870/37.7712097\">Kruhlyakivka</a>, <a href=\"https://deepstatemap.live/en#14/48.5342034/37.9649315\">Klishchiyivka</a>, <a href=\"https://deepstatemap.live/en#13/48.0007883/37.4651766\">Krasnohorivka</a>, <a href=\"https://deepstatemap.live/en#15/47.9939325/37.3783903\">Horoshne</a>, in <a href=\"https://deepstatemap.live/en#14/49.1561196/37.9789979\">Nevske</a>, <a href=\"https://deepstatemap.live/en#15/48.4047918/37.8944899\">Pivnichne</a>, <a href=\"https://deepstatemap.live/en#15/48.3916877/37.8615385\">Toretsk</a>, <a href=\"https://deepstatemap.live/en#15/47.9645969/37.4391504\">Heorhiivka</a> and <a href=\"https://deepstatemap.live/en#15/47.9716056/37.4161953\">Maksymilianivka.</a>",
+    "updatedAt": "2024-09-21T22:42:25.708Z",
+    "datetime": "22.09 o 00:42",
+    "status": true,
+    "createdAt": "2024-09-21T22:42:21.000Z",
+    "liberated": 42793.02226444927,
+    "occupied": 66118.25408524384,
+    "unspecified": 739.3899727172015,
+    "occupiedInRussia": 802.5292271041376,
+    "occupiedInRussiaUnspecified": 354.95304323084974
   }
 ]
