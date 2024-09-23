@@ -12839,5 +12839,19 @@
     "unspecified": 739.3899727172015,
     "occupiedInRussia": 802.5292271041376,
     "occupiedInRussiaUnspecified": 354.95304323084974
+  },
+  {
+    "id": 1727041485,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/48.3445580/37.8739064\">Нью-Йорку</a>, <a href=\"https://deepstatemap.live/#14/48.1088347/37.3046395\">Цукуриного</a>, <a href=\"https://deepstatemap.live/#14/48.0769568/37.3554451\">Гірника</a>, <a href=\"https://deepstatemap.live/#13/47.8047904/37.2918039\">Водяного</a>, <a href=\"https://deepstatemap.live/#14/47.7698850/37.2733073\">Вугледару</a>, <a href=\"https://deepstatemap.live/#13/47.7819494/37.1627293\">Пречистівки</a> та в <a href=\"https://deepstatemap.live/#15/48.3855943/37.8704528\">Торецьку</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/48.3445580/37.8739064\">New York</a>, <a href=\"https://deepstatemap.live/en#14/48.1088347/37.3046395\">Tsukuryno</a>, <a href=\"https://deepstatemap.live/en#14/48.0769568/37.3554451\">Hirnyk</a>, <a href=\"https://deepstatemap.live/en#13/47.8047904/37.2918039\">Vodiane,</a> <a href=\"https://deepstatemap.live/en#14/47.7698850/37.2733073\">Vuhledar</a>, <a href=\"https://deepstatemap.live/en#13/47.7819494/37.1627293\">Prechystivka</a> and <a href=\"https://deepstatemap.live/en#15/48.3855943/37.8704528\">Toretsk.</a>",
+    "updatedAt": "2024-09-22T21:44:51.271Z",
+    "datetime": "22.09 o 23:44",
+    "status": true,
+    "createdAt": "2024-09-22T21:44:45.000Z",
+    "liberated": 42790.34079747664,
+    "occupied": 66153.24703162367,
+    "unspecified": 727.1679967362923,
+    "occupiedInRussia": 802.5292271041376,
+    "occupiedInRussiaUnspecified": 354.95304323084974
   }
 ]
