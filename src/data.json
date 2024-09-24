@@ -12853,5 +12853,19 @@
     "unspecified": 727.1679967362923,
     "occupiedInRussia": 802.5292271041376,
     "occupiedInRussiaUnspecified": 354.95304323084974
+  },
+  {
+    "id": 1727189765,
+    "description": "Сили Оборони України звільнили територію агрегатного заводу у <a href=\"https://deepstatemap.live/#16/50.2913740/36.9416664\">Вовчанську</a>. Ворог окупував <a href=\"https://deepstatemap.live/#14/48.0973336/37.3566777\">Українськ</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#13/47.7945339/37.0966071\">Пречистівки</a>, <a href=\"https://deepstatemap.live/#14/48.1306681/37.3499528\">Селидового</a>, <a href=\"https://deepstatemap.live/#13/48.0485365/37.5018874\">Невельського</a>, в <a href=\"https://deepstatemap.live/#14/48.0778138/37.4272832\">Желанному Першому</a> та <a href=\"https://deepstatemap.live/#15/49.1561010/37.9700158\">Невському</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces liberated the territory of the aggregate plant in <a href=\"https://deepstatemap.live/en#16/50.2913740/36.9416664\">Vovchansk</a>. The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.0973336/37.3566777\">Ukrainsk</a>, and advanced near <a href=\"https://deepstatemap.live/en#13/47.7945339/37.0966071\">Prechystivka</a>, <a href=\"https://deepstatemap.live/en#14/48.1306681/37.3499528\">Selidove</a>, <a href=\"https://deepstatemap.live/en#13/48.0485365/37.5018874\">Nevelske</a>, <a href=\"https://deepstatemap.live/en#14/48.0778138/37.4272832\">Zhelanne Pershne</a> and <a href=\"https://deepstatemap.live/en#15/49.1561010/37.9700158\">Nevske</a>.",
+    "updatedAt": "2024-09-24T15:01:17.444Z",
+    "datetime": "24.09 o 16:56",
+    "status": true,
+    "createdAt": "2024-09-24T14:56:05.000Z",
+    "liberated": 42788.28005102924,
+    "occupied": 66188.08915235555,
+    "unspecified": 707.708485114637,
+    "occupiedInRussia": 802.5292271041376,
+    "occupiedInRussiaUnspecified": 354.95304323084974
   }
 ]
