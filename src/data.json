@@ -12867,5 +12867,19 @@
     "unspecified": 707.708485114637,
     "occupiedInRussia": 802.5292271041376,
     "occupiedInRussiaUnspecified": 354.95304323084974
+  },
+  {
+    "id": 1727271875,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/47.8396081/37.3247599\">Водяного</a>, <a href=\"https://deepstatemap.live/#13/47.7620026/36.7998190\">Старомайорська</a> та у <a href=\"https://deepstatemap.live/#14/48.2294405/37.3355339\">Крутому Яру</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/47.8396081/37.3247599\">Vodyane</a>, <a href=\"https://deepstatemap.live/en#13/47.7620026/36.7998190\">Staromayorsk</a> and in <a href=\"https://deepstatemap.live/en#14/48.2294405/37.3355339\">Krutyi Yar</a>.",
+    "updatedAt": "2024-09-25T13:53:03.680Z",
+    "datetime": "25.09 o 15:44",
+    "status": true,
+    "createdAt": "2024-09-25T13:44:35.000Z",
+    "liberated": 42785.5900743589,
+    "occupied": 66198.29043491156,
+    "unspecified": 705.53668781363,
+    "occupiedInRussia": 802.5292271041376,
+    "occupiedInRussiaUnspecified": 354.95304323084974
   }
 ]
