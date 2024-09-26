@@ -12881,5 +12881,19 @@
     "unspecified": 705.53668781363,
     "occupiedInRussia": 802.5292271041376,
     "occupiedInRussiaUnspecified": 354.95304323084974
+  },
+  {
+    "id": 1727362805,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/47.7761810/37.1928950\">Вугледару</a>, в <a href=\"https://deepstatemap.live/#15/48.2500020/37.3310087\">Миколаївці</a>, <a href=\"https://deepstatemap.live/#14/48.2332110/37.3372536\">Крутому Яру</a> та <a href=\"https://deepstatemap.live/#15/48.2433169/37.3393326\">Красному Яру</a>. Уточнено смугу біля <a href=\"https://deepstatemap.live/#14/48.1166824/37.3073844\">Селидового</a> та <a href=\"https://deepstatemap.live/#15/47.7631733/36.7991585\">Старомайорського</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.7761810/37.1928950\">Vuhledar</a>, in <a href=\"https://deepstatemap.live/en#15/48.2500020/37.3310087\">Mykolaivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2332110/37.3372536\">Krutyi Yar</a> and <a href=\"https://deepstatemap.live/en#15/48.2433169/37.3393326\">Krasniy Yar</a>. The line near <a href=\"https://deepstatemap.live/en#14/48.1166824/37.3073844\">Selydove</a> and <a href=\"https://deepstatemap.live/en#15/47.7631733/36.7991585\">Staromayorske</a> has been clarified.",
+    "updatedAt": "2024-09-26T15:02:09.550Z",
+    "datetime": "26.09 o 17:00",
+    "status": true,
+    "createdAt": "2024-09-26T15:00:05.000Z",
+    "liberated": 42785.5900743589,
+    "occupied": 66207.98832888356,
+    "unspecified": 702.7364310747844,
+    "occupiedInRussia": 802.5292271041376,
+    "occupiedInRussiaUnspecified": 354.95304323084974
   }
 ]
