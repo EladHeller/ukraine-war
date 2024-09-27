@@ -12895,5 +12895,19 @@
     "unspecified": 702.7364310747844,
     "occupiedInRussia": 802.5292271041376,
     "occupiedInRussiaUnspecified": 354.95304323084974
+  },
+  {
+    "id": 1727452191,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.2293086/37.3091889\">Новогродівки</a>, <a href=\"https://deepstatemap.live/#14/48.2548227/37.3342445\">Миколаївки</a>, <a href=\"https://deepstatemap.live/#14/48.1012022/37.3122039\">Цукуриного</a>, в <a href=\"https://deepstatemap.live/#14/48.1805879/37.3475474\">Миринівці</a> та <a href=\"https://deepstatemap.live/#14/48.3425888/37.8287150\">Нью-Йорку</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.2293086/37.3091889\">Novohrodivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2548227/37.3342445\">Mykolaivka</a>, <a href=\"https://deepstatemap.live/en#14/48.1012022/37.3122039\">Tsukuryne</a>, <a href=\"https://deepstatemap.live/en#14/48.1805879/37.3475474\">Myrynivka</a> and <a href=\"https://deepstatemap.live/en#14/48.3425888/37.8287150\">New York</a>.",
+    "updatedAt": "2024-09-27T15:57:35.156Z",
+    "datetime": "27.09 o 17:49",
+    "status": true,
+    "createdAt": "2024-09-27T15:49:51.000Z",
+    "liberated": 42782.56798132106,
+    "occupied": 66214.74231820897,
+    "unspecified": 701.8942607711117,
+    "occupiedInRussia": 802.5292271041376,
+    "occupiedInRussiaUnspecified": 354.95304323084974
   }
 ]
