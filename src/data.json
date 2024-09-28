@@ -12909,5 +12909,19 @@
     "unspecified": 701.8942607711117,
     "occupiedInRussia": 802.5292271041376,
     "occupiedInRussiaUnspecified": 354.95304323084974
+  },
+  {
+    "id": 1727539866,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.1954684/37.3215432\">Новогродівки</a>, <a href=\"https://deepstatemap.live/#14/48.1727572/37.3426532\">Маринівки</a> та <a href=\"https://deepstatemap.live/#14/48.0719749/37.3416355\">Цукуриного</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.1954684/37.3215432\">Novohrodivka</a>, <a href=\"https://deepstatemap.live/en#14/48.1727572/37.3426532\">Marynivka</a> and <a href=\"https://deepstatemap.live/en#14/48.0719749/37.3416355\">Tsukuryno</a>.",
+    "updatedAt": "2024-09-28T16:16:00.377Z",
+    "datetime": "28.09 o 18:11",
+    "status": true,
+    "createdAt": "2024-09-28T16:11:06.000Z",
+    "liberated": 42782.56798132106,
+    "occupied": 66218.76557369712,
+    "unspecified": 706.0247724421739,
+    "occupiedInRussia": 792.9480752651974,
+    "occupiedInRussiaUnspecified": 364.53419506982516
   }
 ]
