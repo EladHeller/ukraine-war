@@ -12923,5 +12923,19 @@
     "unspecified": 706.0247724421739,
     "occupiedInRussia": 792.9480752651974,
     "occupiedInRussiaUnspecified": 364.53419506982516
+  },
+  {
+    "id": 1727615310,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.1735544/37.3487535\">Маринівку</a> та просунувся біля <a href=\"https://deepstatemap.live/#14/48.1823653/37.3281583\">Новогродівки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.1735544/37.3487535\">Marynivka</a> and advanced near <a href=\"https://deepstatemap.live/en#14/48.1823653/37.3281583\">Novohrodivka</a>.",
+    "updatedAt": "2024-09-29T13:08:38.878Z",
+    "datetime": "29.09 o 15:08",
+    "status": true,
+    "createdAt": "2024-09-29T13:08:30.000Z",
+    "liberated": 42782.56798132106,
+    "occupied": 66223.77716858104,
+    "unspecified": 704.9007368897664,
+    "occupiedInRussia": 792.9480752651974,
+    "occupiedInRussiaUnspecified": 364.53419506982516
   }
 ]
