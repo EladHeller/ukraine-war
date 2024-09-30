@@ -12932,10 +12932,10 @@
     "datetime": "29.09 o 15:08",
     "status": true,
     "createdAt": "2024-09-29T13:08:30.000Z",
-    "liberated": 42782.56798132106,
-    "occupied": 66223.77716858104,
-    "unspecified": 704.9007368897664,
-    "occupiedInRussia": 792.9480752651974,
-    "occupiedInRussiaUnspecified": 364.53419506982516
+    "liberated": 42782.568446689336,
+    "occupied": 66223.81138320017,
+    "unspecified": 704.8871638689789,
+    "occupiedInRussia": 792.9487455134001,
+    "occupiedInRussiaUnspecified": 364.5342398689768
   }
 ]
