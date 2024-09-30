@@ -12937,5 +12937,19 @@
     "unspecified": 704.8871638689789,
     "occupiedInRussia": 792.9487455134001,
     "occupiedInRussiaUnspecified": 364.5342398689768
+  },
+  {
+    "id": 1727704619,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/49.1632115/37.9776044\">Невське</a> та просунувся біля <a href=\"https://deepstatemap.live/#13/48.1838801/37.3088082\">Новогродівки</a>, <a href=\"https://deepstatemap.live/#14/49.5278174/37.8099189\">Кругляківки</a>, <a href=\"https://deepstatemap.live/#14/47.7997163/37.2787975\">Водяного</a>, у <a href=\"https://deepstatemap.live/#15/47.7792377/37.2551329\">Вугледарі</a> та <a href=\"https://deepstatemap.live/#14/48.3905233/37.8645034\">Торецьку</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/49.1632115/37.9776044\">Nevske</a> and advanced near <a href=\"https://deepstatemap.live/en#13/48.1838801/37.3088082\">Novohrodivka</a>, <a href=\"https://deepstatemap.live/en#14/49.5278174/37.8099189\">Kruhliakivka</a>, <a href=\"https://deepstatemap.live/en#14/47.7997163/37.2787975\">Vodyane</a>, <a href=\"https://deepstatemap.live/en#15/47.7792377/37.2551329\">Vuhledar</a> and <a href=\"https://deepstatemap.live/en#14/48.3905233/37.8645034\">Toretsk</a>.",
+    "updatedAt": "2024-09-30T14:01:00.185Z",
+    "datetime": "30.09 o 15:56",
+    "status": true,
+    "createdAt": "2024-09-30T13:56:59.000Z",
+    "liberated": 42777.82404048516,
+    "occupied": 66233.17653925033,
+    "unspecified": 704.2220260704992,
+    "occupiedInRussia": 792.9480752651974,
+    "occupiedInRussiaUnspecified": 364.53419506982516
   }
 ]
