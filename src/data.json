@@ -12965,5 +12965,19 @@
     "unspecified": 700.8790537642035,
     "occupiedInRussia": 792.9480752651974,
     "occupiedInRussiaUnspecified": 364.53419506982516
+  },
+  {
+    "id": 1727819282,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/47.7833743/37.2527078\">Вугледар</a> та <a href=\"https://deepstatemap.live/#13/51.2858914/34.9619437\">Обуховку</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/47.7833743/37.2527078\">Vuhledar</a> and <a href=\"https://deepstatemap.live/en#13/51.2858914/34.9619437\">Obukhivka</a>.",
+    "updatedAt": "2024-10-01T21:56:39.563Z",
+    "datetime": "01.10 o 23:48",
+    "status": true,
+    "createdAt": "2024-10-01T21:48:02.000Z",
+    "liberated": 42777.82404048516,
+    "occupied": 66247.35275711902,
+    "unspecified": 699.289195137973,
+    "occupiedInRussia": 787.9278907395814,
+    "occupiedInRussiaUnspecified": 345.6912393655424
   }
 ]
