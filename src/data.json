@@ -12979,5 +12979,19 @@
     "unspecified": 699.289195137973,
     "occupiedInRussia": 787.9278907395814,
     "occupiedInRussiaUnspecified": 345.6912393655424
+  },
+  {
+    "id": 1727985923,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/48.0875439/37.3319725\">Цукуриного</a>, <a href=\"https://deepstatemap.live/#13/47.8644868/37.3556658\">Катеринівки</a>, <a href=\"https://deepstatemap.live/#12/49.5391333/37.7409547\">Колесниківки</a> та у <a href=\"https://deepstatemap.live/#16/48.3938541/37.8537263\">Торецьку</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/48.0875439/37.3319725\">Tsukuryno</a>, <a href=\"https://deepstatemap.live/en#13/47.8644868/37.3556658\">Katerynivka</a>, <a href=\"https://deepstatemap.live/en#12/49.5391333/37.7409547\">Kolesnykivka</a> and <a href=\"https://deepstatemap.live/en#16/48.3938541/37.8537263\">Toretsk</a>.",
+    "updatedAt": "2024-10-03T20:27:41.453Z",
+    "datetime": "03.10 o 22:05",
+    "status": true,
+    "createdAt": "2024-10-03T20:05:23.000Z",
+    "liberated": 42771.716693573915,
+    "occupied": 66261.31535750002,
+    "unspecified": 708.8037248384305,
+    "occupiedInRussia": 787.9278907395814,
+    "occupiedInRussiaUnspecified": 345.6912393655424
   }
 ]
