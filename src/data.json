@@ -12993,5 +12993,19 @@
     "unspecified": 708.8037248384305,
     "occupiedInRussia": 787.9278907395814,
     "occupiedInRussiaUnspecified": 345.6912393655424
+  },
+  {
+    "id": 1728071143,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/49.4238511/37.9051032\">Андріївку</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/47.9517998/37.4435007\">Георгіївки</a>, <a href=\"https://deepstatemap.live/#13/48.0774321/37.4548742\">Желанного Першого</a>, <a href=\"https://deepstatemap.live/#14/47.7973335/37.2254132\">Вугледара</a>, <a href=\"https://deepstatemap.live/#14/49.5540259/37.7475160\">Колесниківки</a> та у <a href=\"https://deepstatemap.live/#14/49.4644164/37.9089636\">Стельмахівці</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/49.4238511/37.9051032\">Andriivka</a> and advanced near <a href=\"https://deepstatemap.live/en#14/47.9517998/37.4435007\">Heorhiivka,</a> <a href=\"https://deepstatemap.live/en#13/48.0774321/37.4548742\">Zhelianyi Pershyi</a>, <a href=\"https://deepstatemap.live/en#14/47.7973335/37.2254132\">Vuhledar</a>, <a href=\"https://deepstatemap.live/en#14/49.5540259/37.7475160\">Kolesnykivka</a> and <a href=\"https://deepstatemap.live/en#14/49.4644164/37.9089636\">Stelmakhivka</a>.",
+    "updatedAt": "2024-10-04T19:47:04.304Z",
+    "datetime": "04.10 o 21:45",
+    "status": true,
+    "createdAt": "2024-10-04T19:45:43.000Z",
+    "liberated": 42756.91914234576,
+    "occupied": 66291.17301778003,
+    "unspecified": 699.2312586915803,
+    "occupiedInRussia": 787.9278907395814,
+    "occupiedInRussiaUnspecified": 345.6912393655424
   }
 ]
