@@ -13007,5 +13007,19 @@
     "unspecified": 699.2312586915803,
     "occupiedInRussia": 787.9278907395814,
     "occupiedInRussiaUnspecified": 345.6912393655424
+  },
+  {
+    "id": 1728160629,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#14/47.9740930/37.4056547\">Максимільянівці</a>, <a href=\"https://deepstatemap.live/#14/48.0855470/37.3186306\">Цукуриному</a>, <a href=\"https://deepstatemap.live/#16/48.3918602/37.8509806\">Торецьку</a>, біля <a href=\"https://deepstatemap.live/#14/49.4400209/37.9124902\">М'ясожарівки</a> та <a href=\"https://deepstatemap.live/#14/49.5494951/37.8652871\">Піщаного</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/#14/47.9740930/37.4056547\">Maksymilianivka</a>, <a href=\"https://deepstatemap.live/#14/48.0855470/37.3186306\">Tsukuryno</a>, <a href=\"https://deepstatemap.live/#16/48.3918602/37.8509806\">Toretsk</a>, near <a href=\"https://deepstatemap.live/#14/49.4400209/37.9124902\">Myasozharivka</a> and <a href=\"https://deepstatemap.live/#14/49.5494951/37.8652871\">Pishchane</a>.",
+    "updatedAt": "2024-10-05T20:41:10.971Z",
+    "datetime": "05.10 o 22:37",
+    "status": true,
+    "createdAt": "2024-10-05T20:37:09.000Z",
+    "liberated": 42753.50927944329,
+    "occupied": 66298.28698655928,
+    "unspecified": 700.0857719649105,
+    "occupiedInRussia": 787.9278907395814,
+    "occupiedInRussiaUnspecified": 345.6912393655424
   }
 ]
