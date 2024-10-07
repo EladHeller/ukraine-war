@@ -13021,5 +13021,19 @@
     "unspecified": 700.0857719649105,
     "occupiedInRussia": 787.9278907395814,
     "occupiedInRussiaUnspecified": 345.6912393655424
+  },
+  {
+    "id": 1728251306,
+    "description": "Ворог завершив повну окупацію <a href=\"https://deepstatemap.live/#13/48.0273084/37.4843858\">Красногорівки</a>, а також просунувся в <a href=\"https://deepstatemap.live/#14/48.0860722/37.3129669\">Цукуриному</a>, біля <a href=\"https://deepstatemap.live/#14/48.0727167/37.3980942\">Гірника</a> та <a href=\"https://deepstatemap.live/#15/51.3118746/35.0231894\">Любимівки</a>.",
+    "descriptionEn": "The enemy completed the full occupation of <a href=\"https://deepstatemap.live/en#13/48.0273084/37.4843858\">Krasnohorivka</a>, and also advanced in <a href=\"https://deepstatemap.live/en#14/48.0860722/37.3129669\">Tsukuryno</a>, near <a href=\"https://deepstatemap.live/en#14/48.0727167/37.3980942\">Hirnyk</a> and <a href=\"https://deepstatemap.live/en#15/51.3118746/35.0231894\">Lyubymivka</a>.",
+    "updatedAt": "2024-10-06T21:53:10.664Z",
+    "datetime": "06.10 o 23:48",
+    "status": true,
+    "createdAt": "2024-10-06T21:48:26.000Z",
+    "liberated": 42753.50927944329,
+    "occupied": 66307.09530529326,
+    "unspecified": 692.3651902479985,
+    "occupiedInRussia": 770.084290625139,
+    "occupiedInRussiaUnspecified": 343.27592110757024
   }
 ]
