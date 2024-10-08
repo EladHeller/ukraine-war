@@ -13035,5 +13035,19 @@
     "unspecified": 692.3651902479985,
     "occupiedInRussia": 770.084290625139,
     "occupiedInRussiaUnspecified": 343.27592110757024
+  },
+  {
+    "id": 1728347723,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.0714642/37.4214546\">Желанне Перше</a> та <a href=\"https://deepstatemap.live/#13/49.4899221/37.9087523\">Стельмахівку</a>, а також просунувся у <a href=\"https://deepstatemap.live/#15/47.9716093/37.4091534\">Максимільянівці</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.0714642/37.4214546\">Zhelanne Pershe</a> and <a href=\"https://deepstatemap.live/en#13/49.4899221/37.9087523\">Stelmakhivka</a> and advanced in <a href=\"https://deepstatemap.live/en#15/47.9716093/37.4091534\">Maksymilianivka</a>.",
+    "updatedAt": "2024-10-08T00:35:26.364Z",
+    "datetime": "08.10 o 02:35",
+    "status": true,
+    "createdAt": "2024-10-08T00:35:23.000Z",
+    "liberated": 42750.169885029834,
+    "occupied": 66314.03009855654,
+    "unspecified": 688.7698940302452,
+    "occupiedInRussia": 770.084290625139,
+    "occupiedInRussiaUnspecified": 343.27592110757024
   }
 ]
