@@ -13049,5 +13049,19 @@
     "unspecified": 688.7698940302452,
     "occupiedInRussia": 770.084290625139,
     "occupiedInRussiaUnspecified": 343.27592110757024
+  },
+  {
+    "id": 1728479195,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/47.7902721/36.9915640\">Золотої Ниви</a>, <a href=\"https://deepstatemap.live/#13/47.7999439/37.2555562\">Вугледару</a>, в <a href=\"https://deepstatemap.live/#14/48.0832169/37.3051378\">Цукуриному</a> та <a href=\"https://deepstatemap.live/#15/48.3901868/37.8554753\">Торецьку</a>. Уточнено просування противника біля <a href=\"https://deepstatemap.live/#12/47.4479569/35.8568170\">Роботиного</a>. Активізація ворожих диверсійних груп у <a href=\"https://deepstatemap.live/#14/47.5445238/35.3371380\">Кам'янському</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#13/47.7902721/36.9915640\">Zolota Niva</a>, <a href=\"https://deepstatemap.live/en#13/47.7999439/37.2555562\">Vuhledar</a>, <a href=\"https://deepstatemap.live/en#14/48.0832169/37.3051378\">Tsukuryno</a> and <a href=\"https://deepstatemap.live/en#15/48.3901868/37.8554753\">Toretsk</a>. Advance of the enemy near <a href=\"https://deepstatemap.live/en#12/47.4479569/35.8568170\">Robotyno</a> has been clarified. Enemy sabotage groups are activating in <a href=\"https://deepstatemap.live/en#14/47.5445238/35.3371380\">Kamianske</a>.",
+    "updatedAt": "2024-10-09T13:11:53.980Z",
+    "datetime": "09.10 o 15:06",
+    "status": true,
+    "createdAt": "2024-10-09T13:06:35.000Z",
+    "liberated": 42743.89950382558,
+    "occupied": 66339.94321423421,
+    "unspecified": 675.8045670664958,
+    "occupiedInRussia": 770.084290625139,
+    "occupiedInRussiaUnspecified": 343.27592110757024
   }
 ]
