@@ -13063,5 +13063,19 @@
     "unspecified": 675.8045670664958,
     "occupiedInRussia": 770.084290625139,
     "occupiedInRussiaUnspecified": 343.27592110757024
+  },
+  {
+    "id": 1728584073,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#15/48.2493548/37.3225093\">Миколаївку</a>, <a href=\"https://deepstatemap.live/#15/48.2416982/37.3365827\">Красний Яр</a>, <a href=\"https://deepstatemap.live/#15/48.2347548/37.3349093\">Крутий Яр</a> та <a href=\"https://deepstatemap.live/#13/49.4504298/37.9204273\">М'ясожарівку</a>, проводить штурмові дії на <a href=\"https://deepstatemap.live/#14/51.3158878/35.0830770\">Зелений Шлях</a> та <a href=\"https://deepstatemap.live/#14/51.3240386/35.1009262\">Новоіванівку</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/48.3349026/37.8066974\">Нью-Йорку</a>. Диверсійні групи у Кам'янському ліквідовано.",
+    "descriptionEn": "The enemy has occupied <a href=\"https://deepstatemap.live/en#15/48.2493548/37.3225093\">Mykolaivka</a>, <a href=\"https://deepstatemap.live/en#15/48.2416982/37.3365827\">Krasnyi Yar</a>, <a href=\"https://deepstatemap.live/en#15/48.2347548/37.3349093\">Krutyi Yar</a> and <a href=\"https://deepstatemap.live/en#13/49.4504298/37.9204273\">Myasozharivka</a>, is conducting assault operations on <a href=\"https://deepstatemap.live/en#14/51.3158878/35.0830770\">Zelenyi Shlyakh</a> and <a href=\"https://deepstatemap.live/en#14/51.3240386/35.1009262\">Novoivanivka</a>, and has advanced near <a href=\"https://deepstatemap.live/en#14/48.3349026/37.8066974\">New York</a>. Sabotage groups in <a href=\"https://deepstatemap.live/en#14/47.5446441/35.3400597\">Kamyanske</a> have been eliminated.",
+    "updatedAt": "2024-10-10T18:17:38.402Z",
+    "datetime": "10.10 o 20:14",
+    "status": true,
+    "createdAt": "2024-10-10T18:14:33.000Z",
+    "liberated": 42741.77403961484,
+    "occupied": 66346.25711476743,
+    "unspecified": 673.1053190426239,
+    "occupiedInRussia": 731.9517632521652,
+    "occupiedInRussiaUnspecified": 381.40844848050887
   }
 ]
