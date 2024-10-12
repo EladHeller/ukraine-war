@@ -13077,5 +13077,19 @@
     "unspecified": 673.1053190426239,
     "occupiedInRussia": 731.9517632521652,
     "occupiedInRussiaUnspecified": 381.40844848050887
+  },
+  {
+    "id": 1728680056,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.2333329/37.3053212\">Новогродівки</a>, <a href=\"https://deepstatemap.live/#13/48.2880416/37.5867147\">Новоолександрівки</a>, <a href=\"https://deepstatemap.live/#14/48.3356225/37.7966088\">Сухої Балки</a> та в <a href=\"https://deepstatemap.live/#14/48.0010859/37.3502945\">Острівському</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.2333329/37.3053212\">Novohrodivka</a>, <a href=\"https://deepstatemap.live/en#13/48.2880416/37.5867147\">Novooleksandrivka,</a> <a href=\"https://deepstatemap.live/en#14/48.3356225/37.7966088\">Sukhoi Balka</a> and in <a href=\"https://deepstatemap.live/en#14/48.0010859/37.3502945\">Ostrovske.</a>",
+    "updatedAt": "2024-10-11T22:01:44.138Z",
+    "datetime": "11.10 o 22:54",
+    "status": true,
+    "createdAt": "2024-10-11T20:54:16.000Z",
+    "liberated": 42741.77403961462,
+    "occupied": 66351.75086363118,
+    "unspecified": 674.4898562903701,
+    "occupiedInRussia": 731.9517632521652,
+    "occupiedInRussiaUnspecified": 367.89188348792635
   }
 ]
