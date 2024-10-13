@@ -13091,5 +13091,19 @@
     "unspecified": 674.4898562903701,
     "occupiedInRussia": 731.9517632521652,
     "occupiedInRussiaUnspecified": 367.89188348792635
+  },
+  {
+    "id": 1728766395,
+    "description": "Сили Оборони України відновили положення біля <a href=\"https://deepstatemap.live/#14/48.2343945/37.3012685\">Новогродівки</a>. Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/47.8412206/37.3254485\">Веселого</a>, <a href=\"https://deepstatemap.live/#13/51.0833976/35.4603507\">Спального</a>, <a href=\"https://deepstatemap.live/#13/51.0957929/35.4198468\">Борків</a> та <a href=\"https://deepstatemap.live/#14/49.5458484/37.7188540\">Кругляківки</a>. Тривають важкі бої біля <a href=\"https://deepstatemap.live/#12/51.3202061/35.0791665\">Новоіванівки</a>.",
+    "descriptionEn": "Ukrainian Defense Forces regained the position near <a href=\"https://deepstatemap.live/en#14/48.2343945/37.3012685\">Novohrodivka</a>. The enemy has advanced near <a href=\"https://deepstatemap.live/en#13/47.8412206/37.3254485\">Vesele</a>, <a href=\"https://deepstatemap.live/en#13/51.0833976/35.4603507\">Spalne</a>, <a href=\"https://deepstatemap.live/en#13/51.0957929/35.4198468\">Borky</a> and <a href=\"https://deepstatemap.live/en#14/49.5458484/37.7188540\">Kruhliakivka</a>. Heavy fighting continues near <a href=\"https://deepstatemap.live/en#12/51.3202061/35.0791665\">Novoivanivka</a>.",
+    "updatedAt": "2024-10-12T23:12:22.452Z",
+    "datetime": "12.10 o 22:53",
+    "status": true,
+    "createdAt": "2024-10-12T20:53:15.000Z",
+    "liberated": 42740.76012604221,
+    "occupied": 66357.78972723547,
+    "unspecified": 672.0257716566659,
+    "occupiedInRussia": 705.5405722498392,
+    "occupiedInRussiaUnspecified": 361.88825689724325
   }
 ]
