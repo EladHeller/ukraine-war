@@ -13105,5 +13105,19 @@
     "unspecified": 672.0257716566659,
     "occupiedInRussia": 705.5405722498392,
     "occupiedInRussiaUnspecified": 361.88825689724325
+  },
+  {
+    "id": 1728853044,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#15/48.6061145/37.8474067\">Калинівки</a>, <a href=\"https://deepstatemap.live/#15/48.5675381/37.8702799\">Часового Яру</a>, <a href=\"https://deepstatemap.live/#15/48.6298067/37.8469785\">Григорівки</a>, Вугледару, <a href=\"https://deepstatemap.live/#13/51.3578921/35.0157505\">Ольгівки</a>, <a href=\"https://deepstatemap.live/#13/51.3909920/35.1225023\">Крем'яного</a>, в <a href=\"https://deepstatemap.live/#15/48.0875036/37.3010376\">Цукуриному</a> та <a href=\"https://deepstatemap.live/#14/47.7960035/36.9829410\">Золотій Ниві</a>.",
+    "descriptionEn": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#15/48.6061145/37.8474067\">Калинівки</a>, <a href=\"https://deepstatemap.live/#15/48.5675381/37.8702799\">Часового Яру</a>, <a href=\"https://deepstatemap.live/#15/48.6298067/37.8469785\">Григорівки</a>, Вугледару, <a href=\"https://deepstatemap.live/#13/51.3578921/35.0157505\">Ольгівки</a>, <a href=\"https://deepstatemap.live/#13/51.3909920/35.1225023\">Крем'яного</a>, в <a href=\"https://deepstatemap.live/#15/48.0875036/37.3010376\">Цукуриному</a> та <a href=\"https://deepstatemap.live/#14/47.7960035/36.9829410\">Золотій Ниві</a>.",
+    "updatedAt": "2024-10-13T23:51:39.987Z",
+    "datetime": "13.10 o 22:57",
+    "status": true,
+    "createdAt": "2024-10-13T20:57:24.000Z",
+    "liberated": 42739.23514802617,
+    "occupied": 66367.83548348032,
+    "unspecified": 676.8876639092756,
+    "occupiedInRussia": 662.7447788307564,
+    "occupiedInRussiaUnspecified": 361.0085343635726
   }
 ]
