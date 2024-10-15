@@ -13119,5 +13119,19 @@
     "unspecified": 676.8876639092756,
     "occupiedInRussia": 662.7447788307564,
     "occupiedInRussiaUnspecified": 361.0085343635726
+  },
+  {
+    "id": 1728939021,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/49.1868085/38.0290895\">Невського</a>, <a href=\"https://deepstatemap.live/#14/47.8305924/37.2842968\">Водяного</a>, <a href=\"https://deepstatemap.live/#13/47.7749236/36.9690748\">Золотої Ниви</a>, <a href=\"https://deepstatemap.live/#13/47.7495460/36.6603184\">Приютного</a> та у <a href=\"https://deepstatemap.live/#16/48.3943686/37.8493054\">Торецьку</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/49.1868085/38.0290895\">Nevske</a>, <a href=\"https://deepstatemap.live/en#14/47.8305924/37.2842968\">Vodyane</a>, <a href=\"https://deepstatemap.live/en#13/47.7749236/36.9690748\">Zolota Niva</a>, <a href=\"https://deepstatemap.live/en#13/47.7495460/36.6603184\">Pryiutne</a> and <a href=\"https://deepstatemap.live/en#16/48.3943686/37.8493054\">Toretsk</a>.",
+    "updatedAt": "2024-10-14T21:54:27.714Z",
+    "datetime": "14.10 o 22:50",
+    "status": true,
+    "createdAt": "2024-10-14T20:50:21.000Z",
+    "liberated": 42727.744447573605,
+    "occupied": 66385.47446712357,
+    "unspecified": 673.2705555177134,
+    "occupiedInRussia": 662.7447788307564,
+    "occupiedInRussiaUnspecified": 361.0085343635726
   }
 ]
