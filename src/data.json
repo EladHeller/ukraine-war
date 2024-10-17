@@ -13147,5 +13147,19 @@
     "unspecified": 674.8163378510487,
     "occupiedInRussia": 662.7447788307564,
     "occupiedInRussiaUnspecified": 361.0085343635726
+  },
+  {
+    "id": 1729111858,
+    "description": "Сили Оборони України відновили позиції у районі <a href=\"https://deepstatemap.live/#14/50.2302693/36.4544815\">Липців</a>. Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.3462944/37.8303471\">Нью-Йорку</a>, <a href=\"https://deepstatemap.live/#14/47.8682622/37.3522724\">Катеринівки</a>, <a href=\"https://deepstatemap.live/#14/48.1591810/37.3420599\">Селидового</a> та <a href=\"https://deepstatemap.live/#14/48.0613681/37.3272971\">Новоселидівки</a>.",
+    "descriptionEn": "Ukrainian Defense Forces regained positions near <a href=\"https://deepstatemap.live/en#14/50.2302693/36.4544815\">Lypky</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.3462944/37.8303471\">New York</a>, <a href=\"https://deepstatemap.live/en#14/47.8682622/37.3522724\">Katerynivka</a>, <a href=\"https://deepstatemap.live/en#14/48.1591810/37.3420599\">Selidove</a> and <a href=\"https://deepstatemap.live/en#14/48.0613681/37.3272971\">Novoselidivka</a>.",
+    "updatedAt": "2024-10-16T22:41:44.788Z",
+    "datetime": "16.10 o 22:50",
+    "status": true,
+    "createdAt": "2024-10-16T20:50:58.000Z",
+    "liberated": 42718.13578541765,
+    "occupied": 66397.26896768087,
+    "unspecified": 678.8551840558532,
+    "occupiedInRussia": 662.7447788307564,
+    "occupiedInRussiaUnspecified": 361.0085343635726
   }
 ]
