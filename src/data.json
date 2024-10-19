@@ -13175,5 +13175,19 @@
     "unspecified": 685.6456660647523,
     "occupiedInRussia": 662.7447788307564,
     "occupiedInRussiaUnspecified": 361.0085343635726
+  },
+  {
+    "id": 1729284206,
+    "description": "Сили Оборони відкинули ворога у <a href=\"https://deepstatemap.live/#14/49.5409437/37.7198030\">Кругляківці</a>. Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.5156161/37.9718813\">Кліщіївки</a>, <a href=\"https://deepstatemap.live/#14/47.9580697/37.4246173\">Максимільянівки</a> та <a href=\"https://deepstatemap.live/#14/47.8052310/37.2063596\">Вугледару</a>.",
+    "descriptionEn": "The Defense Forces pushed back the enemy in <a href=\"https://deepstatemap.live/en#14/49.5409437/37.7198030\">Kruhlyakivka</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.5156161/37.9718813\">Klishchiyivka</a>, <a href=\"https://deepstatemap.live/en#14/47.9580697/37.4246173\">Maksymilianivka</a> and <a href=\"https://deepstatemap.live/en#14/47.8052310/37.2063596\">Vuhledar</a>.",
+    "updatedAt": "2024-10-18T22:10:36.527Z",
+    "datetime": "18.10 o 22:43",
+    "status": true,
+    "createdAt": "2024-10-18T20:43:26.000Z",
+    "liberated": 42716.658514142306,
+    "occupied": 66407.8947645543,
+    "unspecified": 685.4493940020809,
+    "occupiedInRussia": 662.7447788307564,
+    "occupiedInRussiaUnspecified": 361.0085343635726
   }
 ]
