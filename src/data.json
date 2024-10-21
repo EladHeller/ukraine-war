@@ -13203,5 +13203,19 @@
     "unspecified": 686.7149685915841,
     "occupiedInRussia": 662.7447788307564,
     "occupiedInRussiaUnspecified": 361.0085343635726
+  },
+  {
+    "id": 1729456287,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#13/48.0582913/37.4196625\">Желанне Друге</a>, а також просунувся у <a href=\"https://deepstatemap.live/#14/49.4125503/37.8589391\">Вишневому</a>, <a href=\"https://deepstatemap.live/#13/48.0582913/37.3645704\">Гірнику</a>, біля <a href=\"https://deepstatemap.live/#14/51.4023506/35.0082597\">Ольгівки</a> та <a href=\"https://deepstatemap.live/#13/51.3086187/35.0230037\">Любимівки</a>. Уточнено район <a href=\"https://deepstatemap.live/#15/48.3000488/37.5303798\">Воздвиженки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#13/48.0582913/37.4196625\">Zhelanne Druhe</a> and advanced in <a href=\"https://deepstatemap.live/en#14/49.4125503/37.8589391\">Vyshneve</a>, <a href=\"https://deepstatemap.live/en#13/48.0582913/37.3645704\">Hirnyk</a>, near <a href=\"https://deepstatemap.live/en#14/51.4023506/35.0082597\">Olhivka</a> and <a href=\"https://deepstatemap.live/en#13/51.3086187/35.0230037\">Lyubymivka</a>. The area of <a href=\"https://deepstatemap.live/en#15/48.3000488/37.5303798\">Vozdvyzhenka</a> has been clarified.",
+    "updatedAt": "2024-10-20T21:01:12.626Z",
+    "datetime": "20.10 o 22:31",
+    "status": true,
+    "createdAt": "2024-10-20T20:31:27.000Z",
+    "liberated": 42701.06746461968,
+    "occupied": 66442.90803024576,
+    "unspecified": 692.8070377661213,
+    "occupiedInRussia": 627.2191633032152,
+    "occupiedInRussiaUnspecified": 352.11611099049617
   }
 ]
