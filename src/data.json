@@ -13217,5 +13217,19 @@
     "unspecified": 692.8070377661213,
     "occupiedInRussia": 627.2191633032152,
     "occupiedInRussiaUnspecified": 352.11611099049617
+  },
+  {
+    "id": 1729542508,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.3465288/37.7873440\">Неліпівки</a>, <a href=\"https://deepstatemap.live/#14/47.9846007/37.3523565\">Курахового</a>, <a href=\"https://deepstatemap.live/#14/47.8496447/37.3073573\">Водяного</a> та у <a href=\"https://deepstatemap.live/#14/48.2194372/37.2802630\">Лисівці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.3465288/37.7873440\">Nelipivka</a>, <a href=\"https://deepstatemap.live/en#14/47.9846007/37.3523565\">Kurakhove</a>, <a href=\"https://deepstatemap.live/en#14/47.8496447/37.3073573\">Vodiane</a> and <a href=\"https://deepstatemap.live/en#14/48.2194372/37.2802630\">Lysivka</a>.",
+    "updatedAt": "2024-10-21T21:01:15.127Z",
+    "datetime": "21.10 o 22:28",
+    "status": true,
+    "createdAt": "2024-10-21T20:28:28.000Z",
+    "liberated": 42701.06746461968,
+    "occupied": 66451.99310495399,
+    "unspecified": 693.0588325683973,
+    "occupiedInRussia": 627.2191633032152,
+    "occupiedInRussiaUnspecified": 352.11611099049617
   }
 ]
