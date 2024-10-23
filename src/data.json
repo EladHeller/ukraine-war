@@ -13231,5 +13231,19 @@
     "unspecified": 693.0588325683973,
     "occupiedInRussia": 627.2191633032152,
     "occupiedInRussiaUnspecified": 352.11611099049617
+  },
+  {
+    "id": 1729628673,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/49.1262676/37.9705115\">Новосадове</a>, а також просунувся у <a href=\"https://deepstatemap.live/#14/49.5309663/37.7098426\">Кругляківці</a>, біля <a href=\"https://deepstatemap.live/#14/47.8286866/37.2407800\">Богоявленки</a>, <a href=\"https://deepstatemap.live/#14/48.0294498/37.4164696\">Зоряного</a>, <a href=\"https://deepstatemap.live/#14/48.1476536/37.3352642\">Селидового</a> та <a href=\"https://deepstatemap.live/#14/48.0901446/37.2704752\">Новодмитрівки</a>. Уточнено ситуацію в <a href=\"https://deepstatemap.live/#15/48.3952013/37.8485656\">Торецьку</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/49.1262676/37.9705115\">Novosadove</a> and advanced in <a href=\"https://deepstatemap.live/en#14/49.5309663/37.7098426\">Kruhlyakivka</a>, near <a href=\"https://deepstatemap.live/en#14/47.8286866/37.2407800\">Bohoyavlenka</a>, <a href=\"https://deepstatemap.live/en#14/48.0294498/37.4164696\">Zoryane</a>, <a href=\"https://deepstatemap.live/en#14/48.1476536/37.3352642\">Selidove</a> and <a href=\"https://deepstatemap.live/en#14/48.0901446/37.2704752\">Novodmytrivka</a>. The situation in <a href=\"https://deepstatemap.live/en#15/48.3952013/37.8485656\">Toretsk</a> has been clarified.",
+    "updatedAt": "2024-10-23T01:16:18.524Z",
+    "datetime": "22.10 o 22:24",
+    "status": true,
+    "createdAt": "2024-10-22T20:24:33.000Z",
+    "liberated": 42679.46563926759,
+    "occupied": 66486.3697590592,
+    "unspecified": 697.3426050295653,
+    "occupiedInRussia": 627.2191633032152,
+    "occupiedInRussiaUnspecified": 355.756250935735
   }
 ]
