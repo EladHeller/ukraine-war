@@ -13245,5 +13245,19 @@
     "unspecified": 697.3426050295653,
     "occupiedInRussia": 627.2191633032152,
     "occupiedInRussiaUnspecified": 355.756250935735
+  },
+  {
+    "id": 1729715088,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#13/48.1449842/37.3103828\">Селидовому</a>, <a href=\"https://deepstatemap.live/#13/47.8733617/37.4078477\">Костянтинівці</a>, <a href=\"https://deepstatemap.live/#14/48.0573890/37.3391358\">Ізмайлівці</a> та біля <a href=\"https://deepstatemap.live/#14/47.8373305/37.2574234\">Богоявленки</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#13/48.1449842/37.3103828\">Selydove</a>, <a href=\"https://deepstatemap.live/en#13/47.8733617/37.4078477\">Kostiantynivka</a>, <a href=\"https://deepstatemap.live/en#14/48.0573890/37.3391358\">Izmailivka</a> and near <a href=\"https://deepstatemap.live/en#14/47.8373305/37.2574234\">Bohoyavlenka</a>.",
+    "updatedAt": "2024-10-23T21:50:03.832Z",
+    "datetime": "23.10 o 22:24",
+    "status": true,
+    "createdAt": "2024-10-23T20:24:48.000Z",
+    "liberated": 42679.46563926759,
+    "occupied": 66506.16865041915,
+    "unspecified": 694.725741260565,
+    "occupiedInRussia": 627.2191633032152,
+    "occupiedInRussiaUnspecified": 355.756250935735
   }
 ]
