@@ -13259,5 +13259,19 @@
     "unspecified": 694.725741260565,
     "occupiedInRussia": 627.2191633032152,
     "occupiedInRussiaUnspecified": 355.756250935735
+  },
+  {
+    "id": 1729802322,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/49.1886009/37.9957878\">Невського</a>.",
+    "descriptionEn": "Ворог просунувся біля <a href=\"https://deepstatemap.live/en#13/49.1886009/37.9957878\">Невського</a>.",
+    "updatedAt": "2024-10-24T22:38:51.574Z",
+    "datetime": "24.10 o 22:38",
+    "status": true,
+    "createdAt": "2024-10-24T20:38:42.000Z",
+    "liberated": 42674.58429956213,
+    "occupied": 66519.22459650684,
+    "unspecified": 687.5387334138585,
+    "occupiedInRussia": 627.2191633032152,
+    "occupiedInRussiaUnspecified": 355.756250935735
   }
 ]
