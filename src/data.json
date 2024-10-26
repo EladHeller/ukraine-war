@@ -13273,5 +13273,19 @@
     "unspecified": 687.5387334138585,
     "occupiedInRussia": 627.2191633032152,
     "occupiedInRussiaUnspecified": 355.756250935735
+  },
+  {
+    "id": 1729889578,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.1370027/37.2940162\">Селидовому</a>, <a href=\"https://deepstatemap.live/#14/47.8730675/37.3516706\">Катеринівці</a>, <a href=\"https://deepstatemap.live/#14/48.1461082/37.2519600\">Вишневому</a>, біля <a href=\"https://deepstatemap.live/#13/47.8164971/36.9992932\">Шахтарська</a>, <a href=\"https://deepstatemap.live/#14/48.1047484/37.2541916\">Новодмитрівки</a> та <a href=\"https://deepstatemap.live/#13/47.8442253/37.2234668\">Богоявленки</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.1370027/37.2940162\">Selydove</a>, <a href=\"https://deepstatemap.live/en#14/47.8730675/37.3516706\">Katerynivka</a>, <a href=\"https://deepstatemap.live/en#14/48.1461082/37.2519600\">Vyshneve</a>, near <a href=\"https://deepstatemap.live/en#13/47.8164971/36.9992932\">Shakhtarsk</a>, <a href=\"https://deepstatemap.live/en#14/48.1047484/37.2541916\">Novodmytrivka</a> and <a href=\"https://deepstatemap.live/en#13/47.8442253/37.2234668\">Bohoyavlenka</a>.",
+    "updatedAt": "2024-10-25T21:12:18.726Z",
+    "datetime": "25.10 o 22:52",
+    "status": true,
+    "createdAt": "2024-10-25T20:52:58.000Z",
+    "liberated": 42674.58429956213,
+    "occupied": 66541.50902518975,
+    "unspecified": 700.8478326790719,
+    "occupiedInRussia": 627.2191633032152,
+    "occupiedInRussiaUnspecified": 355.756250935735
   }
 ]
