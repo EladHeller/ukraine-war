@@ -13301,5 +13301,19 @@
     "unspecified": 729.4579918853966,
     "occupiedInRussia": 627.2191633032152,
     "occupiedInRussiaUnspecified": 355.756250935735
+  },
+  {
+    "id": 1730065975,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.0533747/37.3726726\">Гірник</a>, а також просунувся в <a href=\"https://deepstatemap.live/#14/48.1425174/37.2851406\">Селидовому</a>, <a href=\"https://deepstatemap.live/#14/47.8574882/37.2114240\">Богоявленці</a>, <a href=\"https://deepstatemap.live/#15/47.8362477/37.1002952\">Новоукраїнці</a>, біля <a href=\"https://deepstatemap.live/#14/47.8148558/37.0330670\">Шахтарського</a> та <a href=\"https://deepstatemap.live/#14/48.1307218/37.2509011\">Новоолексіївки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.0533747/37.3726726\">Hirnyk</a> and advanced in <a href=\"https://deepstatemap.live/en#14/48.1425174/37.2851406\">Selydove</a>, <a href=\"https://deepstatemap.live/en#14/47.8574882/37.2114240\">Bohoyavlivka</a>, <a href=\"https://deepstatemap.live/en#15/47.8362477/37.1002952\">Novoukrainka</a>, near <a href=\"https://deepstatemap.live/en#14/47.8148558/37.0330670\">Shakhtarske</a> and <a href=\"https://deepstatemap.live/en#14/48.1307218/37.2509011\">Novooleksiyivka</a>.",
+    "updatedAt": "2024-10-27T23:11:17.594Z",
+    "datetime": "27.10 o 22:52",
+    "status": true,
+    "createdAt": "2024-10-27T21:52:55.000Z",
+    "liberated": 42647.666068040526,
+    "occupied": 66638.99300192753,
+    "unspecified": 729.1623286371142,
+    "occupiedInRussia": 626.6214783095008,
+    "occupiedInRussiaUnspecified": 356.35393592944945
   }
 ]
