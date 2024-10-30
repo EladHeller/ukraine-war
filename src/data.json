@@ -13329,5 +13329,19 @@
     "unspecified": 732.7274540765231,
     "occupiedInRussia": 626.6214783095008,
     "occupiedInRussiaUnspecified": 356.35393592944945
+  },
+  {
+    "id": 1730239023,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/47.8680848/37.2052431\">Богоявленку</a> та <a href=\"https://deepstatemap.live/#14/47.8391125/37.1073965\">Новоукраїнку</a>, а також просунувся у <a href=\"https://deepstatemap.live/#14/48.1529451/37.2833516\">Селидовому</a> та <a href=\"https://deepstatemap.live/#13/47.8763475/37.0329479\">Ясній Поляні</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/47.8680848/37.2052431\">Bohoyavlenka</a> and <a href=\"https://deepstatemap.live/en#14/47.8391125/37.1073965\">Novoukrainka</a>, and advanced in <a href=\"https://deepstatemap.live/en#14/48.1529451/37.2833516\">Selydove</a> and <a href=\"https://deepstatemap.live/en#13/47.8763475/37.0329479\">Yasna Polyana</a>.",
+    "updatedAt": "2024-10-30T00:55:16.217Z",
+    "datetime": "29.10 o 22:57",
+    "status": true,
+    "createdAt": "2024-10-29T21:57:03.000Z",
+    "liberated": 42638.06819568699,
+    "occupied": 66665.63079768256,
+    "unspecified": 744.6332093882631,
+    "occupiedInRussia": 626.6214783095008,
+    "occupiedInRussiaUnspecified": 356.35393592944945
   }
 ]
