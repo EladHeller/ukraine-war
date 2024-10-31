@@ -13343,5 +13343,19 @@
     "unspecified": 744.6332093882631,
     "occupiedInRussia": 626.6214783095008,
     "occupiedInRussiaUnspecified": 356.35393592944945
+  },
+  {
+    "id": 1730321221,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#13/48.1489648/37.3105164\">Селидове</a>, <a href=\"https://deepstatemap.live/#15/48.1523257/37.2469806\">Вишневе</a>, <a href=\"https://deepstatemap.live/#15/48.0361288/37.3972680\">Зоряне</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/47.8142825/37.1455886\">Новоукраїнки</a>, в <a href=\"https://deepstatemap.live/#14/48.0871044/37.2393226\">Новодмитрівці</a> та <a href=\"https://deepstatemap.live/#14/48.0275472/37.3803592\">Курахівці</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#13/48.1489648/37.3105164\">Selydove</a>, <a href=\"https://deepstatemap.live/en#15/48.1523257/37.2469806\">Vyshneve</a>, <a href=\"https://deepstatemap.live/en#15/48.0361288/37.3972680\">Zoryane</a>, and advanced near <a href=\"https://deepstatemap.live/en#14/47.8142825/37.1455886\">Novoukrainka</a>, <a href=\"https://deepstatemap.live/en#14/48.0871044/37.2393226\">Novodmytrivka</a> and <a href=\"https://deepstatemap.live/en#14/48.0275472/37.3803592\">Kurakhivka</a>.",
+    "updatedAt": "2024-10-30T21:05:18.077Z",
+    "datetime": "30.10 o 21:47",
+    "status": true,
+    "createdAt": "2024-10-30T20:47:01.000Z",
+    "liberated": 42638.06819568699,
+    "occupied": 66702.6795400452,
+    "unspecified": 738.5537176824345,
+    "occupiedInRussia": 626.6214783095008,
+    "occupiedInRussiaUnspecified": 356.35393592944945
   }
 ]
