@@ -13357,5 +13357,19 @@
     "unspecified": 738.5537176824345,
     "occupiedInRussia": 626.6214783095008,
     "occupiedInRussiaUnspecified": 356.35393592944945
+  },
+  {
+    "id": 1730409422,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/47.8554195/37.1057640\">Новоукраїнки</a>, <a href=\"https://deepstatemap.live/#14/47.8420854/37.1612293\">Богоявленки</a>, <a href=\"https://deepstatemap.live/#14/47.9543766/37.3940617\">Максимільянівки</a>, <a href=\"https://deepstatemap.live/#14/47.9203115/37.4388382\">Побєди</a>, <a href=\"https://deepstatemap.live/#15/47.8832119/37.4124174\">Костянтинівки</a> та в <a href=\"https://deepstatemap.live/#16/48.0862710/37.2340280\">Новодмитрівці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.8554195/37.1057640\">Novoukrainka</a>, <a href=\"https://deepstatemap.live/en#14/47.8420854/37.1612293\">Bohoyavlenka</a>, <a href=\"https://deepstatemap.live/en#14/47.9543766/37.3940617\">Maksymilianivka</a>, <a href=\"https://deepstatemap.live/en#14/47.9203115/37.4388382\">Pobeda</a>, <a href=\"https://deepstatemap.live/en#15/47.8832119/37.4124174\">Kostiantynivka</a> and in <a href=\"https://deepstatemap.live/en#16/48.0862710/37.2340280\">Novodmytrivka</a>.",
+    "updatedAt": "2024-11-01T02:26:47.062Z",
+    "datetime": "31.10 o 22:17",
+    "status": true,
+    "createdAt": "2024-10-31T21:17:02.000Z",
+    "liberated": 42636.27276780553,
+    "occupied": 66735.59640246893,
+    "unspecified": 737.3681018382107,
+    "occupiedInRussia": 626.6214783095008,
+    "occupiedInRussiaUnspecified": 340.98241857146814
   }
 ]
