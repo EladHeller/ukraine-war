@@ -13371,5 +13371,19 @@
     "unspecified": 737.3681018382107,
     "occupiedInRussia": 626.6214783095008,
     "occupiedInRussiaUnspecified": 340.98241857146814
+  },
+  {
+    "id": 1730495471,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/47.8802892/37.0288602\">Ясну Поляну</a>, просунувся в <a href=\"https://deepstatemap.live/#14/48.0859047/37.2254956\">Новодмитрівці</a>, <a href=\"https://deepstatemap.live/#15/48.4107570/37.9061969\">Дружбі</a>, <a href=\"https://deepstatemap.live/#15/47.8873846/37.1108874\">Максимівці</a>, біля <a href=\"https://deepstatemap.live/#14/47.8536375/37.0730712\">Новоукраїнки</a> та <a href=\"https://deepstatemap.live/#13/49.1128110/38.0050549\">Тернів</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/47.8802892/37.0288602\">Yasna Polyana</a>, advanced in <a href=\"https://deepstatemap.live/en#14/48.0859047/37.2254956\">Novodmytrivka</a>, <a href=\"https://deepstatemap.live/en#15/48.4107570/37.9061969\">Druzhba</a>, <a href=\"https://deepstatemap.live/en#15/47.8873846/37.1108874\">Maksymivka</a>, near <a href=\"https://deepstatemap.live/en#14/47.8536375/37.0730712\">Novoukrainka</a> and <a href=\"https://deepstatemap.live/en#13/49.1128110/38.0050549\">Terny</a>.",
+    "updatedAt": "2024-11-01T22:22:55.611Z",
+    "datetime": "01.11 o 22:11",
+    "status": true,
+    "createdAt": "2024-11-01T21:11:11.000Z",
+    "liberated": 42629.69889965971,
+    "occupied": 66766.01629051435,
+    "unspecified": 737.2670209926819,
+    "occupiedInRussia": 626.6214783095008,
+    "occupiedInRussiaUnspecified": 340.98241857146814
   }
 ]
