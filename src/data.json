@@ -13385,5 +13385,19 @@
     "unspecified": 737.2670209926819,
     "occupiedInRussia": 626.6214783095008,
     "occupiedInRussiaUnspecified": 340.98241857146814
+  },
+  {
+    "id": 1730581801,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.0283440/37.3687752\">Курахівку</a>, <a href=\"https://deepstatemap.live/#14/47.8624460/37.0007139\">Шахтарське</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#13/47.9615772/37.3630448\">Максимільянівки</a>, <a href=\"https://deepstatemap.live/#14/47.4798256/35.9381229\">Вербового</a>, <a href=\"https://deepstatemap.live/#14/48.0370789/37.3342444\">Новоселідівки</a>, у <a href=\"https://deepstatemap.live/#14/48.0124958/37.3626285\">Вовченці</a> та <a href=\"https://deepstatemap.live/#14/47.8911675/37.1069808\">Максимівці</a>. Противник відновив положення біля <a href=\"https://deepstatemap.live/#12/51.4271435/35.2250975\">Шептуховки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.0283440/37.3687752\">Kurakhivka</a>, <a href=\"https://deepstatemap.live/en#14/47.8624460/37.0007139\">Shakhtarske</a>, and advanced near <a href=\"https://deepstatemap.live/en#13/47.9615772/37.3630448\">Maksymilianivka</a>, <a href=\"https://deepstatemap.live/en#14/47.4798256/35.9381229\">Verbove</a>, <a href=\"https://deepstatemap.live/en#14/48.0370789/37.3342444\">Novoselidivka</a>, <a href=\"https://deepstatemap.live/en#14/48.0124958/37.3626285\">Vovchenka</a> and <a href=\"https://deepstatemap.live/en#14/47.8911675/37.1069808\">Maksymivka</a>. The enemy regained positions near <a href=\"https://deepstatemap.live/en#12/51.4271435/35.2250975\">Sheptukhivka</a>.",
+    "updatedAt": "2024-11-03T00:24:10.541Z",
+    "datetime": "02.11 o 22:10",
+    "status": true,
+    "createdAt": "2024-11-02T21:10:01.000Z",
+    "liberated": 42620.41690795314,
+    "occupied": 66798.53973092162,
+    "unspecified": 735.5485976602093,
+    "occupiedInRussia": 623.2668628966627,
+    "occupiedInRussiaUnspecified": 315.1741171717881
   }
 ]
