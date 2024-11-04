@@ -13399,5 +13399,19 @@
     "unspecified": 735.5485976602093,
     "occupiedInRussia": 623.2668628966627,
     "occupiedInRussiaUnspecified": 315.1741171717881
+  },
+  {
+    "id": 1730669408,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/47.8773565/37.0908183\">Максимівки</a>, <a href=\"https://deepstatemap.live/#14/47.8822479/37.0063780\">Ясної Поляни</a>, <a href=\"https://deepstatemap.live/#14/47.8805782/37.2032568\">Богоявленки</a> та у <a href=\"https://deepstatemap.live/#14/48.0710376/37.2969962\">Кремінній Балці</a>. Сили Оборони України відновили положення у <a href=\"https://deepstatemap.live/#16/48.4117195/37.9057834\">Дружбі</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.8773565/37.0908183\">Maksymivka</a>, <a href=\"https://deepstatemap.live/en#14/47.8822479/37.0063780\">Yasna Polyana</a>, <a href=\"https://deepstatemap.live/en#14/47.8805782/37.2032568\">Bohoyavlenka</a> and in <a href=\"https://deepstatemap.live/en#14/48.0710376/37.2969962\">Kreminna Balka</a>. Ukrainian Defense Forces regained the position in <a href=\"https://deepstatemap.live/en#16/48.4117195/37.9057834\">Druzhba</a>.",
+    "updatedAt": "2024-11-03T22:56:00.044Z",
+    "datetime": "03.11 o 22:30",
+    "status": true,
+    "createdAt": "2024-11-03T21:30:08.000Z",
+    "liberated": 42620.41386212276,
+    "occupied": 66810.44106431151,
+    "unspecified": 745.5061774327645,
+    "occupiedInRussia": 623.2668628966627,
+    "occupiedInRussiaUnspecified": 315.1741171717881
   }
 ]
