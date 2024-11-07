@@ -13441,5 +13441,19 @@
     "unspecified": 767.8375175182689,
     "occupiedInRussia": 623.2668628966627,
     "occupiedInRussiaUnspecified": 315.1741171717881
+  },
+  {
+    "id": 1730928333,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.1250993/37.2282439\">Новоолексіївки</a>, <a href=\"https://deepstatemap.live/#14/48.0769589/37.2558810\">Кремінної Балки</a>, <a href=\"https://deepstatemap.live/#14/47.9018128/37.1159758\">Максимівки</a>, <a href=\"https://deepstatemap.live/#13/47.8631080/37.2856056\">Богоявленки</a> та в <a href=\"https://deepstatemap.live/#15/48.3956509/37.8485628\">Торецьку</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.1250993/37.2282439\">Novooleksiyivka</a>, <a href=\"https://deepstatemap.live/en#14/48.0769589/37.2558810\">Kreminna Balka</a>, <a href=\"https://deepstatemap.live/en#14/47.9018128/37.1159758\">Maksymivka</a>, <a href=\"https://deepstatemap.live/en#13/47.8631080/37.2856056\">Bohoyavlenka</a> and <a href=\"https://deepstatemap.live/en#15/48.3956509/37.8485628\">Toretsk</a>.",
+    "updatedAt": "2024-11-06T23:38:36.599Z",
+    "datetime": "06.11 o 22:25",
+    "status": true,
+    "createdAt": "2024-11-06T21:25:33.000Z",
+    "liberated": 42609.2743432262,
+    "occupied": 66866.38638865606,
+    "unspecified": 766.2502245169162,
+    "occupiedInRussia": 623.2668628966627,
+    "occupiedInRussiaUnspecified": 315.1741171717881
   }
 ]
