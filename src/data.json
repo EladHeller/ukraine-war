@@ -13469,5 +13469,19 @@
     "unspecified": 763.0297142229109,
     "occupiedInRussia": 623.2668628966627,
     "occupiedInRussiaUnspecified": 315.1741171717881
+  },
+  {
+    "id": 1731101581,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/47.8835462/37.1400119\">Максимівки</a>, <a href=\"https://deepstatemap.live/#13/49.4547817/37.8588024\">М'ясожарівки</a>, <a href=\"https://deepstatemap.live/#13/47.9486047/37.3410658\">Дальнього</a>, <a href=\"https://deepstatemap.live/#15/48.1691345/37.2967574\">Селидового</a>, <a href=\"https://deepstatemap.live/#14/48.1528281/37.2240363\">Петрівки</a>, <a href=\"https://deepstatemap.live/#14/47.8614635/37.2431828\">Богоявленки</a> та <a href=\"https://deepstatemap.live/#14/47.8927220/37.4404186\">Побєди</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/47.8835462/37.1400119\">Maksymivka</a>, <a href=\"https://deepstatemap.live/en#13/49.4547817/37.8588024\">Myasozharivka</a>, <a href=\"https://deepstatemap.live/en#13/47.9486047/37.3410658\">Dale</a>, <a href=\"https://deepstatemap.live/en#15/48.1691345/37.2967574\">Selidove</a>, <a href=\"https://deepstatemap.live/en#14/48.1528281/37.2240363\">Petrivka</a>, <a href=\"https://deepstatemap.live/en#14/47.8614635/37.2431828\">Bohoyavlenka</a> and <a href=\"https://deepstatemap.live/en#14/47.8927220/37.4404186\">Pobeda</a>.",
+    "updatedAt": "2024-11-09T01:32:33.118Z",
+    "datetime": "08.11 o 22:33",
+    "status": true,
+    "createdAt": "2024-11-08T21:33:01.000Z",
+    "liberated": 42591.2430492282,
+    "occupied": 66918.76001315043,
+    "unspecified": 760.28920208715,
+    "occupiedInRussia": 623.2668628966627,
+    "occupiedInRussiaUnspecified": 315.1741171717881
   }
 ]
