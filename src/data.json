@@ -13483,5 +13483,19 @@
     "unspecified": 760.28920208715,
     "occupiedInRussia": 623.2668628966627,
     "occupiedInRussiaUnspecified": 315.1741171717881
+  },
+  {
+    "id": 1731189311,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#16/47.9908767/37.3294511\">Кураховому</a>, <a href=\"https://deepstatemap.live/#14/48.1588441/37.2298767\">Григорівці</a>, біля <a href=\"https://deepstatemap.live/#14/47.9416868/37.3674596\">Максимільянівки</a>, <a href=\"https://deepstatemap.live/#14/47.8996161/37.4153033\">Побєди</a>, <a href=\"https://deepstatemap.live/#15/48.1138660/37.1984840\">Новоолексіївки</a> та <a href=\"https://deepstatemap.live/#15/47.8790940/37.2180538\">Богоявленки</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#16/47.9908767/37.3294511\">Kurakhove</a>, <a href=\"https://deepstatemap.live/en#14/48.1588441/37.2298767\">Hryhorivka</a>, near <a href=\"https://deepstatemap.live/en#14/47.9416868/37.3674596\">Maksymilianivka</a>, <a href=\"https://deepstatemap.live/en#14/47.8996161/37.4153033\">Pobeda</a>, <a href=\"https://deepstatemap.live/en#15/48.1138660/37.1984840\">Novooleksiyivka</a> and <a href=\"https://deepstatemap.live/en#15/47.8790940/37.2180538\">Bohoyavlenka</a>.",
+    "updatedAt": "2024-11-09T23:33:38.730Z",
+    "datetime": "09.11 o 22:55",
+    "status": true,
+    "createdAt": "2024-11-09T21:55:11.000Z",
+    "liberated": 42587.24450752484,
+    "occupied": 66956.09077363918,
+    "unspecified": 744.9861192186595,
+    "occupiedInRussia": 623.2668628966627,
+    "occupiedInRussiaUnspecified": 315.1741171717881
   }
 ]
