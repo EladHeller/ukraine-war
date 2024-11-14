@@ -13539,5 +13539,19 @@
     "unspecified": 749.6111698302423,
     "occupiedInRussia": 610.2746822385232,
     "occupiedInRussiaUnspecified": 288.83047087706007
+  },
+  {
+    "id": 1731534996,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.0107969/37.3049778\">Іллінку</a>, а також просунувся у <a href=\"https://deepstatemap.live/#16/47.9472164/37.2718801\">Дальньому</a>, біля <a href=\"https://deepstatemap.live/#14/47.7527447/36.9259514\">Новодонецького</a>, <a href=\"https://deepstatemap.live/#14/47.9001442/37.1680768\">Трудового</a> та <a href=\"https://deepstatemap.live/#14/49.7484696/37.6607476\">Куп'янська</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.0107969/37.3049778\">Illinka</a> and advanced in <a href=\"https://deepstatemap.live/en#16/47.9472164/37.2718801\">Dalne</a>, near <a href=\"https://deepstatemap.live/en#14/47.7527447/36.9259514\">Novodonetske</a>, <a href=\"https://deepstatemap.live/en#14/47.9001442/37.1680768\">Trudove</a> and <a href=\"https://deepstatemap.live/en#14/49.7484696/37.6607476\">Kupyansk</a>.",
+    "updatedAt": "2024-11-13T23:26:18.649Z",
+    "datetime": "13.11 o 22:56",
+    "status": true,
+    "createdAt": "2024-11-13T21:56:36.000Z",
+    "liberated": 42554.82970037299,
+    "occupied": 67022.37628537674,
+    "unspecified": 750.1283840251074,
+    "occupiedInRussia": 610.2746822385232,
+    "occupiedInRussiaUnspecified": 288.83047087706007
   }
 ]
