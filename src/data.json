@@ -13553,5 +13553,19 @@
     "unspecified": 750.1283840251074,
     "occupiedInRussia": 610.2746822385232,
     "occupiedInRussiaUnspecified": 288.83047087706007
+  },
+  {
+    "id": 1731620532,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/47.7878157/36.7037344\">Рівнопіль</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#13/51.0849124/35.3901357\">Плехового</a>, <a href=\"https://deepstatemap.live/#15/48.0107261/37.2826416\">Нової Іллінки</a>, <a href=\"https://deepstatemap.live/#14/48.0726483/37.2230167\">Новодмитрівки</a>, в <a href=\"https://deepstatemap.live/#14/48.1671984/37.2062716\">Петрівці</a>, <a href=\"https://deepstatemap.live/#14/47.8816711/37.3581883\">Антонівці</a>, <a href=\"https://deepstatemap.live/#14/48.0602632/37.2572562\">Вознесенці</a> та <a href=\"https://deepstatemap.live/#14/48.0550445/37.2856604\">Новоселидівці</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/47.7878157/36.7037344\">Rivnopil</a> and advanced near <a href=\"https://deepstatemap.live/en#13/51.0849124/35.3901357\">Plekhove</a>, <a href=\"https://deepstatemap.live/en#15/48.0107261/37.2826416\">Nova Illinka</a>, <a href=\"https://deepstatemap.live/en#14/48.0726483/37.2230167\">Novodmytrivka</a>, <a href=\"https://deepstatemap.live/en#14/48.1671984/37.2062716\">Petrivka</a>, <a href=\"https://deepstatemap.live/en#14/47.8816711/37.3581883\">Antonivka</a>, <a href=\"https://deepstatemap.live/en#14/48.0602632/37.2572562\">Voznesenka</a> and <a href=\"https://deepstatemap.live/en#14/48.0550445/37.2856604\">Novoselydivka</a>.",
+    "updatedAt": "2024-11-14T22:41:34.253Z",
+    "datetime": "14.11 o 22:42",
+    "status": true,
+    "createdAt": "2024-11-14T21:42:12.000Z",
+    "liberated": 42552.8486052883,
+    "occupied": 67036.65199761957,
+    "unspecified": 752.6900630328979,
+    "occupiedInRussia": 604.3632588756053,
+    "occupiedInRussiaUnspecified": 276.7095120898173
   }
 ]
