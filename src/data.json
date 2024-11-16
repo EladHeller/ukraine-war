@@ -13567,5 +13567,19 @@
     "unspecified": 752.6900630328979,
     "occupiedInRussia": 604.3632588756053,
     "occupiedInRussiaUnspecified": 276.7095120898173
+  },
+  {
+    "id": 1731707743,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/47.8945677/37.0995799\">Максимівку</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#13/49.5354026/37.8553677\">Берестового</a>, <a href=\"https://deepstatemap.live/#13/48.5327042/37.9315835\">Кліщіївки</a>, <a href=\"https://deepstatemap.live/#14/48.4958336/37.9646694\">Андріївки</a>, <a href=\"https://deepstatemap.live/#14/48.1201816/37.1823274\">Новоолексіївки</a>, <a href=\"https://deepstatemap.live/#14/48.0435129/37.3018049\">Новоселидівки</a>, <a href=\"https://deepstatemap.live/#14/47.8601998/37.2805190\">Єлізаветівки</a>, <a href=\"https://deepstatemap.live/#14/47.7946181/36.6945482\">Рівнополя</a>, у <a href=\"https://deepstatemap.live/#14/50.4334276/35.9197597\">Сотницькому Козачку</a> та <a href=\"https://deepstatemap.live/#15/48.0075066/37.2735426\">Новій Іллінці</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/47.8945677/37.0995799\">Maksymivka</a>, and advanced near <a href=\"https://deepstatemap.live/en#13/49.5354026/37.8553677\">Berestove</a>, <a href=\"https://deepstatemap.live/en#13/48.5327042/37.9315835\">Klishchiyivka</a>, <a href=\"https://deepstatemap.live/en#14/48.4958336/37.9646694\">Andriivka</a>, <a href=\"https://deepstatemap.live/en#14/48.0435129/37.3018049\">Novooleksiyivka, Novoselydivka</a>, <a href=\"https://deepstatemap.live/en#14/47.8601998/37.2805190\">Yelizavetivka</a>, <a href=\"https://deepstatemap.live/en#14/47.7946181/36.6945482\">Rivnopil</a>, <a href=\"https://deepstatemap.live/en#14/50.4334276/35.9197597\">Sotnytsia Kozachka</a> and <a href=\"https://deepstatemap.live/en#15/48.0075066/37.2735426\">Nova Illinka</a>.",
+    "updatedAt": "2024-11-15T23:25:04.791Z",
+    "datetime": "15.11 o 22:55",
+    "status": true,
+    "createdAt": "2024-11-15T21:55:43.000Z",
+    "liberated": 42518.8358002715,
+    "occupied": 67094.21904163466,
+    "unspecified": 742.9650997344434,
+    "occupiedInRussia": 604.3632588756053,
+    "occupiedInRussiaUnspecified": 276.7095120898173
   }
 ]
