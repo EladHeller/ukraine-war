@@ -13609,5 +13609,19 @@
     "unspecified": 751.6364312372401,
     "occupiedInRussia": 604.3632588756053,
     "occupiedInRussiaUnspecified": 276.7095120898173
+  },
+  {
+    "id": 1731964660,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.6078765/37.8417848\">Калинівці</a>, <a href=\"https://deepstatemap.live/#14/48.3794335/37.8634742\">Торецьку</a>, <a href=\"https://deepstatemap.live/#15/47.9897054/37.3097639\">Кураховому</a>, <a href=\"https://deepstatemap.live/#15/48.0096069/37.2647458\">Берестках</a>, біля <a href=\"https://deepstatemap.live/#15/48.5987900/37.8474908\">Часового Яру</a>, <a href=\"https://deepstatemap.live/#13/51.3958319/35.1826000\">Погребків</a>, <a href=\"https://deepstatemap.live/#14/48.1515157/37.2112491\">Юріївки</a>, <a href=\"https://deepstatemap.live/#14/47.9086046/36.9816569\">Роздольного</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.6078765/37.8417848\">Kalynivka</a>, <a href=\"https://deepstatemap.live/en#14/48.3794335/37.8634742\">Toretsk</a>, <a href=\"https://deepstatemap.live/en#15/47.9897054/37.3097639\">Kurakhove</a>, <a href=\"https://deepstatemap.live/en#15/48.0096069/37.2647458\">Berestky</a>, near <a href=\"https://deepstatemap.live/en#15/48.5987900/37.8474908\">Chasіv Yar</a>, <a href=\"https://deepstatemap.live/en#13/51.3958319/35.1826000\">Pohrebky</a>, <a href=\"https://deepstatemap.live/en#14/48.1515157/37.2112491\">Yuriyivka</a>, <a href=\"https://deepstatemap.live/en#14/47.9086046/36.9816569\">Rozdolne</a>.",
+    "updatedAt": "2024-11-18T22:41:55.005Z",
+    "datetime": "18.11 o 22:17",
+    "status": true,
+    "createdAt": "2024-11-18T21:17:40.000Z",
+    "liberated": 42519.17351157337,
+    "occupied": 67106.38836948028,
+    "unspecified": 768.753701913115,
+    "occupiedInRussia": 597.357492059042,
+    "occupiedInRussiaUnspecified": 247.0981575418439
   }
 ]
