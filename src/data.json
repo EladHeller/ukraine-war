@@ -13623,5 +13623,19 @@
     "unspecified": 768.753701913115,
     "occupiedInRussia": 597.357492059042,
     "occupiedInRussiaUnspecified": 247.0981575418439
+  },
+  {
+    "id": 1732052521,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#15/48.0028577/37.2768945\">Нову Іллінку</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/47.9574855/37.3050664\">Дальнього</a>, <a href=\"https://deepstatemap.live/#13/47.9040940/37.3863869\">Антонівки</a>, <a href=\"https://deepstatemap.live/#14/48.1525238/37.2044810\">Пустинки</a> та в <a href=\"https://deepstatemap.live/#16/48.3790643/37.8534904\">Торецьку</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#15/48.0028577/37.2768945\">Nova Illinka</a> and advanced near <a href=\"https://deepstatemap.live/en#14/47.9574855/37.3050664\">Dalne</a>, <a href=\"https://deepstatemap.live/en#13/47.9040940/37.3863869\">Antonivka</a>, <a href=\"https://deepstatemap.live/en#14/48.1525238/37.2044810\">Pustynka</a> and <a href=\"https://deepstatemap.live/en#16/48.3790643/37.8534904\">Toretsk</a>.",
+    "updatedAt": "2024-11-19T22:27:36.747Z",
+    "datetime": "19.11 o 22:42",
+    "status": true,
+    "createdAt": "2024-11-19T21:42:01.000Z",
+    "liberated": 42519.17351157337,
+    "occupied": 67125.03569700547,
+    "unspecified": 758.9446424229658,
+    "occupiedInRussia": 597.357492059042,
+    "occupiedInRussiaUnspecified": 247.0981575418439
   }
 ]
