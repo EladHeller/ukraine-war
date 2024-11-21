@@ -13637,5 +13637,19 @@
     "unspecified": 758.9446424229658,
     "occupiedInRussia": 597.357492059042,
     "occupiedInRussiaUnspecified": 247.0981575418439
+  },
+  {
+    "id": 1732138237,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#14/51.2632966/35.0282710\">Дар'їно</a>, <a href=\"https://deepstatemap.live/#15/47.9879510/37.3063283\">Кураховому</a>, біля <a href=\"https://deepstatemap.live/#15/51.2794616/35.0664066\">Нижнього Клину</a>, <a href=\"https://deepstatemap.live/#13/51.3754845/35.0717734\">Кремяного</a>, <a href=\"https://deepstatemap.live/#14/47.9049200/36.9547027\">Роздольного</a>, <a href=\"https://deepstatemap.live/#14/47.7659599/36.9265471\">Новодонецького</a>, <a href=\"https://deepstatemap.live/#14/47.9406382/37.2698650\">Дальнього</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/51.2632966/35.0282710\">Daryino</a>, <a href=\"https://deepstatemap.live/en#15/47.9879510/37.3063283\">Kurakhove</a>, near <a href=\"https://deepstatemap.live/en#15/51.2794616/35.0664066\">Nyzhnyi Klyn</a>, <a href=\"https://deepstatemap.live/en#13/51.3754845/35.0717734\">Kremenne</a>, <a href=\"https://deepstatemap.live/en#14/47.9049200/36.9547027\">Rozdolne</a>, <a href=\"https://deepstatemap.live/en#14/47.7659599/36.9265471\">Novodonetske</a>, and <a href=\"https://deepstatemap.live/en#14/47.9406382/37.2698650\">Dalne</a>.",
+    "updatedAt": "2024-11-20T21:48:57.931Z",
+    "datetime": "20.11 o 22:30",
+    "status": true,
+    "createdAt": "2024-11-20T21:30:37.000Z",
+    "liberated": 42508.09280453518,
+    "occupied": 67144.24004911273,
+    "unspecified": 787.4280695541422,
+    "occupiedInRussia": 571.1758198449384,
+    "occupiedInRussiaUnspecified": 229.22923072714445
   }
 ]
