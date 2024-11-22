@@ -13651,5 +13651,19 @@
     "unspecified": 787.4280695541422,
     "occupiedInRussia": 571.1758198449384,
     "occupiedInRussiaUnspecified": 229.22923072714445
+  },
+  {
+    "id": 1732225007,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/47.9462177/37.2606468\">Дальнє</a>, просунувся у <a href=\"https://deepstatemap.live/#15/48.3972544/37.8658390\">Торецьку</a>, <a href=\"https://deepstatemap.live/#16/47.9895267/37.3034120\">Кураховому</a>, біля <a href=\"https://deepstatemap.live/#13/47.8188605/36.9598961\">Золотої Ниви</a>, <a href=\"https://deepstatemap.live/#15/48.1661570/37.1868324\">Пустинки</a>, <a href=\"https://deepstatemap.live/#15/48.1761742/37.2639942\">Селидового</a>, <a href=\"https://deepstatemap.live/#14/47.8966935/37.1888065\">Трудового</a>, <a href=\"https://deepstatemap.live/#14/47.9082591/37.3661327\">Антонівки</a> та <a href=\"https://deepstatemap.live/#15/47.9637640/37.3000002\">Дальнього</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/47.9462177/37.2606468\">Dalne</a>, advanced in <a href=\"https://deepstatemap.live/en#15/48.3972544/37.8658390\">Toretsk</a>, <a href=\"https://deepstatemap.live/en#16/47.9895267/37.3034120\">Kurakhove</a>, near <a href=\"https://deepstatemap.live/en#13/47.8188605/36.9598961\">Zolota Niva</a>, <a href=\"https://deepstatemap.live/en#15/48.1661570/37.1868324\">Pustynka</a>, <a href=\"https://deepstatemap.live/en#15/48.1761742/37.2639942\">Selydove</a>, <a href=\"https://deepstatemap.live/en#14/47.8966935/37.1888065\">Trudove</a>, <a href=\"https://deepstatemap.live/en#14/47.9082591/37.3661327\">Antonivka</a> and <a href=\"https://deepstatemap.live/en#15/47.9637640/37.3000002\">Dalne</a>.",
+    "updatedAt": "2024-11-21T21:53:12.941Z",
+    "datetime": "21.11 o 22:36",
+    "status": true,
+    "createdAt": "2024-11-21T21:36:47.000Z",
+    "liberated": 42508.09280453518,
+    "occupied": 67175.11301762018,
+    "unspecified": 775.1970246933961,
+    "occupiedInRussia": 571.1758198449384,
+    "occupiedInRussiaUnspecified": 229.22923072714445
   }
 ]
