@@ -13665,5 +13665,19 @@
     "unspecified": 775.1970246933961,
     "occupiedInRussia": 571.1758198449384,
     "occupiedInRussiaUnspecified": 229.22923072714445
+  },
+  {
+    "id": 1732311864,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/47.8317669/36.9177481\">Великої Новосілки</a>, <a href=\"https://deepstatemap.live/#13/47.8915363/36.9316627\">Роздольного</a>, <a href=\"https://deepstatemap.live/#14/47.9062415/37.0437861\">Максимівки</a>, <a href=\"https://deepstatemap.live/#14/48.1529490/37.1818138\">Пустинки</a> та у <a href=\"https://deepstatemap.live/#15/48.3800409/37.8459454\">Торецьку</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/47.8317669/36.9177481\">Velyka Novosilka</a>, <a href=\"https://deepstatemap.live/en#13/47.8915363/36.9316627\">Rozdolne</a>, <a href=\"https://deepstatemap.live/en#14/47.9062415/37.0437861\">Maksymivka</a>, <a href=\"https://deepstatemap.live/en#14/48.1529490/37.1818138\">Pustynka</a> and <a href=\"https://deepstatemap.live/en#15/48.3800409/37.8459454\">Toretsk</a>.",
+    "updatedAt": "2024-11-22T23:12:21.912Z",
+    "datetime": "22.11 o 22:44",
+    "status": true,
+    "createdAt": "2024-11-22T21:44:24.000Z",
+    "liberated": 42506.17402917372,
+    "occupied": 67237.10434828971,
+    "unspecified": 774.9760036876224,
+    "occupiedInRussia": 571.1758198449384,
+    "occupiedInRussiaUnspecified": 229.22923072714445
   }
 ]
