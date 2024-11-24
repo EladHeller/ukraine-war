@@ -13679,5 +13679,19 @@
     "unspecified": 774.9760036876224,
     "occupiedInRussia": 571.1758198449384,
     "occupiedInRussiaUnspecified": 229.22923072714445
+  },
+  {
+    "id": 1732395180,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/51.2140300/34.9122319\">Гордіївки</a>, <a href=\"https://deepstatemap.live/#14/48.1563657/37.1552119\">Пушкіного</a>, <a href=\"https://deepstatemap.live/#14/48.1339807/37.1733185\">Юріївки</a>, <a href=\"https://deepstatemap.live/#15/48.1779652/37.1812333\">Петрівки</a>, <a href=\"https://deepstatemap.live/#14/47.9228085/37.3173373\">Романівки</a>, <a href=\"https://deepstatemap.live/#14/47.8729808/37.3051487\">Єлізаветівки</a>, <a href=\"https://deepstatemap.live/#14/47.8993347/36.9321256\">Роздольного</a>, <a href=\"https://deepstatemap.live/#14/47.8206137/36.8720516\">Великої Новосілки</a>, <a href=\"https://deepstatemap.live/#15/48.3630505/37.8602386\">Неліпівки</a>, в <a href=\"https://deepstatemap.live/#14/49.5235097/37.7159356\">Кругляківці</a>, <a href=\"https://deepstatemap.live/#14/47.8874260/37.3280041\">Іллінці</a> та <a href=\"https://deepstatemap.live/#15/48.0133641/37.2601549\">Берестках</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/51.2140300/34.9122319\">Hordiivka</a>, <a href=\"https://deepstatemap.live/en#14/48.1563657/37.1552119\">Pushkine</a>, <a href=\"https://deepstatemap.live/en#14/48.1339807/37.1733185\">Yuriyivka</a>, <a href=\"https://deepstatemap.live/en#15/48.1779652/37.1812333\">Petrivka</a>, <a href=\"https://deepstatemap.live/en#14/47.9228085/37.3173373\">Romanivka</a>, <a href=\"https://deepstatemap.live/en#14/47.8729808/37.3051487\">Yelizavetivka</a>, <a href=\"https://deepstatemap.live/en#14/47.8993347/36.9321256\">Rozdolne</a>, <a href=\"https://deepstatemap.live/en#14/47.8206137/36.8720516\">Velyka Novosilka</a>, <a href=\"https://deepstatemap.live/en#15/48.3630505/37.8602386\">Nelipivka</a>, <a href=\"https://deepstatemap.live/en#14/49.5235097/37.7159356\">Kruhlyakivka</a>, <a href=\"https://deepstatemap.live/en#14/47.8874260/37.3280041\">Illinka</a> and <a href=\"https://deepstatemap.live/en#15/48.0133641/37.2601549\">Berestky</a>.",
+    "updatedAt": "2024-11-23T21:21:19.579Z",
+    "datetime": "23.11 o 21:53",
+    "status": true,
+    "createdAt": "2024-11-23T20:53:00.000Z",
+    "liberated": 42502.56729203646,
+    "occupied": 67283.46341974176,
+    "unspecified": 771.0130149103948,
+    "occupiedInRussia": 557.1165718715056,
+    "occupiedInRussiaUnspecified": 208.94237385999494
   }
 ]
