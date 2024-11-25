@@ -13693,5 +13693,19 @@
     "unspecified": 771.0130149103948,
     "occupiedInRussia": 557.1165718715056,
     "occupiedInRussiaUnspecified": 208.94237385999494
+  },
+  {
+    "id": 1732485298,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/47.8747654/37.3319293\">Катеринівку</a> та <a href=\"https://deepstatemap.live/#14/48.1433310/37.1894458\">Юріївку</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#15/49.8653901/37.7306763\">Новомлинська</a>, <a href=\"https://deepstatemap.live/#13/49.4722827/37.8624061\">Стельмахівки</a>, <a href=\"https://deepstatemap.live/#13/47.8425936/36.8877117\">Великої Новосілки</a>, <a href=\"https://deepstatemap.live/#14/48.1826553/37.1668775\">Жовтого</a>, <a href=\"https://deepstatemap.live/#14/48.1025930/37.1983759\">Зорі</a>, <a href=\"https://deepstatemap.live/#14/48.0642289/37.2248951\">Новодмитрівки</a>, <a href=\"https://deepstatemap.live/#14/48.0498916/37.2468633\">Вознесенки</a>, <a href=\"https://deepstatemap.live/#14/48.0208609/37.2948329\">Іллінки</a> та <a href=\"https://deepstatemap.live/#14/47.9741025/37.3176773\">Курахового</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/47.8747654/37.3319293\">Katerynivka</a> and <a href=\"https://deepstatemap.live/en#14/48.1433310/37.1894458\">Yuriyivka</a>, and advanced near <a href=\"https://deepstatemap.live/en#15/49.8653901/37.7306763\">Novomlynsk</a>, <a href=\"https://deepstatemap.live/en#13/49.4722827/37.8624061\">Stelmakhivka</a>, <a href=\"https://deepstatemap.live/en#13/47.8425936/36.8877117\">Velyka Novosilka</a>, <a href=\"https://deepstatemap.live/en#14/48.1826553/37.1668775\">Zhovte</a>, <a href=\"https://deepstatemap.live/en#14/48.1025930/37.1983759\">Zorya</a>, <a href=\"https://deepstatemap.live/en#14/48.0642289/37.2248951\">Novodmytrivka</a>, <a href=\"https://deepstatemap.live/en#14/48.0498916/37.2468633\">Voznesenka</a>, <a href=\"https://deepstatemap.live/en#14/48.0208609/37.2948329\">Illinka</a> and <a href=\"https://deepstatemap.live/en#14/47.9741025/37.3176773\">Kurakhove</a>.",
+    "updatedAt": "2024-11-24T22:25:28.526Z",
+    "datetime": "24.11 o 22:54",
+    "status": true,
+    "createdAt": "2024-11-24T21:54:58.000Z",
+    "liberated": 42497.58146026834,
+    "occupied": 67333.34173317895,
+    "unspecified": 754.0716253620466,
+    "occupiedInRussia": 556.974394064283,
+    "occupiedInRussiaUnspecified": 208.94237385999494
   }
 ]
