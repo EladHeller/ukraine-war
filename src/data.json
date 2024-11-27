@@ -13710,15 +13710,29 @@
   },
   {
     "id": 1732570846,
-    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#15/49.8663844/37.7288740\">Новомлинська</a>, <a href=\"https://deepstatemap.live/#15/48.1737398/37.1972401\">Дальнього</a>, <a href=\"https://deepstatemap.live/#14/47.9081442/37.1508291\">Костянтинопольського</a>, в <a href=\"https://deepstatemap.live/#14/47.9066475/36.9211434\">Роздольному</a>, <a href=\"https://deepstatemap.live/#15/48.1733393/37.1981841\">Петрівці</a> та <a href=\"https://deepstatemap.live/#15/47.9826408/37.2755608\">Кураховому</a>. Сили Оборони України завершили зачистку <a href=\"https://deepstatemap.live/#14/49.7248429/37.6458973\">Куп'янська</a>.",
-    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#15/49.8663844/37.7288740\">Novomlynsk</a>, <a href=\"https://deepstatemap.live/en#15/48.1737398/37.1972401\">Dalne</a>, <a href=\"https://deepstatemap.live/en#14/47.9081442/37.1508291\">Kostiantynopolske</a>, in <a href=\"https://deepstatemap.live/en#14/47.9066475/36.9211434\">Razdolne</a>, <a href=\"https://deepstatemap.live/en#15/48.1733393/37.1981841\">Petrivka</a> and <a href=\"https://deepstatemap.live/en#15/47.9826408/37.2755608\">Kurakhove</a>. Ukrainian Defense Forces have completed the clearing of <a href=\"https://deepstatemap.live/en#14/49.7248429/37.6458973\">Kupyansk</a>.",
-    "updatedAt": "2024-11-25T22:18:15.461Z",
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#15/49.8663844/37.7288740\">Новомлинська</a>, <a href=\"https://deepstatemap.live/#14/47.9491509/37.2566568\">Дальнього</a>, <a href=\"https://deepstatemap.live/#14/47.9081442/37.1508291\">Костянтинопольського</a>, в <a href=\"https://deepstatemap.live/#14/47.9066475/36.9211434\">Роздольному</a>, <a href=\"https://deepstatemap.live/#15/48.1733393/37.1981841\">Петрівці</a> та <a href=\"https://deepstatemap.live/#15/47.9826408/37.2755608\">Кураховому</a>. Сили Оборони України завершили зачистку <a href=\"https://deepstatemap.live/#14/49.7248429/37.6458973\">Куп'янська</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#15/49.8663844/37.7288740\">Novomlynsk</a>, <a href=\"https://deepstatemap.live/en#14/47.9491509/37.2566568\">Dalne</a>, <a href=\"https://deepstatemap.live/en#14/47.9081442/37.1508291\">Kostiantynopolske</a>, in <a href=\"https://deepstatemap.live/en#14/47.9066475/36.9211434\">Razdolne</a>, <a href=\"https://deepstatemap.live/en#15/48.1733393/37.1981841\">Petrivka</a> and <a href=\"https://deepstatemap.live/en#15/47.9826408/37.2755608\">Kurakhove</a>. Ukrainian Defense Forces have completed the clearing of <a href=\"https://deepstatemap.live/en#14/49.7248429/37.6458973\">Kupyansk</a>.",
+    "updatedAt": "2024-11-26T22:10:15.464Z",
     "datetime": "25.11 o 22:40",
     "status": true,
     "createdAt": "2024-11-25T21:40:46.000Z",
     "liberated": 42496.53852051518,
     "occupied": 67342.26526994606,
     "unspecified": 754.2607965927087,
+    "occupiedInRussia": 556.974394064283,
+    "occupiedInRussiaUnspecified": 208.94237385999494
+  },
+  {
+    "id": 1732658299,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.0521775/37.2794839\">Новоселидівку</a> та <a href=\"https://deepstatemap.live/#14/48.1694320/37.2109041\">Петрівку</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/49.8727641/37.7265800\">Новомлинська</a>, <a href=\"https://deepstatemap.live/#14/48.1783581/37.1665386\">Жовтого</a>, <a href=\"https://deepstatemap.live/#14/48.1621641/37.1861899\">Пустинки</a>, <a href=\"https://deepstatemap.live/#14/48.1207906/37.1709430\">Пушкіного</a>, <a href=\"https://deepstatemap.live/#13/47.9175436/36.9350909\">Роздольного</a>, <a href=\"https://deepstatemap.live/#13/47.9242220/37.0428985\">Розливу</a>, <a href=\"https://deepstatemap.live/#14/47.8828533/37.2524960\">Веселого Гаю</a>, <a href=\"https://deepstatemap.live/#14/47.7793974/36.7328322\">Рівнополю</a>, <a href=\"https://deepstatemap.live/#13/48.0593228/37.2291602\">Сонцівки</a>, у <a href=\"https://deepstatemap.live/#14/49.5213682/37.7070169\">Кругляківці</a>, <a href=\"https://deepstatemap.live/#14/48.0106956/37.2571639\">Берестках</a> та <a href=\"https://deepstatemap.live/#14/47.9902417/37.2973324\">Кураховому</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.0521775/37.2794839\">Novoselydivka</a> and <a href=\"https://deepstatemap.live/en#14/48.1694320/37.2109041\">Petrivka</a>, and advanced near <a href=\"https://deepstatemap.live/en#14/49.8727641/37.7265800\">Novomlynsk</a>, <a href=\"https://deepstatemap.live/en#14/48.1783581/37.1665386\">Zhovte</a>, <a href=\"https://deepstatemap.live/en#14/48.1621641/37.1861899\">Pustynka</a>, <a href=\"https://deepstatemap.live/en#14/48.1207906/37.1709430\">Pushkino</a>, <a href=\"https://deepstatemap.live/en#13/47.9175436/36.9350909\">Rozdolne</a>, <a href=\"https://deepstatemap.live/en#13/47.9242220/37.0428985\">Rozlyv</a>, <a href=\"https://deepstatemap.live/en#14/47.8828533/37.2524960\">Veselyi Hai</a>, <a href=\"https://deepstatemap.live/en#14/47.7793974/36.7328322\">Rivnopol</a>, <a href=\"https://deepstatemap.live/en#13/48.0593228/37.2291602\">Sontsivka</a>, <a href=\"https://deepstatemap.live/en#14/49.5213682/37.7070169\">Kruhlyakivka</a>, <a href=\"https://deepstatemap.live/en#14/48.0106956/37.2571639\">Berestky</a> and <a href=\"https://deepstatemap.live/en#14/47.9902417/37.2973324\">Kurakhove</a>.",
+    "updatedAt": "2024-11-26T22:29:47.866Z",
+    "datetime": "26.11 o 22:58",
+    "status": true,
+    "createdAt": "2024-11-26T21:58:19.000Z",
+    "liberated": 42476.76851654367,
+    "occupied": 67368.92251869565,
+    "unspecified": 766.9076870695746,
     "occupiedInRussia": 556.974394064283,
     "occupiedInRussiaUnspecified": 208.94237385999494
   }
