@@ -13735,5 +13735,19 @@
     "unspecified": 766.9076870695746,
     "occupiedInRussia": 556.974394064283,
     "occupiedInRussiaUnspecified": 208.94237385999494
+  },
+  {
+    "id": 1732743112,
+    "description": "Ворог захопив <a href=\"https://deepstatemap.live/#14/51.2616661/35.0269476\">Дар'їно</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/48.3722928/37.8614768\">Торецька</a>, <a href=\"https://deepstatemap.live/#14/48.1833883/37.1792346\">Петрівки</a>, <a href=\"https://deepstatemap.live/#13/51.0826452/35.3290443\">Плехово</a> та у <a href=\"https://deepstatemap.live/#14/48.3532523/37.8328151\">Неліпівці</a>.",
+    "descriptionEn": "The enemy captured <a href=\"https://deepstatemap.live/en#14/51.2616661/35.0269476\">Daryino</a> and advanced near <a href=\"https://deepstatemap.live/en#14/48.3722928/37.8614768\">Toretsk</a>, <a href=\"https://deepstatemap.live/en#14/48.1833883/37.1792346\">Petrivka</a>, <a href=\"https://deepstatemap.live/en#13/51.0826452/35.3290443\">Plekhovo</a> and <a href=\"https://deepstatemap.live/en#14/48.3532523/37.8328151\">Nelipivka</a>.",
+    "updatedAt": "2024-11-27T22:52:10.863Z",
+    "datetime": "27.11 o 22:31",
+    "status": true,
+    "createdAt": "2024-11-27T21:31:52.000Z",
+    "liberated": 42476.76851654367,
+    "occupied": 67370.89527547406,
+    "unspecified": 766.6169092253946,
+    "occupiedInRussia": 548.2404788275526,
+    "occupiedInRussiaUnspecified": 202.63514840715177
   }
 ]
