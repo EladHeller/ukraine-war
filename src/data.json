@@ -13749,5 +13749,19 @@
     "unspecified": 766.6169092253946,
     "occupiedInRussia": 548.2404788275526,
     "occupiedInRussiaUnspecified": 202.63514840715177
+  },
+  {
+    "id": 1732830531,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/47.8404195/36.8743252\">Великої Новосілки</a>, <a href=\"https://deepstatemap.live/#14/47.9272416/37.0403671\">Розливу</a>, <a href=\"https://deepstatemap.live/#14/48.0903139/37.1989759\">Зорі</a>, <a href=\"https://deepstatemap.live/#14/48.1892359/37.1570067\">Жовтого</a>, <a href=\"https://deepstatemap.live/#14/48.1328689/37.1540107\">Пушкіного</a>, в <a href=\"https://deepstatemap.live/#14/48.0154015/37.2490955\">Берестках</a> та <a href=\"https://deepstatemap.live/#14/47.9850118/37.2873748\">Кураховому</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/47.8404195/36.8743252\">Velyka Novosilka</a>, <a href=\"https://deepstatemap.live/en#14/47.9272416/37.0403671\">Rozlyv</a>, <a href=\"https://deepstatemap.live/en#14/48.0903139/37.1989759\">Zorya</a>, <a href=\"https://deepstatemap.live/en#14/48.1892359/37.1570067\">Zhovte</a>, <a href=\"https://deepstatemap.live/en#14/48.1328689/37.1540107\">Pushkyne</a>, <a href=\"https://deepstatemap.live/en#14/48.0154015/37.2490955\">Berestky</a> and <a href=\"https://deepstatemap.live/en#14/47.9850118/37.2873748\">Kurakhove</a>.",
+    "updatedAt": "2024-11-28T23:51:10.989Z",
+    "datetime": "28.11 o 22:48",
+    "status": true,
+    "createdAt": "2024-11-28T21:48:51.000Z",
+    "liberated": 42476.76851654367,
+    "occupied": 67385.54129719781,
+    "unspecified": 770.6676177148801,
+    "occupiedInRussia": 548.2404788275526,
+    "occupiedInRussiaUnspecified": 202.63514840715177
   }
 ]
