@@ -13763,5 +13763,19 @@
     "unspecified": 770.6676177148801,
     "occupiedInRussia": 548.2404788275526,
     "occupiedInRussiaUnspecified": 202.63514840715177
+  },
+  {
+    "id": 1732917320,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.1866588/37.1473060\">Жовте</a>, <a href=\"https://deepstatemap.live/#14/48.1616486/37.1773462\">Пустинку</a> та <a href=\"https://deepstatemap.live/#13/47.9054621/36.9115690\">Роздольне</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/47.9023347/37.3219846\">Іллінки</a>, <a href=\"https://deepstatemap.live/#13/47.7655787/36.8873661\">Новодонецького</a>, <a href=\"https://deepstatemap.live/#14/47.8980114/37.1993268\">Трудового</a>, <a href=\"https://deepstatemap.live/#14/48.1423004/37.1574375\">Пушкіного</a> та в <a href=\"https://deepstatemap.live/#14/47.9837533/37.2835145\">Кураховому</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.1866588/37.1473060\">Zhovte</a>, <a href=\"https://deepstatemap.live/en#14/48.1616486/37.1773462\">Pustynka</a> and <a href=\"https://deepstatemap.live/en#13/47.9054621/36.9115690\">Rozdolne</a>, and advanced near <a href=\"https://deepstatemap.live/en#14/47.9023347/37.3219846\">Illinka</a>, <a href=\"https://deepstatemap.live/en#13/47.7655787/36.8873661\">Novodonetske</a>, <a href=\"https://deepstatemap.live/en#14/47.8980114/37.1993268\">Trudove</a>, <a href=\"https://deepstatemap.live/en#14/48.1423004/37.1574375\">Pushkine</a> and <a href=\"https://deepstatemap.live/en#14/47.9837533/37.2835145\">Kurakhove</a>.",
+    "updatedAt": "2024-11-29T23:13:12.199Z",
+    "datetime": "29.11 o 22:55",
+    "status": true,
+    "createdAt": "2024-11-29T21:55:20.000Z",
+    "liberated": 42466.84795020547,
+    "occupied": 67423.87269289317,
+    "unspecified": 756.4484104912543,
+    "occupiedInRussia": 548.2404788275526,
+    "occupiedInRussiaUnspecified": 202.63514840715177
   }
 ]
