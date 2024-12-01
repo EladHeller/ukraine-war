@@ -13777,5 +13777,19 @@
     "unspecified": 756.4484104912543,
     "occupiedInRussia": 548.2404788275526,
     "occupiedInRussiaUnspecified": 202.63514840715177
+  },
+  {
+    "id": 1733001699,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.0137832/37.2594844\">Берестки</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/49.8185690/37.6686447\">Масютівки</a>, <a href=\"https://deepstatemap.live/#12/49.4470345/37.8336521\">Лозової</a>, <a href=\"https://deepstatemap.live/#14/48.1707516/37.1482466\">Жовтого</a>, <a href=\"https://deepstatemap.live/#15/48.1313897/37.1399432\">Пушкіного</a>, <a href=\"https://deepstatemap.live/#14/47.9661036/37.2839522\">Дальнього</a> та <a href=\"https://deepstatemap.live/#13/47.7808086/36.8525219\">Благодатного</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.0137832/37.2594844\">Berestky</a> and advanced near <a href=\"https://deepstatemap.live/en#14/49.8185690/37.6686447\">Masiutivka</a>, <a href=\"https://deepstatemap.live/en#12/49.4470345/37.8336521\">Lozova</a>, <a href=\"https://deepstatemap.live/en#14/48.1707516/37.1482466\">Zhovte</a>, <a href=\"https://deepstatemap.live/en#15/48.1313897/37.1399432\">Pushkine</a>, <a href=\"https://deepstatemap.live/en#14/47.9661036/37.2839522\">Dalne</a> and <a href=\"https://deepstatemap.live/en#13/47.7808086/36.8525219\">Blahodatne</a>.",
+    "updatedAt": "2024-11-30T22:05:08.033Z",
+    "datetime": "30.11 o 22:21",
+    "status": true,
+    "createdAt": "2024-11-30T21:21:39.000Z",
+    "liberated": 42443.152918025626,
+    "occupied": 67466.221998733,
+    "unspecified": 744.8531638370287,
+    "occupiedInRussia": 548.2404788275526,
+    "occupiedInRussiaUnspecified": 202.63514840715177
   }
 ]
