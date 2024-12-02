@@ -13791,5 +13791,19 @@
     "unspecified": 744.8531638370287,
     "occupiedInRussia": 548.2404788275526,
     "occupiedInRussiaUnspecified": 202.63514840715177
+  },
+  {
+    "id": 1733089579,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/47.8861640/36.8565099\">Нового Комара</a>, <a href=\"https://deepstatemap.live/#13/49.5254667/37.8359727\">Берестового</a>, <a href=\"https://deepstatemap.live/#14/51.3755474/35.1630860\">Погребків</a> та в <a href=\"https://deepstatemap.live/#16/47.9802926/37.2871787\">Кураховому</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.8861640/36.8565099\">Novyi Komar</a>, <a href=\"https://deepstatemap.live/en#13/49.5254667/37.8359727\">Berestove</a>, <a href=\"https://deepstatemap.live/en#14/51.3755474/35.1630860\">Pohrebky</a> and in <a href=\"https://deepstatemap.live/en#16/47.9802926/37.2871787\">Kurakhove</a>.",
+    "updatedAt": "2024-12-01T23:04:53.498Z",
+    "datetime": "01.12 o 22:46",
+    "status": true,
+    "createdAt": "2024-12-01T21:46:19.000Z",
+    "liberated": 42432.021253681894,
+    "occupied": 67478.05197296421,
+    "unspecified": 750.8821697639675,
+    "occupiedInRussia": 546.321161346004,
+    "occupiedInRussiaUnspecified": 198.47122568316212
   }
 ]
