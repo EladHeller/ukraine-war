@@ -13819,5 +13819,19 @@
     "unspecified": 756.7257972457129,
     "occupiedInRussia": 546.321161346004,
     "occupiedInRussiaUnspecified": 177.13237717728708
+  },
+  {
+    "id": 1733217174,
+    "description": "Сили Оборони України звільнили <a href=\"https://deepstatemap.live/#15/49.8813531/37.7337591\">Новомлинськ</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces liberated <a href=\"https://deepstatemap.live/en#15/49.8813531/37.7337591\">Novomlynsk</a>.",
+    "updatedAt": "2024-12-03T09:14:40.420Z",
+    "datetime": "03.12 o 10:12",
+    "status": true,
+    "createdAt": "2024-12-03T09:12:54.000Z",
+    "liberated": 42433.70585532392,
+    "occupied": 67488.03460804367,
+    "unspecified": 752.2754775387643,
+    "occupiedInRussia": 546.321161346004,
+    "occupiedInRussiaUnspecified": 177.13237717728708
   }
 ]
