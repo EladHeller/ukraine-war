@@ -13805,5 +13805,19 @@
     "unspecified": 750.8821697639675,
     "occupiedInRussia": 546.321161346004,
     "occupiedInRussiaUnspecified": 198.47122568316212
+  },
+  {
+    "id": 1733175212,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#15/48.0144015/37.2120415\">Старих Тернах</a>, <a href=\"https://deepstatemap.live/#15/47.9770939/37.2867579\">Кураховому</a>, біля <a href=\"https://deepstatemap.live/#13/49.5114942/37.8289133\">Кругляківки</a> та <a href=\"https://deepstatemap.live/#14/48.1235619/37.1582085\">Пушкіного</a>. Уточнено лінію зіткнення біля <a href=\"https://deepstatemap.live/#14/47.8863902/36.8425233\">Нового Комара</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.0144015/37.2120415\">Staryi Terny</a>, <a href=\"https://deepstatemap.live/en#15/47.9770939/37.2867579\">Kurakhove</a>, near <a href=\"https://deepstatemap.live/en#13/49.5114942/37.8289133\">Kruhlyakivka</a> and <a href=\"https://deepstatemap.live/en#14/48.1235619/37.1582085\">Pushkine</a>. The contact line near <a href=\"https://deepstatemap.live/en#14/47.8863902/36.8425233\">Novyi Komar</a> has been clarified.",
+    "updatedAt": "2024-12-02T22:32:07.066Z",
+    "datetime": "02.12 o 22:33",
+    "status": true,
+    "createdAt": "2024-12-02T21:33:32.000Z",
+    "liberated": 42429.25553561697,
+    "occupied": 67488.03460804367,
+    "unspecified": 756.7257972457129,
+    "occupiedInRussia": 546.321161346004,
+    "occupiedInRussiaUnspecified": 177.13237717728708
   }
 ]
