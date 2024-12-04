@@ -13833,5 +13833,19 @@
     "unspecified": 752.2754775387643,
     "occupiedInRussia": 546.321161346004,
     "occupiedInRussiaUnspecified": 177.13237717728708
+  },
+  {
+    "id": 1733270457,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/47.9343710/37.1181229\">Сухих Ялів</a>, <a href=\"https://deepstatemap.live/#14/47.9165416/37.1896143\">Костянтинопольського</a>, <a href=\"https://deepstatemap.live/#13/48.1950604/37.2469807\">Даченського</a>, <a href=\"https://deepstatemap.live/#14/48.1233256/37.1461924\">Пушкіного</a> та в <a href=\"https://deepstatemap.live/#15/47.9884259/37.2887291\">Кураховому</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.9343710/37.1181229\">Sukhi Yaly</a>, <a href=\"https://deepstatemap.live/en#14/47.9165416/37.1896143\">Kostiantynopolske</a>, <a href=\"https://deepstatemap.live/en#13/48.1950604/37.2469807\">Dachenske</a>, <a href=\"https://deepstatemap.live/en#14/48.1233256/37.1461924\">Pushkine</a> and in <a href=\"https://deepstatemap.live/en#15/47.9884259/37.2887291\">Kurakhove</a>.",
+    "updatedAt": "2024-12-04T00:05:16.676Z",
+    "datetime": "04.12 o 01:00",
+    "status": true,
+    "createdAt": "2024-12-04T00:00:57.000Z",
+    "liberated": 42433.70585532392,
+    "occupied": 67517.4091893187,
+    "unspecified": 742.8499252921954,
+    "occupiedInRussia": 546.321161346004,
+    "occupiedInRussiaUnspecified": 177.13237717728708
   }
 ]
