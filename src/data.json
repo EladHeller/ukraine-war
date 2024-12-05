@@ -13847,5 +13847,19 @@
     "unspecified": 742.8499252921954,
     "occupiedInRussia": 546.321161346004,
     "occupiedInRussiaUnspecified": 177.13237717728708
+  },
+  {
+    "id": 1733357213,
+    "description": "Сили Оборони України відновили контроль над <a href=\"https://deepstatemap.live/#14/47.8864482/36.8395197\">Новим Комарем</a>. Ворог окупував <a href=\"https://deepstatemap.live/#14/47.8003320/36.8190085\">Благодатне</a>, а також просунувся у <a href=\"https://deepstatemap.live/#14/47.9216008/37.1854258\">Костянтинопольському</a>, <a href=\"https://deepstatemap.live/#14/47.9432736/37.1222672\">Сухих Ялах</a>, <a href=\"https://deepstatemap.live/#14/48.0177524/37.1995983\">Старих Тернах</a>, <a href=\"https://deepstatemap.live/#15/48.5930883/37.8464196\">Часовому Яру</a>, <a href=\"https://deepstatemap.live/#15/48.1947328/37.1190927\">Новопустинці</a>, <a href=\"https://deepstatemap.live/#14/47.8854725/37.3074646\">Єлизаветівці</a>, біля <a href=\"https://deepstatemap.live/#14/48.1151432/37.1442176\">Пушкіного</a>, <a href=\"https://deepstatemap.live/#14/48.0991584/37.1772558\">Зорі</a> та <a href=\"https://deepstatemap.live/#15/48.2114482/37.1364703\">Шевченка</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces regained control of <a href=\"https://deepstatemap.live/en#14/47.8864482/36.8395197\">Novyi Komar</a>. The enemy occupied <a href=\"https://deepstatemap.live/en#14/47.8003320/36.8190085\">Blahodatne</a> and advanced in <a href=\"https://deepstatemap.live/en#14/47.9216008/37.1854258\">Kostiantynopolske</a>, <a href=\"https://deepstatemap.live/en#14/47.9432736/37.1222672\">Sukhi Yaly</a>, <a href=\"https://deepstatemap.live/en#14/48.0177524/37.1995983\">Stari Terny</a>, <a href=\"https://deepstatemap.live/en#15/48.5930883/37.8464196\">Chasovyi Yar</a>, <a href=\"https://deepstatemap.live/en#15/48.1947328/37.1190927\">Novopustyntsi</a>, <a href=\"https://deepstatemap.live/en#14/47.8854725/37.3074646\">Yelizavetivka</a>, near <a href=\"https://deepstatemap.live/en#14/48.1151432/37.1442176\">Pushkino</a>, <a href=\"https://deepstatemap.live/en#14/48.0991584/37.1772558\">Zorya</a> and <a href=\"https://deepstatemap.live/en#15/48.2114482/37.1364703\">Shevchenko</a>.",
+    "updatedAt": "2024-12-05T00:16:28.157Z",
+    "datetime": "05.12 o 01:06",
+    "status": true,
+    "createdAt": "2024-12-05T00:06:53.000Z",
+    "liberated": 42426.672048452194,
+    "occupied": 67534.33764541121,
+    "unspecified": 744.8665424193531,
+    "occupiedInRussia": 546.321161346004,
+    "occupiedInRussiaUnspecified": 177.13237717728708
   }
 ]
