@@ -13861,5 +13861,19 @@
     "unspecified": 744.8665424193531,
     "occupiedInRussia": 546.321161346004,
     "occupiedInRussiaUnspecified": 177.13237717728708
+  },
+  {
+    "id": 1733442661,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#15/48.1952028/37.1164726\">Новопустинку</a>, <a href=\"https://deepstatemap.live/#15/48.0158943/37.2000715\">Старі Терни</a>, <a href=\"https://deepstatemap.live/#15/47.8951541/37.3063294\">Іллінку</a>, <a href=\"https://deepstatemap.live/#15/48.0853139/37.2144886\">Новодмитрівку</a>, а також просунувся в <a href=\"https://deepstatemap.live/#15/47.9896202/37.2865451\">Кураховому</a>, <a href=\"https://deepstatemap.live/#15/47.9008491/37.2863778\">Романівці</a> та біля <a href=\"https://deepstatemap.live/#15/47.9239760/37.2459085\">Успенівки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#15/48.1952028/37.1164726\">Novopusynka</a>, <a href=\"https://deepstatemap.live/en#15/48.0158943/37.2000715\">Stari Terny</a>, <a href=\"https://deepstatemap.live/en#15/47.8951541/37.3063294\">Illinka</a>, <a href=\"https://deepstatemap.live/en#15/48.0853139/37.2144886\">Novodmytrivka</a>, and advanced in <a href=\"https://deepstatemap.live/en#15/47.9896202/37.2865451\">Kurakhove</a>, <a href=\"https://deepstatemap.live/en#15/47.9008491/37.2863778\">Romanivka</a> and near <a href=\"https://deepstatemap.live/en#15/47.9239760/37.2459085\">Uspenivka</a>.",
+    "updatedAt": "2024-12-05T23:52:12.192Z",
+    "datetime": "06.12 o 00:51",
+    "status": true,
+    "createdAt": "2024-12-05T23:51:01.000Z",
+    "liberated": 42426.672048452194,
+    "occupied": 67540.91286164802,
+    "unspecified": 743.9506341657893,
+    "occupiedInRussia": 546.321161346004,
+    "occupiedInRussiaUnspecified": 177.13237717728708
   }
 ]
