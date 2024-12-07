@@ -13875,5 +13875,19 @@
     "unspecified": 743.9506341657893,
     "occupiedInRussia": 546.321161346004,
     "occupiedInRussiaUnspecified": 177.13237717728708
+  },
+  {
+    "id": 1733528901,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.1995976/37.1002019\">Новотроїцького</a>, <a href=\"https://deepstatemap.live/#14/48.2056022/37.1273189\">Шевченка</a>, <a href=\"https://deepstatemap.live/#14/47.9597789/37.2594022\">Дальнього</a>, <a href=\"https://deepstatemap.live/#14/48.1655011/37.1262033\">Новооленівки</a> та в <a href=\"https://deepstatemap.live/#15/48.3839451/37.8523857\">Торецьку</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.1995976/37.1002019\">Novotroitske</a>, <a href=\"https://deepstatemap.live/en#14/48.2056022/37.1273189\">Shevchenko</a>, <a href=\"https://deepstatemap.live/en#14/47.9597789/37.2594022\">Dalne</a>, <a href=\"https://deepstatemap.live/en#14/48.1655011/37.1262033\">Novooleynivka</a> and <a href=\"https://deepstatemap.live/en#15/48.3839451/37.8523857\">Toretsk</a>.",
+    "updatedAt": "2024-12-06T23:57:13.617Z",
+    "datetime": "07.12 o 00:48",
+    "status": true,
+    "createdAt": "2024-12-06T23:48:21.000Z",
+    "liberated": 42426.672048452194,
+    "occupied": 67547.77970621598,
+    "unspecified": 744.0313022124743,
+    "occupiedInRussia": 546.321161346004,
+    "occupiedInRussiaUnspecified": 177.13237717728708
   }
 ]
