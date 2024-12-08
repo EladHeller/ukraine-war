@@ -13889,5 +13889,19 @@
     "unspecified": 744.0313022124743,
     "occupiedInRussia": 546.321161346004,
     "occupiedInRussiaUnspecified": 177.13237717728708
+  },
+  {
+    "id": 1733613350,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.2061709/37.1660079\">Відродження</a>, <a href=\"https://deepstatemap.live/#14/48.2114886/37.1260189\">Шевченка</a>, <a href=\"https://deepstatemap.live/#14/48.1990798/37.0934957\">Новотроїцького</a>, <a href=\"https://deepstatemap.live/#14/48.1296355/37.1173526\">Пушкіного</a>, <a href=\"https://deepstatemap.live/#13/47.7926822/36.7431665\">Сторожевого</a> та в <a href=\"https://deepstatemap.live/#14/48.3874656/37.8420218\">Торецьку</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.2061709/37.1660079\">Vidrodzhennia</a>, <a href=\"https://deepstatemap.live/en#14/48.2114886/37.1260189\">Shevchenko</a>, <a href=\"https://deepstatemap.live/en#14/48.1990798/37.0934957\">Novotroitske</a>, <a href=\"https://deepstatemap.live/en#14/48.1296355/37.1173526\">Pushkino</a>, <a href=\"https://deepstatemap.live/en#13/47.7926822/36.7431665\">Storozheve</a> and in <a href=\"https://deepstatemap.live/en#14/48.3874656/37.8420218\">Toretsk</a>.",
+    "updatedAt": "2024-12-07T23:21:48.773Z",
+    "datetime": "08.12 o 00:15",
+    "status": true,
+    "createdAt": "2024-12-07T23:15:50.000Z",
+    "liberated": 42408.52811486891,
+    "occupied": 67560.10730897507,
+    "unspecified": 755.0700458338848,
+    "occupiedInRussia": 546.321161346004,
+    "occupiedInRussiaUnspecified": 177.13237717728708
   }
 ]
