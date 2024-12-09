@@ -13903,5 +13903,19 @@
     "unspecified": 755.0700458338848,
     "occupiedInRussia": 546.321161346004,
     "occupiedInRussiaUnspecified": 177.13237717728708
+  },
+  {
+    "id": 1733700944,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#15/47.8951261/37.2151355\">Трудовому</a>, <a href=\"https://deepstatemap.live/#15/47.9781309/37.2836275\">Кураховому</a>, біля <a href=\"https://deepstatemap.live/#14/48.2141234/37.1199356\">Шевченка</a>, <a href=\"https://deepstatemap.live/#14/48.2049748/37.1502277\">Відродження</a> та <a href=\"https://deepstatemap.live/#14/48.1474654/37.1467504\">Пушкіного</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/47.8951261/37.2151355\">Trudove</a>, <a href=\"https://deepstatemap.live/en#15/47.9781309/37.2836275\">Kurakhove</a>, near <a href=\"https://deepstatemap.live/en#14/48.2141234/37.1199356\">Shevchenko</a>, <a href=\"https://deepstatemap.live/en#14/48.2049748/37.1502277\">Vidrodzhennia</a> and <a href=\"https://deepstatemap.live/en#14/48.1474654/37.1467504\">Pushkine</a>.",
+    "updatedAt": "2024-12-08T23:43:04.623Z",
+    "datetime": "09.12 o 00:35",
+    "status": true,
+    "createdAt": "2024-12-08T23:35:44.000Z",
+    "liberated": 42408.52811486891,
+    "occupied": 67568.53164458685,
+    "unspecified": 754.9154840662414,
+    "occupiedInRussia": 546.321161346004,
+    "occupiedInRussiaUnspecified": 177.13237717728708
   }
 ]
