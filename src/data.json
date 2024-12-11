@@ -13931,5 +13931,19 @@
     "unspecified": 747.8616036604134,
     "occupiedInRussia": 535.2181481256367,
     "occupiedInRussiaUnspecified": 166.35606924310636
+  },
+  {
+    "id": 1733909037,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#15/48.3681820/37.8527927\">Торецька</a>, <a href=\"https://deepstatemap.live/#14/47.9171186/37.0067596\">Розлива</a>, <a href=\"https://deepstatemap.live/#14/48.1503115/37.1348190\">Пушкіного</a>, <a href=\"https://deepstatemap.live/#13/51.1293377/35.3254421\">Черкаської Конопельки</a>, в <a href=\"https://deepstatemap.live/#15/47.9897063/37.2814178\">Кураховому</a>, <a href=\"https://deepstatemap.live/#15/48.2225140/37.1482944\">Шевченку</a>, <a href=\"https://deepstatemap.live/#15/48.0477775/37.1910810\">Сонцівці</a>, а також був відкинутий від <a href=\"https://deepstatemap.live/#14/47.9171761/37.1877766\">Костянтинопольського</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#15/48.3681820/37.8527927\">Toretsk</a>, <a href=\"https://deepstatemap.live/en#14/47.9171186/37.0067596\">Rozlyv</a>, <a href=\"https://deepstatemap.live/en#14/48.1503115/37.1348190\">Pushkino</a>, <a href=\"https://deepstatemap.live/en#13/51.1293377/35.3254421\">Cherkaska Konopelka</a>, <a href=\"https://deepstatemap.live/en#15/47.9897063/37.2814178\">Kurakhove</a>, <a href=\"https://deepstatemap.live/en#15/48.2225140/37.1482944\">Shevchenko</a>, <a href=\"https://deepstatemap.live/en#15/48.0477775/37.1910810\">Sontsovka</a>, and was pushed back from <a href=\"https://deepstatemap.live/en#14/47.9171761/37.1877766\">Kostiantynopolske</a>.",
+    "updatedAt": "2024-12-11T09:31:21.966Z",
+    "datetime": "11.12 o 10:23",
+    "status": true,
+    "createdAt": "2024-12-11T09:23:57.000Z",
+    "liberated": 42408.52811486891,
+    "occupied": 67612.08862538371,
+    "unspecified": 748.8828279671634,
+    "occupiedInRussia": 522.6131099693507,
+    "occupiedInRussiaUnspecified": 166.38970922394998
   }
 ]
