@@ -13945,5 +13945,19 @@
     "unspecified": 748.8828279671634,
     "occupiedInRussia": 522.6131099693507,
     "occupiedInRussiaUnspecified": 166.38970922394998
+  },
+  {
+    "id": 1734011158,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.0816342/37.1823123\">Зорю</a>, а також просунувся у <a href=\"https://deepstatemap.live/#14/48.1911869/37.0820791\">Новотроїцькому</a>, <a href=\"https://deepstatemap.live/#15/47.9162438/37.2370227\">Успенівці</a>, <a href=\"https://deepstatemap.live/#16/47.9803490/37.2725237\">Кураховому</a>, <a href=\"https://deepstatemap.live/#15/48.0436747/37.1899012\">Сонцівці</a> та біля <a href=\"https://deepstatemap.live/#14/47.8946218/37.2511625\">Веселого Гаю</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.0816342/37.1823123\">Zorya</a> and advanced in <a href=\"https://deepstatemap.live/en#14/48.1911869/37.0820791\">Novotroitske</a>, <a href=\"https://deepstatemap.live/en#15/47.9162438/37.2370227\">Uspenivka</a>, <a href=\"https://deepstatemap.live/en#16/47.9803490/37.2725237\">Kurakhove</a>, <a href=\"https://deepstatemap.live/en#15/48.0436747/37.1899012\">Sontsivka</a> and near <a href=\"https://deepstatemap.live/en#14/47.8946218/37.2511625\">Veselyi Hai</a>.",
+    "updatedAt": "2024-12-12T13:50:00.401Z",
+    "datetime": "12.12 o 14:45",
+    "status": true,
+    "createdAt": "2024-12-12T13:45:58.000Z",
+    "liberated": 42407.503375861255,
+    "occupied": 67620.87359794186,
+    "unspecified": 750.426416861841,
+    "occupiedInRussia": 522.6131099693507,
+    "occupiedInRussiaUnspecified": 166.38970922394998
   }
 ]
