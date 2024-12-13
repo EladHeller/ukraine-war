@@ -13959,5 +13959,19 @@
     "unspecified": 748.9693392809996,
     "occupiedInRussia": 522.6131099693507,
     "occupiedInRussiaUnspecified": 166.38970922394998
+  },
+  {
+    "id": 1734089771,
+    "description": "Технічне оновлення меж полігонів.",
+    "descriptionEn": "",
+    "updatedAt": "2024-12-13T11:36:24.848Z",
+    "datetime": "13.12 o 12:36",
+    "status": true,
+    "createdAt": "2024-12-13T11:36:11.000Z",
+    "liberated": 42460.58555946842,
+    "occupied": 67620.90331559948,
+    "unspecified": 749.6966333737653,
+    "occupiedInRussia": 522.6132446575837,
+    "occupiedInRussiaUnspecified": 166.38960384146304
   }
 ]
