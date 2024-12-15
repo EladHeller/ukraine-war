@@ -13987,5 +13987,19 @@
     "unspecified": 742.0386914435315,
     "occupiedInRussia": 522.6131099693507,
     "occupiedInRussiaUnspecified": 166.38970922394998
+  },
+  {
+    "id": 1734202053,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/47.9827842/37.2678048\">Кураховому</a>, біля <a href=\"https://deepstatemap.live/#13/49.8369320/37.6754673\">Дворічної</a> та <a href=\"https://deepstatemap.live/#13/49.4741539/37.8284646\">Лозової</a>. Сили Оборони України відкинули противника біля <a href=\"https://deepstatemap.live/#14/48.2268164/37.1207002\">Піщаного</a>. Уточнено район східніше <a href=\"https://deepstatemap.live/#14/49.5786376/37.7700939\">Кругляківки</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/47.9827842/37.2678048\">Kurakhove</a>, near <a href=\"https://deepstatemap.live/en#13/49.8369320/37.6754673\">Dvorichna</a> and <a href=\"https://deepstatemap.live/en#13/49.4741539/37.8284646\">Lozova</a>. Ukrainian Defense Forces pushed back the enemy near <a href=\"https://deepstatemap.live/en#14/48.2268164/37.1207002\">Pishchane</a>. The area east of <a href=\"https://deepstatemap.live/en#14/49.5786376/37.7700939\">Kruhliakivka</a> has been clarified.",
+    "updatedAt": "2024-12-14T20:17:17.387Z",
+    "datetime": "14.12 o 19:47",
+    "status": true,
+    "createdAt": "2024-12-14T18:47:33.000Z",
+    "liberated": 42439.55997915873,
+    "occupied": 67678.40757400378,
+    "unspecified": 735.0473572029965,
+    "occupiedInRussia": 522.6131099693507,
+    "occupiedInRussiaUnspecified": 166.38970922394998
   }
 ]
