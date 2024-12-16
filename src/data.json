@@ -14001,5 +14001,19 @@
     "unspecified": 735.0473572029965,
     "occupiedInRussia": 522.6131099693507,
     "occupiedInRussiaUnspecified": 166.38970922394998
+  },
+  {
+    "id": 1734296493,
+    "description": "Сили Оборони відновили положення біля <a href=\"https://deepstatemap.live/#14/49.5661575/37.7012621\">Колесниківки</a>. Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/47.9569879/37.0873573\">Зеленівки</a>, <a href=\"https://deepstatemap.live/#13/47.7984598/36.7826525\">Сторожевого</a>, <a href=\"https://deepstatemap.live/#15/48.2125633/37.2182246\">Даченського</a>, <a href=\"https://deepstatemap.live/#15/48.5985377/37.8391662\">Часового Яру</a> та в <a href=\"https://deepstatemap.live/#14/47.8778762/36.8400308\">Новому Комарі</a>.",
+    "descriptionEn": "The Defense Forces regained their position near <a href=\"https://deepstatemap.live/en#14/49.5661575/37.7012621\">Kolesnykivka</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#13/47.9569879/37.0873573\">Zelenivka</a>, <a href=\"https://deepstatemap.live/en#13/47.7984598/36.7826525\">Storozheve</a>, <a href=\"https://deepstatemap.live/en#15/48.2125633/37.2182246\">Dachenske</a>, <a href=\"https://deepstatemap.live/en#15/48.5985377/37.8391662\">Chasovyi Yar</a> and <a href=\"https://deepstatemap.live/en#14/47.8778762/36.8400308\">Novyi Komar</a>.",
+    "updatedAt": "2024-12-15T22:53:50.029Z",
+    "datetime": "15.12 o 22:01",
+    "status": true,
+    "createdAt": "2024-12-15T21:01:33.000Z",
+    "liberated": 42440.542306149495,
+    "occupied": 67687.20650313092,
+    "unspecified": 744.5563197851831,
+    "occupiedInRussia": 522.6131099693507,
+    "occupiedInRussiaUnspecified": 166.38970922394998
   }
 ]
