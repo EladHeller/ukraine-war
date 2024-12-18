@@ -14029,5 +14029,19 @@
     "unspecified": 743.1618133538996,
     "occupiedInRussia": 506.16511340962575,
     "occupiedInRussiaUnspecified": 160.73121867799085
+  },
+  {
+    "id": 1734472424,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#13/48.0522108/37.1881310\">Сонцівку</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/48.1989617/37.0683450\">Новотроїцького</a>, <a href=\"https://deepstatemap.live/#14/48.0365235/37.2441168\">Берестків</a>, <a href=\"https://deepstatemap.live/#13/47.9645370/37.0552608\">Зеленівки</a>, <a href=\"https://deepstatemap.live/#14/47.8884019/36.8513210\">Нового Комара</a>, <a href=\"https://deepstatemap.live/#14/47.7990910/36.7673487\">Сторожевого</a>, в <a href=\"https://deepstatemap.live/#16/47.9815850/37.2663916\">Кураховому</a>, <a href=\"https://deepstatemap.live/#14/48.1221415/37.1261964\">Пушкіному</a>, <a href=\"https://deepstatemap.live/#14/48.2131467/37.2166515\">Даченському</a> та <a href=\"https://deepstatemap.live/#14/48.2125178/37.1706556\">Відродженні</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#13/48.0522108/37.1881310\">Sontsivka</a> and advanced near <a href=\"https://deepstatemap.live/en#14/48.1989617/37.0683450\">Novotroitske</a>, <a href=\"https://deepstatemap.live/en#14/48.0365235/37.2441168\">Berestky</a>, <a href=\"https://deepstatemap.live/en#13/47.9645370/37.0552608\">Zelenivka</a>, <a href=\"https://deepstatemap.live/en#14/47.8884019/36.8513210\">Novyi Komar</a>, <a href=\"https://deepstatemap.live/en#14/47.7990910/36.7673487\">Storozheve</a>, <a href=\"https://deepstatemap.live/en#16/47.9815850/37.2663916\">Kurakhove</a>, <a href=\"https://deepstatemap.live/en#14/48.1221415/37.1261964\">Pushkine</a>, <a href=\"https://deepstatemap.live/en#14/48.2131467/37.2166515\">Dachenske</a> and <a href=\"https://deepstatemap.live/en#14/48.2125178/37.1706556\">Vidrodzhennia</a>.",
+    "updatedAt": "2024-12-17T23:44:59.380Z",
+    "datetime": "17.12 o 22:53",
+    "status": true,
+    "createdAt": "2024-12-17T21:53:44.000Z",
+    "liberated": 42439.67107123329,
+    "occupied": 67708.03477492592,
+    "unspecified": 739.7569103173907,
+    "occupiedInRussia": 495.77136152622137,
+    "occupiedInRussiaUnspecified": 165.07260868198568
   }
 ]
