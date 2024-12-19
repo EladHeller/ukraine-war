@@ -14043,5 +14043,19 @@
     "unspecified": 740.9534975553265,
     "occupiedInRussia": 495.77136152622137,
     "occupiedInRussiaUnspecified": 165.07260868198568
+  },
+  {
+    "id": 1734559084,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/47.8165277/36.7724901\">Трудове</a>, а також просунувся в <a href=\"https://deepstatemap.live/#14/47.9177411/37.2261036\">Успенівці</a>, <a href=\"https://deepstatemap.live/#14/47.9848716/37.2659004\">Кураховому</a>, біля <a href=\"https://deepstatemap.live/#13/49.5165370/37.7631662\">Загризового</a>, <a href=\"https://deepstatemap.live/#14/48.2251155/37.1198118\">Піщаного</a>, <a href=\"https://deepstatemap.live/#13/48.1550981/37.0855906\">Новооленівки</a>, <a href=\"https://deepstatemap.live/#14/48.2113949/37.0992166\">Вовкового</a>, <a href=\"https://deepstatemap.live/#14/47.8165277/36.7724901\">Нескучного</a> та <a href=\"https://deepstatemap.live/#14/48.2177983/37.1674382\">Відродження</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/47.8165277/36.7724901\">Trudove</a> and advanced in <a href=\"https://deepstatemap.live/en#14/47.9177411/37.2261036\">Uspenivka</a>, <a href=\"https://deepstatemap.live/en#14/47.9848716/37.2659004\">Kurakhove</a>, near <a href=\"https://deepstatemap.live/en#13/49.5165370/37.7631662\">Zahryzove</a>, <a href=\"https://deepstatemap.live/en#14/48.2251155/37.1198118\">Pishchane</a>, <a href=\"https://deepstatemap.live/en#13/48.1550981/37.0855906\">Novooleynivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2113949/37.0992166\">Vovkove</a>, <a href=\"https://deepstatemap.live/en#14/47.8165277/36.7724901\">Neskuchne</a> and <a href=\"https://deepstatemap.live/en#14/48.2177983/37.1674382\">Vidrodzhennia</a>.",
+    "updatedAt": "2024-12-18T23:13:11.623Z",
+    "datetime": "18.12 o 22:58",
+    "status": true,
+    "createdAt": "2024-12-18T21:58:04.000Z",
+    "liberated": 42431.44319865226,
+    "occupied": 67736.4740087821,
+    "unspecified": 734.0405048746411,
+    "occupiedInRussia": 495.77136152622137,
+    "occupiedInRussiaUnspecified": 165.07260868198568
   }
 ]
