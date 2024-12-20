@@ -14057,5 +14057,19 @@
     "unspecified": 734.0405048746411,
     "occupiedInRussia": 495.77136152622137,
     "occupiedInRussiaUnspecified": 165.07260868198568
+  },
+  {
+    "id": 1734644080,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/47.9244788/37.1820714\">Костянтинопольське</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/51.3356826/35.1819562\">Кругленького</a>, <a href=\"https://deepstatemap.live/#14/48.0749439/37.1626477\">Зорі</a>, <a href=\"https://deepstatemap.live/#14/47.9559765/37.0832141\">Зеленівки</a> та в <a href=\"https://deepstatemap.live/#14/48.1436079/37.0901464\">Новооленівці</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/47.9244788/37.1820714\">Kostiantynopolske</a>, and advanced near <a href=\"https://deepstatemap.live/en#14/51.3356826/35.1819562\">Kruglenke</a>, <a href=\"https://deepstatemap.live/en#14/48.0749439/37.1626477\">Zorya</a>, <a href=\"https://deepstatemap.live/en#14/47.9559765/37.0832141\">Zelenivka</a> and <a href=\"https://deepstatemap.live/en#14/48.1436079/37.0901464\">Novooleynivka</a>.",
+    "updatedAt": "2024-12-19T22:23:08.674Z",
+    "datetime": "19.12 o 22:34",
+    "status": true,
+    "createdAt": "2024-12-19T21:34:40.000Z",
+    "liberated": 42431.44319865226,
+    "occupied": 67745.090691626,
+    "unspecified": 727.3944665083925,
+    "occupiedInRussia": 493.6020783664031,
+    "occupiedInRussiaUnspecified": 165.79195669083188
   }
 ]
