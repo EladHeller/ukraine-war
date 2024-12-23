@@ -14071,5 +14071,19 @@
     "unspecified": 727.3944665083925,
     "occupiedInRussia": 493.6020783664031,
     "occupiedInRussiaUnspecified": 165.79195669083188
+  },
+  {
+    "id": 1734816028,
+    "description": "Уточнено лінію зіткненя біля <a href=\"https://deepstatemap.live/#13/47.7973015/36.7984489\">Сторожевого</a> та <a href=\"https://deepstatemap.live/#14/47.9613985/37.0723872\">Зеленівки</a>.",
+    "descriptionEn": "The contact line near <a href=\"https://deepstatemap.live/#13/47.7973015/36.7984489\">Storozheve</a> and <a href=\"https://deepstatemap.live/#14/47.9613985/37.0723872\">Zelenivka</a> has been clarified.",
+    "updatedAt": "2024-12-22T19:47:39.211Z",
+    "datetime": "21.12 o 22:20",
+    "status": true,
+    "createdAt": "2024-12-21T21:20:28.000Z",
+    "liberated": 42425.09582267908,
+    "occupied": 67747.53008415272,
+    "unspecified": 740.1201176765113,
+    "occupiedInRussia": 493.6020783664031,
+    "occupiedInRussiaUnspecified": 165.79195669083188
   }
 ]
