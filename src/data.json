@@ -14085,5 +14085,19 @@
     "unspecified": 740.1201176765113,
     "occupiedInRussia": 493.6020783664031,
     "occupiedInRussiaUnspecified": 165.79195669083188
+  },
+  {
+    "id": 1734988807,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/47.7784201/36.7988364\">Макарівку</a>, <a href=\"https://deepstatemap.live/#14/47.9458723/37.1231862\">Сухі Яли</a> та <a href=\"https://deepstatemap.live/#14/47.9653554/37.0922889\">Зеленівку</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/48.0293927/37.2127993\">Старих Тернів</a>, <a href=\"https://deepstatemap.live/#14/47.7687279/36.6543879\">Новодарівки</a>, <a href=\"https://deepstatemap.live/#14/48.2152598/37.0803599\">Вовкового</a>, <a href=\"https://deepstatemap.live/#13/48.1859462/37.0641820\">Нововасилівки</a>, <a href=\"https://deepstatemap.live/#13/48.1379696/37.0542194\">Новоєлизаветівки</a>, <a href=\"https://deepstatemap.live/#13/48.1422066/37.1084534\">Новооленівки</a>, <a href=\"https://deepstatemap.live/#14/48.1205785/37.1102295\">Українки</a>, <a href=\"https://deepstatemap.live/#14/48.0903205/37.1688473\">Зорі</a>, в <a href=\"https://deepstatemap.live/#14/47.7991727/36.7926553\">Сторожовому</a> та <a href=\"https://deepstatemap.live/#15/47.9869214/37.2757056\">Кураховому</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/47.7784201/36.7988364\">Makarivka</a>, <a href=\"https://deepstatemap.live/en#14/47.9458723/37.1231862\">Sukhi Yaly</a> and <a href=\"https://deepstatemap.live/en#14/47.9653554/37.0922889\">Zelenivka</a>, and advanced near <a href=\"https://deepstatemap.live/en#14/48.0293927/37.2127993\">Staryi Terny</a>, <a href=\"https://deepstatemap.live/en#14/47.7687279/36.6543879\">Novodarivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2152598/37.0803599\">Vovkove</a>, <a href=\"https://deepstatemap.live/en#13/48.1859462/37.0641820\">Novovasylivka,</a> <a href=\"https://deepstatemap.live/en#13/48.1379696/37.0542194\">Novoyelizavetivka,</a> <a href=\"https://deepstatemap.live/en#13/48.1422066/37.1084534\">Novooleynivka</a>, <a href=\"https://deepstatemap.live/en#14/48.1205785/37.1102295\">Ukrainka</a>, <a href=\"https://deepstatemap.live/en#14/48.0903205/37.1688473\">Zorya</a>, <a href=\"https://deepstatemap.live/en#14/47.7991727/36.7926553\">Storozhove</a> and <a href=\"https://deepstatemap.live/en#15/47.9869214/37.2757056\">Kurakhove</a>.",
+    "updatedAt": "2024-12-24T09:50:49.494Z",
+    "datetime": "23.12 o 22:20",
+    "status": true,
+    "createdAt": "2024-12-23T21:20:07.000Z",
+    "liberated": 42418.249695348044,
+    "occupied": 67802.10374321038,
+    "unspecified": 719.8351269432942,
+    "occupiedInRussia": 493.6020783664031,
+    "occupiedInRussiaUnspecified": 165.79195669083188
   }
 ]
