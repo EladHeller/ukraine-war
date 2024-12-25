@@ -14099,5 +14099,19 @@
     "unspecified": 719.8351269432942,
     "occupiedInRussia": 493.6020783664031,
     "occupiedInRussiaUnspecified": 165.79195669083188
+  },
+  {
+    "id": 1735077575,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.1339553/37.0830459\">Новооленівку</a> та <a href=\"https://deepstatemap.live/#15/47.8015194/36.7972525\">Сторожове</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#15/48.2313128/37.0997795\">Піщаного</a> та <a href=\"https://deepstatemap.live/#14/48.1969055/37.0534155\">Нововасилівки</a>. Уточнено район <a href=\"https://deepstatemap.live/#14/47.8013561/36.7301462\">Рівнополя</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.1339553/37.0830459\">Novoolenivka</a> and <a href=\"https://deepstatemap.live/en#15/47.8015194/36.7972525\">Storozhove</a>, and advanced near <a href=\"https://deepstatemap.live/en#15/48.2313128/37.0997795\">Pishchane</a> and <a href=\"https://deepstatemap.live/en#14/48.1969055/37.0534155\">Novovasylivka</a>. The area around <a href=\"https://deepstatemap.live/en#14/47.8013561/36.7301462\">Rivnopil</a> has been clarified.",
+    "updatedAt": "2024-12-25T12:08:07.346Z",
+    "datetime": "24.12 o 22:59",
+    "status": true,
+    "createdAt": "2024-12-24T21:59:35.000Z",
+    "liberated": 42414.63692692512,
+    "occupied": 67809.0808805185,
+    "unspecified": 722.2045277110368,
+    "occupiedInRussia": 493.6020783664031,
+    "occupiedInRussiaUnspecified": 165.79195669083188
   }
 ]
