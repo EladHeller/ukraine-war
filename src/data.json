@@ -14127,5 +14127,19 @@
     "unspecified": 721.7836118230209,
     "occupiedInRussia": 493.6020783664031,
     "occupiedInRussiaUnspecified": 165.79195669083188
+  },
+  {
+    "id": 1735336629,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.0158484/37.1772654\">Шевченко</a>, <a href=\"https://deepstatemap.live/#14/47.9398974/37.1639588\">Янтарного</a>, <a href=\"https://deepstatemap.live/#13/47.9296393/37.0094257\">Розливу</a>, <a href=\"https://deepstatemap.live/#13/47.8162089/36.7569060\">Рівнополя</a>, в <a href=\"https://deepstatemap.live/#15/47.9869198/37.2722976\">Кураховому</a> та <a href=\"https://deepstatemap.live/#15/48.3948336/37.8405849\">Торецьку</a>. Уточнено район <a href=\"https://deepstatemap.live/#14/48.2177830/37.2847218\">Лисівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.0158484/37.1772654\">Shevchenko</a>, <a href=\"https://deepstatemap.live/en#14/47.9398974/37.1639588\">Yantarne</a>, <a href=\"https://deepstatemap.live/en#13/47.9296393/37.0094257\">Rozlyv</a>, <a href=\"https://deepstatemap.live/en#13/47.8162089/36.7569060\">Rivnopil</a>, <a href=\"https://deepstatemap.live/en#15/47.9869198/37.2722976\">Kurakhove</a> and <a href=\"https://deepstatemap.live/en#15/48.3948336/37.8405849\">Toretsk</a>. The area around <a href=\"https://deepstatemap.live/en#14/48.2177830/37.2847218\">Lysivka</a> has been clarified.",
+    "updatedAt": "2024-12-28T12:19:21.970Z",
+    "datetime": "27.12 o 22:57",
+    "status": true,
+    "createdAt": "2024-12-27T21:57:09.000Z",
+    "liberated": 42412.59123327068,
+    "occupied": 67832.37806663396,
+    "unspecified": 727.3431018837402,
+    "occupiedInRussia": 493.6021894899491,
+    "occupiedInRussiaUnspecified": 165.7920882893339
   }
 ]
