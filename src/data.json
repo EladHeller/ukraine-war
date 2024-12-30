@@ -14155,5 +14155,19 @@
     "unspecified": 729.574876477822,
     "occupiedInRussia": 493.28765822832554,
     "occupiedInRussiaUnspecified": 166.59251627364034
+  },
+  {
+    "id": 1735509379,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/49.1055352/37.9687921\">Тернів</a>, <a href=\"https://deepstatemap.live/#15/48.2977704/37.5121089\">Воздвиженки</a>, <a href=\"https://deepstatemap.live/#15/48.2239407/37.1706746\">Новоукраїнки</a>, <a href=\"https://deepstatemap.live/#14/47.9366190/37.2163172\">Успенівки</a>, <a href=\"https://deepstatemap.live/#14/47.9684052/37.2425792\">Дальнього</a>, <a href=\"https://deepstatemap.live/#14/48.0434113/37.2207043\">Сонцівки</a>, у <a href=\"https://deepstatemap.live/#14/48.1364907/37.0449078\">Новоєлизаветівці</a>, <a href=\"https://deepstatemap.live/#15/48.2288319/37.0788359\">Вовковому</a>, <a href=\"https://deepstatemap.live/#14/47.9850112/37.2572509\">Кураховому</a> та <a href=\"https://deepstatemap.live/#14/48.0191821/37.1529066\">Шевченку</a>. Уточнено район північніше <a href=\"https://deepstatemap.live/#14/48.1483995/37.0463666\">Новоєлизаветівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.1055352/37.9687921\">Terny</a>, <a href=\"https://deepstatemap.live/en#15/48.2977704/37.5121089\">Vozdvyzhenka</a>, <a href=\"https://deepstatemap.live/en#15/48.2239407/37.1706746\">Novoukrainka</a>, <a href=\"https://deepstatemap.live/en#14/47.9366190/37.2163172\">Uspenivka</a>, <a href=\"https://deepstatemap.live/en#14/47.9684052/37.2425792\">Dalne</a>, <a href=\"https://deepstatemap.live/en#14/48.0434113/37.2207043\">Sontsivka</a>, in <a href=\"https://deepstatemap.live/en#14/48.1364907/37.0449078\">Novoyelizavetivka</a>, <a href=\"https://deepstatemap.live/en#15/48.2288319/37.0788359\">Vovkove</a>, <a href=\"https://deepstatemap.live/en#14/47.9850112/37.2572509\">Kurakhove</a> and <a href=\"https://deepstatemap.live/en#14/48.0191821/37.1529066\">Shevchenkove</a>. The area to the north of <a href=\"https://deepstatemap.live/en#14/48.1483995/37.0463666\">Novoyelizavetivka</a> has been clarified.",
+    "updatedAt": "2024-12-30T12:37:55.382Z",
+    "datetime": "29.12 o 22:56",
+    "status": true,
+    "createdAt": "2024-12-29T21:56:19.000Z",
+    "liberated": 42409.558975967324,
+    "occupied": 67853.52214353174,
+    "unspecified": 729.8331865143955,
+    "occupiedInRussia": 493.28765822832554,
+    "occupiedInRussiaUnspecified": 166.59251627364034
   }
 ]
