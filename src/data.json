@@ -14169,5 +14169,19 @@
     "unspecified": 729.8331865143955,
     "occupiedInRussia": 493.28765822832554,
     "occupiedInRussiaUnspecified": 166.59251627364034
+  },
+  {
+    "id": 1735595194,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.0669774/37.1674775\">Слов'янки</a>, <a href=\"https://deepstatemap.live/#14/48.0470855/37.1619853\">Петропавлівки</a>, <a href=\"https://deepstatemap.live/#15/48.2133073/37.0607678\">Солоного</a> та <a href=\"https://deepstatemap.live/#15/48.2351291/37.0897027\">Вовкового</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.0669774/37.1674775\">Slovianka</a>, <a href=\"https://deepstatemap.live/en#14/48.0470855/37.1619853\">Petropavlivka</a>, <a href=\"https://deepstatemap.live/en#15/48.2133073/37.0607678\">Solone</a> and <a href=\"https://deepstatemap.live/en#15/48.2351291/37.0897027\">Vovkove</a>.",
+    "updatedAt": "2024-12-31T11:43:44.978Z",
+    "datetime": "30.12 o 22:46",
+    "status": true,
+    "createdAt": "2024-12-30T21:46:34.000Z",
+    "liberated": 42409.558975967324,
+    "occupied": 67856.90420544986,
+    "unspecified": 728.4046202632842,
+    "occupiedInRussia": 493.28765822832554,
+    "occupiedInRussiaUnspecified": 166.59251627364034
   }
 ]
