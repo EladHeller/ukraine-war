@@ -14197,5 +14197,19 @@
     "unspecified": 729.4099092328781,
     "occupiedInRussia": 493.28765822832554,
     "occupiedInRussiaUnspecified": 166.59251627364034
+  },
+  {
+    "id": 1735766502,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#15/48.2315475/37.0649352\">Вовкового</a>, <a href=\"https://deepstatemap.live/#14/47.8281096/36.7747178\">Нескучного</a>, в <a href=\"https://deepstatemap.live/#14/48.1376630/37.0318015\">Новоєлизаветівці</a>, <a href=\"https://deepstatemap.live/#15/48.2124729/37.0484646\">Солоному</a>, <a href=\"https://deepstatemap.live/#14/48.2995512/37.5103667\">Воздвиженці</a>, <a href=\"https://deepstatemap.live/#14/47.9931115/37.2415499\">Кураховому</a> та його <a href=\"https://deepstatemap.live/#14/47.9734127/37.2585409\">південних околицях</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#15/48.2315475/37.0649352\">Vovkove</a>, <a href=\"https://deepstatemap.live/en#14/47.8281096/36.7747178\">Neskuchne</a>, in <a href=\"https://deepstatemap.live/en#14/48.1376630/37.0318015\">Novoyelizavetivka</a>, <a href=\"https://deepstatemap.live/en#15/48.2124729/37.0484646\">Solone</a>, <a href=\"https://deepstatemap.live/en#14/48.2995512/37.5103667\">Vozdvyzhenka</a>, <a href=\"https://deepstatemap.live/en#14/47.9931115/37.2415499\">Kurakhove</a> and its <a href=\"https://deepstatemap.live/en#14/47.9734127/37.2585409\">southern outskirts</a>.",
+    "updatedAt": "2025-01-01T22:55:41.188Z",
+    "datetime": "01.01 o 22:21",
+    "status": true,
+    "createdAt": "2025-01-01T21:21:42.000Z",
+    "liberated": 42409.558975967324,
+    "occupied": 67866.95397002462,
+    "unspecified": 735.0085449627517,
+    "occupiedInRussia": 493.28765822832554,
+    "occupiedInRussiaUnspecified": 166.59251627364034
   }
 ]
