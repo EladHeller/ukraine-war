@@ -14211,5 +14211,19 @@
     "unspecified": 735.0085449627517,
     "occupiedInRussia": 493.28765822832554,
     "occupiedInRussiaUnspecified": 166.59251627364034
+  },
+  {
+    "id": 1735854798,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.2147442/37.2265929\">Даченське</a>, <a href=\"https://deepstatemap.live/#15/48.2121892/37.1734203\">Новий Труд</a> та <a href=\"https://deepstatemap.live/#14/48.2320179/37.0824195\">Вовкове</a>, а також просунувся у <a href=\"https://deepstatemap.live/#15/48.2141332/37.2066300\">Зеленому</a>, <a href=\"https://deepstatemap.live/#15/48.3024245/37.5136170\">Воздвиженці</a>, <a href=\"https://deepstatemap.live/#15/48.2030119/37.0410710\">Нововасилівці</a>, біля <a href=\"https://deepstatemap.live/#14/47.9352360/37.1491095\">Янтарного</a> та <a href=\"https://deepstatemap.live/#13/48.0300028/37.1882572\">Сонцівки</a>. Уточнено район <a href=\"https://deepstatemap.live/#14/48.1315737/37.0349157\">Новоєлизаветівки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.2147442/37.2265929\">Dachenske</a>, <a href=\"https://deepstatemap.live/en#15/48.2121892/37.1734203\">Novyi Trud</a> and <a href=\"https://deepstatemap.live/en#14/48.2320179/37.0824195\">Vovkove</a>, and advanced in <a href=\"https://deepstatemap.live/en#15/48.2141332/37.2066300\">Zelene</a>, <a href=\"https://deepstatemap.live/en#15/48.3024245/37.5136170\">Vozdvyzhenka</a>, <a href=\"https://deepstatemap.live/en#15/48.2030119/37.0410710\">Novovasylivka</a>, near <a href=\"https://deepstatemap.live/en#14/47.9352360/37.1491095\">Yantarne</a> and <a href=\"https://deepstatemap.live/en#13/48.0300028/37.1882572\">Sontsivka</a>. The area around <a href=\"https://deepstatemap.live/en#14/48.1315737/37.0349157\">Novoyelizavetivka</a> was clarified.",
+    "updatedAt": "2025-01-03T12:32:56.253Z",
+    "datetime": "02.01 o 22:53",
+    "status": true,
+    "createdAt": "2025-01-02T21:53:18.000Z",
+    "liberated": 42409.558975967324,
+    "occupied": 67877.16504503899,
+    "unspecified": 731.756593467922,
+    "occupiedInRussia": 493.28765822832554,
+    "occupiedInRussiaUnspecified": 166.59251627364034
   }
 ]
