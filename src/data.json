@@ -14239,5 +14239,19 @@
     "unspecified": 732.4426924070877,
     "occupiedInRussia": 493.28765822832554,
     "occupiedInRussiaUnspecified": 166.59251627364034
+  },
+  {
+    "id": 1736026910,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#15/47.9931802/37.2191318\">Кураховому</a>, <a href=\"https://deepstatemap.live/#15/48.3977660/37.8374516\">Торецьку</a>, <a href=\"https://deepstatemap.live/#14/48.0195280/37.1485196\">Шевченку</a>, біля <a href=\"https://deepstatemap.live/#13/47.9580423/37.2246920\">Дальнього</a>, <a href=\"https://deepstatemap.live/#14/48.3011511/37.5247920\">Воздвиженки</a> та <a href=\"https://deepstatemap.live/#14/48.3014365/37.5508792\">Баранівки</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/47.9931802/37.2191318\">Kurakhove</a>, <a href=\"https://deepstatemap.live/en#15/48.3977660/37.8374516\">Toretsk</a>, <a href=\"https://deepstatemap.live/en#14/48.0195280/37.1485196\">Shevchenko</a>, near <a href=\"https://deepstatemap.live/en#13/47.9580423/37.2246920\">Dalne</a>, <a href=\"https://deepstatemap.live/en#14/48.3011511/37.5247920\">Vozdvyzhenka</a> and <a href=\"https://deepstatemap.live/en#14/48.3014365/37.5508792\">Baranivka</a>.",
+    "updatedAt": "2025-01-05T02:22:53.770Z",
+    "datetime": "04.01 o 22:41",
+    "status": true,
+    "createdAt": "2025-01-04T21:41:50.000Z",
+    "liberated": 42408.53100891423,
+    "occupied": 67888.58139963576,
+    "unspecified": 727.3742652057276,
+    "occupiedInRussia": 493.28765822832554,
+    "occupiedInRussiaUnspecified": 166.59251627364034
   }
 ]
