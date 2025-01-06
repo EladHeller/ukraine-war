@@ -14253,5 +14253,19 @@
     "unspecified": 727.3742652057276,
     "occupiedInRussia": 493.28765822832554,
     "occupiedInRussiaUnspecified": 166.59251627364034
+  },
+  {
+    "id": 1736112210,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#15/48.3937495/37.8309059\">Торецьку</a>, <a href=\"https://deepstatemap.live/#15/48.2143933/37.2035694\">Зеленому</a>, <a href=\"https://deepstatemap.live/#14/48.0436891/37.1434879\">Петропавлівці</a>, біля <a href=\"https://deepstatemap.live/#14/48.3047496/37.5319576\">Воздвиженки</a>, <a href=\"https://deepstatemap.live/#14/48.3101160/37.5632000\">Баранівки</a> та <a href=\"https://deepstatemap.live/#14/48.2399664/37.0862389\">Піщаного</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.3937495/37.8309059\">Toretsk</a>, <a href=\"https://deepstatemap.live/en#15/48.2143933/37.2035694\">Zelene</a>, <a href=\"https://deepstatemap.live/en#14/48.0436891/37.1434879\">Petropavlivka</a>, near <a href=\"https://deepstatemap.live/en#14/48.3047496/37.5319576\">Vozdvyzhenka</a>, <a href=\"https://deepstatemap.live/en#14/48.3101160/37.5632000\">Baranivka</a> and <a href=\"https://deepstatemap.live/en#14/48.2399664/37.0862389\">Pishchane</a>.",
+    "updatedAt": "2025-01-05T22:54:05.339Z",
+    "datetime": "05.01 o 22:23",
+    "status": true,
+    "createdAt": "2025-01-05T21:23:30.000Z",
+    "liberated": 42408.53100891423,
+    "occupied": 67893.95311803646,
+    "unspecified": 733.0017143292515,
+    "occupiedInRussia": 493.28765822832554,
+    "occupiedInRussiaUnspecified": 166.59251627364034
   }
 ]
