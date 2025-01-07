@@ -14267,5 +14267,19 @@
     "unspecified": 733.0017143292515,
     "occupiedInRussia": 493.28765822832554,
     "occupiedInRussiaUnspecified": 166.59251627364034
+  },
+  {
+    "id": 1736197748,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/49.4675829/37.8007537\">Лозову</a>, <a href=\"https://deepstatemap.live/#14/49.1158932/37.9461293\">Іванівку</a>, <a href=\"https://deepstatemap.live/#13/48.0196086/37.1528049\">Шевченко</a>, а також просунувся у <a href=\"https://deepstatemap.live/#14/48.3790263/37.8413157\">Торецьку</a>. Уточнюється лінія зіткнення в <a href=\"https://deepstatemap.live/#14/48.4011334/37.8367676\">Торецьку</a> та біля <a href=\"https://deepstatemap.live/#13/51.3002814/35.4047209\">Бердина</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/49.4675829/37.8007537\">Lozova</a>, <a href=\"https://deepstatemap.live/en#14/49.1158932/37.9461293\">Ivanivka</a>, <a href=\"https://deepstatemap.live/en#13/48.0196086/37.1528049\">Shevchenko</a>, and advanced into <a href=\"https://deepstatemap.live/en#14/48.3790263/37.8413157\">Toretsk</a>. The line of contact in <a href=\"https://deepstatemap.live/en#14/48.4011334/37.8367676\">Toretsk</a> and near <a href=\"https://deepstatemap.live/en#13/51.3002814/35.4047209\">Berdyn</a> is being clarified.",
+    "updatedAt": "2025-01-06T23:26:49.527Z",
+    "datetime": "06.01 o 22:09",
+    "status": true,
+    "createdAt": "2025-01-06T21:09:08.000Z",
+    "liberated": 42392.59900822371,
+    "occupied": 67906.96635107107,
+    "unspecified": 738.2312167239015,
+    "occupiedInRussia": 493.28765822832554,
+    "occupiedInRussiaUnspecified": 176.24148769717343
   }
 ]
