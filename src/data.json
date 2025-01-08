@@ -14281,5 +14281,19 @@
     "unspecified": 738.2312167239015,
     "occupiedInRussia": 493.28765822832554,
     "occupiedInRussiaUnspecified": 176.24148769717343
+  },
+  {
+    "id": 1736286913,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#15/48.3999600/37.8342728\">Торецьку</a>, <a href=\"https://deepstatemap.live/#14/47.9973552/37.2331317\">Кураховому</a>, <a href=\"https://deepstatemap.live/#15/48.2040391/37.0488835\">Нововасилівці</a>, <a href=\"https://deepstatemap.live/#14/48.0697902/37.1401829\">Слов'янці</a>, <a href=\"https://deepstatemap.live/#13/49.8323797/37.6689364\">Дворічній</a>, <a href=\"https://deepstatemap.live/#13/51.3183240/35.0971084\">Новоіванівці</a>, біля <a href=\"https://deepstatemap.live/#13/51.3597031/35.2038616\">Нової Сорочини</a>, <a href=\"https://deepstatemap.live/#14/47.8232113/36.7310326\">Нескучного</a> та <a href=\"https://deepstatemap.live/#15/47.9596259/37.2011458\">Янтарного</a>. Уточнюється ситуація в <a href=\"https://deepstatemap.live/#13/51.1704715/35.3007013\">Махновці</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.3999600/37.8342728\">Toretsk</a>, <a href=\"https://deepstatemap.live/en#14/47.9973552/37.2331317\">Kurakhove</a>, <a href=\"https://deepstatemap.live/en#15/48.2040391/37.0488835\">Novovasylivka</a>, <a href=\"https://deepstatemap.live/en#14/48.0697902/37.1401829\">Sloviansk</a>, <a href=\"https://deepstatemap.live/en#13/49.8323797/37.6689364\">Dvorichna</a>, <a href=\"https://deepstatemap.live/en#13/51.3183240/35.0971084\">Novoivanivka</a>, near <a href=\"https://deepstatemap.live/en#13/51.3597031/35.2038616\">Nova Sorochyna</a>, <a href=\"https://deepstatemap.live/en#14/47.8232113/36.7310326\">Neskuchne</a> and <a href=\"https://deepstatemap.live/en#15/47.9596259/37.2011458\">Yantarne</a>. The situation in <a href=\"https://deepstatemap.live/en#13/51.1704715/35.3007013\">Makhnovka</a> is being clarified.",
+    "updatedAt": "2025-01-07T22:57:40.303Z",
+    "datetime": "07.01 o 22:55",
+    "status": true,
+    "createdAt": "2025-01-07T21:55:13.000Z",
+    "liberated": 42391.63503468104,
+    "occupied": 67919.49307987078,
+    "unspecified": 738.4044399909378,
+    "occupiedInRussia": 480.0995964846425,
+    "occupiedInRussiaUnspecified": 175.52805921072084
   }
 ]
