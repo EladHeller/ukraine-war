@@ -14323,5 +14323,19 @@
     "unspecified": 734.1791655410218,
     "occupiedInRussia": 435.66110549727273,
     "occupiedInRussiaUnspecified": 190.73550582857578
+  },
+  {
+    "id": 1736546002,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/47.9940287/37.2321888\">Курахове</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/48.0173370/37.1225984\">Андріївки</a>, <a href=\"https://deepstatemap.live/#14/48.2257692/37.0421642\">Солоного</a> та <a href=\"https://deepstatemap.live/#14/47.8225249/36.7276785\">Новосілки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/47.9940287/37.2321888\">Kurakhove</a> and advanced near <a href=\"https://deepstatemap.live/en#14/48.0173370/37.1225984\">Andriivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2257692/37.0421642\">Solone</a> and <a href=\"https://deepstatemap.live/en#14/47.8225249/36.7276785\">Novosilka</a>.",
+    "updatedAt": "2025-01-10T23:13:14.820Z",
+    "datetime": "10.01 o 22:53",
+    "status": true,
+    "createdAt": "2025-01-10T21:53:22.000Z",
+    "liberated": 42383.03307501477,
+    "occupied": 67950.2542654635,
+    "unspecified": 736.4573290943224,
+    "occupiedInRussia": 435.66110549727273,
+    "occupiedInRussiaUnspecified": 190.88727663643064
   }
 ]
