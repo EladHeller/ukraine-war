@@ -14337,5 +14337,19 @@
     "unspecified": 736.4573290943224,
     "occupiedInRussia": 435.66110549727273,
     "occupiedInRussiaUnspecified": 190.88727663643064
+  },
+  {
+    "id": 1736623460,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#16/48.3769411/37.8429560\">Торецьку</a>, <a href=\"https://deepstatemap.live/#14/48.6742703/37.8908614\">Оріхово-Василівці</a>, <a href=\"https://deepstatemap.live/#14/48.1061974/37.0721202\">Ясеновому</a>, <a href=\"https://deepstatemap.live/#15/48.2144791/37.1995137\">Зеленому</a>, біля <a href=\"https://deepstatemap.live/#15/48.3153826/37.4967454\">Воздвиженки</a>, <a href=\"https://deepstatemap.live/#15/48.1396664/37.0246326\">Надеждинки</a>, <a href=\"https://deepstatemap.live/#14/48.2105228/37.2437650\">Лисівки</a>, <a href=\"https://deepstatemap.live/#15/48.2164238/37.0376889\">Солоного</a> та <a href=\"https://deepstatemap.live/#14/47.8580020/36.8618326\">Великої Новосілки</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#16/48.3769411/37.8429560\">Toretsk</a>, <a href=\"https://deepstatemap.live/en#14/48.6742703/37.8908614\">Orikhovo-Vasylivka</a>, <a href=\"https://deepstatemap.live/en#14/48.1061974/37.0721202\">Yasenove</a>, <a href=\"https://deepstatemap.live/en#15/48.2144791/37.1995137\">Zelenyi</a>, near <a href=\"https://deepstatemap.live/en#15/48.3153826/37.4967454\">Vozdvyzhenka</a>, <a href=\"https://deepstatemap.live/en#15/48.1396664/37.0246326\">Nadezhdinka</a>, <a href=\"https://deepstatemap.live/en#14/48.2105228/37.2437650\">Lysivka</a>, <a href=\"https://deepstatemap.live/en#15/48.2164238/37.0376889\">Solone</a> and <a href=\"https://deepstatemap.live/en14/47.8580020/36.8618326\">Velyka Novosilka</a>.",
+    "updatedAt": "2025-01-11T20:06:22.303Z",
+    "datetime": "11.01 o 20:24",
+    "status": true,
+    "createdAt": "2025-01-11T19:24:20.000Z",
+    "liberated": 42383.03307501477,
+    "occupied": 67959.92560567168,
+    "unspecified": 747.7908685790943,
+    "occupiedInRussia": 435.66110549727273,
+    "occupiedInRussiaUnspecified": 190.88727663643064
   }
 ]
