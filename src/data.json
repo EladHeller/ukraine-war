@@ -14351,5 +14351,19 @@
     "unspecified": 747.7908685790943,
     "occupiedInRussia": 435.66110549727273,
     "occupiedInRussiaUnspecified": 190.88727663643064
+  },
+  {
+    "id": 1736718435,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#14/48.5963360/37.8230538\">Часовому Яру</a>, <a href=\"https://deepstatemap.live/#14/48.3998226/37.8221997\">Торецьку</a>, <a href=\"https://deepstatemap.live/#15/47.9397949/37.1624368\">Янтарному</a>, <a href=\"https://deepstatemap.live/#14/48.2014545/37.0339248\">Нововасилівці</a>, біля <a href=\"https://deepstatemap.live/#14/48.3164513/37.4841903\">Єлизаветівки</a>, <a href=\"https://deepstatemap.live/#14/48.2069737/37.1943434\">Зеленого</a>, <a href=\"https://deepstatemap.live/#14/48.2434703/37.1021464\">Звірового</a> та <a href=\"https://deepstatemap.live/#14/48.2357557/37.0401034\">Котлиного</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.5963360/37.8230538\">Chasіv Yar</a>, <a href=\"https://deepstatemap.live/en#14/48.3998226/37.8221997\">Toretsk</a>, <a href=\"https://deepstatemap.live/en#15/47.9397949/37.1624368\">Yantarne</a>, <a href=\"https://deepstatemap.live/en#14/48.2014545/37.0339248\">Novovasylivka</a>, near <a href=\"https://deepstatemap.live/en#14/48.3164513/37.4841903\">Yelizavetivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2069737/37.1943434\">Zelene</a>, <a href=\"https://deepstatemap.live/en#14/48.2434703/37.1021464\">Zvirne</a> and <a href=\"https://deepstatemap.live/en#14/48.2357557/37.0401034\">Kotlynne</a>.",
+    "updatedAt": "2025-01-12T22:41:28.790Z",
+    "datetime": "12.01 o 22:47",
+    "status": true,
+    "createdAt": "2025-01-12T21:47:15.000Z",
+    "liberated": 42383.03307501477,
+    "occupied": 67973.412393594,
+    "unspecified": 747.4264512002435,
+    "occupiedInRussia": 435.66110549727273,
+    "occupiedInRussiaUnspecified": 190.88727663643064
   }
 ]
