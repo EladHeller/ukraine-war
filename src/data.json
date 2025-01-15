@@ -14379,5 +14379,19 @@
     "unspecified": 749.3105953981825,
     "occupiedInRussia": 435.66110549727273,
     "occupiedInRussiaUnspecified": 190.88727663643064
+  },
+  {
+    "id": 1736891679,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#15/47.9414016/37.1626929\">Янтарне</a>, а також просунувся в <a href=\"https://deepstatemap.live/#15/48.1055522/37.0651035\">Ясеновому</a>, <a href=\"https://deepstatemap.live/#15/48.2008377/37.0236472\">Успенівці</a>, <a href=\"https://deepstatemap.live/#15/48.5900751/37.8548015\">Часовому Яру</a>, біля <a href=\"https://deepstatemap.live/#14/48.1619870/37.0293755\">Новоєлизаветівки</a> та <a href=\"https://deepstatemap.live/#14/47.9344322/37.1927170\">Янтарного</a>. Уточнено лінію зіткнення у <a href=\"https://deepstatemap.live/#16/48.5932354/37.8318778\">Часовому Яру</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#15/47.9414016/37.1626929\">Yantarne</a> and advanced in <a href=\"https://deepstatemap.live/en#15/48.1055522/37.0651035\">Yasenove</a>, <a href=\"https://deepstatemap.live/en#15/48.2008377/37.0236472\">Uspenivka</a>, <a href=\"https://deepstatemap.live/en#15/48.5900751/37.8548015\">Chasiv Yar</a>, near <a href=\"https://deepstatemap.live/en#14/48.1619870/37.0293755\">Novoyelizavetivka</a> and <a href=\"https://deepstatemap.live/en#14/47.9344322/37.1927170\">Yantarne</a>. The frontline in <a href=\"https://deepstatemap.live/en#16/48.5932354/37.8318778\">Chasiv Yar</a> was clarified.",
+    "updatedAt": "2025-01-14T23:19:43.951Z",
+    "datetime": "14.01 o 22:54",
+    "status": true,
+    "createdAt": "2025-01-14T21:54:39.000Z",
+    "liberated": 42381.95607577462,
+    "occupied": 67992.56888083751,
+    "unspecified": 742.7125261705671,
+    "occupiedInRussia": 435.66110549727273,
+    "occupiedInRussiaUnspecified": 190.88727663643064
   }
 ]
