@@ -14421,5 +14421,19 @@
     "unspecified": 736.9895286105303,
     "occupiedInRussia": 435.66110549727273,
     "occupiedInRussiaUnspecified": 190.88727663643064
+  },
+  {
+    "id": 1737150794,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#14/50.3106133/37.0105365\">Тихому</a>, біля <a href=\"https://deepstatemap.live/#13/49.4156725/37.8271330\">Зеленого Гаю</a>, <a href=\"https://deepstatemap.live/#15/48.2413681/37.0153853\">Удачного</a>, <a href=\"https://deepstatemap.live/#15/48.2588320/37.0632224\">Котлиного</a>, та <a href=\"https://deepstatemap.live/#14/47.9782594/37.1836567\">Дачного</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/50.3106133/37.0105365\">Tykhe</a>, near <a href=\"https://deepstatemap.live/en#13/49.4156725/37.8271330\">Zelenyi Hai</a>, <a href=\"https://deepstatemap.live/en#14/47.9782594/37.1836567\">Udachne</a>, <a href=\"https://deepstatemap.live/en#15/48.2588320/37.0632224\">Kotlyne</a>, and <a href=\"https://deepstatemap.live/en#14/47.9782594/37.1836567\">Dachne</a>.",
+    "updatedAt": "2025-01-17T21:55:03.823Z",
+    "datetime": "17.01 o 22:53",
+    "status": true,
+    "createdAt": "2025-01-17T21:53:14.000Z",
+    "liberated": 42377.871621891514,
+    "occupied": 68034.38263507705,
+    "unspecified": 738.5528698259878,
+    "occupiedInRussia": 435.66110549727273,
+    "occupiedInRussiaUnspecified": 190.88727663643064
   }
 ]
