@@ -14435,5 +14435,19 @@
     "unspecified": 738.5528698259878,
     "occupiedInRussia": 435.66110549727273,
     "occupiedInRussiaUnspecified": 190.88727663643064
+  },
+  {
+    "id": 1737234261,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#14/48.2602813/37.0610030\">Котлиному</a>, <a href=\"https://deepstatemap.live/#14/48.2399891/37.0118233\">Удачному</a>, біля <a href=\"https://deepstatemap.live/#14/48.0952075/37.0456425\">Новоандріївки</a>, <a href=\"https://deepstatemap.live/#14/47.9559098/37.1358483\">Сухих Ялів</a>, <a href=\"https://deepstatemap.live/#14/47.8356401/36.7981083\">Времівки</a> та <a href=\"https://deepstatemap.live/#14/47.8559096/36.8490018\">Великої Новосілки</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.2602813/37.0610030\">Kotlyne</a>, <a href=\"https://deepstatemap.live/en#14/48.2399891/37.0118233\">Udachne</a>, near <a href=\"https://deepstatemap.live/en#14/48.0952075/37.0456425\">Novoandriivka</a>, <a href=\"https://deepstatemap.live/en#14/47.9559098/37.1358483\">Sukhi Yaly</a>, <a href=\"https://deepstatemap.live/en#14/47.8356401/36.7981083\">Vremivka</a> and <a href=\"https://deepstatemap.live/en#14/47.8559096/36.8490018\">Velyka Novosilka</a>.",
+    "updatedAt": "2025-01-18T21:47:09.021Z",
+    "datetime": "18.01 o 22:04",
+    "status": true,
+    "createdAt": "2025-01-18T21:04:21.000Z",
+    "liberated": 42377.871621891514,
+    "occupied": 68044.42183739942,
+    "unspecified": 738.1751247463542,
+    "occupiedInRussia": 435.66110549727273,
+    "occupiedInRussiaUnspecified": 190.88727663643064
   }
 ]
