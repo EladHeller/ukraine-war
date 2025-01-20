@@ -14449,5 +14449,19 @@
     "unspecified": 738.1751247463542,
     "occupiedInRussia": 435.66110549727273,
     "occupiedInRussiaUnspecified": 190.88727663643064
+  },
+  {
+    "id": 1737323723,
+    "description": "Сили Оборони України відновили позиції у <a href=\"https://deepstatemap.live/#14/51.1695957/35.3000194\">Махнівці</a> та <a href=\"https://deepstatemap.live/#14/47.9679733/37.0918166\">Зеленівці</a>. Ворог просунувся в <a href=\"https://deepstatemap.live/#14/49.1010764/37.9642844\">Тернах</a>, <a href=\"https://deepstatemap.live/#14/49.8608903/37.6891146\">Дворічній</a>, біля <a href=\"https://deepstatemap.live/#14/49.0965259/37.9322721\">Колодязів</a> та <a href=\"https://deepstatemap.live/#14/48.0654086/37.1039204\">Слов'янки</a>.",
+    "descriptionEn": "Ukrainian Defense Forces regained positions in <a href=\"https://deepstatemap.live/en#14/51.1695957/35.3000194\">Makhnivka</a> and <a href=\"https://deepstatemap.live/en#14/47.9679733/37.0918166\">Zelenivka</a>. The enemy advanced in <a href=\"https://deepstatemap.live/en#14/49.1010764/37.9642844\">Terny</a>, <a href=\"https://deepstatemap.live/en#14/49.8608903/37.6891146\">Dvorichna</a>, near <a href=\"https://deepstatemap.live/en#14/49.0965259/37.9322721\">Kolodyazy</a> and <a href=\"https://deepstatemap.live/en#14/48.0654086/37.1039204\">Slovianka</a>.",
+    "updatedAt": "2025-01-19T22:29:19.688Z",
+    "datetime": "19.01 o 22:55",
+    "status": true,
+    "createdAt": "2025-01-19T21:55:23.000Z",
+    "liberated": 42357.56903355832,
+    "occupied": 68053.61214791215,
+    "unspecified": 751.6921385037829,
+    "occupiedInRussia": 439.4849480869148,
+    "occupiedInRussiaUnspecified": 187.0634340468012
   }
 ]
