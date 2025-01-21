@@ -14463,5 +14463,19 @@
     "unspecified": 751.6921385037829,
     "occupiedInRussia": 439.4849480869148,
     "occupiedInRussiaUnspecified": 187.0634340468012
+  },
+  {
+    "id": 1737410164,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/49.8492603/37.6698851\">Дворічній</a>, <a href=\"https://deepstatemap.live/#15/47.8375873/36.8505053\">Великій Новосілці</a>, біля <a href=\"https://deepstatemap.live/#13/49.4023716/37.9177668\">Надії</a>, <a href=\"https://deepstatemap.live/#15/48.2068000/37.0213519\">Успенівки</a> та <a href=\"https://deepstatemap.live/#14/48.0549199/37.1094751\">Слов'янки</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/49.8492603/37.6698851\">Dvorichna</a>, <a href=\"https://deepstatemap.live/en#15/47.8375873/36.8505053\">Velyka Novosilka</a>, near <a href=\"https://deepstatemap.live/en#13/49.4023716/37.9177668\">Nadiya</a>, <a href=\"https://deepstatemap.live/en#15/48.2068000/37.0213519\">Uspenivka</a> and <a href=\"https://deepstatemap.live/en#14/48.0549199/37.1094751\">Slovianka</a>.",
+    "updatedAt": "2025-01-20T22:25:52.907Z",
+    "datetime": "20.01 o 22:56",
+    "status": true,
+    "createdAt": "2025-01-20T21:56:04.000Z",
+    "liberated": 42343.204758283646,
+    "occupied": 68066.66908013215,
+    "unspecified": 759.6543275307181,
+    "occupiedInRussia": 439.4849480869148,
+    "occupiedInRussiaUnspecified": 187.0634340468012
   }
 ]
