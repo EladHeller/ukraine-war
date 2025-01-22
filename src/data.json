@@ -14477,5 +14477,19 @@
     "unspecified": 759.6543275307181,
     "occupiedInRussia": 439.4849480869148,
     "occupiedInRussiaUnspecified": 187.0634340468012
+  },
+  {
+    "id": 1737496323,
+    "description": "Сили Оборони України відкинули противника біля <a href=\"https://deepstatemap.live/#13/48.0147224/37.1264074\">Шевченко</a> та в <a href=\"https://deepstatemap.live/#14/48.2389660/37.0101931\">Удачному</a>. Ворог просунувся у <a href=\"https://deepstatemap.live/#13/47.8417359/36.8510628\">Великій Новосілці</a>, біля <a href=\"https://deepstatemap.live/#14/48.2947292/37.4953898\">Воздвиженки</a>, <a href=\"https://deepstatemap.live/#12/48.0941441/37.1337666\">Слов'янки</a> та <a href=\"https://deepstatemap.live/#14/48.0940210/37.0346552\">Срібного</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces pushed back the enemy near <a href=\"https://deepstatemap.live/en#13/48.0147224/37.1264074\">Shevchenko</a> and in <a href=\"https://deepstatemap.live/en#14/48.2389660/37.0101931\">Udachne</a>. The enemy advanced in <a href=\"https://deepstatemap.live/en#13/47.8417359/36.8510628\">Velyka Novosilka</a>, near <a href=\"https://deepstatemap.live/en#14/48.2947292/37.4953898\">Vozdvyzhenka</a>, <a href=\"https://deepstatemap.live/en#12/48.0941441/37.1337666\">Slovianka</a> and <a href=\"https://deepstatemap.live/en#14/48.0940210/37.0346552\">Sribne</a>.",
+    "updatedAt": "2025-01-22T00:07:58.954Z",
+    "datetime": "21.01 o 22:52",
+    "status": true,
+    "createdAt": "2025-01-21T21:52:03.000Z",
+    "liberated": 42343.204758283646,
+    "occupied": 68084.02994904408,
+    "unspecified": 744.2845278957592,
+    "occupiedInRussia": 439.4849480869148,
+    "occupiedInRussiaUnspecified": 187.0634340468012
   }
 ]
