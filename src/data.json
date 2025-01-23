@@ -14491,5 +14491,19 @@
     "unspecified": 744.2845278957592,
     "occupiedInRussia": 439.4849480869148,
     "occupiedInRussiaUnspecified": 187.0634340468012
+  },
+  {
+    "id": 1737582179,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.2048804/37.0397203\">Нововасилівку</a>, а також просунувся у <a href=\"https://deepstatemap.live/#14/47.8340178/36.8484026\">Великій Новосілці</a>, <a href=\"https://deepstatemap.live/#14/48.1011859/37.0432375\">Новоандріївці</a>, біля <a href=\"https://deepstatemap.live/#15/48.5788780/37.8698302\">Часового Яру</a>, <a href=\"https://deepstatemap.live/#14/47.9482066/37.1613410\">Янтарного</a>, <a href=\"https://deepstatemap.live/#13/48.0318182/37.1581196\">Петропавлівки</a>, <a href=\"https://deepstatemap.live/#14/48.0946439/37.1000561\">Ясенового</a>, <a href=\"https://deepstatemap.live/#14/48.2491312/37.0357726\">Котлиного</a>, <a href=\"https://deepstatemap.live/#14/48.3243538/37.4886976\">Воздвиженки</a> та <a href=\"https://deepstatemap.live/#14/48.3132278/37.5349566\">Баранівки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.2048804/37.0397203\">Novovasylivka</a> and advanced in <a href=\"https://deepstatemap.live/en#14/47.8340178/36.8484026\">Velyka Novosilka</a>, <a href=\"https://deepstatemap.live/en#14/48.1011859/37.0432375\">Novoandriivka</a>, near <a href=\"https://deepstatemap.live/en#15/48.5788780/37.8698302\">Chasiv Yar</a>, <a href=\"https://deepstatemap.live/en#14/47.9482066/37.1613410\">Yantarne</a>, <a href=\"https://deepstatemap.live/en#13/48.0318182/37.1581196\">Petropavlivka</a>, <a href=\"https://deepstatemap.live/en#14/48.0946439/37.1000561\">Yasenove,</a> <a href=\"https://deepstatemap.live/en#14/48.2491312/37.0357726\">Kotlynove</a>, <a href=\"https://deepstatemap.live/en#14/48.3243538/37.4886976\">Vozdvyzhenka</a> and <a href=\"https://deepstatemap.live/en#14/48.3132278/37.5349566\">Baranivka</a>.",
+    "updatedAt": "2025-01-22T22:22:58.788Z",
+    "datetime": "22.01 o 22:42",
+    "status": true,
+    "createdAt": "2025-01-22T21:42:59.000Z",
+    "liberated": 42343.204758283646,
+    "occupied": 68100.25176419436,
+    "unspecified": 739.4535898641279,
+    "occupiedInRussia": 439.4849480869148,
+    "occupiedInRussiaUnspecified": 187.0634340468012
   }
 ]
