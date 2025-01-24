@@ -14505,5 +14505,19 @@
     "unspecified": 739.4535898641279,
     "occupiedInRussia": 439.4849480869148,
     "occupiedInRussiaUnspecified": 187.0634340468012
+  },
+  {
+    "id": 1737669506,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/47.8429723/36.8389130\">Великій Новосілці</a>, біля <a href=\"https://deepstatemap.live/#14/47.9970663/37.2003493\">Дачного</a>, <a href=\"https://deepstatemap.live/#14/48.2239585/37.0050858\">Удачного</a>, <a href=\"https://deepstatemap.live/#14/48.1215613/37.0449979\">Новоєлизаветівки</a>, <a href=\"https://deepstatemap.live/#13/49.2319977/37.9667785\">Макіївки</a>, <a href=\"https://deepstatemap.live/#13/49.6115330/37.8697840\">Табаївки</a> та <a href=\"https://deepstatemap.live/#14/49.8288603/37.6331168\">Западного</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/47.8429723/36.8389130\">Velyka Novosilka</a>, near <a href=\"https://deepstatemap.live/en#14/47.9970663/37.2003493\">Dachne</a>, <a href=\"https://deepstatemap.live/en#14/48.2239585/37.0050858\">Udachne</a>, <a href=\"https://deepstatemap.live/en#14/48.1215613/37.0449979\">Novoyelizavetivka</a>, <a href=\"https://deepstatemap.live/en#13/49.2319977/37.9667785\">Makiivka</a>, <a href=\"https://deepstatemap.live/en#13/49.6115330/37.8697840\">Tabaivka</a> and <a href=\"https://deepstatemap.live/en#14/49.8288603/37.6331168\">Zakhidne.</a>",
+    "updatedAt": "2025-01-24T01:05:55.110Z",
+    "datetime": "23.01 o 22:58",
+    "status": true,
+    "createdAt": "2025-01-23T21:58:26.000Z",
+    "liberated": 42330.20649235089,
+    "occupied": 68120.05010466668,
+    "unspecified": 742.0613623877498,
+    "occupiedInRussia": 439.4849480869148,
+    "occupiedInRussiaUnspecified": 187.0634340468012
   }
 ]
