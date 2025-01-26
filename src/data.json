@@ -14533,5 +14533,19 @@
     "unspecified": 744.6691836213124,
     "occupiedInRussia": 439.4849480869148,
     "occupiedInRussiaUnspecified": 187.0634340468012
+  },
+  {
+    "id": 1737841304,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/47.8400364/36.8141127\">Времівку</a>, а також просунувся у <a href=\"https://deepstatemap.live/#14/47.8477522/36.8304236\">Великій Новосілці</a>, <a href=\"https://deepstatemap.live/#15/48.3735150/37.8405762\">Торецьку</a>, <a href=\"https://deepstatemap.live/#14/48.2567672/37.0533187\">Котлиному</a>, біля <a href=\"https://deepstatemap.live/#14/48.1394799/37.0108418\">Надіївки</a>, <a href=\"https://deepstatemap.live/#14/48.0473034/37.1303969\">Петропавлівки</a> та <a href=\"https://deepstatemap.live/#14/48.2543678/37.0284329\">Котлиного</a>. Уточнено біля <a href=\"https://deepstatemap.live/#14/48.0655332/37.1035791\">Слов'янки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/47.8400364/36.8141127\">Vremivka</a>, and advanced in <a href=\"https://deepstatemap.live/en#14/47.8477522/36.8304236\">Velyka Novosilka</a>, <a href=\"https://deepstatemap.live/en#15/48.3735150/37.8405762\">Toretsk</a>, <a href=\"https://deepstatemap.live/en#14/48.2567672/37.0533187\">Kotlyne</a>, near <a href=\"https://deepstatemap.live/en#14/48.1394799/37.0108418\">Nadiyivka</a>, <a href=\"https://deepstatemap.live/en#14/48.0473034/37.1303969\">Petropavlivka</a> and <a href=\"https://deepstatemap.live/en#14/48.2543678/37.0284329\">Kotlyne</a>. The situation near <a href=\"https://deepstatemap.live/en#14/48.0655332/37.1035791\">Slovianka</a> has been clarified.",
+    "updatedAt": "2025-01-25T23:05:41.234Z",
+    "datetime": "25.01 o 22:41",
+    "status": true,
+    "createdAt": "2025-01-25T21:41:44.000Z",
+    "liberated": 42330.206492350866,
+    "occupied": 68134.13394034465,
+    "unspecified": 749.5875505420807,
+    "occupiedInRussia": 439.4849480869148,
+    "occupiedInRussiaUnspecified": 187.0634340468012
   }
 ]
