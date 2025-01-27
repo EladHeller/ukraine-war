@@ -14547,5 +14547,19 @@
     "unspecified": 749.5875505420807,
     "occupiedInRussia": 439.4849480869148,
     "occupiedInRussiaUnspecified": 187.0634340468012
+  },
+  {
+    "id": 1737928017,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#14/48.4056994/37.8351543\">Торецьку</a>, біля <a href=\"https://deepstatemap.live/#14/48.0252647/37.0942666\">Андріївки</a> та <a href=\"https://deepstatemap.live/#14/48.1283570/37.0348745\">Новоєлизаветівки</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.4056994/37.8351543\">Toretsk</a>, near <a href=\"https://deepstatemap.live/en#14/48.0252647/37.0942666\">Andriivka</a> and <a href=\"https://deepstatemap.live/en#14/48.1283570/37.0348745\">Novoyelizavetivka</a>.",
+    "updatedAt": "2025-01-26T23:11:45.139Z",
+    "datetime": "26.01 o 22:46",
+    "status": true,
+    "createdAt": "2025-01-26T21:46:57.000Z",
+    "liberated": 42330.206492350866,
+    "occupied": 68136.15338981565,
+    "unspecified": 749.7061260962088,
+    "occupiedInRussia": 439.4849480869148,
+    "occupiedInRussiaUnspecified": 187.0634340468012
   }
 ]
