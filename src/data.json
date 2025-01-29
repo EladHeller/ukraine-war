@@ -14575,5 +14575,19 @@
     "unspecified": 744.2568513045171,
     "occupiedInRussia": 439.4849480869148,
     "occupiedInRussiaUnspecified": 187.0634340468012
+  },
+  {
+    "id": 1738100560,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/47.8482748/36.8315367\">Велику Новосілку</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#15/48.2373512/37.1229112\">Піщаного</a>, <a href=\"https://deepstatemap.live/#14/48.1338145/37.0183101\">Надіївки</a>, <a href=\"https://deepstatemap.live/#14/48.0635985/37.0897169\">Андріївки</a> та <a href=\"https://deepstatemap.live/#14/48.3247267/37.5275330\">Баранівки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/47.8482748/36.8315367\">Velyka Novosilka</a> and advanced near <a href=\"https://deepstatemap.live/en#15/48.2373512/37.1229112\">Pishchane</a>, <a href=\"https://deepstatemap.live/en#14/48.1338145/37.0183101\">Nadiyivka</a>, <a href=\"https://deepstatemap.live/en#14/48.0635985/37.0897169\">Andriivka</a> and <a href=\"https://deepstatemap.live/en#14/48.3247267/37.5275330\">Baranivka</a>.",
+    "updatedAt": "2025-01-28T23:18:00.293Z",
+    "datetime": "28.01 o 22:42",
+    "status": true,
+    "createdAt": "2025-01-28T21:42:40.000Z",
+    "liberated": 42315.84279980088,
+    "occupied": 68151.21056027093,
+    "unspecified": 750.471835623462,
+    "occupiedInRussia": 439.4849480869148,
+    "occupiedInRussiaUnspecified": 187.0634340468012
   }
 ]
