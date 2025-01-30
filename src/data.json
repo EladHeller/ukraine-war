@@ -14589,5 +14589,19 @@
     "unspecified": 750.471835623462,
     "occupiedInRussia": 439.4849480869148,
     "occupiedInRussiaUnspecified": 187.0634340468012
+  },
+  {
+    "id": 1738187016,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.1109011/37.0342685\">Новоандріївки</a>,  <a href=\"https://deepstatemap.live/#14/48.1839716/37.0348686\">Нововасилівки</a>, <a href=\"https://deepstatemap.live/#14/47.9904296/37.1926264\">Дачного</a>, <a href=\"https://deepstatemap.live/#14/47.9374558/36.9939307\">Розливу</a>, <a href=\"https://deepstatemap.live/#14/47.9590408/37.1591430\">Янтарного</a> та в <a href=\"https://deepstatemap.live/#14/48.0199526/37.0847550\">Андріївці</a>. Уточнюється просування противника в <a href=\"https://deepstatemap.live/#14/48.5808944/37.8567821\">Часовому Яру</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.1109011/37.0342685\">Novoandriivka</a>,  <a href=\"https://deepstatemap.live/en#14/48.1839716/37.0348686\">Novovasylivka</a>, <a href=\"https://deepstatemap.live/en#14/47.9904296/37.1926264\">Dachne</a>, <a href=\"https://deepstatemap.live/en#14/47.9374558/36.9939307\">Rozlyv</a>, <a href=\"https://deepstatemap.live/en#14/47.9590408/37.1591430\">Yantarne</a> and in <a href=\"https://deepstatemap.live/en#14/48.0199526/37.0847550\">Andriivka</a>. The enemy's advance in <a href=\"https://deepstatemap.live/en#14/48.5808944/37.8567821\">Chasovyi Yar</a> is being clarified.",
+    "updatedAt": "2025-01-30T02:38:02.436Z",
+    "datetime": "29.01 o 22:43",
+    "status": true,
+    "createdAt": "2025-01-29T21:43:36.000Z",
+    "liberated": 42315.84279980088,
+    "occupied": 68169.72548566095,
+    "unspecified": 744.6155738635282,
+    "occupiedInRussia": 439.4849480869148,
+    "occupiedInRussiaUnspecified": 187.0634340468012
   }
 ]
