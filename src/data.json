@@ -14603,5 +14603,19 @@
     "unspecified": 744.6155738635282,
     "occupiedInRussia": 439.4849480869148,
     "occupiedInRussiaUnspecified": 187.0634340468012
+  },
+  {
+    "id": 1738272210,
+    "description": "Сили Оборони відновили позиції біля <a href=\"https://deepstatemap.live/#14/48.2543669/37.0292905\">Удачного</a>. Ворог окупував <a href=\"https://deepstatemap.live/#14/48.1068273/37.0394193\">Новоандріївку</a>, а також просунувся в <a href=\"https://deepstatemap.live/#14/48.3619142/37.8198943\">Неліпівці</a>, <a href=\"https://deepstatemap.live/#14/48.2548239/37.0497998\">Котлиному</a> та біля <a href=\"https://deepstatemap.live/#14/48.0225759/37.1463573\">Шевченко</a>.",
+    "descriptionEn": "The Defense Forces regained positions near <a href=\"https://deepstatemap.live/en#14/48.2543669/37.0292905\">Udachne</a>. The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.1068273/37.0394193\">Novoandriivka</a>, and advanced in <a href=\"https://deepstatemap.live/en#14/48.3619142/37.8198943\">Nelipivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2548239/37.0497998\">Kotlynove</a> and near <a href=\"https://deepstatemap.live/en#14/48.0225759/37.1463573\">Shevchenko</a>.",
+    "updatedAt": "2025-01-30T22:02:07.378Z",
+    "datetime": "30.01 o 22:23",
+    "status": true,
+    "createdAt": "2025-01-30T21:23:30.000Z",
+    "liberated": 42315.84279980088,
+    "occupied": 68173.79417784806,
+    "unspecified": 742.680286080901,
+    "occupiedInRussia": 439.4849480869148,
+    "occupiedInRussiaUnspecified": 187.0634340468012
   }
 ]
