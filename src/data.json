@@ -14617,5 +14617,19 @@
     "unspecified": 742.680286080901,
     "occupiedInRussia": 439.4849480869148,
     "occupiedInRussiaUnspecified": 187.0634340468012
+  },
+  {
+    "id": 1738355139,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/49.8816132/37.7317320\">Новомлинськ</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/47.7985409/36.7030480\">Рівнополя</a>, <a href=\"https://deepstatemap.live/#14/47.8979075/36.8893046\">Роздольного</a>, <a href=\"https://deepstatemap.live/#14/47.9646142/37.1479977\">Янтарного</a>, <a href=\"https://deepstatemap.live/#13/48.0324709/37.1318136\">Петропавлівки</a>, <a href=\"https://deepstatemap.live/#14/48.3183360/37.5407555\">Баранівки</a> та в <a href=\"https://deepstatemap.live/#14/48.2394462/37.0133274\">Удачному</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/49.8816132/37.7317320\">Novomlynsk</a>, and advanced near <a href=\"https://deepstatemap.live/en#14/47.7985409/36.7030480\">Rivnopil</a>, <a href=\"https://deepstatemap.live/en#14/47.8979075/36.8893046\">Rozdolne</a>, <a href=\"https://deepstatemap.live/en#14/47.9646142/37.1479977\">Yantarne</a>, <a href=\"https://deepstatemap.live/en#13/48.0324709/37.1318136\">Petropavlivka</a>, <a href=\"https://deepstatemap.live/en#14/48.3183360/37.5407555\">Baranivka</a>, and <a href=\"https://deepstatemap.live/en#14/48.2394462/37.0133274\">Udachne</a>.",
+    "updatedAt": "2025-01-31T20:31:10.776Z",
+    "datetime": "31.01 o 21:25",
+    "status": true,
+    "createdAt": "2025-01-31T20:25:39.000Z",
+    "liberated": 42307.60224292749,
+    "occupied": 68185.42701267789,
+    "unspecified": 742.5165284562285,
+    "occupiedInRussia": 439.4849480869148,
+    "occupiedInRussiaUnspecified": 187.0634340468012
   }
 ]
