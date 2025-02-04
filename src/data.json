@@ -14659,5 +14659,19 @@
     "unspecified": 746.6933143517017,
     "occupiedInRussia": 439.4849480869148,
     "occupiedInRussiaUnspecified": 187.0634340468012
+  },
+  {
+    "id": 1738617858,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#14/48.5787839/37.8454558\">Часовому Яру</a>, <a href=\"https://deepstatemap.live/#15/48.1081020/37.0158822\">Срібному</a>, біля <a href=\"https://deepstatemap.live/#15/48.1206761/37.0250213\">Новоандріївки</a> та <a href=\"https://deepstatemap.live/#15/48.1368832/37.0039112\">Надіївки</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.5787839/37.8454558\">Chasiv Yar</a>, <a href=\"https://deepstatemap.live/en#15/48.1081020/37.0158822\">Sribne</a>, near <a href=\"https://deepstatemap.live/en#15/48.1206761/37.0250213\">Novoandriivka</a> and <a href=\"https://deepstatemap.live/en#15/48.1368832/37.0039112\">Nadiyivka</a>.",
+    "updatedAt": "2025-02-03T21:36:17.472Z",
+    "datetime": "03.02 o 22:24",
+    "status": true,
+    "createdAt": "2025-02-03T21:24:18.000Z",
+    "liberated": 42303.940081625005,
+    "occupied": 68195.5480185641,
+    "unspecified": 744.8654296597205,
+    "occupiedInRussia": 439.4849480869148,
+    "occupiedInRussiaUnspecified": 187.0634340468012
   }
 ]
