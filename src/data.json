@@ -14673,5 +14673,19 @@
     "unspecified": 744.8654296597205,
     "occupiedInRussia": 439.4849480869148,
     "occupiedInRussiaUnspecified": 187.0634340468012
+  },
+  {
+    "id": 1738706015,
+    "description": "Сили Оборони України відновили позиції біля <a href=\"https://deepstatemap.live/#14/48.1363960/37.0098926\">Надіївки</a>. Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/49.8189694/37.6244452\">Западного</a>, <a href=\"https://deepstatemap.live/#14/49.7923341/37.6326833\">Кіндрашівки</a> та <a href=\"https://deepstatemap.live/#14/50.0058314/37.8980682\">Тополів</a>. Уточнено район <a href=\"https://deepstatemap.live/#13/48.2839373/37.8054160\">Олександрополя</a>.",
+    "descriptionEn": "Ukrainian Defense Forces regained positions near <a href=\"https://deepstatemap.live/en#14/48.1363960/37.0098926\">Nadiyivka</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.8189694/37.6244452\">Zakhidne</a>, <a href=\"https://deepstatemap.live/en#14/49.7923341/37.6326833\">Kindrashivka</a> and <a href=\"https://deepstatemap.live/en#14/50.0058314/37.8980682\">Topoli</a>. The area around <a href=\"https://deepstatemap.live/en#13/48.2839373/37.8054160\">Oleksandropol</a> has been clarified.",
+    "updatedAt": "2025-02-04T23:28:27.895Z",
+    "datetime": "04.02 o 22:53",
+    "status": true,
+    "createdAt": "2025-02-04T21:53:35.000Z",
+    "liberated": 42293.858725428305,
+    "occupied": 68203.2845960482,
+    "unspecified": 747.0763144459647,
+    "occupiedInRussia": 439.4849480869148,
+    "occupiedInRussiaUnspecified": 187.0634340468012
   }
 ]
