@@ -14687,5 +14687,19 @@
     "unspecified": 747.0763144459647,
     "occupiedInRussia": 439.4849480869148,
     "occupiedInRussiaUnspecified": 187.0634340468012
+  },
+  {
+    "id": 1738790518,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#15/48.0189948/37.0700384\">Андріївці</a> та <a href=\"https://deepstatemap.live/#15/47.9862315/37.1824764\">Дачному</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.0189948/37.0700384\">Andriivka</a> and <a href=\"https://deepstatemap.live/en#15/47.9862315/37.1824764\">Dachne</a>.",
+    "updatedAt": "2025-02-05T22:25:38.696Z",
+    "datetime": "05.02 o 22:21",
+    "status": true,
+    "createdAt": "2025-02-05T21:21:58.000Z",
+    "liberated": 42293.858725428305,
+    "occupied": 68203.77107125046,
+    "unspecified": 747.614893460403,
+    "occupiedInRussia": 439.4849480869148,
+    "occupiedInRussiaUnspecified": 187.0634340468012
   }
 ]
