@@ -14701,5 +14701,19 @@
     "unspecified": 747.614893460403,
     "occupiedInRussia": 439.4849480869148,
     "occupiedInRussiaUnspecified": 187.0634340468012
+  },
+  {
+    "id": 1738874979,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#15/47.9947612/37.1734637\">Дачному</a> та <a href=\"https://deepstatemap.live/#15/48.1997660/37.0242064\">Успенівці</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/47.9947612/37.1734637\">Dachne</a> and <a href=\"https://deepstatemap.live/en#15/48.1997660/37.0242064\">Uspenivka</a>.",
+    "updatedAt": "2025-02-07T00:57:39.137Z",
+    "datetime": "06.02 o 21:49",
+    "status": true,
+    "createdAt": "2025-02-06T20:49:39.000Z",
+    "liberated": 42292.53685867894,
+    "occupied": 68204.03193142365,
+    "unspecified": 748.918982712248,
+    "occupiedInRussia": 439.4849480869148,
+    "occupiedInRussiaUnspecified": 187.0634340468012
   }
 ]
