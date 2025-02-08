@@ -14715,5 +14715,19 @@
     "unspecified": 748.918982712248,
     "occupiedInRussia": 439.4849480869148,
     "occupiedInRussiaUnspecified": 187.0634340468012
+  },
+  {
+    "id": 1738965514,
+    "description": "Сили Оборони України просунулися біля <a href=\"https://deepstatemap.live/#13/51.1543079/35.3449953\">Черкаської Конопельки</a>. Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/49.0816463/37.9788377\">Ямполівки</a>, <a href=\"https://deepstatemap.live/#14/48.5504474/37.8714604\">Ступочок</a>, в <a href=\"https://deepstatemap.live/#15/48.3742559/37.8400692\">Торецьку</a> та <a href=\"https://deepstatemap.live/#14/48.0191787/37.0559804\">Андріївці</a>.",
+    "descriptionEn": "Ukrainian Defense Forces have advanced near <a href=\"https://deepstatemap.live/en#13/51.1543079/35.3449953\">Cherkaska Konopelka</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.0816463/37.9788377\">Yampolivka</a>, <a href=\"https://deepstatemap.live/en#14/48.5504474/37.8714604\">Stupochky</a>, <a href=\"https://deepstatemap.live/en#15/48.3742559/37.8400692\">Toretsk</a> and <a href=\"https://deepstatemap.live/en#14/48.0191787/37.0559804\">Andriivka.</a>",
+    "updatedAt": "2025-02-07T23:42:51.314Z",
+    "datetime": "07.02 o 22:58",
+    "status": true,
+    "createdAt": "2025-02-07T21:58:34.000Z",
+    "liberated": 42290.984596754686,
+    "occupied": 68211.38802477767,
+    "unspecified": 744.0937693667347,
+    "occupiedInRussia": 449.5174427996335,
+    "occupiedInRussiaUnspecified": 184.5011529136508
   }
 ]
