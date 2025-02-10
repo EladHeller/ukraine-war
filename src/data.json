@@ -14743,5 +14743,19 @@
     "unspecified": 744.4969490549589,
     "occupiedInRussia": 449.5174427996335,
     "occupiedInRussiaUnspecified": 184.5011529136508
+  },
+  {
+    "id": 1739137829,
+    "description": "Сили Оборони відновили положення у <a href=\"https://deepstatemap.live/#15/48.2153615/37.2269483\">Даченському</a>, <a href=\"https://deepstatemap.live/#14/48.3373904/37.5076236\">Водяному Другому</a> та біля <a href=\"https://deepstatemap.live/#13/51.3469599/35.2093761\">Кругленького</a>. Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/47.9809868/37.1719428\">Дачного</a>, <a href=\"https://deepstatemap.live/#14/48.3274652/37.4746713\">Малинівки</a> та <a href=\"https://deepstatemap.live/#13/51.3093229/35.2013097\">Микільського</a>.",
+    "descriptionEn": "Ukrainian Defense Forces regained positions in <a href=\"https://deepstatemap.live/en#15/48.2153615/37.2269483\">Dachne</a>, <a href=\"https://deepstatemap.live/en#14/48.3373904/37.5076236\">Vodiane Druhe</a> and near <a href=\"https://deepstatemap.live/en#13/51.3469599/35.2093761\">Kruglenke</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.9809868/37.1719428\">Dachne</a>, <a href=\"https://deepstatemap.live/en#14/48.3274652/37.4746713\">Malynivka</a> and <a href=\"https://deepstatemap.live/en#13/51.3093229/35.2013097\">Mykilske</a>.",
+    "updatedAt": "2025-02-10T09:10:26.869Z",
+    "datetime": "09.02 o 22:50",
+    "status": true,
+    "createdAt": "2025-02-09T21:50:29.000Z",
+    "liberated": 42291.9136091963,
+    "occupied": 68212.23133407063,
+    "unspecified": 746.3518707486479,
+    "occupiedInRussia": 451.734462120122,
+    "occupiedInRussiaUnspecified": 174.12555870104686
   }
 ]
