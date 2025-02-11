@@ -14757,5 +14757,19 @@
     "unspecified": 746.3518707486479,
     "occupiedInRussia": 451.734462120122,
     "occupiedInRussiaUnspecified": 174.12555870104686
+  },
+  {
+    "id": 1739222207,
+    "description": "Сили Оборони України відновили положення у <a href=\"https://deepstatemap.live/#14/48.2352223/37.1090261\">Піщаному</a>. Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/51.2483165/35.1158351\">Свердлікового</a>, <a href=\"https://deepstatemap.live/#13/51.2406895/35.0082252\">Миколаїво-Дар'їного</a>, <a href=\"https://deepstatemap.live/#13/47.8439349/36.7972383\">Великої Новосілки</a>, <a href=\"https://deepstatemap.live/#14/48.3334561/37.4747469\">Водяного Другого</a>, у <a href=\"https://deepstatemap.live/#14/48.1046520/37.0030252\">Запоріжжі</a>, <a href=\"https://deepstatemap.live/#14/48.1086052/37.0127221\">Срібному</a> та <a href=\"https://deepstatemap.live/#14/48.0216000/37.0773609\">Андріївці</a>.",
+    "descriptionEn": "Ukrainian Defense Forces regained the position in <a href=\"https://deepstatemap.live/en#14/48.2352223/37.1090261\">Pishchane</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#13/51.2483165/35.1158351\">Sverdlikove</a>, <a href=\"https://deepstatemap.live/en#13/51.2406895/35.0082252\">Mykolaivo-Daryne</a>, <a href=\"https://deepstatemap.live/en#13/47.8439349/36.7972383\">Velyka Novosilka</a>, <a href=\"https://deepstatemap.live/en#14/48.3334561/37.4747469\">Vodyane Druhe</a>, in <a href=\"https://deepstatemap.live/en#14/48.1046520/37.0030252\">Zaporizhzhia</a>, <a href=\"https://deepstatemap.live/en#14/48.1086052/37.0127221\">Sribne</a> and <a href=\"https://deepstatemap.live/en#14/48.0216000/37.0773609\">Andriivka</a>.",
+    "updatedAt": "2025-02-11T08:27:06.668Z",
+    "datetime": "10.02 o 22:16",
+    "status": true,
+    "createdAt": "2025-02-10T21:16:47.000Z",
+    "liberated": 42292.659148804,
+    "occupied": 68220.48091179557,
+    "unspecified": 746.4714536076843,
+    "occupiedInRussia": 433.0969415615895,
+    "occupiedInRussiaUnspecified": 174.798356924098
   }
 ]
