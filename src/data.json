@@ -14771,5 +14771,19 @@
     "unspecified": 746.4714536076843,
     "occupiedInRussia": 433.0969415615895,
     "occupiedInRussiaUnspecified": 174.798356924098
+  },
+  {
+    "id": 1739310872,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/49.2146090/37.9734715\">Макіївки</a>, <a href=\"https://deepstatemap.live/#13/47.8333928/36.7524559\">Новосілки</a>, <a href=\"https://deepstatemap.live/#15/48.0113307/37.1361653\">Шевченка</a>, в <a href=\"https://deepstatemap.live/#15/48.2558125/37.0496113\">Котлиному</a>, <a href=\"https://deepstatemap.live/#15/48.0202861/37.0433882\">Андріївці</a> та <a href=\"https://deepstatemap.live/#14/47.9890836/37.1854985\">Дачному</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/49.2146090/37.9734715\">Makiivka</a>, <a href=\"https://deepstatemap.live/en#13/47.8333928/36.7524559\">Novosilka</a>, <a href=\"https://deepstatemap.live/en#15/48.0113307/37.1361653\">Shevchenko</a>, <a href=\"https://deepstatemap.live/en#15/48.2558125/37.0496113\">Kotlyne</a>, <a href=\"https://deepstatemap.live/en#15/48.0202861/37.0433882\">Andriivka</a> and <a href=\"https://deepstatemap.live/en#14/47.9890836/37.1854985\">Dachne</a>.",
+    "updatedAt": "2025-02-12T06:13:36.803Z",
+    "datetime": "11.02 o 22:54",
+    "status": true,
+    "createdAt": "2025-02-11T21:54:32.000Z",
+    "liberated": 42287.17168741603,
+    "occupied": 68230.18524901324,
+    "unspecified": 746.3531542462769,
+    "occupiedInRussia": 433.0969415615895,
+    "occupiedInRussiaUnspecified": 174.83665523414862
   }
 ]
