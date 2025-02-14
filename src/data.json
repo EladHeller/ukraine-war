@@ -14799,5 +14799,19 @@
     "unspecified": 752.8306116640227,
     "occupiedInRussia": 433.0969415615895,
     "occupiedInRussiaUnspecified": 174.83665523414862
+  },
+  {
+    "id": 1739482339,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#14/49.8614226/37.6772214\">Дворічній</a>, <a href=\"https://deepstatemap.live/#13/48.0211111/37.0312371\">Андріївці</a>, біля <a href=\"https://deepstatemap.live/#13/49.8873869/37.6951946\">Фиголівки</a> та <a href=\"https://deepstatemap.live/#13/47.8416767/36.7668582\">Бурлацького</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/49.8614226/37.6772214\">Dvorichna</a>, <a href=\"https://deepstatemap.live/en#13/48.0211111/37.0312371\">Andriivka</a>, near <a href=\"https://deepstatemap.live/en#13/49.8873869/37.6951946\">Fygolivka</a> and <a href=\"https://deepstatemap.live/en#13/47.8416767/36.7668582\">Burlatske</a>.",
+    "updatedAt": "2025-02-13T21:49:49.460Z",
+    "datetime": "13.02 o 22:32",
+    "status": true,
+    "createdAt": "2025-02-13T21:32:19.000Z",
+    "liberated": 42274.77892990264,
+    "occupied": 68249.79532373507,
+    "unspecified": 748.9520220232985,
+    "occupiedInRussia": 433.0969415615895,
+    "occupiedInRussiaUnspecified": 174.83665523414862
   }
 ]
