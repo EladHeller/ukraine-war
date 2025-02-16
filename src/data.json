@@ -14827,5 +14827,19 @@
     "unspecified": 749.1140430936132,
     "occupiedInRussia": 433.0969415615895,
     "occupiedInRussiaUnspecified": 174.83665523414862
+  },
+  {
+    "id": 1739656164,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/47.9864168/37.0955860\">Улаклів</a>, <a href=\"https://deepstatemap.live/#14/47.8673415/36.8201230\">Нового Комара</a>, <a href=\"https://deepstatemap.live/#15/48.1295051/36.9962242\">Преображенки</a>, в <a href=\"https://deepstatemap.live/#15/48.1044901/36.9973417\">Запоріжжі</a>, <a href=\"https://deepstatemap.live/#14/48.0152161/37.0861101\">Андріївці</a> та <a href=\"https://deepstatemap.live/#14/47.8962329/36.8169483\">Новоочеретуватому</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/47.9864168/37.0955860\">Ulakly</a>, <a href=\"https://deepstatemap.live/en#14/47.8673415/36.8201230\">Novyi Komar</a>, <a href=\"https://deepstatemap.live/en#15/48.1295051/36.9962242\">Preobrazhenka</a>, in <a href=\"https://deepstatemap.live/en#15/48.1044901/36.9973417\">Zaporizhzhia</a>, <a href=\"https://deepstatemap.live/en#14/48.0152161/37.0861101\">Andriivka</a> and <a href=\"https://deepstatemap.live/en#14/47.8962329/36.8169483\">Novoocheretuvate</a>.",
+    "updatedAt": "2025-02-15T23:04:55.990Z",
+    "datetime": "15.02 o 22:49",
+    "status": true,
+    "createdAt": "2025-02-15T21:49:24.000Z",
+    "liberated": 42274.364846146935,
+    "occupied": 68262.34239797873,
+    "unspecified": 759.3975487005184,
+    "occupiedInRussia": 433.0969415615895,
+    "occupiedInRussiaUnspecified": 174.83665523414862
   }
 ]
