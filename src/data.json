@@ -14841,5 +14841,19 @@
     "unspecified": 759.3975487005184,
     "occupiedInRussia": 433.0969415615895,
     "occupiedInRussiaUnspecified": 174.83665523414862
+  },
+  {
+    "id": 1739742946,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.1083242/37.0136702\">Срібне</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/48.0043126/37.1751939\">Дачного</a>, <a href=\"https://deepstatemap.live/#14/47.8265015/36.7125807\">Новосілки</a>, <a href=\"https://deepstatemap.live/#14/49.8937774/37.7176523\">Фиголівки</a> та в <a href=\"https://deepstatemap.live/#14/47.9916143/37.0839683\">Улаклах</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.1083242/37.0136702\">Sribne</a> and advanced near <a href=\"https://deepstatemap.live/en#14/48.0043126/37.1751939\">Dachne</a>, <a href=\"https://deepstatemap.live/en#14/47.8265015/36.7125807\">Novosilka</a>, <a href=\"https://deepstatemap.live/en#14/49.8937774/37.7176523\">Figolivka</a> and in <a href=\"https://deepstatemap.live/en#14/47.9916143/37.0839683\">Ulakly</a>.",
+    "updatedAt": "2025-02-17T08:12:32.615Z",
+    "datetime": "16.02 o 22:55",
+    "status": true,
+    "createdAt": "2025-02-16T21:55:46.000Z",
+    "liberated": 42270.38219833529,
+    "occupied": 68274.39438414718,
+    "unspecified": 764.6210222625782,
+    "occupiedInRussia": 433.0969415615895,
+    "occupiedInRussiaUnspecified": 174.83665523414862
   }
 ]
