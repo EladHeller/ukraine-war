@@ -14869,5 +14869,19 @@
     "unspecified": 772.0500460604151,
     "occupiedInRussia": 433.0969415615895,
     "occupiedInRussiaUnspecified": 174.83665523414862
+  },
+  {
+    "id": 1739914360,
+    "description": "Сили Оборони відкинули ворога біля <a href=\"https://deepstatemap.live/#14/48.3327139/37.4761223\">Малинівки</a>. Ворог окупував <a href=\"https://deepstatemap.live/#14/47.9909342/37.1776764\">Дачне</a>, <a href=\"https://deepstatemap.live/#14/47.9694834/37.0906471\">Зеленівку</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/47.9879779/37.0566651\">Костянтинополя</a>, <a href=\"https://deepstatemap.live/#14/47.8430776/36.7216592\">Новосілки</a>, <a href=\"https://deepstatemap.live/#13/48.5152960/37.9386206\">Кліщіївки</a>, <a href=\"https://deepstatemap.live/#14/48.3183375/37.5051272\">Баранівки</a>, в <a href=\"https://deepstatemap.live/#14/47.8994438/36.8165075\">Новоочеретуватому</a>, <a href=\"https://deepstatemap.live/#13/48.0322369/37.0540529\">Андріївці</a> та <a href=\"https://deepstatemap.live/#14/48.2342525/37.1016480\">Піщаному</a>.",
+    "descriptionEn": "The Defense Forces pushed back the enemy near <a href=\"https://deepstatemap.live/en#14/48.3327139/37.4761223\">Malynivka</a>. The enemy occupied <a href=\"https://deepstatemap.live/en#14/47.9909342/37.1776764\">Dachne</a>, <a href=\"https://deepstatemap.live/en#14/47.9694834/37.0906471\">Zelenivka</a>, and advanced near <a href=\"https://deepstatemap.live/en#14/47.9879779/37.0566651\">Kostyantynopil</a>, <a href=\"https://deepstatemap.live/en#14/47.8430776/36.7216592\">Novosilka</a>, <a href=\"https://deepstatemap.live/en#13/48.5152960/37.9386206\">Klishchiyivka</a>, <a href=\"https://deepstatemap.live/en#14/48.3183375/37.5051272\">Baranivka</a>, <a href=\"https://deepstatemap.live/en#14/47.8994438/36.8165075\">Novoocheretuvate</a>, <a href=\"https://deepstatemap.live/en#13/48.0322369/37.0540529\">Andriivka</a> and <a href=\"https://deepstatemap.live/en#14/48.2342525/37.1016480\">Pishchane</a>.",
+    "updatedAt": "2025-02-19T10:02:44.975Z",
+    "datetime": "18.02 o 22:32",
+    "status": true,
+    "createdAt": "2025-02-18T21:32:40.000Z",
+    "liberated": 42270.789878193405,
+    "occupied": 68309.40075305014,
+    "unspecified": 756.7191621356088,
+    "occupiedInRussia": 433.0969415615895,
+    "occupiedInRussiaUnspecified": 174.83665523414862
   }
 ]
