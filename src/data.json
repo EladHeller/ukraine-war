@@ -14883,5 +14883,19 @@
     "unspecified": 756.7191621356088,
     "occupiedInRussia": 433.0969415615895,
     "occupiedInRussiaUnspecified": 174.83665523414862
+  },
+  {
+    "id": 1740000227,
+    "description": "Сили Оборони України відновили положення у <a href=\"https://deepstatemap.live/#14/48.2213867/37.2535660\">Лисівці</a>. Ворог окупував <a href=\"https://deepstatemap.live/#13/51.2497129/35.1219993\">Свердлікове</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#13/47.9921350/37.1350050\">Дачного</a>, <a href=\"https://deepstatemap.live/#14/48.3228433/37.5728539\">Зеленого Поля</a> та <a href=\"https://deepstatemap.live/#13/47.8603409/36.7721753\">Бурлацького</a>.",
+    "descriptionEn": "Ukrainian Defense Forces regained the position in <a href=\"https://deepstatemap.live/en#14/48.2213867/37.2535660\">Lysivka</a>. The enemy occupied <a href=\"https://deepstatemap.live/en#13/51.2497129/35.1219993\">Sverdlikove</a> and advanced near <a href=\"https://deepstatemap.live/en#13/47.9921350/37.1350050\">Dachne</a>, <a href=\"https://deepstatemap.live/en#14/48.3228433/37.5728539\">Zelenyi Pole</a> and <a href=\"https://deepstatemap.live/en#13/47.8603409/36.7721753\">Burlatske</a>.",
+    "updatedAt": "2025-02-20T10:20:47.841Z",
+    "datetime": "19.02 o 22:23",
+    "status": true,
+    "createdAt": "2025-02-19T21:23:47.000Z",
+    "liberated": 42272.76163494897,
+    "occupied": 68333.57431327339,
+    "unspecified": 741.60951747081,
+    "occupiedInRussia": 428.0588481268074,
+    "occupiedInRussiaUnspecified": 173.33941432656957
   }
 ]
