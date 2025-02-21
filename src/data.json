@@ -14897,5 +14897,19 @@
     "unspecified": 741.60951747081,
     "occupiedInRussia": 428.0588481268074,
     "occupiedInRussiaUnspecified": 173.33941432656957
+  },
+  {
+    "id": 1740084449,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.0197283/37.1116753\">Андріївки</a> та <a href=\"https://deepstatemap.live/#14/47.9948882/37.0586399\">Улаклів</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.0197283/37.1116753\">Andriivka</a> and <a href=\"https://deepstatemap.live/en#14/47.9948882/37.0586399\">Ulakly</a>.",
+    "updatedAt": "2025-02-21T00:21:41.796Z",
+    "datetime": "20.02 o 21:47",
+    "status": true,
+    "createdAt": "2025-02-20T20:47:29.000Z",
+    "liberated": 42272.76163494897,
+    "occupied": 68342.03703056985,
+    "unspecified": 734.1392631268714,
+    "occupiedInRussia": 428.0588481268074,
+    "occupiedInRussiaUnspecified": 173.33941432656957
   }
 ]
