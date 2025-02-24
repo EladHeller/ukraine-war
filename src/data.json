@@ -14939,5 +14939,19 @@
     "unspecified": 740.8378061112962,
     "occupiedInRussia": 428.0588481268074,
     "occupiedInRussiaUnspecified": 173.33941432656957
+  },
+  {
+    "id": 1740343483,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.9363425/38.2511757\">Білогорівці</a>, біля <a href=\"https://deepstatemap.live/#13/49.2475491/37.9882220\">Макіївки</a> та <a href=\"https://deepstatemap.live/#13/47.8741580/36.7898622\">Очеретуватого</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.9363425/38.2511757\">Bilohorivka</a>, near <a href=\"https://deepstatemap.live/en#13/49.2475491/37.9882220\">Makiivka</a> and <a href=\"https://deepstatemap.live/en#13/47.8741580/36.7898622\">Ocherevatove</a>.",
+    "updatedAt": "2025-02-24T00:31:05.667Z",
+    "datetime": "23.02 o 21:44",
+    "status": true,
+    "createdAt": "2025-02-23T20:44:43.000Z",
+    "liberated": 42270.49346807957,
+    "occupied": 68363.94660576545,
+    "unspecified": 733.5143367918939,
+    "occupiedInRussia": 428.0588481268074,
+    "occupiedInRussiaUnspecified": 173.33941432656957
   }
 ]
