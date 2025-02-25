@@ -14953,5 +14953,19 @@
     "unspecified": 733.5143367918939,
     "occupiedInRussia": 428.0588481268074,
     "occupiedInRussiaUnspecified": 173.33941432656957
+  },
+  {
+    "id": 1740434128,
+    "description": "Сили Оборони України відкинули противника з <a href=\"https://deepstatemap.live/#15/48.1994623/37.0249329\">Успенівки</a>. Ворог окупував <a href=\"https://deepstatemap.live/#15/48.1037405/36.9894941\">Запоріжжя</a> (Донецької обл.), та просунувся біля <a href=\"https://deepstatemap.live/#14/47.9107330/36.8000364\">Скудного</a> та <a href=\"https://deepstatemap.live/#15/47.9090448/36.8250743\">Новоочеретуватого</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces drove the enemy back from <a href=\"https://deepstatemap.live/en#15/48.1994623/37.0249329\">Uspenivka</a>. The enemy occupied <a href=\"https://deepstatemap.live/en#15/48.1037405/36.9894941\">Zaporizhzhia</a> (Donetsk region) and advanced near <a href=\"https://deepstatemap.live/en#14/47.9107330/36.8000364\">Skudne</a> and <a href=\"https://deepstatemap.live/en#15/47.9090448/36.8250743\">Novoocheretuvate</a>.",
+    "updatedAt": "2025-02-25T09:11:25.692Z",
+    "datetime": "24.02 o 22:55",
+    "status": true,
+    "createdAt": "2025-02-24T21:55:28.000Z",
+    "liberated": 42270.49346807957,
+    "occupied": 68366.86358945363,
+    "unspecified": 738.039732780416,
+    "occupiedInRussia": 428.0588481268074,
+    "occupiedInRussiaUnspecified": 173.33941432656957
   }
 ]
