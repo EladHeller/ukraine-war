@@ -14981,5 +14981,19 @@
     "unspecified": 743.628787393817,
     "occupiedInRussia": 428.0588481268074,
     "occupiedInRussiaUnspecified": 173.33941432656957
+  },
+  {
+    "id": 1740561030,
+    "description": "Сили Оборони України відновили положення у <a href=\"https://deepstatemap.live/#14/48.2550572/37.0522908\">Котлиному</a>. Ворог просунувся у <a href=\"https://deepstatemap.live/#13/51.3767325/35.2241757\">Погребках</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces have regained their position in <a href=\"https://deepstatemap.live/en#14/48.2550572/37.0522908\">Kotlynne</a>. The enemy advanced in <a href=\"https://deepstatemap.live/en#13/51.3767325/35.2241757\">Pohrebky</a>.",
+    "updatedAt": "2025-02-26T09:10:36.695Z",
+    "datetime": "26.02 o 10:10",
+    "status": true,
+    "createdAt": "2025-02-26T09:10:30.000Z",
+    "liberated": 42271.040583849994,
+    "occupied": 68367.7991479312,
+    "unspecified": 742.1346267856751,
+    "occupiedInRussia": 423.1438886882569,
+    "occupiedInRussiaUnspecified": 163.13434582895678
   }
 ]
