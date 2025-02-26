@@ -14967,5 +14967,19 @@
     "unspecified": 738.039732780416,
     "occupiedInRussia": 428.0588481268074,
     "occupiedInRussiaUnspecified": 173.33941432656957
+  },
+  {
+    "id": 1740520660,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/47.9009514/36.8062146\">Новоочеретувате</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/48.1283693/36.9815695\">Преображенки</a> та в <a href=\"https://deepstatemap.live/#14/50.0139385/37.9198670\">Тополях</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/47.9009514/36.8062146\">Novoocheretuvate</a> and advanced near <a href=\"https://deepstatemap.live/en#14/48.1283693/36.9815695\">Preobrazhenka</a> and <a href=\"https://deepstatemap.live/en#14/50.0139385/37.9198670\">Topoli</a>.",
+    "updatedAt": "2025-02-25T22:47:17.117Z",
+    "datetime": "25.02 o 22:57",
+    "status": true,
+    "createdAt": "2025-02-25T21:57:40.000Z",
+    "liberated": 42268.98770570802,
+    "occupied": 68369.81849400248,
+    "unspecified": 743.628787393817,
+    "occupiedInRussia": 428.0588481268074,
+    "occupiedInRussiaUnspecified": 173.33941432656957
   }
 ]
