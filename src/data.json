@@ -14995,5 +14995,19 @@
     "unspecified": 742.1346267856751,
     "occupiedInRussia": 423.1438886882569,
     "occupiedInRussiaUnspecified": 163.13434582895678
+  },
+  {
+    "id": 1740617034,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/47.8873637/36.7727317\">Бурлацького</a> та в <a href=\"https://deepstatemap.live/#14/48.0204402/37.0486037\">Андріївці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.8873637/36.7727317\">Burlatske</a> and in <a href=\"https://deepstatemap.live/en#14/48.0204402/37.0486037\">Andriivka</a>.",
+    "updatedAt": "2025-02-27T00:45:49.260Z",
+    "datetime": "27.02 o 01:43",
+    "status": true,
+    "createdAt": "2025-02-27T00:43:54.000Z",
+    "liberated": 42280.26572213303,
+    "occupied": 68371.12530597723,
+    "unspecified": 741.2730296169631,
+    "occupiedInRussia": 423.1438886882569,
+    "occupiedInRussiaUnspecified": 163.13434582895678
   }
 ]
