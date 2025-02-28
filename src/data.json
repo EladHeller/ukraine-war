@@ -15009,5 +15009,19 @@
     "unspecified": 741.2730296169631,
     "occupiedInRussia": 423.1438886882569,
     "occupiedInRussiaUnspecified": 163.13434582895678
+  },
+  {
+    "id": 1740702002,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/47.8849009/36.7499135\">Бурлацького</a>, <a href=\"https://deepstatemap.live/#14/47.8711470/36.7192781\">Привільного</a> та <a href=\"https://deepstatemap.live/#13/51.2239299/35.1067313\">Свердлікового</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.8849009/36.7499135\">Burlatske</a>, <a href=\"https://deepstatemap.live/en#14/47.8711470/36.7192781\">Pryvilne</a> and <a href=\"https://deepstatemap.live/en#13/51.2239299/35.1067313\">Sverdlikove</a>.",
+    "updatedAt": "2025-02-28T00:22:37.594Z",
+    "datetime": "28.02 o 01:20",
+    "status": true,
+    "createdAt": "2025-02-28T00:20:02.000Z",
+    "liberated": 42280.26572213303,
+    "occupied": 68377.04486076081,
+    "unspecified": 741.7093403154526,
+    "occupiedInRussia": 422.334411300294,
+    "occupiedInRussiaUnspecified": 165.92532456308876
   }
 ]
