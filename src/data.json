@@ -15023,5 +15023,19 @@
     "unspecified": 741.7093403154526,
     "occupiedInRussia": 422.334411300294,
     "occupiedInRussiaUnspecified": 165.92532456308876
+  },
+  {
+    "id": 1740817796,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/51.2296251/35.0299963\">Миколаїво-Дар'їного</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/51.2296251/35.0299963\">Mykolaivo-Daryne</a>.",
+    "updatedAt": "2025-03-01T08:32:04.824Z",
+    "datetime": "01.03 o 09:29",
+    "status": true,
+    "createdAt": "2025-03-01T08:29:56.000Z",
+    "liberated": 42280.26572213303,
+    "occupied": 68377.04486076081,
+    "unspecified": 741.7093403154526,
+    "occupiedInRussia": 407.3678933470325,
+    "occupiedInRussiaUnspecified": 165.27425387002395
   }
 ]
