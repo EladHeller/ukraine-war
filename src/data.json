@@ -15037,5 +15037,19 @@
     "unspecified": 741.7093403154526,
     "occupiedInRussia": 407.3678933470325,
     "occupiedInRussiaUnspecified": 165.27425387002395
+  },
+  {
+    "id": 1740922425,
+    "description": "Сили Оборони України відкинули противника біля <a href=\"https://deepstatemap.live/#14/49.7593814/37.6632461\">Синьківки</a>. Уточнено просування ворога біля <a href=\"https://deepstatemap.live/#13/48.8933313/38.2507006\">Золотарівки</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces have pushed back the enemy near <a href=\"https://deepstatemap.live/en#14/49.7593814/37.6632461\">Synkivka</a>. The enemy's advance near <a href=\"https://deepstatemap.live/en#13/48.8933313/38.2507006\">Zolotarivka</a> has been clarified.",
+    "updatedAt": "2025-03-02T13:41:37.486Z",
+    "datetime": "02.03 o 14:33",
+    "status": true,
+    "createdAt": "2025-03-02T13:33:45.000Z",
+    "liberated": 42277.702597696436,
+    "occupied": 68377.26846427,
+    "unspecified": 744.0484684465522,
+    "occupiedInRussia": 407.3678933470325,
+    "occupiedInRussiaUnspecified": 165.22162015925798
   }
 ]
