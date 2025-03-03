@@ -15051,5 +15051,19 @@
     "unspecified": 744.0484684465522,
     "occupiedInRussia": 407.3678933470325,
     "occupiedInRussiaUnspecified": 165.22162015925798
+  },
+  {
+    "id": 1740954151,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.2320911/37.1062146\">Піщаному</a>, біля <a href=\"https://deepstatemap.live/#14/51.3678359/35.2285682\">Погребків</a>, <a href=\"https://deepstatemap.live/#13/49.3789373/37.9204210\">Надії</a> та <a href=\"https://deepstatemap.live/#13/49.5008014/37.7367746\">Загризового</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.2320911/37.1062146\">Pishchane</a>, near <a href=\"https://deepstatemap.live/en#14/51.3678359/35.2285682\">Pohrebky</a>, <a href=\"https://deepstatemap.live/en#13/49.3789373/37.9204210\">Nadiya</a> and <a href=\"https://deepstatemap.live/en#13/49.5008014/37.7367746\">Zahryzove</a>.",
+    "updatedAt": "2025-03-02T22:40:19.619Z",
+    "datetime": "02.03 o 23:22",
+    "status": true,
+    "createdAt": "2025-03-02T22:22:31.000Z",
+    "liberated": 42269.187124367694,
+    "occupied": 68389.9664691194,
+    "unspecified": 741.3087355374173,
+    "occupiedInRussia": 405.172441963848,
+    "occupiedInRussiaUnspecified": 164.6923449814027
   }
 ]
