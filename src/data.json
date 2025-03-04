@@ -15065,5 +15065,19 @@
     "unspecified": 741.3087355374173,
     "occupiedInRussia": 405.172441963848,
     "occupiedInRussiaUnspecified": 164.6923449814027
+  },
+  {
+    "id": 1741047345,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/47.8821888/36.7307745\">Бурлацького</a> та <a href=\"https://deepstatemap.live/#13/51.2622850/35.1731506\">Лебедівки</a>. Уточнено лінію зіткнення в <a href=\"https://deepstatemap.live/#14/48.2367708/37.1120245\">Піщаному</a>. Тривають бої південніше <a href=\"https://deepstatemap.live/#13/51.3533894/35.2835377\">Камишівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.8821888/36.7307745\">Burlatske</a> and <a href=\"https://deepstatemap.live/en#13/51.2622850/35.1731506\">Lebedivka</a>. The front line in <a href=\"https://deepstatemap.live/en#14/48.2367708/37.1120245\">Pishchane</a> has been clarified. Fighting continues south of <a href=\"https://deepstatemap.live/en#13/51.3533894/35.2835377\">Kamyshivka</a>.",
+    "updatedAt": "2025-03-04T00:18:48.994Z",
+    "datetime": "04.03 o 01:15",
+    "status": true,
+    "createdAt": "2025-03-04T00:15:45.000Z",
+    "liberated": 42268.99926841799,
+    "occupied": 68392.01583508727,
+    "unspecified": 739.4465868086596,
+    "occupiedInRussia": 364.0572792393975,
+    "occupiedInRussiaUnspecified": 190.69369485390646
   }
 ]
