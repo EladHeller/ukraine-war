@@ -15079,5 +15079,19 @@
     "unspecified": 739.4465868086596,
     "occupiedInRussia": 364.0572792393975,
     "occupiedInRussiaUnspecified": 190.69369485390646
+  },
+  {
+    "id": 1741129114,
+    "description": "Сили Оборони відкинули ворога біля <a href=\"https://deepstatemap.live/#14/49.8325439/37.6175702\">Западного</a> та <a href=\"https://deepstatemap.live/#15/48.2037985/37.0216708\">Успенівки</a>. Уточнено лінію зіткнення в <a href=\"https://deepstatemap.live/#13/51.2954697/35.3280005\">Черкаському Порічному</a>.",
+    "descriptionEn": "Ukrainian Defense Forces drove back the enemy near <a href=\"https://deepstatemap.live/en#14/49.8325439/37.6175702\">Zakhidne</a> and <a href=\"https://deepstatemap.live/en#15/48.2037985/37.0216708\">Uspenivka</a>. The contact line in <a href=\"https://deepstatemap.live/en#13/51.2954697/35.3280005\">Cherkaske Porichne</a> has been clarified.",
+    "updatedAt": "2025-03-04T23:01:34.831Z",
+    "datetime": "04.03 o 23:58",
+    "status": true,
+    "createdAt": "2025-03-04T22:58:34.000Z",
+    "liberated": 42269.1349163697,
+    "occupied": 68388.82740583988,
+    "unspecified": 744.035310409778,
+    "occupiedInRussia": 367.7423655337964,
+    "occupiedInRussiaUnspecified": 187.00860855950532
   }
 ]
