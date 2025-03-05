@@ -33,6 +33,3 @@ jobs:
 
       - name: Run ESLint
         run: npm run eslint:test
-
-      - name: Upload coverage to Codecov
-        uses: codecov/codecov-action@v3
