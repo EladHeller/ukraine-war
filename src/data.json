@@ -15093,5 +15093,19 @@
     "unspecified": 744.035310409778,
     "occupiedInRussia": 367.7423655337964,
     "occupiedInRussiaUnspecified": 187.00860855950532
+  },
+  {
+    "id": 1741215821,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/51.1280262/35.2541951\">Курилівки</a>. Уточнено визволені території на <a href=\"https://deepstatemap.live/#12/50.1751454/36.1774959\">Харківщині</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/#13/51.1280262/35.2541951\">Kurylivka</a>. The liberated territories in <a href=\"https://deepstatemap.live/#12/50.1751454/36.1774959\">Kharkiv region</a> have been clarified.",
+    "updatedAt": "2025-03-05T23:03:45.750Z",
+    "datetime": "06.03 o 00:03",
+    "status": true,
+    "createdAt": "2025-03-05T23:03:41.000Z",
+    "liberated": 42289.43235266046,
+    "occupied": 68388.82740583988,
+    "unspecified": 749.8734084729558,
+    "occupiedInRussia": 362.0275712274236,
+    "occupiedInRussiaUnspecified": 187.19223917835717
   }
 ]
