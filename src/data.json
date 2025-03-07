@@ -15107,5 +15107,19 @@
     "unspecified": 749.8734084729558,
     "occupiedInRussia": 362.0275712274236,
     "occupiedInRussiaUnspecified": 187.19223917835717
+  },
+  {
+    "id": 1741301225,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/51.1246149/35.1985672\">Курилівки</a> та <a href=\"https://deepstatemap.live/#13/49.9085171/37.7527153\">Фиголівки</a>. Уточнено визволені території на <a href=\"https://deepstatemap.live/#12/51.3405772/33.8092483\">Сумщині</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/51.1246149/35.1985672\">Kurylivka</a> and <a href=\"https://deepstatemap.live/en#13/49.9085171/37.7527153\">Figolivka</a>.",
+    "updatedAt": "2025-03-06T23:04:04.612Z",
+    "datetime": "06.03 o 23:47",
+    "status": true,
+    "createdAt": "2025-03-06T22:47:05.000Z",
+    "liberated": 42312.804151483375,
+    "occupied": 68391.55485460363,
+    "unspecified": 750.7636579775768,
+    "occupiedInRussia": 354.4718865857658,
+    "occupiedInRussiaUnspecified": 190.07149692781434
   }
 ]
