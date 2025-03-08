@@ -15121,5 +15121,19 @@
     "unspecified": 750.7636579775768,
     "occupiedInRussia": 354.4718865857658,
     "occupiedInRussiaUnspecified": 190.07149692781434
+  },
+  {
+    "id": 1741387566,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#14/51.3416908/35.2200659\">Старій Сорочині</a> та <a href=\"https://deepstatemap.live/#14/51.3566422/35.2265019\">Новій Сорочині</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/51.3416908/35.2200659\">Stara Sorochyna</a> and <a href=\"https://deepstatemap.live/en#14/51.3566422/35.2265019\">Nova Sorochyna</a>.",
+    "updatedAt": "2025-03-07T23:48:31.080Z",
+    "datetime": "07.03 o 23:46",
+    "status": true,
+    "createdAt": "2025-03-07T22:46:06.000Z",
+    "liberated": 42312.804151483375,
+    "occupied": 68391.55485460363,
+    "unspecified": 751.4174401243242,
+    "occupiedInRussia": 348.61632003688834,
+    "occupiedInRussiaUnspecified": 180.7969811434261
   }
 ]
