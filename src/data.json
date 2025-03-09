@@ -15135,5 +15135,19 @@
     "unspecified": 751.4174401243242,
     "occupiedInRussia": 348.61632003688834,
     "occupiedInRussiaUnspecified": 180.7969811434261
+  },
+  {
+    "id": 1741506008,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#13/51.2558477/35.1928954\">Лебедівку</a> та просунувся в <a href=\"https://deepstatemap.live/#14/51.2948516/35.3310497\">Черкаському Порічному</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#13/51.2558477/35.1928954\">Lebedivka</a> and advanced in <a href=\"https://deepstatemap.live/en#14/51.2948516/35.3310497\">Cherkaske Porichne</a>.",
+    "updatedAt": "2025-03-09T08:25:56.819Z",
+    "datetime": "09.03 o 08:40",
+    "status": true,
+    "createdAt": "2025-03-09T07:40:08.000Z",
+    "liberated": 42312.804151483375,
+    "occupied": 68391.55485460363,
+    "unspecified": 751.4174401243242,
+    "occupiedInRussia": 338.255968054449,
+    "occupiedInRussiaUnspecified": 144.53916701406303
   }
 ]
