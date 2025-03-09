@@ -15149,5 +15149,19 @@
     "unspecified": 751.4174401243242,
     "occupiedInRussia": 338.255968054449,
     "occupiedInRussiaUnspecified": 144.53916701406303
+  },
+  {
+    "id": 1741541766,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#12/51.3259306/35.2546380\">Малу Локню</a> та <a href=\"https://deepstatemap.live/#13/51.2475662/35.3671275\">Мартинівку</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#12/51.3259306/35.2546380\">Mala Loknya</a> and <a href=\"https://deepstatemap.live/en#13/51.2475662/35.3671275\">Martynivka</a>.",
+    "updatedAt": "2025-03-09T17:37:29.369Z",
+    "datetime": "09.03 o 18:36",
+    "status": true,
+    "createdAt": "2025-03-09T17:36:06.000Z",
+    "liberated": 42312.804151483375,
+    "occupied": 68391.55485460363,
+    "unspecified": 751.4174401243242,
+    "occupiedInRussia": 300.13414907668226,
+    "occupiedInRussiaUnspecified": 127.5096157170112
   }
 ]
