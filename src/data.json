@@ -15163,5 +15163,19 @@
     "unspecified": 751.4174401243242,
     "occupiedInRussia": 300.13414907668226,
     "occupiedInRussiaUnspecified": 127.5096157170112
+  },
+  {
+    "id": 1741596962,
+    "description": "Сили Оборони України відновили положення біля <a href=\"https://deepstatemap.live/#13/49.7557219/37.6663465\">Синьківки</a> та <a href=\"https://deepstatemap.live/#14/47.8903040/36.7441621\">Бурлацького</a>, ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.0087291/37.0839561\">Улаклів</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces regained positions near <a href=\"https://deepstatemap.live/en#13/49.7557219/37.6663465\">Synkivka</a> and <a href=\"https://deepstatemap.live/en#14/47.8903040/36.7441621\">Burlatske</a>, and the enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.0087291/37.0839561\">Ulakly</a>.",
+    "updatedAt": "2025-03-10T09:02:36.416Z",
+    "datetime": "10.03 o 09:56",
+    "status": true,
+    "createdAt": "2025-03-10T08:56:02.000Z",
+    "liberated": 42320.67381965258,
+    "occupied": 68390.43164304372,
+    "unspecified": 745.2699036661636,
+    "occupiedInRussia": 300.13414907668226,
+    "occupiedInRussiaUnspecified": 127.5096157170112
   }
 ]
