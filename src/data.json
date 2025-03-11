@@ -15177,5 +15177,19 @@
     "unspecified": 745.2699036661636,
     "occupiedInRussia": 300.13414907668226,
     "occupiedInRussiaUnspecified": 127.5096157170112
+  },
+  {
+    "id": 1741694646,
+    "description": "Сили Оборони України відкинули ворога біля <a href=\"https://deepstatemap.live/#14/47.8400910/36.6884452\">Новосілки</a>. Противник просунувся біля <a href=\"https://deepstatemap.live/#13/51.2058884/35.3315902\">Мирного</a> та <a href=\"https://deepstatemap.live/#13/51.2704586/35.2620814\">Зозулівки</a>.",
+    "descriptionEn": "Ukrainian Defense Forces drove back the enemy near <a href=\"https://deepstatemap.live/en#14/47.8400910/36.6884452\">Novosilka</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#13/51.2058884/35.3315902\">Myrne</a> and <a href=\"https://deepstatemap.live/en#13/51.2704586/35.2620814\">Zozulivka</a>.",
+    "updatedAt": "2025-03-11T12:09:50.995Z",
+    "datetime": "11.03 o 13:04",
+    "status": true,
+    "createdAt": "2025-03-11T12:04:06.000Z",
+    "liberated": 42320.67381965258,
+    "occupied": 68388.4187744848,
+    "unspecified": 750.6687174685169,
+    "occupiedInRussia": 208.79133798292605,
+    "occupiedInRussiaUnspecified": 88.44912703012317
   }
 ]
