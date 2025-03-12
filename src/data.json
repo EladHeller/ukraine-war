@@ -15191,5 +15191,19 @@
     "unspecified": 750.6687174685169,
     "occupiedInRussia": 208.79133798292605,
     "occupiedInRussiaUnspecified": 88.44912703012317
+  },
+  {
+    "id": 1741781084,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/51.1736232/35.2960215\">Махновку</a>, <a href=\"https://deepstatemap.live/#14/51.1867471/35.2940478\">Замостя</a>, <a href=\"https://deepstatemap.live/#14/51.2362607/35.2507105\">Козачу Локню</a>, та просунувся біля <a href=\"https://deepstatemap.live/#13/48.0964842/37.0725878\">Ясенового</a> та <a href=\"https://deepstatemap.live/#13/47.9090946/36.7740900\">Скудного</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/51.1736232/35.2960215\">Makhnovka</a>, <a href=\"https://deepstatemap.live/en#14/51.1867471/35.2940478\">Zamostia</a>, <a href=\"https://deepstatemap.live/en#14/51.2362607/35.2507105\">Kozacha Loknya</a>, and advanced near <a href=\"https://deepstatemap.live/en#13/48.0964842/37.0725878\">Yasenove</a> and <a href=\"https://deepstatemap.live/en#13/47.9090946/36.7740900\">Skudne</a>.",
+    "updatedAt": "2025-03-12T12:07:33.090Z",
+    "datetime": "12.03 o 13:04",
+    "status": true,
+    "createdAt": "2025-03-12T12:04:44.000Z",
+    "liberated": 42319.11188603716,
+    "occupied": 68396.20471923436,
+    "unspecified": 750.1410015826305,
+    "occupiedInRussia": 151.42233406171948,
+    "occupiedInRussiaUnspecified": 61.83855093409498
   }
 ]
