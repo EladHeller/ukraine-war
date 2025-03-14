@@ -15219,5 +15219,19 @@
     "unspecified": 752.8554875266925,
     "occupiedInRussia": 151.42233406171948,
     "occupiedInRussiaUnspecified": 75.38359716619588
+  },
+  {
+    "id": 1741941622,
+    "description": "Сили Оборони України відкинули противника з <a href=\"https://deepstatemap.live/#14/49.9011710/37.7019487\">Фиголівки</a>. Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/47.9025917/36.8587017\">Нового Комара</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces drove the enemy back from <a href=\"https://deepstatemap.live/en#14/49.9011710/37.7019487\">Fygolivka</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#13/47.9025917/36.8587017\">Novyi Komar</a>.",
+    "updatedAt": "2025-03-14T08:50:22.728Z",
+    "datetime": "14.03 o 09:40",
+    "status": true,
+    "createdAt": "2025-03-14T08:40:22.000Z",
+    "liberated": 42318.56757820941,
+    "occupied": 68407.33489987683,
+    "unspecified": 745.879490593181,
+    "occupiedInRussia": 151.42233406171948,
+    "occupiedInRussiaUnspecified": 75.38359716619588
   }
 ]
