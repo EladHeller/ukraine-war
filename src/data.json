@@ -15261,5 +15261,19 @@
     "unspecified": 754.810357766654,
     "occupiedInRussia": 121.57729592765554,
     "occupiedInRussiaUnspecified": 72.04358071780774
+  },
+  {
+    "id": 1742224960,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/47.5076708/35.4652870\">П'ятихаткатках</a> та біля <a href=\"https://deepstatemap.live/#14/47.5319486/35.5513619\">Малих Щербаків</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/47.5076708/35.4652870\">Pyatykhatky</a> and near <a href=\"https://deepstatemap.live/en#14/47.5319486/35.5513619\">Mali Shcherbaky</a>.",
+    "updatedAt": "2025-03-17T16:26:21.901Z",
+    "datetime": "17.03 o 16:22",
+    "status": true,
+    "createdAt": "2025-03-17T15:22:40.000Z",
+    "liberated": 42295.35998418154,
+    "occupied": 68429.4167936714,
+    "unspecified": 749.0603740765017,
+    "occupiedInRussia": 121.57729592765554,
+    "occupiedInRussiaUnspecified": 72.04358071780774
   }
 ]
