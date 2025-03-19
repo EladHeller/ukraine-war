@@ -15275,5 +15275,19 @@
     "unspecified": 749.0603740765017,
     "occupiedInRussia": 121.57729592765554,
     "occupiedInRussiaUnspecified": 72.04358071780774
+  },
+  {
+    "id": 1742333889,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/49.1874480/37.9591786\">Невського</a> та <a href=\"https://deepstatemap.live/#14/47.8574384/36.7220206\">Привільного</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.1874480/37.9591786\">Nevske</a> and <a href=\"https://deepstatemap.live/en#14/47.8574384/36.7220206\">Pryvilne</a>.",
+    "updatedAt": "2025-03-18T21:42:35.814Z",
+    "datetime": "18.03 o 22:38",
+    "status": true,
+    "createdAt": "2025-03-18T21:38:09.000Z",
+    "liberated": 42286.28204523971,
+    "occupied": 68439.01750941467,
+    "unspecified": 755.3089251637398,
+    "occupiedInRussia": 121.57729592765554,
+    "occupiedInRussiaUnspecified": 72.04358071780774
   }
 ]
