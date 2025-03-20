@@ -15289,5 +15289,19 @@
     "unspecified": 755.3089251637398,
     "occupiedInRussia": 121.57729592765554,
     "occupiedInRussiaUnspecified": 72.04358071780774
+  },
+  {
+    "id": 1742421371,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/49.9478174/37.7876854\">Красного Першого</a>, <a href=\"https://deepstatemap.live/#14/47.9125788/36.7895711\">Скудного</a> та <a href=\"https://deepstatemap.live/#14/47.8339346/36.6979036\">Новосілки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.9478174/37.7876854\">Krasne Pershne</a>, <a href=\"https://deepstatemap.live/en#14/47.9125788/36.7895711\">Skudne</a> and <a href=\"https://deepstatemap.live/en#14/47.8339346/36.6979036\">Novosilka</a>.",
+    "updatedAt": "2025-03-19T22:42:31.383Z",
+    "datetime": "19.03 o 22:56",
+    "status": true,
+    "createdAt": "2025-03-19T21:56:11.000Z",
+    "liberated": 42277.37880515952,
+    "occupied": 68446.04689871497,
+    "unspecified": 757.5521381902962,
+    "occupiedInRussia": 121.57729592765554,
+    "occupiedInRussiaUnspecified": 72.04358071780774
   }
 ]
