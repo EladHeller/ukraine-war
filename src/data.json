@@ -15303,5 +15303,19 @@
     "unspecified": 757.5521381902962,
     "occupiedInRussia": 121.57729592765554,
     "occupiedInRussiaUnspecified": 72.04358071780774
+  },
+  {
+    "id": 1742507523,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.1091219/36.9951296\">Запоріжжя</a> та на <a href=\"https://deepstatemap.live/#12/51.1576993/35.2422592\">Курщині</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.1091219/36.9951296\">Zaporizhzhia</a> and in the <a href=\"https://deepstatemap.live/en#12/51.1576993/35.2422592\">Kursk region</a>.",
+    "updatedAt": "2025-03-20T22:14:01.745Z",
+    "datetime": "20.03 o 22:52",
+    "status": true,
+    "createdAt": "2025-03-20T21:52:03.000Z",
+    "liberated": 42276.46034504766,
+    "occupied": 68447.09330511112,
+    "unspecified": 760.383537703739,
+    "occupiedInRussia": 92.04443535888205,
+    "occupiedInRussiaUnspecified": 73.4726484402921
   }
 ]
