@@ -15317,5 +15317,19 @@
     "unspecified": 760.383537703739,
     "occupiedInRussia": 92.04443535888205,
     "occupiedInRussiaUnspecified": 73.4726484402921
+  },
+  {
+    "id": 1742590455,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/49.1317689/37.9109730\">Іванівки</a> та <a href=\"https://deepstatemap.live/#14/49.0594376/37.9934971\">Ямполівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/49.1317689/37.9109730\">Ivanivka</a> and <a href=\"https://deepstatemap.live/en#14/49.0594376/37.9934971\">Yampolivka</a>.",
+    "updatedAt": "2025-03-22T00:23:10.250Z",
+    "datetime": "21.03 o 21:54",
+    "status": true,
+    "createdAt": "2025-03-21T20:54:15.000Z",
+    "liberated": 42272.20334937483,
+    "occupied": 68460.61317514406,
+    "unspecified": 751.1206266541975,
+    "occupiedInRussia": 92.04443535888205,
+    "occupiedInRussiaUnspecified": 73.4726484402921
   }
 ]
