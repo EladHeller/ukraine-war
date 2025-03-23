@@ -15331,5 +15331,33 @@
     "unspecified": 751.1206266541975,
     "occupiedInRussia": 92.04443535888205,
     "occupiedInRussiaUnspecified": 73.4726484402921
+  },
+  {
+    "id": 1742674754,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/49.9826919/37.8593584\">Кам'янки</a> та в <a href=\"https://deepstatemap.live/#14/50.0141848/37.9147079\">Тополях</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.9826919/37.8593584\">Kamianka</a> and in <a href=\"https://deepstatemap.live/en#14/50.0141848/37.9147079\">Topoli</a>.",
+    "updatedAt": "2025-03-23T07:43:16.775Z",
+    "datetime": "22.03 o 21:19",
+    "status": true,
+    "createdAt": "2025-03-22T20:19:14.000Z",
+    "liberated": 42265.336130319236,
+    "occupied": 68464.36761668322,
+    "unspecified": 754.2156166312018,
+    "occupiedInRussia": 92.04443535888205,
+    "occupiedInRussiaUnspecified": 73.49639799765909
+  },
+  {
+    "id": 1742724340,
+    "description": "Сили Оборони України звільнили <a href=\"https://deepstatemap.live/#14/49.3706628/37.9292257\">Надію</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces liberated <a href=\"https://deepstatemap.live/en#14/49.3706628/37.9292257\">Nadiya</a>.",
+    "updatedAt": "2025-03-23T10:13:34.087Z",
+    "datetime": "23.03 o 11:05",
+    "status": true,
+    "createdAt": "2025-03-23T10:05:40.000Z",
+    "liberated": 42268.3563795106,
+    "occupied": 68461.5257506255,
+    "unspecified": 754.0372291522909,
+    "occupiedInRussia": 92.04443535888205,
+    "occupiedInRussiaUnspecified": 73.49639799765909
   }
 ]
