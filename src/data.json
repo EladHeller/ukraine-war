@@ -15359,5 +15359,19 @@
     "unspecified": 754.0372291522909,
     "occupiedInRussia": 92.04443535888205,
     "occupiedInRussiaUnspecified": 73.49639799765909
+  },
+  {
+    "id": 1742832300,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/47.9492243/37.0319385\">Розливу</a> та <a href=\"https://deepstatemap.live/#14/48.3291231/37.5539718\">Тарасівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/47.9492243/37.0319385\">Rozlyv</a> and <a href=\"https://deepstatemap.live/en#14/48.3291231/37.5539718\">Tarasivka</a>.",
+    "updatedAt": "2025-03-24T18:32:28.902Z",
+    "datetime": "24.03 o 17:05",
+    "status": true,
+    "createdAt": "2025-03-24T16:05:00.000Z",
+    "liberated": 42266.627416734984,
+    "occupied": 68473.8226150932,
+    "unspecified": 755.0349538095332,
+    "occupiedInRussia": 92.04443535888205,
+    "occupiedInRussiaUnspecified": 73.49639799765909
   }
 ]
