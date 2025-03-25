@@ -15373,5 +15373,19 @@
     "unspecified": 755.0349538095332,
     "occupiedInRussia": 92.04443535888205,
     "occupiedInRussiaUnspecified": 73.49639799765909
+  },
+  {
+    "id": 1742914041,
+    "description": "Сили Оборони України відкинули противника біля <a href=\"https://deepstatemap.live/#14/48.0273288/37.0311784\">Андріївки</a>. Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/51.1490661/35.2373979\">Мілового</a>, <a href=\"https://deepstatemap.live/#14/47.5111508/35.4572312\">П'ятихаток</a> та <a href=\"https://deepstatemap.live/#14/47.5383780/35.5147177\">Малих Щербаків</a>. Бої тривають біля <a href=\"https://deepstatemap.live/#13/50.9410421/35.3597843\">Демидівки</a> на Білгородщині.",
+    "descriptionEn": "The Ukrainian Defense Forces pushed back the enemy near <a href=\"https://deepstatemap.live/en#14/48.0273288/37.0311784\">Andriivka</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#14/51.1490661/35.2373979\">Milove</a>, <a href=\"https://deepstatemap.live/en#14/47.5111508/35.4572312\">Pyatikhatky</a> and <a href=\"https://deepstatemap.live/en#14/47.5383780/35.5147177\">Mali Shcherbaky</a>. Fighting continues near <a href=\"https://deepstatemap.live/en#13/50.9410421/35.3597843\">Demydivka</a> in the Belgorod region.",
+    "updatedAt": "2025-03-25T14:56:21.535Z",
+    "datetime": "25.03 o 15:47",
+    "status": true,
+    "createdAt": "2025-03-25T14:47:21.000Z",
+    "liberated": 42258.74637553944,
+    "occupied": 68484.03179648217,
+    "unspecified": 765.1327479831319,
+    "occupiedInRussia": 88.77452686028279,
+    "occupiedInRussiaUnspecified": 73.96161763333127
   }
 ]
