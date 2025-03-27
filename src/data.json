@@ -15387,5 +15387,19 @@
     "unspecified": 765.1327479831319,
     "occupiedInRussia": 88.77452686028279,
     "occupiedInRussiaUnspecified": 73.96161763333127
+  },
+  {
+    "id": 1743025600,
+    "description": "Сили Оборони України відкинули противника у <a href=\"https://deepstatemap.live/#15/48.2487653/37.0520841\">Котлиному</a>, ворог просунувся біля <a href=\"https://deepstatemap.live/#14/49.1536100/37.8982361\">Катеринівки</a>, у <a href=\"https://deepstatemap.live/#14/49.0945249/37.9595252\">Тернах</a>, <a href=\"https://deepstatemap.live/#14/47.9187250/36.8178816\">Дніпроенергії</a> та <a href=\"https://deepstatemap.live/#15/48.2325478/37.1070316\">Піщаному</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces pushed back the enemy in <a href=\"https://deepstatemap.live/en#15/48.2487653/37.0520841\">Kotlyne</a>, the enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.1536100/37.8982361\">Katerynivka</a>, in <a href=\"https://deepstatemap.live/en#14/49.0945249/37.9595252\">Terny</a>, <a href=\"https://deepstatemap.live/en#14/47.9187250/36.8178816\">Dniproenergia</a> and <a href=\"https://deepstatemap.live/en#15/48.2325478/37.1070316\">Pishchane</a>.",
+    "updatedAt": "2025-03-26T22:35:10.663Z",
+    "datetime": "26.03 o 22:46",
+    "status": true,
+    "createdAt": "2025-03-26T21:46:40.000Z",
+    "liberated": 42257.11890098223,
+    "occupied": 68487.88388507943,
+    "unspecified": 761.0451507943194,
+    "occupiedInRussia": 88.77452686028279,
+    "occupiedInRussiaUnspecified": 73.96161763333127
   }
 ]
