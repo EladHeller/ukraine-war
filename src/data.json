@@ -15401,5 +15401,19 @@
     "unspecified": 761.0451507943194,
     "occupiedInRussia": 88.77452686028279,
     "occupiedInRussiaUnspecified": 73.96161763333127
+  },
+  {
+    "id": 1743110880,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/49.1681768/37.8783291\">Катеринівки</a>, <a href=\"https://deepstatemap.live/#14/48.3007742/37.7796461\">Пантелеймонівки</a> та <a href=\"https://deepstatemap.live/#14/49.7065788/37.8643403\">Орлянського</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.1681768/37.8783291\">Katerynivka</a>, <a href=\"https://deepstatemap.live/en#14/48.3007742/37.7796461\">Panteleymonivka</a> and <a href=\"https://deepstatemap.live/en#14/49.7065788/37.8643403\">Orlianske</a>.",
+    "updatedAt": "2025-03-27T22:33:05.075Z",
+    "datetime": "27.03 o 22:28",
+    "status": true,
+    "createdAt": "2025-03-27T21:28:00.000Z",
+    "liberated": 42246.6018413404,
+    "occupied": 68495.23316398222,
+    "unspecified": 765.4464913373864,
+    "occupiedInRussia": 88.77452686028279,
+    "occupiedInRussiaUnspecified": 73.96161763333127
   }
 ]
