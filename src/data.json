@@ -15415,5 +15415,19 @@
     "unspecified": 765.4464913373864,
     "occupiedInRussia": 88.77452686028279,
     "occupiedInRussiaUnspecified": 73.96161763333127
+  },
+  {
+    "id": 1743198777,
+    "description": "Ворог просунувся на <a href=\"https://deepstatemap.live/#12/51.1015097/35.2523557\">Курщині</a>, в <a href=\"https://deepstatemap.live/#14/48.1409859/37.0072358\">Надіївці</a> та <a href=\"https://deepstatemap.live/#15/47.9722952/37.0013293\">Розливі</a>.</p>",
+    "descriptionEn": "The enemy advanced in the <a href=\"https://deepstatemap.live/en#12/51.1015097/35.2523557\">Kursk region</a>, in <a href=\"https://deepstatemap.live/en#14/48.1409859/37.0072358\">Nadiyivka</a> and <a href=\"https://deepstatemap.live/en#15/47.9722952/37.0013293\">Rozlyv</a>.</p>",
+    "updatedAt": "2025-03-29T08:35:02.275Z",
+    "datetime": "28.03 o 22:52",
+    "status": true,
+    "createdAt": "2025-03-28T21:52:57.000Z",
+    "liberated": 42246.6018413404,
+    "occupied": 68495.58861185839,
+    "unspecified": 765.8231984040362,
+    "occupiedInRussia": 80.71892943976454,
+    "occupiedInRussiaUnspecified": 70.11169470054521
   }
 ]
