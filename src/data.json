@@ -15429,5 +15429,33 @@
     "unspecified": 765.8231984040362,
     "occupiedInRussia": 80.71892943976454,
     "occupiedInRussiaUnspecified": 70.11169470054521
+  },
+  {
+    "id": 1743284489,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.1218851/36.9978806\">Преображенки</a>, <a href=\"https://deepstatemap.live/#13/48.2824521/37.7889370\">Олександрополя</a> та <a href=\"https://deepstatemap.live/#13/49.1519872/37.8854181\">Нового</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.1218851/36.9978806\">Preobrazhenka</a>, <a href=\"https://deepstatemap.live/en#13/48.2824521/37.7889370\">Oleksandropol</a> and <a href=\"https://deepstatemap.live/en#13/49.1519872/37.8854181\">Nove</a>.",
+    "updatedAt": "2025-03-30T10:16:10.390Z",
+    "datetime": "29.03 o 22:41",
+    "status": true,
+    "createdAt": "2025-03-29T21:41:29.000Z",
+    "liberated": 42242.565955799975,
+    "occupied": 68503.14482632834,
+    "unspecified": 763.8597709401024,
+    "occupiedInRussia": 80.71892943976454,
+    "occupiedInRussiaUnspecified": 70.11169470054521
+  },
+  {
+    "id": 1743364685,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#15/47.9738472/37.0004734\">Розливі</a>, біля <a href=\"https://deepstatemap.live/#14/48.3030962/37.7668336\">Пантелеймонівки</a> та <a href=\"https://deepstatemap.live/#14/49.1521538/37.8736921\">Нового</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/47.9738472/37.0004734\">Rozlyv</a>, near <a href=\"https://deepstatemap.live/en#14/48.3030962/37.7668336\">Panteleymonivka</a> and <a href=\"https://deepstatemap.live/en#14/49.1521538/37.8736921\">Nove</a>.",
+    "updatedAt": "2025-03-30T21:06:12.823Z",
+    "datetime": "30.03 o 21:58",
+    "status": true,
+    "createdAt": "2025-03-30T19:58:05.000Z",
+    "liberated": 42240.471045143706,
+    "occupied": 68507.32864921956,
+    "unspecified": 763.0957933430757,
+    "occupiedInRussia": 80.71892943976454,
+    "occupiedInRussiaUnspecified": 70.11169470054521
   }
 ]
