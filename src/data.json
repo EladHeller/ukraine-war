@@ -15457,5 +15457,33 @@
     "unspecified": 763.0957933430757,
     "occupiedInRussia": 80.71892943976454,
     "occupiedInRussiaUnspecified": 70.11169470054521
+  },
+  {
+    "id": 1743452227,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/49.7797507/37.6149146\">Кіндрашівки</a>, <a href=\"https://deepstatemap.live/#15/48.2967128/37.7653553\">Пантелеймонівки</a> та в <a href=\"https://deepstatemap.live/#15/47.9723548/37.0000012\">Розливі</a>.",
+    "descriptionEn": "Enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.7797507/37.6149146\">Kindrashivka</a>, <a href=\"https://deepstatemap.live/en#15/48.2967128/37.7653553\">Panteleymonivka</a> and <a href=\"https://deepstatemap.live/en#15/47.9723548/37.0000012\">Rozlyv</a>.",
+    "updatedAt": "2025-04-01T07:51:50.897Z",
+    "datetime": "31.03 o 22:17",
+    "status": true,
+    "createdAt": "2025-03-31T20:17:07.000Z",
+    "liberated": 42238.205150867034,
+    "occupied": 68510.50790405534,
+    "unspecified": 766.4185577571112,
+    "occupiedInRussia": 80.71892943976454,
+    "occupiedInRussiaUnspecified": 70.11169470054521
+  },
+  {
+    "id": 1743539135,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.0966691/37.0213895\">Срібного</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.0966691/37.0213895\">Sribne</a>.",
+    "updatedAt": "2025-04-01T20:39:10.534Z",
+    "datetime": "01.04 o 22:25",
+    "status": true,
+    "createdAt": "2025-04-01T20:25:35.000Z",
+    "liberated": 42238.205150867034,
+    "occupied": 68512.63462527162,
+    "unspecified": 764.3924658029351,
+    "occupiedInRussia": 80.71892943976454,
+    "occupiedInRussiaUnspecified": 70.11169470054521
   }
 ]
