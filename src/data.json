@@ -15513,5 +15513,33 @@
     "unspecified": 768.4638199042062,
     "occupiedInRussia": 74.5232059173929,
     "occupiedInRussiaUnspecified": 90.65381620987745
+  },
+  {
+    "id": 1743799196,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#15/48.4004419/37.8512240\">Торецьку</a> та <a href=\"https://deepstatemap.live/#15/47.5479583/35.5483397\">Малих Щербаках</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.4004419/37.8512240\">Toretsk</a> and <a href=\"https://deepstatemap.live/en#15/47.5479583/35.5483397\">Mali Shcherbaky</a>.",
+    "updatedAt": "2025-04-05T11:08:19.008Z",
+    "datetime": "04.04 o 22:39",
+    "status": true,
+    "createdAt": "2025-04-04T20:39:56.000Z",
+    "liberated": 42218.06942673326,
+    "occupied": 68519.20308636106,
+    "unspecified": 779.9714008118589,
+    "occupiedInRussia": 74.5232059173929,
+    "occupiedInRussiaUnspecified": 90.65381620987745
+  },
+  {
+    "id": 1743880948,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/49.9774425/37.8501779\">Кам'янки</a>, <a href=\"https://deepstatemap.live/#13/49.1669456/37.9353671\">Новолюбівки</a> та в <a href=\"https://deepstatemap.live/#15/48.3831753/37.8393384\">Торецьку</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.9774425/37.8501779\">Kamianka</a>, <a href=\"https://deepstatemap.live/en#13/49.1669456/37.9353671\">Novolyubivka</a> and <a href=\"https://deepstatemap.live/en#15/48.3831753/37.8393384\">Toretsk</a>.",
+    "updatedAt": "2025-04-05T21:08:04.518Z",
+    "datetime": "05.04 o 21:22",
+    "status": true,
+    "createdAt": "2025-04-05T19:22:28.000Z",
+    "liberated": 42215.94245497039,
+    "occupied": 68526.8669633363,
+    "unspecified": 774.5182217295556,
+    "occupiedInRussia": 74.5232059173929,
+    "occupiedInRussiaUnspecified": 90.65381620987745
   }
 ]
