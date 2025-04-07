@@ -15541,5 +15541,19 @@
     "unspecified": 774.5182217295556,
     "occupiedInRussia": 74.5232059173929,
     "occupiedInRussiaUnspecified": 90.65381620987745
+  },
+  {
+    "id": 1743967548,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#12/49.8192703/37.6149591\">Западного</a>, в <a href=\"https://deepstatemap.live/#14/48.2212167/37.2677296\">Лисівці</a> та <a href=\"https://deepstatemap.live/#14/47.9728240/37.0006222\">Розливі</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#12/49.8192703/37.6149591\">Zapadne</a>, in <a href=\"https://deepstatemap.live/en#14/48.2212167/37.2677296\">Lysivka</a> and <a href=\"https://deepstatemap.live/en#14/47.9728240/37.0006222\">Rozlyv</a>.",
+    "updatedAt": "2025-04-06T20:30:04.706Z",
+    "datetime": "06.04 o 21:25",
+    "status": true,
+    "createdAt": "2025-04-06T19:25:48.000Z",
+    "liberated": 42215.20225948834,
+    "occupied": 68532.40494488087,
+    "unspecified": 772.8194620420988,
+    "occupiedInRussia": 74.5232059173929,
+    "occupiedInRussiaUnspecified": 90.65381620987745
   }
 ]
