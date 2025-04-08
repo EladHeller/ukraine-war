@@ -15555,5 +15555,19 @@
     "unspecified": 772.8194620420988,
     "occupiedInRussia": 74.5232059173929,
     "occupiedInRussiaUnspecified": 90.65381620987745
+  },
+  {
+    "id": 1744056166,
+    "description": "Сили Оборони України відкинули противника у <a href=\"https://deepstatemap.live/#14/48.2233327/37.1481607\">Шевченку</a>. Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/51.1003261/35.2547133\">Гуєво</a>, <a href=\"https://deepstatemap.live/#13/49.1586415/37.9163137\">Новолюбівки</a> та в <a href=\"https://deepstatemap.live/#15/48.5921167/37.8198132\">Часовому Яру</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces pushed back the enemy in <a href=\"https://deepstatemap.live/en#14/48.2233327/37.1481607\">Shevchenko</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#13/51.1003261/35.2547133\">Huyevo</a>, <a href=\"https://deepstatemap.live/en#13/49.1586415/37.9163137\">Novolyubivka</a> and <a href=\"https://deepstatemap.live/en#15/48.5921167/37.8198132\">Chasiv Yar</a>.",
+    "updatedAt": "2025-04-07T21:04:50.043Z",
+    "datetime": "07.04 o 22:02",
+    "status": true,
+    "createdAt": "2025-04-07T20:02:46.000Z",
+    "liberated": 42214.52795407018,
+    "occupied": 68536.87065913434,
+    "unspecified": 769.1743356002323,
+    "occupiedInRussia": 69.24405786266007,
+    "occupiedInRussiaUnspecified": 94.24957778821839
   }
 ]
