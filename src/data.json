@@ -15569,5 +15569,33 @@
     "unspecified": 769.1743356002323,
     "occupiedInRussia": 69.24405786266007,
     "occupiedInRussiaUnspecified": 94.24957778821839
+  },
+  {
+    "id": 1744140832,
+    "description": "Сили Оборони України відновили позиції біля <a href=\"https://deepstatemap.live/#14/48.2430505/37.0290514\">Котлиного</a>. Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/49.1748223/37.9065728\">Катеринівки</a>, <a href=\"https://deepstatemap.live/#13/48.2848444/37.6485239\">Калинового</a> та <a href=\"https://deepstatemap.live/#14/48.1337649/36.9934021\">Надіївки</a>.",
+    "descriptionEn": "Ukrainian Defense Forces regained positions near <a href=\"https://deepstatemap.live/en#14/48.2430505/37.0290514\">Kotlyne</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.1748223/37.9065728\">Katerynivka</a>, <a href=\"https://deepstatemap.live/en#13/48.2848444/37.6485239\">Kalynove</a> and <a href=\"https://deepstatemap.live/en#14/48.1337649/36.9934021\">Nadiivka</a>.",
+    "updatedAt": "2025-04-09T08:24:32.629Z",
+    "datetime": "08.04 o 21:33",
+    "status": true,
+    "createdAt": "2025-04-08T19:33:52.000Z",
+    "liberated": 42199.01559590289,
+    "occupied": 68553.35768155202,
+    "unspecified": 777.6650623997618,
+    "occupiedInRussia": 66.96921493740992,
+    "occupiedInRussiaUnspecified": 96.52442071343327
+  },
+  {
+    "id": 1744231064,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.4209063/37.9369343\">Дружби</a>, <a href=\"https://deepstatemap.live/#14/47.9740388/37.0301526\">Розлива</a>, <a href=\"https://deepstatemap.live/#13/47.9289389/36.9500276\">Роздольного</a> та в <a href=\"https://deepstatemap.live/#14/48.1418949/37.0058594\">Надіївці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.4209063/37.9369343\">Druzhba</a>, <a href=\"https://deepstatemap.live/en#14/47.9740388/37.0301526\">Rozlyv</a>, <a href=\"https://deepstatemap.live/en#13/47.9289389/36.9500276\">Rozdolne</a> and in <a href=\"https://deepstatemap.live/en#14/48.1418949/37.0058594\">Nadiivka</a>.",
+    "updatedAt": "2025-04-09T22:50:55.669Z",
+    "datetime": "09.04 o 22:37",
+    "status": true,
+    "createdAt": "2025-04-09T20:37:44.000Z",
+    "liberated": 42199.01559590289,
+    "occupied": 68560.76063766326,
+    "unspecified": 791.1624693490269,
+    "occupiedInRussia": 66.96921493740992,
+    "occupiedInRussiaUnspecified": 96.52442071343327
   }
 ]
