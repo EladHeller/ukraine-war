@@ -15597,5 +15597,19 @@
     "unspecified": 791.1624693490269,
     "occupiedInRussia": 66.96921493740992,
     "occupiedInRussiaUnspecified": 96.52442071343327
+  },
+  {
+    "id": 1744314501,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.2884771/37.7729138\">Олександропіль</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/48.2686057/37.7534341\">Новобахмутівки</a> та в <a href=\"https://deepstatemap.live/#15/48.1994642/37.0237750\">Успенівці</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.2884771/37.7729138\">Oleksandropil</a> and advanced near <a href=\"https://deepstatemap.live/en#14/48.2686057/37.7534341\">Novobakhmutivka</a> and <a href=\"https://deepstatemap.live/en#15/48.1994642/37.0237750\">Uspenivka</a>.",
+    "updatedAt": "2025-04-10T19:57:20.886Z",
+    "datetime": "10.04 o 21:48",
+    "status": true,
+    "createdAt": "2025-04-10T19:48:21.000Z",
+    "liberated": 42198.92572955509,
+    "occupied": 68575.84321240844,
+    "unspecified": 783.8858815506261,
+    "occupiedInRussia": 66.96921493740992,
+    "occupiedInRussiaUnspecified": 96.52442071343327
   }
 ]
