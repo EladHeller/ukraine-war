@@ -15611,5 +15611,19 @@
     "unspecified": 783.8858815506261,
     "occupiedInRussia": 66.96921493740992,
     "occupiedInRussiaUnspecified": 96.52442071343327
+  },
+  {
+    "id": 1744402900,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#14/48.2937841/37.6507892\">Калиновому</a>, біля <a href=\"https://deepstatemap.live/#13/48.3008377/37.5825960\">Новоолександрівки</a> та <a href=\"https://deepstatemap.live/#14/48.1374802/36.9765923\">Котлярівки</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.2937841/37.6507892\">Kalynove</a>, near <a href=\"https://deepstatemap.live/en#13/48.3008377/37.5825960\">Novooleksandrivka</a> and <a href=\"https://deepstatemap.live/en#14/48.1374802/36.9765923\">Kotlyarivka</a>.",
+    "updatedAt": "2025-04-11T21:21:44.756Z",
+    "datetime": "11.04 o 22:21",
+    "status": true,
+    "createdAt": "2025-04-11T20:21:40.000Z",
+    "liberated": 42198.92572955509,
+    "occupied": 68585.64634899997,
+    "unspecified": 788.6024236469931,
+    "occupiedInRussia": 66.96921493740992,
+    "occupiedInRussiaUnspecified": 96.52442071343327
   }
 ]
