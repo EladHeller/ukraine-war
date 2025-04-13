@@ -15625,5 +15625,19 @@
     "unspecified": 788.6024236469931,
     "occupiedInRussia": 66.96921493740992,
     "occupiedInRussiaUnspecified": 96.52442071343327
+  },
+  {
+    "id": 1744490169,
+    "description": "Ворог просунувся на <a href=\"https://deepstatemap.live/#12/51.1169578/35.2189145\">Курщині</a>, біля <a href=\"https://deepstatemap.live/#13/49.0728010/37.9772464\">Ямполівки </a>та <a href=\"https://deepstatemap.live/#13/48.2956985/37.7369234\">Валентинівки</a>.",
+    "descriptionEn": "The enemy advanced in the <a href=\"https://deepstatemap.live/en#12/51.1169578/35.2189145\">Kursk region</a>, near <a href=\"https://deepstatemap.live/en#13/49.0728010/37.9772464\">Yampolivka </a>and <a href=\"https://deepstatemap.live/en#13/48.2956985/37.7369234\">Valentynivka</a>.",
+    "updatedAt": "2025-04-12T20:41:15.969Z",
+    "datetime": "12.04 o 22:36",
+    "status": true,
+    "createdAt": "2025-04-12T20:36:09.000Z",
+    "liberated": 42194.7557708484,
+    "occupied": 68593.20612935579,
+    "unspecified": 839.2491258039336,
+    "occupiedInRussia": 48.23075349888506,
+    "occupiedInRussiaUnspecified": 45.77665472073015
   }
 ]
