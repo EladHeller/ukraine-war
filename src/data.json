@@ -15639,5 +15639,19 @@
     "unspecified": 839.2491258039336,
     "occupiedInRussia": 48.23075349888506,
     "occupiedInRussiaUnspecified": 45.77665472073015
+  },
+  {
+    "id": 1744575638,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/49.0728797/37.9598653\">Ямполівці</a>, <a href=\"https://deepstatemap.live/#14/48.3117194/37.7555909\">Валентинівці</a>, <a href=\"https://deepstatemap.live/#14/48.1172122/36.9826047\">Преображенці</a> та <a href=\"https://deepstatemap.live/#14/48.2418467/37.0164205\">Удачному</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/49.0728797/37.9598653\">Yampolivka</a>, <a href=\"https://deepstatemap.live/en#14/48.3117194/37.7555909\">Valentynivka</a>, <a href=\"https://deepstatemap.live/en#14/48.1172122/36.9826047\">Preobrazhenka</a> and <a href=\"https://deepstatemap.live/en#14/48.2418467/37.0164205\">Udachne</a>.",
+    "updatedAt": "2025-04-13T21:24:32.304Z",
+    "datetime": "13.04 o 22:20",
+    "status": true,
+    "createdAt": "2025-04-13T20:20:38.000Z",
+    "liberated": 42190.68941029361,
+    "occupied": 68599.20174592649,
+    "unspecified": 839.4512244069614,
+    "occupiedInRussia": 48.23075349888506,
+    "occupiedInRussiaUnspecified": 45.77665472073015
   }
 ]
