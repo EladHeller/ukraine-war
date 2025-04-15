@@ -15653,5 +15653,19 @@
     "unspecified": 839.4512244069614,
     "occupiedInRussia": 48.23075349888506,
     "occupiedInRussiaUnspecified": 45.77665472073015
+  },
+  {
+    "id": 1744661112,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/51.0988001/35.2756842\">Гуєво</a> та <a href=\"https://deepstatemap.live/#13/47.9357297/36.9144984\">Роздольного</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/51.0988001/35.2756842\">Huyevo</a> and <a href=\"https://deepstatemap.live/en#13/47.9357297/36.9144984\">Rozdolne</a>.",
+    "updatedAt": "2025-04-14T20:19:53.642Z",
+    "datetime": "14.04 o 22:05",
+    "status": true,
+    "createdAt": "2025-04-14T20:05:12.000Z",
+    "liberated": 42190.68941029361,
+    "occupied": 68607.72038025549,
+    "unspecified": 834.2040018518168,
+    "occupiedInRussia": 42.39176858274802,
+    "occupiedInRussiaUnspecified": 40.876308941674026
   }
 ]
