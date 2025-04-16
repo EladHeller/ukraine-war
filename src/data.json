@@ -15667,5 +15667,19 @@
     "unspecified": 834.2040018518168,
     "occupiedInRussia": 42.39176858274802,
     "occupiedInRussiaUnspecified": 40.876308941674026
+  },
+  {
+    "id": 1744748582,
+    "description": "Сили Оборони відновили позиції біля <a href=\"https://deepstatemap.live/#14/48.2229284/37.1703078\">Відродження</a> та в <a href=\"https://deepstatemap.live/#15/47.9213019/36.8035813\">Дніпроенергії</a>. Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.1408603/36.9849152\">Надіївки</a> та <a href=\"https://deepstatemap.live/#14/48.3221613/37.7396244\">Сухої Балки</a>.",
+    "descriptionEn": "The Defense Forces regained their positions near <a href=\"https://deepstatemap.live/en#14/48.2229284/37.1703078\">Vidrodzhennia</a> and in <a href=\"https://deepstatemap.live/en#15/47.9213019/36.8035813\">Dniproenergia</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.1408603/36.9849152\">Nadiyivka</a> and <a href=\"https://deepstatemap.live/en#14/48.3221613/37.7396244\">Sukhа Balka</a>.",
+    "updatedAt": "2025-04-15T20:33:44.592Z",
+    "datetime": "15.04 o 22:23",
+    "status": true,
+    "createdAt": "2025-04-15T20:23:02.000Z",
+    "liberated": 42191.34068406171,
+    "occupied": 68608.8929519732,
+    "unspecified": 833.1932384553309,
+    "occupiedInRussia": 42.39176858274802,
+    "occupiedInRussiaUnspecified": 40.876308941674026
   }
 ]
