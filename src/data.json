@@ -15681,5 +15681,19 @@
     "unspecified": 833.1932384553309,
     "occupiedInRussia": 42.39176858274802,
     "occupiedInRussiaUnspecified": 40.876308941674026
+  },
+  {
+    "id": 1744834181,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.1351224/36.9558119\">Котлярівки</a> та <a href=\"https://deepstatemap.live/#14/48.0962197/36.9962428\">Запоріжжя</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.1351224/36.9558119\">Kotliarivka</a> and <a href=\"https://deepstatemap.live/en#14/48.0962197/36.9962428\">Zaporizhzhia</a>.",
+    "updatedAt": "2025-04-16T21:48:02.554Z",
+    "datetime": "16.04 o 22:09",
+    "status": true,
+    "createdAt": "2025-04-16T20:09:41.000Z",
+    "liberated": 42188.53809495401,
+    "occupied": 68611.85780509358,
+    "unspecified": 833.7842083584169,
+    "occupiedInRussia": 42.39176858274802,
+    "occupiedInRussiaUnspecified": 40.876308941674026
   }
 ]
