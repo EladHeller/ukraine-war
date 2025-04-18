@@ -15695,5 +15695,19 @@
     "unspecified": 833.7842083584169,
     "occupiedInRussia": 42.39176858274802,
     "occupiedInRussiaUnspecified": 40.876308941674026
+  },
+  {
+    "id": 1744921490,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/47.9635184/37.0239701\">Розливу</a> та у <a href=\"https://deepstatemap.live/#14/47.9998294/37.0459404\">Костянтинополі</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.9635184/37.0239701\">Rozlyv</a> and in <a href=\"https://deepstatemap.live/en#14/47.9998294/37.0459404\">Kostiantynopil</a>.",
+    "updatedAt": "2025-04-17T21:15:39.901Z",
+    "datetime": "17.04 o 22:24",
+    "status": true,
+    "createdAt": "2025-04-17T20:24:50.000Z",
+    "liberated": 42186.076432025555,
+    "occupied": 68619.89653344454,
+    "unspecified": 839.9569930259584,
+    "occupiedInRussia": 42.31193392301669,
+    "occupiedInRussiaUnspecified": 40.876308941674026
   }
 ]
