@@ -15709,5 +15709,19 @@
     "unspecified": 839.9569930259584,
     "occupiedInRussia": 42.31193392301669,
     "occupiedInRussiaUnspecified": 40.876308941674026
+  },
+  {
+    "id": 1745005290,
+    "description": "Сили Оборони України відкинули противника в <a href=\"https://deepstatemap.live/#15/48.2431805/37.0115445\">Удачному</a>. Ворог просунувся в <a href=\"https://deepstatemap.live/#14/48.3223868/37.7566158\">Сухій Балці</a> та біля <a href=\"https://deepstatemap.live/#14/49.1692623/37.8582471\">Нового</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces drove back the enemy in <a href=\"https://deepstatemap.live/en#15/48.2431805/37.0115445\">Udachne</a>. The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.3223868/37.7566158\">Sukha Balka</a> and near <a href=\"https://deepstatemap.live/en#14/49.1692623/37.8582471\">Nove</a>.",
+    "updatedAt": "2025-04-18T19:49:08.868Z",
+    "datetime": "18.04 o 21:41",
+    "status": true,
+    "createdAt": "2025-04-18T19:41:30.000Z",
+    "liberated": 42183.69006829156,
+    "occupied": 68625.12544341953,
+    "unspecified": 838.846566100767,
+    "occupiedInRussia": 42.31193392301669,
+    "occupiedInRussiaUnspecified": 40.876308941674026
   }
 ]
