@@ -15737,5 +15737,19 @@
     "unspecified": 833.7811997934587,
     "occupiedInRussia": 42.31193392301669,
     "occupiedInRussiaUnspecified": 40.876308941674026
+  },
+  {
+    "id": 1745161527,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/49.1824345/37.8631243\">Катеринівку</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/49.1623169/37.8475163\">Нового</a>, <a href=\"https://deepstatemap.live/#14/48.1221312/36.9712703\">Преорбаженки</a> та в <a href=\"https://deepstatemap.live/#14/48.3263823/37.7714555\">Сухій Балці</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/49.1824345/37.8631243\">Katerynivka</a> and advanced near <a href=\"https://deepstatemap.live/en#14/49.1623169/37.8475163\">Nove</a>, <a href=\"https://deepstatemap.live/en#14/48.1221312/36.9712703\">Preorbazhenka</a> and in <a href=\"https://deepstatemap.live/en#14/48.3263823/37.7714555\">Sukha Balka</a>.",
+    "updatedAt": "2025-04-20T15:54:24.094Z",
+    "datetime": "20.04 o 17:05",
+    "status": true,
+    "createdAt": "2025-04-20T15:05:27.000Z",
+    "liberated": 42171.86206372711,
+    "occupied": 68647.40271002463,
+    "unspecified": 836.0760958519234,
+    "occupiedInRussia": 42.31193392301669,
+    "occupiedInRussiaUnspecified": 40.876308941674026
   }
 ]
