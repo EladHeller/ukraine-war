@@ -15751,5 +15751,19 @@
     "unspecified": 836.0760958519234,
     "occupiedInRussia": 42.31193392301669,
     "occupiedInRussiaUnspecified": 40.876308941674026
+  },
+  {
+    "id": 1745248307,
+    "description": "Сили Оборони України відкинули противника південніше <a href=\"https://deepstatemap.live/#14/48.2223015/37.0058577\">Удачного</a>. Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/47.5233705/35.3953345\">Кам'янського</a> та в <a href=\"https://deepstatemap.live/#14/47.9207962/36.8069021\">Дніпроенергії</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces pushed the enemy back south of <a href=\"https://deepstatemap.live/en#14/48.2223015/37.0058577\">Udachne</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.5233705/35.3953345\">Kamianske</a> and in <a href=\"https://deepstatemap.live/en#14/47.9207962/36.8069021\">Dniproenergia</a>.",
+    "updatedAt": "2025-04-21T15:16:42.163Z",
+    "datetime": "21.04 o 17:11",
+    "status": true,
+    "createdAt": "2025-04-21T15:11:47.000Z",
+    "liberated": 42171.032328002526,
+    "occupied": 68647.12927689115,
+    "unspecified": 838.1271240616757,
+    "occupiedInRussia": 42.31193392301669,
+    "occupiedInRussiaUnspecified": 40.876308941674026
   }
 ]
