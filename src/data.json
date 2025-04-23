@@ -15765,5 +15765,19 @@
     "unspecified": 838.1271240616757,
     "occupiedInRussia": 42.31193392301669,
     "occupiedInRussiaUnspecified": 40.876308941674026
+  },
+  {
+    "id": 1745343683,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.3372766/37.7406346\">Сухої Балки</a> та <a href=\"https://deepstatemap.live/#13/48.0744649/37.0782534\">Ясенового</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.3372766/37.7406346\">Sukhoi Balka</a> and <a href=\"https://deepstatemap.live/en#13/48.0744649/37.0782534\">Yasenove</a>.",
+    "updatedAt": "2025-04-22T17:46:27.833Z",
+    "datetime": "22.04 o 19:41",
+    "status": true,
+    "createdAt": "2025-04-22T17:41:23.000Z",
+    "liberated": 42170.055408400935,
+    "occupied": 68658.42053019194,
+    "unspecified": 832.519804258482,
+    "occupiedInRussia": 42.31193392301669,
+    "occupiedInRussiaUnspecified": 40.876308941674026
   }
 ]
