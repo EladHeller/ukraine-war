@@ -15793,5 +15793,19 @@
     "unspecified": 835.5392265154619,
     "occupiedInRussia": 42.31193392301669,
     "occupiedInRussiaUnspecified": 40.876308941674026
+  },
+  {
+    "id": 1745514968,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.3028122/37.6617638\">Калинове</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/48.3406503/37.5224742\">Березівки</a> та <a href=\"https://deepstatemap.live/#14/48.3371142/37.5670113\">Тарасівки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.3028122/37.6617638\">Kalynove</a> and advanced near <a href=\"https://deepstatemap.live/en#14/48.3406503/37.5224742\">Berezivka</a> and <a href=\"https://deepstatemap.live/en#14/48.3371142/37.5670113\">Tarasivka</a>.",
+    "updatedAt": "2025-04-24T18:04:24.690Z",
+    "datetime": "24.04 o 19:16",
+    "status": true,
+    "createdAt": "2025-04-24T17:16:08.000Z",
+    "liberated": 42170.05540840116,
+    "occupied": 68668.98357759179,
+    "unspecified": 834.64223655308,
+    "occupiedInRussia": 42.31193392301669,
+    "occupiedInRussiaUnspecified": 40.876308941674026
   }
 ]
