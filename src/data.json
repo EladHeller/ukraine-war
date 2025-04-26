@@ -15807,5 +15807,19 @@
     "unspecified": 834.64223655308,
     "occupiedInRussia": 42.31193392301669,
     "occupiedInRussiaUnspecified": 40.876308941674026
+  },
+  {
+    "id": 1745601765,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.0384090/37.0667122\">Андріївки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.0384090/37.0667122\">Andriivka</a>.",
+    "updatedAt": "2025-04-25T17:24:02.892Z",
+    "datetime": "25.04 o 19:22",
+    "status": true,
+    "createdAt": "2025-04-25T17:22:45.000Z",
+    "liberated": 42170.05540840116,
+    "occupied": 68674.18870574237,
+    "unspecified": 833.5143301973565,
+    "occupiedInRussia": 42.31193392301669,
+    "occupiedInRussiaUnspecified": 40.876308941674026
   }
 ]
