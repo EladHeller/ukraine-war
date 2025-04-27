@@ -15821,5 +15821,19 @@
     "unspecified": 833.5143301973565,
     "occupiedInRussia": 42.31193392301669,
     "occupiedInRussiaUnspecified": 40.876308941674026
+  },
+  {
+    "id": 1745677037,
+    "description": "Ворог просунувся на <a href=\"https://deepstatemap.live/#12/51.1109406/35.2062160\">Курщині</a>.",
+    "descriptionEn": "The enemy advanced in the <a href=\"https://deepstatemap.live/en#12/51.1109406/35.2062160\">Kursk region</a>.",
+    "updatedAt": "2025-04-26T14:28:57.351Z",
+    "datetime": "26.04 o 16:17",
+    "status": true,
+    "createdAt": "2025-04-26T14:17:17.000Z",
+    "liberated": 42170.05540840116,
+    "occupied": 68674.18870574237,
+    "unspecified": 833.5922825468208,
+    "occupiedInRussia": 29.021062133156708,
+    "occupiedInRussiaUnspecified": 30.562436397473455
   }
 ]
