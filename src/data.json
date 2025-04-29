@@ -15849,5 +15849,19 @@
     "unspecified": 833.5609595031906,
     "occupiedInRussia": 29.021062133156708,
     "occupiedInRussiaUnspecified": 30.562436397473455
+  },
+  {
+    "id": 1745859848,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/50.9423389/35.3918109\">Демидівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/50.9423389/35.3918109\">Demydivka</a>.",
+    "updatedAt": "2025-04-28T17:10:44.092Z",
+    "datetime": "28.04 o 19:04",
+    "status": true,
+    "createdAt": "2025-04-28T17:04:08.000Z",
+    "liberated": 42170.05544105582,
+    "occupied": 68676.08944507796,
+    "unspecified": 829.9858033817261,
+    "occupiedInRussia": 29.021112825310524,
+    "occupiedInRussiaUnspecified": 30.562507257350163
   }
 ]
