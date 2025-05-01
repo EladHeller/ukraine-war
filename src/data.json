@@ -15891,5 +15891,19 @@
     "unspecified": 864.9969112042671,
     "occupiedInRussia": 29.021062133156708,
     "occupiedInRussiaUnspecified": 30.562436397473455
+  },
+  {
+    "id": 1746051545,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.3484074/37.5144062\">Березівці</a>, <a href=\"https://deepstatemap.live/#13/49.1660527/37.8388990\">Новому</a> та біля <a href=\"https://deepstatemap.live/#13/49.1958905/37.9300328\">Новомихайлівки</a>. Уточнюється лінія зіткнення біля <a href=\"https://deepstatemap.live/#14/47.9942613/37.0246530\">Костянтинополя</a>. ",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.3484074/37.5144062\">Berezivka</a>, <a href=\"https://deepstatemap.live/en#13/49.1660527/37.8388990\">Nove</a> and near <a href=\"https://deepstatemap.live/en#13/49.1958905/37.9300328\">Novomykhailivka</a>. The front line near <a href=\"https://deepstatemap.live/en#14/47.9942613/37.0246530\">Kostyantynopil</a> is being clarified. ",
+    "updatedAt": "2025-04-30T22:50:27.350Z",
+    "datetime": "01.05 o 00:19",
+    "status": true,
+    "createdAt": "2025-04-30T22:19:05.000Z",
+    "liberated": 42155.729466064266,
+    "occupied": 68697.03916219439,
+    "unspecified": 879.5649778015168,
+    "occupiedInRussia": 29.021062133156708,
+    "occupiedInRussiaUnspecified": 30.562436397473455
   }
 ]
