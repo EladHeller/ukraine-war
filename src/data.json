@@ -15905,5 +15905,19 @@
     "unspecified": 879.5649778015168,
     "occupiedInRussia": 29.021062133156708,
     "occupiedInRussiaUnspecified": 30.562436397473455
+  },
+  {
+    "id": 1746143979,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.3547324/37.5532000\">Тарасівку</a> та просунувся біля <a href=\"https://deepstatemap.live/#13/48.3409057/37.7540857\">Сухої Балки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.3547324/37.5532000\">Tarasivka</a> and advanced near <a href=\"https://deepstatemap.live/en#13/48.3409057/37.7540857\">Sukha Balka</a>.",
+    "updatedAt": "2025-05-02T05:48:37.252Z",
+    "datetime": "02.05 o 01:59",
+    "status": true,
+    "createdAt": "2025-05-01T23:59:39.000Z",
+    "liberated": 42154.54312932892,
+    "occupied": 68704.84481041171,
+    "unspecified": 877.9683101269475,
+    "occupiedInRussia": 29.021062133156708,
+    "occupiedInRussiaUnspecified": 30.562436397473455
   }
 ]
