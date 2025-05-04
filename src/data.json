@@ -15919,5 +15919,19 @@
     "unspecified": 877.9683101269475,
     "occupiedInRussia": 29.021062133156708,
     "occupiedInRussiaUnspecified": 30.562436397473455
+  },
+  {
+    "id": 1746223240,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.1536332/36.9669766\">Надіївки</a>, <a href=\"https://deepstatemap.live/#14/48.0561662/37.0493084\">Андріївки</a>, <a href=\"https://deepstatemap.live/#13/48.3560724/37.5623429\">Тарасівки</a>, <a href=\"https://deepstatemap.live/#14/48.1051748/36.9801957\">Богданівки</a> та <a href=\"https://deepstatemap.live/#14/48.2209875/37.1485962\">Шевченка</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.1536332/36.9669766\">Nadiyivka</a>, <a href=\"https://deepstatemap.live/en#14/48.0561662/37.0493084\">Andriivka</a>, <a href=\"https://deepstatemap.live/en#13/48.3560724/37.5623429\">Tarasivka</a>, <a href=\"https://deepstatemap.live/en#14/48.1051748/36.9801957\">Bohdanivka</a> and <a href=\"https://deepstatemap.live/en#14/48.2209875/37.1485962\">Shevchenko</a>.",
+    "updatedAt": "2025-05-03T07:30:05.396Z",
+    "datetime": "03.05 o 00:00",
+    "status": true,
+    "createdAt": "2025-05-02T22:00:40.000Z",
+    "liberated": 42154.54312932892,
+    "occupied": 68715.96786669888,
+    "unspecified": 885.4763202245076,
+    "occupiedInRussia": 29.021062133156708,
+    "occupiedInRussiaUnspecified": 30.562436397473455
   }
 ]
