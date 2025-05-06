@@ -15947,5 +15947,19 @@
     "unspecified": 886.0716585495645,
     "occupiedInRussia": 29.021062133156708,
     "occupiedInRussiaUnspecified": 30.562436397473455
+  },
+  {
+    "id": 1746438894,
+    "description": "Сили Оборони України відновили положення у <a href=\"https://deepstatemap.live/#14/48.2248948/37.2669184\">Лисівці</a>. Ворог просунувся на <a href=\"https://deepstatemap.live/#14/50.9455337/35.3565363\">Білгородщині</a>, біля <a href=\"https://deepstatemap.live/#14/48.1943152/37.0116947\">Новоолександрівки</a>, <a href=\"https://deepstatemap.live/#14/48.1367944/36.9353911\">Котлярівки</a>, <a href=\"https://deepstatemap.live/#14/47.8202275/36.6898044\">Новосілки</a> та <a href=\"https://deepstatemap.live/#14/47.7927264/36.6552413\">Новодарівки</a>.",
+    "descriptionEn": "Ukrainian Defense Forces regained the position in <a href=\"https://deepstatemap.live/#14/48.2248948/37.2669184\">Lysivka</a>. The enemy advanced in the <a href=\"https://deepstatemap.live/#14/50.9455337/35.3565363\">Bilgorod region</a>, near <a href=\"https://deepstatemap.live/#14/48.1943152/37.0116947\">Novooleksandrivka</a>, <a href=\"https://deepstatemap.live/#14/48.1367944/36.9353911\">Kotlyarivka</a>, <a href=\"https://deepstatemap.live/#14/47.8202275/36.6898044\">Novosilka</a> and <a href=\"https://deepstatemap.live/#14/47.7927264/36.6552413\">Novodarivka</a>.",
+    "updatedAt": "2025-05-05T10:16:34.556Z",
+    "datetime": "05.05 o 11:54",
+    "status": true,
+    "createdAt": "2025-05-05T09:54:54.000Z",
+    "liberated": 42141.110900990876,
+    "occupied": 68741.2216289035,
+    "unspecified": 893.3481158688526,
+    "occupiedInRussia": 29.021062133156708,
+    "occupiedInRussiaUnspecified": 30.562436397473455
   }
 ]
