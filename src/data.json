@@ -15961,5 +15961,19 @@
     "unspecified": 893.3481158688526,
     "occupiedInRussia": 29.021062133156708,
     "occupiedInRussiaUnspecified": 30.562436397473455
+  },
+  {
+    "id": 1746529624,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/49.9737610/37.8270765\">Кам'янки</a> та <a href=\"https://deepstatemap.live/#13/48.9008896/38.2338830\">Білогорівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.9737610/37.8270765\">Kamianka</a> and <a href=\"https://deepstatemap.live/en#13/48.9008896/38.2338830\">Bilohorivka</a>.",
+    "updatedAt": "2025-05-06T12:48:09.850Z",
+    "datetime": "06.05 o 13:07",
+    "status": true,
+    "createdAt": "2025-05-06T11:07:04.000Z",
+    "liberated": 42138.92147164877,
+    "occupied": 68746.47823477052,
+    "unspecified": 893.2915961449454,
+    "occupiedInRussia": 29.021062133156708,
+    "occupiedInRussiaUnspecified": 30.562436397473455
   }
 ]
