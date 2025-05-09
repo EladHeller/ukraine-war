@@ -15989,5 +15989,19 @@
     "unspecified": 897.2847050477532,
     "occupiedInRussia": 29.021062133156708,
     "occupiedInRussiaUnspecified": 30.562436397473455
+  },
+  {
+    "id": 1746665538,
+    "description": "Сили Оборони України відновили позиції біля <a href=\"https://deepstatemap.live/#13/50.2414386/36.4532437\">Липців</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces regained positions near <a href=\"https://deepstatemap.live/en#13/50.2414386/36.4532437\">Lyptsi</a>.",
+    "updatedAt": "2025-05-08T01:10:39.301Z",
+    "datetime": "08.05 o 02:52",
+    "status": true,
+    "createdAt": "2025-05-08T00:52:18.000Z",
+    "liberated": 42142.8265305167,
+    "occupied": 68754.3144370285,
+    "unspecified": 897.0024197793448,
+    "occupiedInRussia": 29.021062133156708,
+    "occupiedInRussiaUnspecified": 30.562436397473455
   }
 ]
