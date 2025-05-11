@@ -16017,5 +16017,19 @@
     "unspecified": 896.7482191168477,
     "occupiedInRussia": 29.021062133156708,
     "occupiedInRussiaUnspecified": 30.562436397473455
+  },
+  {
+    "id": 1746907425,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/49.2120142/37.9521354\">Макіївки</a>, <a href=\"https://deepstatemap.live/#14/48.3739402/37.5911986\">Олександрополя</a> та <a href=\"https://deepstatemap.live/#14/47.9782324/36.9732416\">Розлива</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.2120142/37.9521354\">Makiivka</a>, <a href=\"https://deepstatemap.live/en#14/48.3739402/37.5911986\">Oleksandropol</a> and <a href=\"https://deepstatemap.live/en#14/47.9782324/36.9732416\">Rozlyv</a>.",
+    "updatedAt": "2025-05-10T20:47:51.739Z",
+    "datetime": "10.05 o 22:03",
+    "status": true,
+    "createdAt": "2025-05-10T20:03:45.000Z",
+    "liberated": 42139.37613260807,
+    "occupied": 68767.44172106795,
+    "unspecified": 898.3952334259776,
+    "occupiedInRussia": 29.021062133156708,
+    "occupiedInRussiaUnspecified": 30.562436397473455
   }
 ]
