@@ -16073,5 +16073,19 @@
     "unspecified": 935.5047606247405,
     "occupiedInRussia": 29.021062133156708,
     "occupiedInRussiaUnspecified": 30.562436397473455
+  },
+  {
+    "id": 1747254126,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/49.1646190/37.8322390\">Нове</a>, а також просунувся у <a href=\"https://deepstatemap.live/#14/48.5897478/37.8315493\">Часовому Яру</a>, <a href=\"https://deepstatemap.live/#14/48.3361985/37.4257463\">Малинівці</a> та біля <a href=\"http://deepstatemap.live/#13/48.3668005/37.5187363\">Нової Полтавки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/49.1646190/37.8322390\">Nove</a> and advanced in <a href=\"https://deepstatemap.live/en#14/48.5897478/37.8315493\">Chasіv Yar</a>, <a href=\"https://deepstatemap.live/en#14/48.3361985/37.4257463\">Malynivka</a> and near <a href=\"http://deepstatemap.live/en#13/48.3668005/37.5187363\">Nova Poltavka</a>.",
+    "updatedAt": "2025-05-15T04:02:08.768Z",
+    "datetime": "14.05 o 22:22",
+    "status": true,
+    "createdAt": "2025-05-14T20:22:06.000Z",
+    "liberated": 42135.20609434673,
+    "occupied": 68796.99174516686,
+    "unspecified": 931.0124030167103,
+    "occupiedInRussia": 29.021062133156708,
+    "occupiedInRussiaUnspecified": 30.562436397473455
   }
 ]
