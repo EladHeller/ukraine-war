@@ -16087,5 +16087,19 @@
     "unspecified": 931.0124030167103,
     "occupiedInRussia": 29.021062133156708,
     "occupiedInRussiaUnspecified": 30.562436397473455
+  },
+  {
+    "id": 1747338154,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/47.9652702/36.9644443\">Розливу</a> та в <a href=\"https://deepstatemap.live/#14/48.1904382/36.9969320\">Новоолександрівці</a>. Уточнено ситуацію в <a href=\"https://deepstatemap.live/#15/47.9863437/36.9476011\">Багатирі</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/47.9652702/36.9644443\">Rozlyv</a> and in <a href=\"https://deepstatemap.live/en#14/48.1904382/36.9969320\">Novooleksandrivka</a>. The situation in <a href=\"https://deepstatemap.live/en#15/47.9863437/36.9476011\">Bahatyr</a> has been clarified.",
+    "updatedAt": "2025-05-16T06:22:43.171Z",
+    "datetime": "15.05 o 21:42",
+    "status": true,
+    "createdAt": "2025-05-15T19:42:34.000Z",
+    "liberated": 42135.20609434673,
+    "occupied": 68806.45026259874,
+    "unspecified": 925.9513391673945,
+    "occupiedInRussia": 29.021062133156708,
+    "occupiedInRussiaUnspecified": 30.562436397473455
   }
 ]
