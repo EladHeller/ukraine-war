@@ -16101,5 +16101,19 @@
     "unspecified": 925.9513391673945,
     "occupiedInRussia": 29.021062133156708,
     "occupiedInRussiaUnspecified": 30.562436397473455
+  },
+  {
+    "id": 1747429162,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/48.2944198/37.3861808\">Миролюбівки</a>. Уточнено ситуацію біля <a href=\"https://deepstatemap.live/#14/47.9739787/36.9501543\">Багатиря</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/48.2944198/37.3861808\">Myrolyubivka</a>. The situation near <a href=\"https://deepstatemap.live/en#14/47.9739787/36.9501543\">Bahatyr</a> has been clarified.",
+    "updatedAt": "2025-05-17T12:25:56.386Z",
+    "datetime": "16.05 o 22:59",
+    "status": true,
+    "createdAt": "2025-05-16T20:59:22.000Z",
+    "liberated": 42135.20609434673,
+    "occupied": 68813.74650717658,
+    "unspecified": 926.0071577621513,
+    "occupiedInRussia": 29.021062133156708,
+    "occupiedInRussiaUnspecified": 30.562436397473455
   }
 ]
