@@ -16129,5 +16129,19 @@
     "unspecified": 920.4514092514386,
     "occupiedInRussia": 29.021062133156708,
     "occupiedInRussiaUnspecified": 30.562436397473455
+  },
+  {
+    "id": 1747600193,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.3676201/37.4909750\">Нової Полтавки</a>, <a href=\"https://deepstatemap.live/#14/48.3563960/37.4436389\">Малинівки</a> та <a href=\"https://deepstatemap.live/#15/48.3589165/37.7233778\">Романівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.3676201/37.4909750\">Nova Poltavka</a>, <a href=\"https://deepstatemap.live/en#14/48.3563960/37.4436389\">Malynivka</a> and <a href=\"https://deepstatemap.live/en#15/48.3589165/37.7233778\">Romanivka</a>.",
+    "updatedAt": "2025-05-19T13:22:57.027Z",
+    "datetime": "18.05 o 22:29",
+    "status": true,
+    "createdAt": "2025-05-18T20:29:53.000Z",
+    "liberated": 42122.61330626988,
+    "occupied": 68843.83732154257,
+    "unspecified": 938.243811689451,
+    "occupiedInRussia": 29.021062133156708,
+    "occupiedInRussiaUnspecified": 30.562436397473455
   }
 ]
