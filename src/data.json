@@ -16171,5 +16171,19 @@
     "unspecified": 965.5002837033945,
     "occupiedInRussia": 29.021062133156708,
     "occupiedInRussiaUnspecified": 30.562436397473455
+  },
+  {
+    "id": 1747859192,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.4036380/37.5603957\">Яблунівки</a> та <a href=\"https://deepstatemap.live/#13/48.1645404/36.9819596\">Надіївки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.4036380/37.5603957\">Yablunivka</a> and <a href=\"https://deepstatemap.live/en#13/48.1645404/36.9819596\">Nadiivka</a>.",
+    "updatedAt": "2025-05-22T15:38:53.585Z",
+    "datetime": "21.05 o 22:26",
+    "status": true,
+    "createdAt": "2025-05-21T20:26:32.000Z",
+    "liberated": 42119.28761171287,
+    "occupied": 68893.45591100024,
+    "unspecified": 957.6575827221849,
+    "occupiedInRussia": 29.021062133156708,
+    "occupiedInRussiaUnspecified": 30.562436397473455
   }
 ]
