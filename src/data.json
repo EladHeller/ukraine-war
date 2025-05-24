@@ -16185,5 +16185,19 @@
     "unspecified": 957.6575827221849,
     "occupiedInRussia": 29.021062133156708,
     "occupiedInRussiaUnspecified": 30.562436397473455
+  },
+  {
+    "id": 1747946186,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/48.3918862/37.4710183\">Попового Яру</a>, <a href=\"https://deepstatemap.live/#14/48.4201699/37.8747234\">Дачного</a> та в <a href=\"https://deepstatemap.live/#15/48.3660435/37.7228662\">Романівці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/48.3918862/37.4710183\">Popov Yar</a>, <a href=\"https://deepstatemap.live/en#14/48.4201699/37.8747234\">Dachne</a> and <a href=\"https://deepstatemap.live/en#15/48.3660435/37.7228662\">Romanivka</a>.",
+    "updatedAt": "2025-05-23T12:28:26.830Z",
+    "datetime": "22.05 o 22:36",
+    "status": true,
+    "createdAt": "2025-05-22T20:36:26.000Z",
+    "liberated": 42119.28761171287,
+    "occupied": 68900.23624016265,
+    "unspecified": 954.500538832282,
+    "occupiedInRussia": 29.021062133156708,
+    "occupiedInRussiaUnspecified": 30.562436397473455
   }
 ]
