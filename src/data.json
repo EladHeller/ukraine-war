@@ -16199,5 +16199,19 @@
     "unspecified": 954.500538832282,
     "occupiedInRussia": 29.021062133156708,
     "occupiedInRussiaUnspecified": 30.562436397473455
+  },
+  {
+    "id": 1748033313,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#12/47.9404073/36.8730449\">Одрадного</a>, <a href=\"https://deepstatemap.live/#14/48.1191424/36.9500669\">Троїцького</a>, в <a href=\"https://deepstatemap.live/#13/51.2204850/35.1056948\">Новенькому</a>, <a href=\"https://deepstatemap.live/#13/51.1865091/35.0852712\">Басівці</a> та <a href=\"https://deepstatemap.live/#13/51.2158648/34.9890112\">Журавці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#12/47.9404073/36.8730449\">Odradne</a>, <a href=\"https://deepstatemap.live/en#14/48.1191424/36.9500669\">Troitske</a>, <a href=\"https://deepstatemap.live/en#13/51.2204850/35.1056948\">Novenke</a>, <a href=\"https://deepstatemap.live/en#13/51.1865091/35.0852712\">Basivka</a> and <a href=\"https://deepstatemap.live/en#13/51.2158648/34.9890112\">Zhuravka</a>.",
+    "updatedAt": "2025-05-24T16:05:58.494Z",
+    "datetime": "23.05 o 22:48",
+    "status": true,
+    "createdAt": "2025-05-23T20:48:33.000Z",
+    "liberated": 42119.28761171287,
+    "occupied": 68986.12226160665,
+    "unspecified": 902.1114039971907,
+    "occupiedInRussia": 29.021062133156708,
+    "occupiedInRussiaUnspecified": 30.562436397473455
   }
 ]
