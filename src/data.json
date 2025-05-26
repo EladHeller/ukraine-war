@@ -16213,5 +16213,19 @@
     "unspecified": 902.1114039971907,
     "occupiedInRussia": 29.021062133156708,
     "occupiedInRussiaUnspecified": 30.562436397473455
+  },
+  {
+    "id": 1748117183,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/48.3575601/37.6383972\">Зорі</a>, <a href=\"https://deepstatemap.live/#13/47.9802149/36.9275385\">Багатиря</a> та <a href=\"https://deepstatemap.live/#14/47.8277737/36.6273546\">Зеленого Поля</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/48.3575601/37.6383972\">Zorya</a>, <a href=\"https://deepstatemap.live/en#13/47.9802149/36.9275385\">Bahatyry</a> and <a href=\"https://deepstatemap.live/en#14/47.8277737/36.6273546\">Zelene Pole</a>.",
+    "updatedAt": "2025-05-25T12:30:21.116Z",
+    "datetime": "24.05 o 22:06",
+    "status": true,
+    "createdAt": "2025-05-24T20:06:23.000Z",
+    "liberated": 42116.6015844869,
+    "occupied": 69006.76445840528,
+    "unspecified": 902.0173342273305,
+    "occupiedInRussia": 29.021062133156708,
+    "occupiedInRussiaUnspecified": 30.562436397473455
   }
 ]
