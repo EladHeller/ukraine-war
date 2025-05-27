@@ -16227,5 +16227,19 @@
     "unspecified": 902.0173342273305,
     "occupiedInRussia": 29.021062133156708,
     "occupiedInRussiaUnspecified": 30.562436397473455
+  },
+  {
+    "id": 1748205549,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/50.3316033/37.0269276\">Тихого</a> та <a href=\"https://deepstatemap.live/#12/48.2810519/37.6990728\">Старої Миколаївки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/50.3316033/37.0269276\">Tykhe</a> and <a href=\"https://deepstatemap.live/en#12/48.2810519/37.6990728\">Stara Mykolaivka</a>.",
+    "updatedAt": "2025-05-26T09:30:32.054Z",
+    "datetime": "25.05 o 22:39",
+    "status": true,
+    "createdAt": "2025-05-25T20:39:09.000Z",
+    "liberated": 42116.6015844869,
+    "occupied": 69031.4260592365,
+    "unspecified": 909.0299381079373,
+    "occupiedInRussia": 29.021062133156708,
+    "occupiedInRussiaUnspecified": 30.562436397473455
   }
 ]
