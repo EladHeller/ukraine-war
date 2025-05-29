@@ -16255,5 +16255,19 @@
     "unspecified": 909.8926668213255,
     "occupiedInRussia": 29.021062133156708,
     "occupiedInRussiaUnspecified": 30.562436397473455
+  },
+  {
+    "id": 1748376927,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.0935344/36.9442331\">Троїцького</a>, <a href=\"https://deepstatemap.live/#14/48.4156137/37.5748314\">Яблунівки</a>, <a href=\"https://deepstatemap.live/#13/48.3194594/37.6752944\">Старої Миколаївки</a> та у <a href=\"https://deepstatemap.live/#14/48.3352882/37.4134708\">Малинівці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.0935344/36.9442331\">Troitske</a>, <a href=\"https://deepstatemap.live/en#14/48.4156137/37.5748314\">Yablunivka</a>, <a href=\"https://deepstatemap.live/en#13/48.3194594/37.6752944\">Stara Mykolaivka</a> and <a href=\"https://deepstatemap.live/en#14/48.3352882/37.4134708\">Malynivka</a>.",
+    "updatedAt": "2025-05-28T09:48:36.988Z",
+    "datetime": "27.05 o 22:15",
+    "status": true,
+    "createdAt": "2025-05-27T20:15:27.000Z",
+    "liberated": 42105.13858230678,
+    "occupied": 69072.64558678555,
+    "unspecified": 920.8000774950094,
+    "occupiedInRussia": 29.021062133156708,
+    "occupiedInRussiaUnspecified": 30.562436397473455
   }
 ]
