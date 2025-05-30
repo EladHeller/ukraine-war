@@ -16269,5 +16269,19 @@
     "unspecified": 920.8000774950094,
     "occupiedInRussia": 29.021062133156708,
     "occupiedInRussiaUnspecified": 30.562436397473455
+  },
+  {
+    "id": 1748463605,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/47.8284026/36.6227177\">Зелене Поле</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/47.8390560/36.6641719\">Новосілки</a>, <a href=\"https://deepstatemap.live/#14/51.1868459/34.9200029\">Водолагів</a>, у <a href=\"https://deepstatemap.live/#14/51.1573657/35.0632327\">Локні</a> та <a href=\"https://deepstatemap.live/#14/51.1726904/34.9717804\">Біловодах</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/47.8284026/36.6227177\">Zelene Pole</a> and advanced near <a href=\"https://deepstatemap.live/en#14/47.8390560/36.6641719\">Novosilka</a>, <a href=\"https://deepstatemap.live/en#14/51.1868459/34.9200029\">Vodolahy</a>, <a href=\"https://deepstatemap.live/en#14/51.1573657/35.0632327\">Loknya</a> and <a href=\"https://deepstatemap.live/en#14/51.1726904/34.9717804\">Bilovody</a>.",
+    "updatedAt": "2025-05-29T12:18:44.420Z",
+    "datetime": "28.05 o 22:20",
+    "status": true,
+    "createdAt": "2025-05-28T20:20:05.000Z",
+    "liberated": 42105.07317535527,
+    "occupied": 69100.97398491862,
+    "unspecified": 931.963787739877,
+    "occupiedInRussia": 29.021062133156708,
+    "occupiedInRussiaUnspecified": 30.562436397473455
   }
 ]
