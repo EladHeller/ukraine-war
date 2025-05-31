@@ -16283,5 +16283,19 @@
     "unspecified": 931.963787739877,
     "occupiedInRussia": 29.021062133156708,
     "occupiedInRussiaUnspecified": 30.562436397473455
+  },
+  {
+    "id": 1748552295,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.3671176/37.7187624\">Романівку</a> та <a href=\"https://deepstatemap.live/#14/48.1056968/36.9392653\">Троїцьке</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#13/49.1679584/37.8097053\">Рідкодуба</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.3671176/37.7187624\">Romanivka</a> and <a href=\"https://deepstatemap.live/en#14/48.1056968/36.9392653\">Troitske</a> and advanced near <a href=\"https://deepstatemap.live/en#13/49.1679584/37.8097053\">Ridkodub</a>.",
+    "updatedAt": "2025-05-30T07:18:20.089Z",
+    "datetime": "29.05 o 22:58",
+    "status": true,
+    "createdAt": "2025-05-29T20:58:15.000Z",
+    "liberated": 42093.318717613794,
+    "occupied": 69106.96660006246,
+    "unspecified": 938.2541045856046,
+    "occupiedInRussia": 29.021062133156708,
+    "occupiedInRussiaUnspecified": 30.562436397473455
   }
 ]
