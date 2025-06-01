@@ -16297,5 +16297,33 @@
     "unspecified": 938.2541045856046,
     "occupiedInRussia": 29.021062133156708,
     "occupiedInRussiaUnspecified": 30.562436397473455
+  },
+  {
+    "id": 1748638702,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#13/48.3024382/37.4473270\">Єлизаветівку</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#13/48.3315516/37.6507445\">Гнатівки</a>, <a href=\"https://deepstatemap.live/#14/51.0670993/35.3010947\">Олександрії</a> та в <a href=\"https://deepstatemap.live/#14/47.9828827/36.9394292\">Багатирю</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#13/48.3024382/37.4473270\">Yelizavetivka</a>, and advanced near <a href=\"https://deepstatemap.live/en#13/48.3315516/37.6507445\">Hnativka</a>, <a href=\"https://deepstatemap.live/en#14/51.0670993/35.3010947\">Oleksandria</a> and <a href=\"https://deepstatemap.live/en#14/47.9828827/36.9394292\">Bahatyr</a>.",
+    "updatedAt": "2025-05-31T12:47:57.010Z",
+    "datetime": "30.05 o 22:58",
+    "status": true,
+    "createdAt": "2025-05-30T20:58:22.000Z",
+    "liberated": 42085.580196970404,
+    "occupied": 69121.41494978144,
+    "unspecified": 948.6763043169585,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 32.70104209495097
+  },
+  {
+    "id": 1748723682,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#13/51.1752067/34.8737919\">Володимирівку</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#13/51.1752067/34.8737919\">Volodymyrivka</a>.",
+    "updatedAt": "2025-05-31T21:24:31.315Z",
+    "datetime": "31.05 o 22:34",
+    "status": true,
+    "createdAt": "2025-05-31T20:34:42.000Z",
+    "liberated": 42085.580196970404,
+    "occupied": 69136.9696698734,
+    "unspecified": 936.807987036526,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 32.70104209495097
   }
 ]
