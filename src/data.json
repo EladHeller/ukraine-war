@@ -16325,5 +16325,19 @@
     "unspecified": 936.807987036526,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 32.70104209495097
+  },
+  {
+    "id": 1748806839,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#13/51.1719749/34.7694226\">Костянтинівку</a> (Сумська область), а також просунувся у <a href=\"https://deepstatemap.live/#13/51.1405472/34.8651903\">Олексіївці</a>, <a href=\"https://deepstatemap.live/#14/49.1794446/37.8171990\">Рідкодубі</a> та біля <a href=\"https://deepstatemap.live/#14/49.1725453/37.7675131\">Карпівки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#13/51.1719749/34.7694226\">Kostyantynivka</a> (Sumy region) and advanced in <a href=\"https://deepstatemap.live/en#13/51.1405472/34.8651903\">Oleksiyivka</a>, <a href=\"https://deepstatemap.live/en#14/49.1794446/37.8171990\">Ridkodub</a> and near <a href=\"https://deepstatemap.live/en#14/49.1725453/37.7675131\">Karpivka</a>.",
+    "updatedAt": "2025-06-02T06:34:30.404Z",
+    "datetime": "01.06 o 21:40",
+    "status": true,
+    "createdAt": "2025-06-01T19:40:39.000Z",
+    "liberated": 42062.62917524941,
+    "occupied": 69157.33814274723,
+    "unspecified": 948.4552497653955,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 32.70104209495097
   }
 ]
