@@ -16339,5 +16339,33 @@
     "unspecified": 948.4552497653955,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 32.70104209495097
+  },
+  {
+    "id": 1748890427,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#12/48.6583346/37.8531790\">Маркового</a>, <a href=\"https://deepstatemap.live/#14/48.6086494/37.8243349\">Часового Яру</a>, <a href=\"https://deepstatemap.live/#13/47.9650631/36.8779544\">Одрадного</a> та в <a href=\"https://deepstatemap.live/#15/48.0192516/37.0300412\">Андріївці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#12/48.6583346/37.8531790\">Markove</a>, <a href=\"https://deepstatemap.live/en#14/48.6086494/37.8243349\">Chasiv Yar</a>, <a href=\"https://deepstatemap.live/en#13/47.9650631/36.8779544\">Odradne</a> and in <a href=\"https://deepstatemap.live/en#15/48.0192516/37.0300412\">Andriivka</a>.",
+    "updatedAt": "2025-06-03T01:08:57.038Z",
+    "datetime": "02.06 o 20:53",
+    "status": true,
+    "createdAt": "2025-06-02T18:53:47.000Z",
+    "liberated": 42062.62917524955,
+    "occupied": 69181.8067753983,
+    "unspecified": 975.9649492422792,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 32.70104209495097
+  },
+  {
+    "id": 1748983435,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/51.1303536/34.8229692\">Андріївку</a> та <a href=\"https://deepstatemap.live/#14/51.1746140/34.9216764\">Водолаги</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/51.1627653/35.0177179\">Яблунівки</a> та <a href=\"https://deepstatemap.live/#14/48.4281698/37.9180290\">Диліївки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/51.1303536/34.8229692\">Andriivka</a> and <a href=\"https://deepstatemap.live/en#14/51.1746140/34.9216764\">Vodolahy</a>, and advanced near <a href=\"https://deepstatemap.live/en#14/51.1627653/35.0177179\">Yablunivka</a> and <a href=\"https://deepstatemap.live/en#14/48.4281698/37.9180290\">Diliyivka</a>.",
+    "updatedAt": "2025-06-03T20:58:09.889Z",
+    "datetime": "03.06 o 22:43",
+    "status": true,
+    "createdAt": "2025-06-03T20:43:55.000Z",
+    "liberated": 42062.22568571326,
+    "occupied": 69223.52693563388,
+    "unspecified": 951.8940251734747,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 37.710102164144054
   }
 ]
