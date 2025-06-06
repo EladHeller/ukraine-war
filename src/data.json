@@ -16367,5 +16367,19 @@
     "unspecified": 951.8940251734747,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 37.710102164144054
+  },
+  {
+    "id": 1749066297,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/48.0665969/37.0072700\">Богданівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/48.0665969/37.0072700\">Bohdanivka</a>.",
+    "updatedAt": "2025-06-05T06:31:03.686Z",
+    "datetime": "04.06 o 21:44",
+    "status": true,
+    "createdAt": "2025-06-04T19:44:57.000Z",
+    "liberated": 42062.22568571326,
+    "occupied": 69237.00032942087,
+    "unspecified": 948.4506709054048,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 37.710102164144054
   }
 ]
