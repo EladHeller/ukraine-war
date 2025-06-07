@@ -16381,5 +16381,33 @@
     "unspecified": 948.4506709054048,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 37.710102164144054
+  },
+  {
+    "id": 1749154236,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.3285492/37.6800583\">Стару Миколаївку</a> та <a href=\"https://deepstatemap.live/#14/48.3357966/37.6608354\">Гнатівку</a>, а також просунувся в <a href=\"https://deepstatemap.live/#14/48.3646050/37.6779987\">Зорі</a>, <a href=\"https://deepstatemap.live/#14/47.9547263/36.7568628\">Федорівці</a>, <a href=\"https://deepstatemap.live/#14/47.9715682/36.7602993\">Комарі</a> та біля <a href=\"https://deepstatemap.live/#13/48.1183773/36.9296002\">Троїцького</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.3285492/37.6800583\">Stara Mykolayivka</a> and <a href=\"https://deepstatemap.live/en#14/48.3357966/37.6608354\">Hnativka</a>, and advanced in <a href=\"https://deepstatemap.live/en#14/48.3646050/37.6779987\">Zorya</a>, <a href=\"https://deepstatemap.live/en#14/47.9547263/36.7568628\">Fedorivka</a>, <a href=\"https://deepstatemap.live/en#14/47.9715682/36.7602993\">Komar</a> and near <a href=\"https://deepstatemap.live/en#13/48.1183773/36.9296002\">Troitske</a>.",
+    "updatedAt": "2025-06-06T06:31:45.347Z",
+    "datetime": "05.06 o 22:10",
+    "status": true,
+    "createdAt": "2025-06-05T20:10:36.000Z",
+    "liberated": 42057.27526260343,
+    "occupied": 69264.74727147452,
+    "unspecified": 950.2883584835004,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 37.710102164144054
+  },
+  {
+    "id": 1749235040,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/51.1429290/34.7692031\">Кіндратівку</a> та <a href=\"https://deepstatemap.live/#14/51.1342038/34.8692709\">Олексіївку</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#13/51.1571175/34.9781427\">Біловодів</a>, <a href=\"https://deepstatemap.live/#13/51.1552870/35.0938234\">Локні</a> та <a href=\"https://deepstatemap.live/#14/51.1050562/35.1610793\">Садків</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/51.1429290/34.7692031\">Kindrativka</a> and <a href=\"https://deepstatemap.live/en#14/51.1342038/34.8692709\">Oleksiyivka</a>, and advanced near <a href=\"https://deepstatemap.live/en#13/51.1571175/34.9781427\">Bilovody</a>, <a href=\"https://deepstatemap.live/en#13/51.1552870/35.0938234\">Loknya</a> and <a href=\"https://deepstatemap.live/en#14/51.1050562/35.1610793\">Sadky</a>.",
+    "updatedAt": "2025-06-06T18:48:43.213Z",
+    "datetime": "06.06 o 20:37",
+    "status": true,
+    "createdAt": "2025-06-06T18:37:20.000Z",
+    "liberated": 42050.59270445069,
+    "occupied": 69296.07258920759,
+    "unspecified": 951.8352376011688,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 24.276297951652044
   }
 ]
