@@ -16409,5 +16409,19 @@
     "unspecified": 951.8352376011688,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 24.276297951652044
+  },
+  {
+    "id": 1749327130,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/51.1426072/35.0587931\">Локню</a>, а також просунувся в <a href=\"https://deepstatemap.live/#14/49.7679325/37.5825556\">Кіндрашівці</a> та <a href=\"https://deepstatemap.live/#13/48.4191207/37.5944393\">Яблунівці</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/51.1426072/35.0587931\">Loknya</a> and advanced in <a href=\"https://deepstatemap.live/en#14/49.7679325/37.5825556\">Kindrashivka</a> and <a href=\"https://deepstatemap.live/en#13/48.4191207/37.5944393\">Yablunivka</a>.",
+    "updatedAt": "2025-06-08T00:35:15.207Z",
+    "datetime": "07.06 o 22:12",
+    "status": true,
+    "createdAt": "2025-06-07T20:12:10.000Z",
+    "liberated": 42046.986830219736,
+    "occupied": 69304.015551331,
+    "unspecified": 951.4555139257209,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 24.276297951652044
   }
 ]
