@@ -16493,5 +16493,33 @@
     "unspecified": 956.9390546088515,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 24.276297951652044
+  },
+  {
+    "id": 1749847942,
+    "description": "Сили Оборони України відкинули противника біля <a href=\"https://deepstatemap.live/#14/48.1275156/36.8921331\">Котлярівки</a>. Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/47.9982519/36.8628230\">Одрадного</a>, <a href=\"https://deepstatemap.live/#13/48.3686218/37.4191785\">Шевченко Першого</a> та в <a href=\"https://deepstatemap.live/#14/47.9804726/36.7628785\">Комарі</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces pushed back the enemy near <a href=\"https://deepstatemap.live/en#14/48.1275156/36.8921331\">Kotlyarivka</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#13/47.9982519/36.8628230\">Odradne</a>, <a href=\"https://deepstatemap.live/en#13/48.3686218/37.4191785\">Shevchenko First</a> and <a href=\"https://deepstatemap.live/en#14/47.9804726/36.7628785\">Komar.</a>",
+    "updatedAt": "2025-06-14T09:04:10.240Z",
+    "datetime": "13.06 o 22:52",
+    "status": true,
+    "createdAt": "2025-06-13T20:52:22.000Z",
+    "liberated": 42019.34897782105,
+    "occupied": 69397.60059397697,
+    "unspecified": 996.4285500196665,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 24.276297951652044
+  },
+  {
+    "id": 1749934352,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.9186919/38.2255987\">Білогорівки</a>, <a href=\"https://deepstatemap.live/#14/47.9542079/36.8230396\">Одрадного</a> та <a href=\"https://deepstatemap.live/#13/48.0186982/36.8075361\">Запоріжжя</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.9186919/38.2255987\">Bilohorivka</a>, <a href=\"https://deepstatemap.live/en#14/47.9542079/36.8230396\">Odradne</a> and <a href=\"https://deepstatemap.live/en#13/48.0186982/36.8075361\">Zaporizhzhia</a>.",
+    "updatedAt": "2025-06-14T21:30:35.329Z",
+    "datetime": "14.06 o 22:52",
+    "status": true,
+    "createdAt": "2025-06-14T20:52:32.000Z",
+    "liberated": 42019.34897782105,
+    "occupied": 69413.45467079684,
+    "unspecified": 994.5595520175756,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 24.276297951652044
   }
 ]
