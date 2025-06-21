@@ -16577,5 +16577,19 @@
     "unspecified": 1021.4669181202551,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 24.276297951652044
+  },
+  {
+    "id": 1750364380,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.3730436/37.3996545\">Шевченко Перше</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#12/48.4088108/37.5205251\">Новооленівки</a> та <a href=\"https://deepstatemap.live/#13/48.3207009/37.4408098\">Малинівки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.3730436/37.3996545\">Shevchenko Pershe</a> and advanced near <a href=\"https://deepstatemap.live/en#12/48.4088108/37.5205251\">Novoolenivka</a> and <a href=\"https://deepstatemap.live/en#13/48.3207009/37.4408098\">Malynivka</a>.",
+    "updatedAt": "2025-06-20T07:14:19.509Z",
+    "datetime": "19.06 o 22:19",
+    "status": true,
+    "createdAt": "2025-06-19T20:19:40.000Z",
+    "liberated": 42016.98112307382,
+    "occupied": 69482.9603589725,
+    "unspecified": 1024.623523746515,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 24.276297951652044
   }
 ]
