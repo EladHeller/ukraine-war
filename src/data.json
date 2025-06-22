@@ -16591,5 +16591,33 @@
     "unspecified": 1024.623523746515,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 24.276297951652044
+  },
+  {
+    "id": 1750448034,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.4206285/37.6062430\">Яблунівки</a>, <a href=\"https://deepstatemap.live/#13/48.0188082/36.8449611\">Новоукраїнки</a> та <a href=\"http://deepstatemap.live/#14/47.8964639/36.7166007\">Шевченка</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.4206285/37.6062430\">Yablunivka</a>, <a href=\"https://deepstatemap.live/en#13/48.0188082/36.8449611\">Novoukrainka</a> and <a href=\"http://deepstatemap.live/en#14/47.8964639/36.7166007\">Shevchenko</a>.",
+    "updatedAt": "2025-06-21T01:05:27.036Z",
+    "datetime": "20.06 o 21:33",
+    "status": true,
+    "createdAt": "2025-06-20T19:33:54.000Z",
+    "liberated": 42016.98112307382,
+    "occupied": 69496.13483359505,
+    "unspecified": 1047.0096646251088,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 24.276297951652044
+  },
+  {
+    "id": 1750528767,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.4058729/37.8764376\">Торецька</a>, <a href=\"https://deepstatemap.live/#13/48.8979628/38.2115516\">Григорівки</a>, <a href=\"https://deepstatemap.live/#13/48.8200323/38.2256425\">Івано-Дар'ївки</a> та у <a href=\"https://deepstatemap.live/#14/48.8620884/38.2068874\">Верхньокам'янському</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/#14/48.4058729/37.8764376\">Toretsk</a>, <a href=\"https://deepstatemap.live/#13/48.8200323/38.2256425\">Hryhorivka, Ivano-Daryivka</a> and <a href=\"https://deepstatemap.live/#14/48.8620884/38.2068874\">Verkhnekamianske</a>.",
+    "updatedAt": "2025-06-21T19:33:07.761Z",
+    "datetime": "21.06 o 19:59",
+    "status": true,
+    "createdAt": "2025-06-21T17:59:27.000Z",
+    "liberated": 42010.35458483429,
+    "occupied": 69525.18740930439,
+    "unspecified": 1028.5173645511595,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 24.276297951652044
   }
 ]
