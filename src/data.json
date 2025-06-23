@@ -16619,5 +16619,19 @@
     "unspecified": 1028.5173645511595,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 24.276297951652044
+  },
+  {
+    "id": 1750589573,
+    "description": "Сили Оборони України звільнили <a href=\"https://deepstatemap.live/#14/51.1274203/34.8240526\">Андріївку</a>. Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/47.8734962/36.7064763\">Привільного</a> та у <a href=\"https://deepstatemap.live/#14/47.9002055/36.6875966\">Шевченку</a>.",
+    "descriptionEn": "Ukrainian Defense Forces liberated <a href=\"https://deepstatemap.live/en#14/51.1274203/34.8240526\">Andriivka</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.8734962/36.7064763\">Pryvilne</a> and in <a href=\"https://deepstatemap.live/en#14/47.9002055/36.6875966\">Shevchenko</a>.",
+    "updatedAt": "2025-06-22T10:55:26.258Z",
+    "datetime": "22.06 o 12:52",
+    "status": true,
+    "createdAt": "2025-06-22T10:52:53.000Z",
+    "liberated": 42012.76266289483,
+    "occupied": 69525.77676548762,
+    "unspecified": 1030.7920313760446,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 24.276297951652044
   }
 ]
