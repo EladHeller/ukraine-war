@@ -16647,5 +16647,19 @@
     "unspecified": 1044.7751629020704,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 24.276297951652044
+  },
+  {
+    "id": 1750713495,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/49.2010269/37.8639981\">Новомихайлівку</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/49.7524622/37.6008326\">Радьківки</a>, <a href=\"https://deepstatemap.live/#13/49.2270723/37.9290059\">Греківки</a>, <a href=\"https://deepstatemap.live/#14/48.3555270/37.8529371\">Неліпівки</a>, <a href=\"https://deepstatemap.live/#14/48.3534735/37.7653184\">Романівки</a>, <a href=\"https://deepstatemap.live/#13/48.3922272/37.3819616\">Новоторецького</a>, в <a href=\"https://deepstatemap.live/#14/49.7511311/37.6331854\">Голубівці</a> та <a href=\"https://deepstatemap.live/#14/48.3640823/37.8191254\">Леонідівці</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/49.2010269/37.8639981\">Novomykhailivka</a> and advanced near <a href=\"https://deepstatemap.live/en#14/49.7524622/37.6008326\">Radkivka</a>, <a href=\"https://deepstatemap.live/en#13/49.2270723/37.9290059\">Hrekivka</a>, <a href=\"https://deepstatemap.live/en#14/48.3555270/37.8529371\">Nelipivka</a>, <a href=\"https://deepstatemap.live/en#14/48.3534735/37.7653184\">Romanivka</a>, <a href=\"https://deepstatemap.live/en#13/48.3922272/37.3819616\">Novotoretske</a>, <a href=\"https://deepstatemap.live/en#14/49.7511311/37.6331854\">Holubivka</a> and <a href=\"https://deepstatemap.live/en#14/48.3640823/37.8191254\">Leonidivka</a>.",
+    "updatedAt": "2025-06-24T05:26:39.669Z",
+    "datetime": "23.06 o 23:18",
+    "status": true,
+    "createdAt": "2025-06-23T21:18:15.000Z",
+    "liberated": 41992.3787001278,
+    "occupied": 69566.33127561223,
+    "unspecified": 1025.3504020507478,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 24.276297951652044
   }
 ]
