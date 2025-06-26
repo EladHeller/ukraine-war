@@ -16661,5 +16661,19 @@
     "unspecified": 1025.3504020507478,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 24.276297951652044
+  },
+  {
+    "id": 1750801842,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.0215350/37.0483404\">Андріївку</a> та <a href=\"https://deepstatemap.live/#14/48.0025277/37.0382141\">Костянтинопіль</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#15/48.0019397/37.0035659\">Олексіївки</a>, <a href=\"https://deepstatemap.live/#14/47.9284465/36.7803867\">Дніпроенергії</a> та у <a href=\"https://deepstatemap.live/#15/47.9026635/36.6813557\">Шевченку</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.0215350/37.0483404\">Andriivka</a> and <a href=\"https://deepstatemap.live/en#14/48.0025277/37.0382141\">Kostiantynopil</a>, and advanced near <a href=\"https://deepstatemap.live/en#15/48.0019397/37.0035659\">Oleksiyivka</a>, <a href=\"https://deepstatemap.live/en#14/47.9284465/36.7803867\">Dniproenergia</a> and <a href=\"https://deepstatemap.live/en#15/47.9026635/36.6813557\">Shevchenko</a>.",
+    "updatedAt": "2025-06-25T10:02:22.906Z",
+    "datetime": "24.06 o 23:50",
+    "status": true,
+    "createdAt": "2025-06-24T21:50:42.000Z",
+    "liberated": 41992.3787001278,
+    "occupied": 69586.67399347955,
+    "unspecified": 1012.4569276841818,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 24.276297951652044
   }
 ]
