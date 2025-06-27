@@ -16675,5 +16675,19 @@
     "unspecified": 1012.4569276841818,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 24.276297951652044
+  },
+  {
+    "id": 1750918419,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/47.9027336/36.6705431\">Шевченку</a>, <a href=\"https://deepstatemap.live/#14/47.5346160/35.3890228\">Кам'янському</a>, біля <a href=\"https://deepstatemap.live/#14/47.9045777/36.7311347\">Бурлацького</a> та <a href=\"https://deepstatemap.live/#14/47.8593286/36.6879687\">Вільного Поля</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/47.9027336/36.6705431\">Shevchenko</a>, <a href=\"https://deepstatemap.live/en#14/47.5346160/35.3890228\">Kamianske</a>, біля <a href=\"https://deepstatemap.live/en#14/47.9045777/36.7311347\">Burlatske</a> та <a href=\"https://deepstatemap.live/en#14/47.8593286/36.6879687\">Vilne Pole</a>.",
+    "updatedAt": "2025-06-26T10:32:45.459Z",
+    "datetime": "26.06 o 08:13",
+    "status": true,
+    "createdAt": "2025-06-26T06:13:39.000Z",
+    "liberated": 41990.4060760861,
+    "occupied": 69600.85083722879,
+    "unspecified": 1009.851112940701,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 24.276297951652044
   }
 ]
