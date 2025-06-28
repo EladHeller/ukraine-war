@@ -16689,5 +16689,19 @@
     "unspecified": 1009.851112940701,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 24.276297951652044
+  },
+  {
+    "id": 1751011714,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/47.8439540/36.6828746\">Новосілку</a>, <a href=\"https://deepstatemap.live/#14/48.0334741/36.7633004\">Запоріжжя</a>, <a href=\"https://deepstatemap.live/#13/47.9761906/36.8552694\">Одрадне</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/48.0383529/36.7490548\">Ялти</a>, у <a href=\"https://deepstatemap.live/#14/47.9356129/36.7640312\">Веселому</a> та <a href=\"https://deepstatemap.live/#14/47.5422660/35.4768730\">Степовому</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/47.8439540/36.6828746\">Novosilka</a>, <a href=\"https://deepstatemap.live/en#14/48.0334741/36.7633004\">Zaporizhzhia</a>, <a href=\"https://deepstatemap.live/en#13/47.9761906/36.8552694\">Odradne</a>, and advanced near <a href=\"https://deepstatemap.live/en#14/48.0383529/36.7490548\">Yalta</a>, <a href=\"https://deepstatemap.live/en#14/47.9356129/36.7640312\">Vesele</a> and <a href=\"https://deepstatemap.live/en#14/47.5422660/35.4768730\">Stepove</a>.",
+    "updatedAt": "2025-06-27T14:08:37.535Z",
+    "datetime": "27.06 o 10:08",
+    "status": true,
+    "createdAt": "2025-06-27T08:08:34.000Z",
+    "liberated": 41990.4060760861,
+    "occupied": 69618.657192209,
+    "unspecified": 1002.1441165899084,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 24.276297951652044
   }
 ]
