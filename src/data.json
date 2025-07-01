@@ -16717,5 +16717,19 @@
     "unspecified": 996.7720682043366,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 24.276297951652044
+  },
+  {
+    "id": 1751229744,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/48.0149458/36.8855237\">Зеленого Кута</a>, <a href=\"https://deepstatemap.live/#14/48.0234286/36.7180729\">Зірки</a>, <a href=\"https://deepstatemap.live/#14/48.0459862/36.7589216\">Ялти</a>, <a href=\"https://deepstatemap.live/#14/47.8815536/36.6864789\">Вільного Поля</a>, <a href=\"https://deepstatemap.live/#14/47.9218368/36.6794455\">Шевченка</a> та <a href=\"https://deepstatemap.live/#14/47.9396648/36.7281107\">Федорівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/48.0149458/36.8855237\">Zelenyi Kut</a>, <a href=\"https://deepstatemap.live/en#14/48.0234286/36.7180729\">Zirka</a>, <a href=\"https://deepstatemap.live/en#14/48.0459862/36.7589216\">Yalta</a>, <a href=\"https://deepstatemap.live/en#14/47.8815536/36.6864789\">Vilne Pole</a>, <a href=\"https://deepstatemap.live/en#14/47.9218368/36.6794455\">Shevchenko</a> and <a href=\"https://deepstatemap.live/en#14/47.9396648/36.7281107\">Fedorivka</a>.",
+    "updatedAt": "2025-06-30T07:06:04.869Z",
+    "datetime": "29.06 o 22:42",
+    "status": true,
+    "createdAt": "2025-06-29T20:42:24.000Z",
+    "liberated": 41990.35450990759,
+    "occupied": 69634.24215063214,
+    "unspecified": 1010.6987873928757,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 24.276297951652044
   }
 ]
