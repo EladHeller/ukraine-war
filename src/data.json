@@ -16731,5 +16731,19 @@
     "unspecified": 1010.6987873928757,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 24.276297951652044
+  },
+  {
+    "id": 1751314076,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.3811967/37.3661771\">Коптєве</a>, а також просунувся у <a href=\"https://deepstatemap.live/#15/48.3802119/37.8329444\">Торецьку</a>, <a href=\"https://deepstatemap.live/#14/48.1911820/36.9628635\">Новосергіївці</a>, біля <a href=\"https://deepstatemap.live/#13/48.4419015/37.8909012\">Диліївки</a>, <a href=\"https://deepstatemap.live/#14/48.3304312/37.3740722\">Мирного</a>, <a href=\"https://deepstatemap.live/#14/48.3668848/37.3367420\">Разіного</a>, <a href=\"https://deepstatemap.live/#14/47.9191272/36.7489794\">Веселого</a> та <a href=\"https://deepstatemap.live/#14/47.9924253/36.7571212\">Комара</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.3811967/37.3661771\">Kopteve</a> and advanced in <a href=\"https://deepstatemap.live/en#15/48.3802119/37.8329444\">Toretsk</a>, <a href=\"https://deepstatemap.live/en#14/48.1911820/36.9628635\">Novosergiyivka</a>, near <a href=\"https://deepstatemap.live/en#13/48.4419015/37.8909012\">Diliyivka</a>, <a href=\"https://deepstatemap.live/en#14/48.3304312/37.3740722\">Myrne</a>, <a href=\"https://deepstatemap.live/en#14/48.3668848/37.3367420\">Razine</a>, <a href=\"https://deepstatemap.live/en#14/47.9191272/36.7489794\">Vesele</a> and <a href=\"https://deepstatemap.live/en#14/47.9924253/36.7571212\">Komar</a>.",
+    "updatedAt": "2025-07-01T11:47:25.976Z",
+    "datetime": "30.06 o 22:07",
+    "status": true,
+    "createdAt": "2025-06-30T20:07:56.000Z",
+    "liberated": 41990.08516855196,
+    "occupied": 69693.00177865503,
+    "unspecified": 981.4027547120887,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 24.276297951652044
   }
 ]
