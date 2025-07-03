@@ -16745,5 +16745,19 @@
     "unspecified": 981.4027547120887,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 24.276297951652044
+  },
+  {
+    "id": 1751400934,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/47.5378618/35.3655515\">Кам'янському</a>, <a href=\"https://deepstatemap.live/#14/48.1992489/36.9541937\">Новосергіївці</a>, <a href=\"https://deepstatemap.live/#14/47.9953012/36.9353986\">Багатирю</a> та біля <a href=\"https://deepstatemap.live/#14/48.0797117/36.9674032\">Богданівки</a>. ",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/47.5378618/35.3655515\">Kamianske</a>, <a href=\"https://deepstatemap.live/en#14/48.1992489/36.9541937\">Novosergiyivka</a>, <a href=\"https://deepstatemap.live/en#14/47.9953012/36.9353986\">Bahatyr</a> and near <a href=\"https://deepstatemap.live/en#14/48.0797117/36.9674032\">Bohdanivka</a>. ",
+    "updatedAt": "2025-07-02T06:05:47.609Z",
+    "datetime": "01.07 o 22:15",
+    "status": true,
+    "createdAt": "2025-07-01T20:15:34.000Z",
+    "liberated": 41990.08516855196,
+    "occupied": 69704.28270947303,
+    "unspecified": 978.357764698845,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 24.276297951652044
   }
 ]
