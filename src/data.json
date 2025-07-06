@@ -16787,5 +16787,19 @@
     "unspecified": 979.0154678957817,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 24.276297951652044
+  },
+  {
+    "id": 1751661595,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.0293434/36.8695525\">Новоукраїнку</a> та <a href=\"https://deepstatemap.live/#14/48.0218229/36.8983011\">Зелений Кут</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#13/48.0059500/36.7799192\">Одрадного</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.0293434/36.8695525\">Novoukrainka</a> and <a href=\"https://deepstatemap.live/en#14/48.0218229/36.8983011\">Zelenyi Kut</a> and advanced near <a href=\"https://deepstatemap.live/en#13/48.0059500/36.7799192\">Odradne</a>.",
+    "updatedAt": "2025-07-05T06:45:40.881Z",
+    "datetime": "04.07 o 22:39",
+    "status": true,
+    "createdAt": "2025-07-04T20:39:55.000Z",
+    "liberated": 41916.4375091946,
+    "occupied": 69827.26240067939,
+    "unspecified": 950.7277255317085,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 24.276297951652044
   }
 ]
