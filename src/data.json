@@ -16801,5 +16801,33 @@
     "unspecified": 950.7277255317085,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 24.276297951652044
+  },
+  {
+    "id": 1751747689,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.4043903/37.4429739\">Попового Яру</a>, <a href=\"https://deepstatemap.live/#14/48.0449523/36.7391838\">Ялти</a>, <a href=\"https://deepstatemap.live/#14/48.0327274/36.6982493\">Толстого</a> та <a href=\"https://deepstatemap.live/#14/47.9326457/36.7366914\">Веселого</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.4043903/37.4429739\">Popiv Yar</a>, <a href=\"https://deepstatemap.live/en#14/48.0449523/36.7391838\">Yalta</a>, <a href=\"https://deepstatemap.live/en#14/48.0327274/36.6982493\">Tolstoy</a> and <a href=\"https://deepstatemap.live/en#14/47.9326457/36.7366914\">Vesele</a>.",
+    "updatedAt": "2025-07-06T06:35:59.834Z",
+    "datetime": "05.07 o 22:34",
+    "status": true,
+    "createdAt": "2025-07-05T20:34:49.000Z",
+    "liberated": 41909.9658831034,
+    "occupied": 69837.43098857295,
+    "unspecified": 957.2243445617075,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 24.276297951652044
+  },
+  {
+    "id": 1751832373,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/47.5241813/35.4407504\">Лобкове</a> та <a href=\"https://deepstatemap.live/#14/48.0138993/36.6925792\">Піддубне</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/47.5354252/35.4510494\">Степового</a> та <a href=\"https://deepstatemap.live/#13/47.8125239/36.6551084\">Рівнополя</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/47.5241813/35.4407504\">Lobkove</a> and <a href=\"https://deepstatemap.live/en#14/48.0138993/36.6925792\">Piddubne</a> and advanced near <a href=\"https://deepstatemap.live/en#14/47.5354252/35.4510494\">Stepove</a> and <a href=\"https://deepstatemap.live/en#13/47.8125239/36.6551084\">Rivnopil</a>.",
+    "updatedAt": "2025-07-06T20:38:30.035Z",
+    "datetime": "06.07 o 22:06",
+    "status": true,
+    "createdAt": "2025-07-06T20:06:13.000Z",
+    "liberated": 41901.178081206876,
+    "occupied": 69856.06975726629,
+    "unspecified": 956.823187948196,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 24.276297951652044
   }
 ]
