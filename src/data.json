@@ -16843,5 +16843,19 @@
     "unspecified": 950.2726991197328,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 24.276297951652044
+  },
+  {
+    "id": 1752007601,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#12/48.4211096/37.6207750\">Яблунівки</a>, <a href=\"https://deepstatemap.live/#13/49.0946437/37.8807956\">Колодязів</a>, <a href=\"https://deepstatemap.live/#13/49.1297039/37.8126577\">Зеленої Долини</a> та <a href=\"https://deepstatemap.live/#13/49.1528399/37.7731821\">Середнього</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#12/48.4211096/37.6207750\">Yablunivka</a>, <a href=\"https://deepstatemap.live/en#13/49.0946437/37.8807956\">Kolodyazy</a>, <a href=\"https://deepstatemap.live/en#13/49.1297039/37.8126577\">Zelena Dolyna</a> and <a href=\"https://deepstatemap.live/en#13/49.1528399/37.7731821\">Serednye</a>.",
+    "updatedAt": "2025-07-09T09:27:22.529Z",
+    "datetime": "08.07 o 22:46",
+    "status": true,
+    "createdAt": "2025-07-08T20:46:41.000Z",
+    "liberated": 41877.11038553481,
+    "occupied": 69918.57657195274,
+    "unspecified": 931.3598153639996,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
