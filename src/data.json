@@ -16857,5 +16857,19 @@
     "unspecified": 931.3598153639996,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1752092838,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/47.9931108/36.7103448\">Мирному</a>, <a href=\"https://deepstatemap.live/#15/48.3935795/37.8263315\">Торецьку</a>, <a href=\"https://deepstatemap.live/#14/48.3708186/37.7910367\">Леонідівці</a>, біля <a href=\"https://deepstatemap.live/#13/49.4350383/37.7376133\">Борівської Андріївки</a> та <a href=\"https://deepstatemap.live/#13/49.4037682/37.8308101\">Зеленого Гаю</a>. ",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/47.9931108/36.7103448\">Myrne</a>, <a href=\"https://deepstatemap.live/en#15/48.3935795/37.8263315\">Toretsk</a>, <a href=\"https://deepstatemap.live/en#14/48.3708186/37.7910367\">Leonidivka</a>, near <a href=\"https://deepstatemap.live/en#13/49.4350383/37.7376133\">Borivska Andriivka</a> and <a href=\"https://deepstatemap.live/en#13/49.4037682/37.8308101\">Zelenyi Hai</a>. ",
+    "updatedAt": "2025-07-10T06:06:38.585Z",
+    "datetime": "09.07 o 22:27",
+    "status": true,
+    "createdAt": "2025-07-09T20:27:18.000Z",
+    "liberated": 41869.098476426414,
+    "occupied": 69932.22722002315,
+    "unspecified": 952.1705047216025,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
