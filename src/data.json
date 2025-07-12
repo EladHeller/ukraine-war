@@ -16871,5 +16871,19 @@
     "unspecified": 952.1705047216025,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1752179252,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.0463884/36.7496501\">Ялту</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/47.9298851/36.6914637\">Воскресенки</a>, <a href=\"https://deepstatemap.live/#14/47.9958078/36.7410702\">Перебудови</a>, <a href=\"https://deepstatemap.live/#14/48.0414230/36.6897841\">Толстого</a>, <a href=\"https://deepstatemap.live/#13/48.4272137/37.5142406\">Полтавки</a>, у <a href=\"https://deepstatemap.live/#14/47.9887419/36.7033110\">Мирному</a> та <a href=\"https://deepstatemap.live/#15/47.5455293/35.3508623\">Кам'янському</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.0463884/36.7496501\">Yalta</a> and advanced near <a href=\"https://deepstatemap.live/en#14/47.9298851/36.6914637\">Voskresenka</a>, <a href=\"https://deepstatemap.live/en#14/47.9958078/36.7410702\">Perebudova</a>, <a href=\"https://deepstatemap.live/en#14/48.0414230/36.6897841\">Tolstoy</a>, <a href=\"https://deepstatemap.live/en#13/48.4272137/37.5142406\">Poltavka</a>, <a href=\"https://deepstatemap.live/en#14/47.9887419/36.7033110\">Myrne</a> and <a href=\"https://deepstatemap.live/en#15/47.5455293/35.3508623\">Kamianske</a>.",
+    "updatedAt": "2025-07-11T07:00:07.718Z",
+    "datetime": "10.07 o 22:27",
+    "status": true,
+    "createdAt": "2025-07-10T20:27:32.000Z",
+    "liberated": 41869.098476426414,
+    "occupied": 69947.93199358095,
+    "unspecified": 949.1948658535813,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
