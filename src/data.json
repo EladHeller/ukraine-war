@@ -16885,5 +16885,19 @@
     "unspecified": 949.1948658535813,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1752266699,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.0385242/36.7194387\">Зірку</a> та <a href=\"https://deepstatemap.live/#14/48.9257981/38.2375278\">Білогорівку</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/49.7518503/37.5851754\">Радьківки</a>, <a href=\"https://deepstatemap.live/#13/48.3868668/37.3250523\">Новоторецького</a>, <a href=\"https://deepstatemap.live/#13/48.3610940/37.3571679\">Коптєвого</a> та у <a href=\"https://deepstatemap.live/#14/47.9774816/36.7457164\">Комарі</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.0385242/36.7194387\">Zirka</a> and <a href=\"https://deepstatemap.live/en#14/48.9257981/38.2375278\">Bilohorivka</a>, and advanced near <a href=\"https://deepstatemap.live/en#14/49.7518503/37.5851754\">Radkivka</a>, <a href=\"https://deepstatemap.live/en#13/48.3868668/37.3250523\">Novotoretske</a>, <a href=\"https://deepstatemap.live/en#13/48.3610940/37.3571679\">Kopteve</a> and <a href=\"https://deepstatemap.live/en#14/47.9774816/36.7457164\">Komar</a>.",
+    "updatedAt": "2025-07-12T07:25:12.965Z",
+    "datetime": "11.07 o 22:44",
+    "status": true,
+    "createdAt": "2025-07-11T20:44:59.000Z",
+    "liberated": 41866.65672808726,
+    "occupied": 69965.64605849636,
+    "unspecified": 958.0177578204425,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
