@@ -16899,5 +16899,33 @@
     "unspecified": 958.0177578204425,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1752353056,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.3669979/37.3121067\">Разіне</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/48.2259003/37.1683361\">Відродження</a>, <a href=\"https://deepstatemap.live/#15/48.3938957/37.8196656\">Торецька</a>, <a href=\"https://deepstatemap.live/#13/48.4580716/37.8840371\">Диліївки</a> та <a href=\"https://deepstatemap.live/#13/49.9634446/37.7676675\">Красного Першого</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.3669979/37.3121067\">Razine</a> and advanced near <a href=\"https://deepstatemap.live/en#14/48.2259003/37.1683361\">Vidrodzhennia</a>, <a href=\"https://deepstatemap.live/en#15/48.3938957/37.8196656\">Toretsk</a>, <a href=\"https://deepstatemap.live/en#13/48.4580716/37.8840371\">Diliyivka</a> and <a href=\"https://deepstatemap.live/en#13/49.9634446/37.7676675\">Krasne Pershe</a>.",
+    "updatedAt": "2025-07-13T11:48:32.979Z",
+    "datetime": "12.07 o 22:44",
+    "status": true,
+    "createdAt": "2025-07-12T20:44:16.000Z",
+    "liberated": 41855.863563972795,
+    "occupied": 69992.97969834424,
+    "unspecified": 949.6578136053472,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1752434269,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/49.2203443/37.9008536\">Новомихайлівки</a>, <a href=\"https://deepstatemap.live/#14/48.3614650/37.7368739\">Романівки</a>, <a href=\"https://deepstatemap.live/#13/48.3948468/37.6752961\">Олександро-Калинового</a>, <a href=\"https://deepstatemap.live/#14/48.4147612/37.4683121\">Попового Яру</a>, <a href=\"https://deepstatemap.live/#13/48.0035332/36.6822370\">Піддубного</a>, в <a href=\"https://deepstatemap.live/#15/48.3976533/37.3095981\">Бойківці</a> та <a href=\"https://deepstatemap.live/#14/47.9888578/36.6920621\">Мирному</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/49.2203443/37.9008536\">Novomykhailivka</a>, <a href=\"https://deepstatemap.live/en#14/48.3614650/37.7368739\">Romanivka</a>, <a href=\"https://deepstatemap.live/en#13/48.3948468/37.6752961\">Oleksandr-Kalynove</a>, <a href=\"https://deepstatemap.live/en#14/48.4147612/37.4683121\">Popiv Yar</a>, <a href=\"https://deepstatemap.live/en#13/48.0035332/36.6822370\">Piddubne</a>, in <a href=\"https://deepstatemap.live/en#15/48.3976533/37.3095981\">Boykivka</a> and <a href=\"https://deepstatemap.live/en#14/47.9888578/36.6920621\">Myrne</a>.",
+    "updatedAt": "2025-07-13T19:27:24.344Z",
+    "datetime": "13.07 o 21:17",
+    "status": true,
+    "createdAt": "2025-07-13T19:17:49.000Z",
+    "liberated": 41849.04477422835,
+    "occupied": 70014.30659282957,
+    "unspecified": 955.9741710218959,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
