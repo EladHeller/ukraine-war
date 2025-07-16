@@ -16941,5 +16941,19 @@
     "unspecified": 965.5889152275664,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1752611099,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/50.1283691/37.6394565\">Амбарного</a>, <a href=\"https://deepstatemap.live/#14/48.2284759/36.9621671\">Удачного</a>, <a href=\"https://deepstatemap.live/#13/48.0293645/36.6417551\">Толстого</a> та <a href=\"https://deepstatemap.live/#14/47.9471931/36.7259636\">Федорівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/50.1283691/37.6394565\">Ambarne</a>, <a href=\"https://deepstatemap.live/en#14/48.2284759/36.9621671\">Udachne</a>, <a href=\"https://deepstatemap.live/en#13/48.0293645/36.6417551\">Tolstoy</a> and <a href=\"https://deepstatemap.live/en#14/47.9471931/36.7259636\">Fedorivka</a>.",
+    "updatedAt": "2025-07-15T20:36:53.475Z",
+    "datetime": "15.07 o 22:24",
+    "status": true,
+    "createdAt": "2025-07-15T20:24:59.000Z",
+    "liberated": 41840.233225326614,
+    "occupied": 70046.59919697038,
+    "unspecified": 965.1871306870781,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
