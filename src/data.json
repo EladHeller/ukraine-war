@@ -16955,5 +16955,19 @@
     "unspecified": 965.1871306870781,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1752697092,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#15/47.8989668/36.6691446\">Шевченко</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/47.8378719/36.6182017\">Зеленого Поля</a>, <a href=\"https://deepstatemap.live/#14/47.9856636/36.6795721\">Мирного</a>, <a href=\"https://deepstatemap.live/#15/48.2401364/37.1208693\">Піщаного</a> та <a href=\"https://deepstatemap.live/#14/50.2885388/36.8787839\">Гатища</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#15/47.8989668/36.6691446\">Shevchenko</a> and advanced near <a href=\"https://deepstatemap.live/en#14/47.8378719/36.6182017\">Zelene Pole</a>, <a href=\"https://deepstatemap.live/en#14/47.9856636/36.6795721\">Myrne</a>, <a href=\"https://deepstatemap.live/en#15/48.2401364/37.1208693\">Pishchane</a> and <a href=\"https://deepstatemap.live/en#14/50.2885388/36.8787839\">Hatyshche</a>.",
+    "updatedAt": "2025-07-16T23:18:45.917Z",
+    "datetime": "16.07 o 22:18",
+    "status": true,
+    "createdAt": "2025-07-16T20:18:12.000Z",
+    "liberated": 41839.78332010695,
+    "occupied": 70055.53318350775,
+    "unspecified": 963.7828582319316,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
