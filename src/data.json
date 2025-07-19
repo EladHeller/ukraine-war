@@ -16969,5 +16969,33 @@
     "unspecified": 963.7828582319316,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1752783233,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/47.9674135/36.6482179\">Воскресенки</a>, <a href=\"https://deepstatemap.live/#14/48.0590361/36.6651391\">Зеленого Гаю</a> та в <a href=\"https://deepstatemap.live/#14/48.4220861/37.6392498\">Яблунівці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.9674135/36.6482179\">Voskresenka</a>, <a href=\"https://deepstatemap.live/en#14/48.0590361/36.6651391\">Zelenyi Hai</a> and <a href=\"https://deepstatemap.live/en#14/48.4220861/37.6392498\">Yablunivka</a>.",
+    "updatedAt": "2025-07-18T07:32:00.265Z",
+    "datetime": "17.07 o 22:13",
+    "status": true,
+    "createdAt": "2025-07-17T20:13:53.000Z",
+    "liberated": 41839.78332010695,
+    "occupied": 70058.67731241991,
+    "unspecified": 980.0043424700668,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1752869284,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/51.1377928/34.9732480\">Яблунівку</a> (Сумщина), а також просунувся біля <a href=\"https://deepstatemap.live/#14/51.1179634/34.9991715\">Юнаківки</a>, <a href=\"https://deepstatemap.live/#14/50.1433260/37.5978706\">Хатнього</a>, <a href=\"https://deepstatemap.live/#13/48.3772350/37.7064574\">Романівки</a> та <a href=\"https://deepstatemap.live/#14/48.3861866/37.8237912\">Торецька</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/51.1377928/34.9732480\">Yablunivka</a> (Sumy region) and advanced near <a href=\"https://deepstatemap.live/en#14/51.1179634/34.9991715\">Yunakivka</a>, <a href=\"https://deepstatemap.live/en#14/50.1433260/37.5978706\">Khatne</a>, <a href=\"https://deepstatemap.live/en#13/48.3772350/37.7064574\">Romanivka</a> and <a href=\"https://deepstatemap.live/en#14/48.3861866/37.8237912\">Toretsk</a>.",
+    "updatedAt": "2025-07-18T21:11:50.962Z",
+    "datetime": "18.07 o 22:08",
+    "status": true,
+    "createdAt": "2025-07-18T20:08:04.000Z",
+    "liberated": 41837.47787337463,
+    "occupied": 70072.8895792863,
+    "unspecified": 971.5741659437872,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
