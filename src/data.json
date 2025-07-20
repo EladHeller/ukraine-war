@@ -16997,5 +16997,19 @@
     "unspecified": 971.5741659437872,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1752958206,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.1464460/36.9200708\">Котлярівки</a>, <a href=\"https://deepstatemap.live/#14/48.1669510/36.9417881\">Новомиколаївки</a>, <a href=\"https://deepstatemap.live/#14/47.9958382/36.6813749\">Піддубного</a>, <a href=\"https://deepstatemap.live/#13/48.8333377/38.2065110\">Верхньокам'янського</a> та <a href=\"https://deepstatemap.live/#14/48.3808223/37.2880194\">Федорівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.1464460/36.9200708\">Kotliarivka</a>, <a href=\"https://deepstatemap.live/en#14/48.1669510/36.9417881\">Novomykolaivka</a>, <a href=\"https://deepstatemap.live/en#14/47.9958382/36.6813749\">Piddubne</a>, <a href=\"https://deepstatemap.live/en#13/48.8333377/38.2065110\">Verkhnekamianske</a> and <a href=\"https://deepstatemap.live/en#14/48.3808223/37.2880194\">Fedorivka.</a>",
+    "updatedAt": "2025-07-19T21:11:36.346Z",
+    "datetime": "19.07 o 22:50",
+    "status": true,
+    "createdAt": "2025-07-19T20:50:06.000Z",
+    "liberated": 41831.67018655722,
+    "occupied": 70092.91205474753,
+    "unspecified": 990.3997667448446,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
