@@ -17011,5 +17011,19 @@
     "unspecified": 990.3997667448446,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1753041538,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.3003829/37.4118804\">Новоторецького</a>, <a href=\"https://deepstatemap.live/#14/48.2329618/37.1434849\">Шевченка</a>, <a href=\"https://deepstatemap.live/#14/48.4219664/37.4789134\">Полтавки</a>, у <a href=\"https://deepstatemap.live/#14/47.8753568/36.6883672\">Вільному Полі</a>, <a href=\"https://deepstatemap.live/#14/48.0221305/36.9322551\">Андріївці</a> та <a href=\"https://deepstatemap.live/#14/48.4211117/37.4541916\">Поповому Яру</a>. Тривають бої у <a href=\"https://deepstatemap.live/#13/51.1420746/34.7698452\">Кіндратівці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.3003829/37.4118804\">Novotoretske</a>, <a href=\"https://deepstatemap.live/en#14/48.2329618/37.1434849\">Shevchenko</a>, <a href=\"https://deepstatemap.live/en#14/48.4219664/37.4789134\">Poltavka</a>, in <a href=\"https://deepstatemap.live/en#14/47.8753568/36.6883672\">Vilne Pole</a>, <a href=\"https://deepstatemap.live/en#14/48.0221305/36.9322551\">Andriivka</a> and <a href=\"https://deepstatemap.live/en#14/48.4211117/37.4541916\">Popovyi Yar</a>. Fighting continues in <a href=\"https://deepstatemap.live/en#13/51.1420746/34.7698452\">Kindrativka</a>.",
+    "updatedAt": "2025-07-20T21:33:31.628Z",
+    "datetime": "20.07 o 21:58",
+    "status": true,
+    "createdAt": "2025-07-20T19:58:58.000Z",
+    "liberated": 41831.67018655722,
+    "occupied": 70106.43732975343,
+    "unspecified": 982.2640020961518,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
