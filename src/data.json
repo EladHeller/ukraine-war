@@ -17025,5 +17025,33 @@
     "unspecified": 983.7291592895883,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1753127376,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#15/48.0460402/36.7120584\">Грушівське</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/47.9491124/36.7019781\">Воскресенки</a>, <a href=\"https://deepstatemap.live/#14/48.0693037/36.9305426\">Горіхового</a>, <a href=\"https://deepstatemap.live/#13/48.4228212/37.3171112\">Маяка</a> та <a href=\"https://deepstatemap.live/#13/48.3866838/37.2621740\">Затишку</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#15/48.0460402/36.7120584\">Hrushivske</a> and advanced near <a href=\"https://deepstatemap.live/en#14/47.9491124/36.7019781\">Voskresenka</a>, <a href=\"https://deepstatemap.live/en#14/48.0693037/36.9305426\">Horikhove</a>, <a href=\"https://deepstatemap.live/en#13/48.4228212/37.3171112\">Mayak</a> and <a href=\"https://deepstatemap.live/en#13/48.3866838/37.2621740\">Zatyshok</a>.",
+    "updatedAt": "2025-07-22T06:52:08.732Z",
+    "datetime": "21.07 o 21:49",
+    "status": true,
+    "createdAt": "2025-07-21T19:49:36.000Z",
+    "liberated": 41831.67018655722,
+    "occupied": 70127.16863659523,
+    "unspecified": 984.0924912953366,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1753215731,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/47.9796966/36.6393180\">Олександрограду</a>, <a href=\"https://deepstatemap.live/#13/47.9647612/36.7274716\">Комара</a>, <a href=\"https://deepstatemap.live/#13/47.9468210/36.6723627\">Воскресенки</a>, <a href=\"https://deepstatemap.live/#14/48.4661513/37.8694437\">Диліївки</a>, <a href=\"https://deepstatemap.live/#13/49.0064538/38.0482329\">Торського</a>, <a href=\"https://deepstatemap.live/#14/49.1538715/37.7397540\">Карпівки</a> та у <a href=\"https://deepstatemap.live/#14/48.3756832/37.7963147\">Леонідівці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.9796966/36.6393180\">Oleksandhorod</a>, <a href=\"https://deepstatemap.live/en#13/47.9647612/36.7274716\">Komar</a>, <a href=\"https://deepstatemap.live/en#13/47.9468210/36.6723627\">Voskresenka</a>, <a href=\"https://deepstatemap.live/en#14/48.4661513/37.8694437\">Diliyivka</a>, <a href=\"https://deepstatemap.live/en#13/49.0064538/38.0482329\">Torske</a>, <a href=\"https://deepstatemap.live/en#14/49.1538715/37.7397540\">Karpivka</a> and <a href=\"https://deepstatemap.live/en#14/48.3756832/37.7963147\">Leonidivka</a>.",
+    "updatedAt": "2025-07-22T21:23:43.274Z",
+    "datetime": "22.07 o 22:22",
+    "status": true,
+    "createdAt": "2025-07-22T20:22:11.000Z",
+    "liberated": 41797.84137618339,
+    "occupied": 70149.6602126112,
+    "unspecified": 1014.2757436924118,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
