@@ -17053,5 +17053,19 @@
     "unspecified": 1014.2757436924118,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1753301500,
+    "description": "Уточнено лінію зіткнення біля <a href=\"https://deepstatemap.live/#14/49.1825354/37.7982044\">Рідкодубу</a> та <a href=\"https://deepstatemap.live/#13/49.1512903/37.7400926\">Карпівки</a>. Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/48.3334242/37.3538603\">Новоекономічного</a> та <a href=\"https://deepstatemap.live/#13/49.4232549/37.7933111\">Зеленого Гаю</a>.",
+    "descriptionEn": "The line of contact near <a href=\"https://deepstatemap.live/en#14/49.1825354/37.7982044\">Ridkodub</a> and <a href=\"https://deepstatemap.live/en#13/49.1512903/37.7400926\">Karpivka</a> has been clarified. The enemy advanced near <a href=\"https://deepstatemap.live/en#13/48.3334242/37.3538603\">Novoekonomichne</a> and <a href=\"https://deepstatemap.live/en#13/49.4232549/37.7933111\">Zelenyi Hai</a>.",
+    "updatedAt": "2025-07-23T20:31:48.962Z",
+    "datetime": "23.07 o 22:11",
+    "status": true,
+    "createdAt": "2025-07-23T20:11:40.000Z",
+    "liberated": 41815.5637242854,
+    "occupied": 70164.57760829512,
+    "unspecified": 983.2066400854569,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
