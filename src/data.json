@@ -17067,5 +17067,33 @@
     "unspecified": 983.2066400854569,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1753389946,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/47.5428185/35.3654999\">Кам'янському</a> та біля <a href=\"https://deepstatemap.live/#14/48.4095486/37.6322938\">Яблунівки</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/47.5428185/35.3654999\">Kamianske</a> and near <a href=\"https://deepstatemap.live/en#14/48.4095486/37.6322938\">Yablunivka</a>.",
+    "updatedAt": "2025-07-25T06:27:43.646Z",
+    "datetime": "24.07 o 22:45",
+    "status": true,
+    "createdAt": "2025-07-24T20:45:46.000Z",
+    "liberated": 41810.66109329605,
+    "occupied": 70168.28985930204,
+    "unspecified": 986.5221117820477,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1753475842,
+    "description": "Сили Оборони України звільнили <a href=\"https://deepstatemap.live/#14/51.1433887/34.7751606\">Кіндратівку</a>. Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/49.7426096/37.5713548\">Мирного</a>, <a href=\"https://deepstatemap.live/#15/49.7380997/37.5934119\">Куп'янська</a>, <a href=\"https://deepstatemap.live/#13/48.4712018/37.9289251\">Курдюмівки</a>, <a href=\"https://deepstatemap.live/#14/47.9365658/36.6478943\">Воскресенки</a> та <a href=\"https://deepstatemap.live/#14/48.3072198/37.3911895\">Миролюбівки</a>.",
+    "descriptionEn": "Ukrainian Defense Forces liberated <a href=\"https://deepstatemap.live/en#14/51.1433887/34.7751606\">Kindrativka</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.7426096/37.5713548\">Myrne</a>, <a href=\"https://deepstatemap.live/en#15/49.7380997/37.5934119\">Kupyansk</a>, <a href=\"https://deepstatemap.live/en#13/48.4712018/37.9289251\">Kurdyumivka</a>, <a href=\"https://deepstatemap.live/en#14/47.9365658/36.6478943\">Voskresenka</a> and <a href=\"https://deepstatemap.live/en#14/48.3072198/37.3911895\">Myroliubivka</a>.",
+    "updatedAt": "2025-07-25T20:49:26.056Z",
+    "datetime": "25.07 o 22:37",
+    "status": true,
+    "createdAt": "2025-07-25T20:37:22.000Z",
+    "liberated": 41799.65932958594,
+    "occupied": 70184.31862173266,
+    "unspecified": 994.3641018807512,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
