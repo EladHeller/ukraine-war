@@ -17095,5 +17095,19 @@
     "unspecified": 994.3641018807512,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1753563288,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/50.3194379/37.0349989\">Вовчанських Хуторів</a>, <a href=\"https://deepstatemap.live/#14/48.4172396/37.6417378\">Яблунівки</a> та <a href=\"https://deepstatemap.live/#14/48.0874217/36.9171482\">Горіхового</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/50.3194379/37.0349989\">Vovchanskі Khutory</a>, <a href=\"https://deepstatemap.live/en#14/48.4172396/37.6417378\">Yablunivka</a> and <a href=\"https://deepstatemap.live/en#14/48.0874217/36.9171482\">Horikhove</a>.",
+    "updatedAt": "2025-07-26T21:14:28.272Z",
+    "datetime": "26.07 o 22:54",
+    "status": true,
+    "createdAt": "2025-07-26T20:54:48.000Z",
+    "liberated": 41797.57596324999,
+    "occupied": 70192.23575930356,
+    "unspecified": 988.5303306458052,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
