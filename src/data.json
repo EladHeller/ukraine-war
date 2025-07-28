@@ -17109,5 +17109,19 @@
     "unspecified": 988.5303306458052,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1753646472,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.0654354/36.6560120\">Зеленому Гаю</a>, біля <a href=\"https://deepstatemap.live/#14/47.9946650/36.6583083\">Піддубного</a>, <a href=\"https://deepstatemap.live/#14/48.0430884/36.6272180\">Андріївки-Клевцового</a> та <a href=\"https://deepstatemap.live/#14/48.4061845/37.4214073\">Попового Яру</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.0654354/36.6560120\">Zelenyi Hai</a>, near <a href=\"https://deepstatemap.live/en#14/47.9946650/36.6583083\">Piddubne</a>, <a href=\"https://deepstatemap.live/en#14/48.0430884/36.6272180\">Andriivka-Klevtseve</a> and <a href=\"https://deepstatemap.live/en#14/48.4061845/37.4214073\">Popiv Yar</a>.",
+    "updatedAt": "2025-07-27T20:21:39.684Z",
+    "datetime": "27.07 o 22:01",
+    "status": true,
+    "createdAt": "2025-07-27T20:01:12.000Z",
+    "liberated": 41797.57596324999,
+    "occupied": 70202.82182656034,
+    "unspecified": 1011.4185270653658,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
