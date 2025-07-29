@@ -17123,5 +17123,19 @@
     "unspecified": 1011.4185270653658,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1753735565,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#13/48.4235200/37.4239071\">Полтавки</a> та у <a href=\"https://deepstatemap.live/#14/47.9533121/36.6475566\">Воскресенці</a>. Уточнено район західніше <a href=\"https://deepstatemap.live/#14/47.9900436/36.6474707\">Піддубного</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/48.4235200/37.4239071\">Poltavka</a> and in <a href=\"https://deepstatemap.live/en#14/47.9533121/36.6475566\">Voskresenka</a>. The area to the west of <a href=\"https://deepstatemap.live/en#14/47.9900436/36.6474707\">Piddubne</a> has been clarified.",
+    "updatedAt": "2025-07-28T20:58:57.279Z",
+    "datetime": "28.07 o 22:46",
+    "status": true,
+    "createdAt": "2025-07-28T20:46:05.000Z",
+    "liberated": 41797.57596324999,
+    "occupied": 70207.4527150518,
+    "unspecified": 1017.5609883021419,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
