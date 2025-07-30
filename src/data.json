@@ -17137,5 +17137,19 @@
     "unspecified": 1017.5609883021419,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1753821031,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/48.3520840/37.2706877\">Разіного</a>, <a href=\"https://deepstatemap.live/#14/47.8260483/36.5998301\">Темирівки</a>, <a href=\"https://deepstatemap.live/#14/47.9335396/36.6426614\">Маліївки</a>, <a href=\"https://deepstatemap.live/#14/47.9755631/36.6367429\">Олександрограда</a> та в <a href=\"https://deepstatemap.live/#14/48.4226507/37.6546103\">Яблунівці</a>, ",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.3520840/37.2706877\">Razine</a>, <a href=\"https://deepstatemap.live/en#14/47.8260483/36.5998301\">Temyrivka</a>, <a href=\"https://deepstatemap.live/en#14/47.9335396/36.6426614\">Maliivka</a>, <a href=\"https://deepstatemap.live/en#14/47.9755631/36.6367429\">Oleksandohrad</a> and <a href=\"https://deepstatemap.live/en#14/48.4226507/37.6546103\">Yablunivka</a>, ",
+    "updatedAt": "2025-07-29T21:04:04.115Z",
+    "datetime": "29.07 o 22:30",
+    "status": true,
+    "createdAt": "2025-07-29T20:30:31.000Z",
+    "liberated": 41797.57596324999,
+    "occupied": 70220.39619901984,
+    "unspecified": 1018.4991191423841,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
