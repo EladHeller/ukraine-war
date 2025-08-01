@@ -17151,5 +17151,19 @@
     "unspecified": 1018.4991191423841,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1753908830,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/47.5480497/35.3592073\">Кам'янське</a> та <a href=\"https://deepstatemap.live/#14/48.8615581/38.1786908\">Верхньокам'янське</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#13/48.8310540/38.1896774\">Івано-Дар'ївки</a> та <a href=\"https://deepstatemap.live/#13/48.5034222/37.9254918\">Білої Гори</a>. Уточнено лінію фронту біля <a href=\"https://deepstatemap.live/#14/47.9300407/36.6425808\">Маліївки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/47.5480497/35.3592073\">Kamianske</a> and <a href=\"https://deepstatemap.live/en#14/48.8615581/38.1786908\">Verkhnekamianske</a>, and advanced near <a href=\"https://deepstatemap.live/en#13/48.8310540/38.1896774\">Ivano-Daryivka</a> and <a href=\"https://deepstatemap.live/en#13/48.5034222/37.9254918\">Bila Hora</a>. The front line near <a href=\"https://deepstatemap.live/en#14/47.9300407/36.6425808\">Maliivka</a> has been clarified.",
+    "updatedAt": "2025-07-31T06:06:47.188Z",
+    "datetime": "30.07 o 22:53",
+    "status": true,
+    "createdAt": "2025-07-30T20:53:50.000Z",
+    "liberated": 41797.50349323524,
+    "occupied": 70240.90386313647,
+    "unspecified": 1018.2958651387869,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
