@@ -17165,5 +17165,19 @@
     "unspecified": 1018.2958651387869,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1753989730,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.5742755/37.8429219\">Часовому Яру</a>, <a href=\"https://deepstatemap.live/#15/48.4026814/37.8276005\">Торецьку</a>, <a href=\"https://deepstatemap.live/#14/48.0689630/36.6557989\">Зеленому Гаю</a>, поблизу <a href=\"https://deepstatemap.live/#14/48.0473830/36.9191531\">Олексіївки</a> та <a href=\"https://deepstatemap.live/#14/48.0245994/36.6334834\">Андріївки-Клевцевого</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.5742755/37.8429219\">Chasіv Yar</a>, <a href=\"https://deepstatemap.live/en#15/48.4026814/37.8276005\">Toretsk</a>, <a href=\"https://deepstatemap.live/en#14/48.0689630/36.6557989\">Zelenyi Hai</a>, near <a href=\"https://deepstatemap.live/en#14/48.0473830/36.9191531\">Oleksiyivka</a> and <a href=\"https://deepstatemap.live/en#14/48.0245994/36.6334834\">Andriivka-Klevtseve</a>.",
+    "updatedAt": "2025-08-01T14:53:24.370Z",
+    "datetime": "31.07 o 21:22",
+    "status": true,
+    "createdAt": "2025-07-31T19:22:10.000Z",
+    "liberated": 41796.19257439466,
+    "occupied": 70256.70202082442,
+    "unspecified": 1013.376539463832,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
