@@ -17179,5 +17179,19 @@
     "unspecified": 1013.376539463832,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1754077960,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/47.9415892/36.6399198\">Воскресенки</a>, <a href=\"https://deepstatemap.live/#14/48.3821844/37.8026863\">Щербинівки</a>, <a href=\"https://deepstatemap.live/#14/48.9176578/38.1962856\">Григорівки</a> та <a href=\"https://deepstatemap.live/#14/47.8883017/36.6735637\">Шевченка</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.9415892/36.6399198\">Voskresenka</a>, <a href=\"https://deepstatemap.live/en#14/48.3821844/37.8026863\">Shcherbynivka</a>, <a href=\"https://deepstatemap.live/en#14/48.9176578/38.1962856\">Hryhorivka</a> and <a href=\"https://deepstatemap.live/en#14/47.8883017/36.6735637\">Shevchenko</a>.",
+    "updatedAt": "2025-08-02T06:25:08.459Z",
+    "datetime": "01.08 o 21:52",
+    "status": true,
+    "createdAt": "2025-08-01T19:52:40.000Z",
+    "liberated": 41796.19257439466,
+    "occupied": 70266.24610430707,
+    "unspecified": 1019.0208689806406,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
