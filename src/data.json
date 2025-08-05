@@ -17207,5 +17207,19 @@
     "unspecified": 1025.9730561448575,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1754251105,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.3767248/37.2320628\">Сухецькому</a>, біля <a href=\"https://deepstatemap.live/#13/48.4107478/37.3607274\">Новоторецького</a> та <a href=\"https://deepstatemap.live/#14/47.8456600/36.6443013\">Зеленого Поля</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.3767248/37.2320628\">Sukhetske</a>, near <a href=\"https://deepstatemap.live/en#13/48.4107478/37.3607274\">Novotoretske</a> and <a href=\"https://deepstatemap.live/en#14/47.8456600/36.6443013\">Zelene Pole</a>.",
+    "updatedAt": "2025-08-04T05:59:46.998Z",
+    "datetime": "03.08 o 21:58",
+    "status": true,
+    "createdAt": "2025-08-03T19:58:25.000Z",
+    "liberated": 41783.326088771246,
+    "occupied": 70304.16203822521,
+    "unspecified": 1012.2757758201952,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
