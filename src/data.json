@@ -17221,5 +17221,19 @@
     "unspecified": 1012.2757758201952,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1754337470,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.4203725/37.4560834\">Попів Яр</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/48.4254208/37.8335326\">Торецька</a>, <a href=\"https://deepstatemap.live/#15/48.3977811/37.8115516\">Щербинівки</a>, <a href=\"https://deepstatemap.live/#14/47.9577985/36.6854100\">Воскресенки</a> та <a href=\"https://deepstatemap.live/#14/48.4315396/37.4628647\">Полтавки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.4203725/37.4560834\">Popiv Yar</a> and advanced near <a href=\"https://deepstatemap.live/en#14/48.4254208/37.8335326\">Toretsk</a>, <a href=\"https://deepstatemap.live/en#15/48.3977811/37.8115516\">Shcherbynivka</a>, <a href=\"https://deepstatemap.live/en#14/47.9577985/36.6854100\">Voskresenka</a> and <a href=\"https://deepstatemap.live/en#14/48.4315396/37.4628647\">Poltavka</a>.",
+    "updatedAt": "2025-08-05T06:35:07.042Z",
+    "datetime": "04.08 o 21:57",
+    "status": true,
+    "createdAt": "2025-08-04T19:57:50.000Z",
+    "liberated": 41783.326088771246,
+    "occupied": 70318.57897291328,
+    "unspecified": 1001.5788128013473,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
