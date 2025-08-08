@@ -17249,5 +17249,19 @@
     "unspecified": 1003.4508277857863,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1754509454,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.9282494/38.2144861\">Білогорівки</a>, <a href=\"https://deepstatemap.live/#14/48.2312450/36.9787743\">Удачного</a>, <a href=\"https://deepstatemap.live/#15/47.7879299/36.5902239\">Новополя</a>, <a href=\"https://deepstatemap.live/#14/48.1840593/36.9461630\">Новомиколаївки</a>, <a href=\"https://deepstatemap.live/#14/48.3659426/37.2724050\">Федорівки</a> та <a href=\"https://deepstatemap.live/#14/48.6242865/37.8277298\">Григорівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.9282494/38.2144861\">Bilohorivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2312450/36.9787743\">Udachne</a>, <a href=\"https://deepstatemap.live/en#15/47.7879299/36.5902239\">Novopil</a>, <a href=\"https://deepstatemap.live/en#14/48.1840593/36.9461630\">Novomykolaivka</a>, <a href=\"https://deepstatemap.live/en#14/48.3659426/37.2724050\">Fedorivka</a> and <a href=\"https://deepstatemap.live/en#14/48.6242865/37.8277298\">Hryhorivka</a>.",
+    "updatedAt": "2025-08-07T06:20:31.445Z",
+    "datetime": "06.08 o 21:44",
+    "status": true,
+    "createdAt": "2025-08-06T19:44:14.000Z",
+    "liberated": 41776.06816009134,
+    "occupied": 70371.62006484393,
+    "unspecified": 991.9427528475786,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
