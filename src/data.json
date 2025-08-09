@@ -17263,5 +17263,33 @@
     "unspecified": 991.9427528475786,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1754599997,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#13/48.9510180/38.1692503\">Серебрянському лісництві</a>, <a href=\"https://deepstatemap.live/#14/48.0672970/36.6576006\">Зеленому Гаю</a> та поблизу <a href=\"https://deepstatemap.live/#14/48.0361920/36.8412877\">Дачного</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#13/48.9510180/38.1692503\">Serebryanske forestry</a>, <a href=\"https://deepstatemap.live/en#14/48.0672970/36.6576006\">Zelenyi Hai</a> and near <a href=\"https://deepstatemap.live/en#14/48.0361920/36.8412877\">Dachne</a>.",
+    "updatedAt": "2025-08-08T06:04:09.593Z",
+    "datetime": "07.08 o 22:53",
+    "status": true,
+    "createdAt": "2025-08-07T20:53:17.000Z",
+    "liberated": 41772.16705969238,
+    "occupied": 70383.80975779533,
+    "unspecified": 997.3101828733471,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1754686222,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#15/48.0619336/36.6900866\">Новохатське</a> та <a href=\"https://deepstatemap.live/#15/48.0392056/36.6788416\">Толстой</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.8876115/38.1820268\">Верхньокам'янського</a>, <a href=\"https://deepstatemap.live/#13/48.3751211/37.7630939\">Новоспаського</a>, <a href=\"https://deepstatemap.live/#13/48.4225388/37.2846394\">Никанорівки</a>, у <a href=\"https://deepstatemap.live/#14/47.9561464/36.6414354\">Воскресенці</a>, <a href=\"https://deepstatemap.live/#15/48.0691435/36.6483170\">Зеленому Гаю</a> та <a href=\"https://deepstatemap.live/#15/48.4027197/37.8130438\">Торецьку</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#15/48.0619336/36.6900866\">Novokhatske</a> and <a href=\"https://deepstatemap.live/en#15/48.0392056/36.6788416\">Tolstoy</a>, and advanced near <a href=\"https://deepstatemap.live/en#14/48.8876115/38.1820268\">Verkhnekamianske</a>, <a href=\"https://deepstatemap.live/en#13/48.3751211/37.7630939\">Novospaske</a>, <a href=\"https://deepstatemap.live/en#13/48.4225388/37.2846394\">Nikanorivka</a>, <a href=\"https://deepstatemap.live/en#14/47.9561464/36.6414354\">Voskresenka</a>, <a href=\"https://deepstatemap.live/en#15/48.0691435/36.6483170\">Zelenyi Hai</a> and <a href=\"https://deepstatemap.live/en#15/48.4027197/37.8130438\">Toretsk</a>.",
+    "updatedAt": "2025-08-08T21:02:34.999Z",
+    "datetime": "08.08 o 22:50",
+    "status": true,
+    "createdAt": "2025-08-08T20:50:22.000Z",
+    "liberated": 41772.16705969238,
+    "occupied": 70415.78522199123,
+    "unspecified": 990.3024043250089,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
