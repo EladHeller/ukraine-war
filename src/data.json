@@ -17305,5 +17305,33 @@
     "unspecified": 1012.1338165859685,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1754856012,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/48.3866959/37.2582426\">Затишок</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.3972434/37.2163530\">Білицького</a>, <a href=\"https://deepstatemap.live/#14/48.6540145/37.8357094\">Новомаркового</a>, <a href=\"https://deepstatemap.live/#13/48.4613129/37.8521900\">Диліївки</a> та в <a href=\"https://deepstatemap.live/#14/48.4153635/37.6727168\">Олександро-Калиновому</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.3866959/37.2582426\">Zatyshok</a>, and advanced near <a href=\"https://deepstatemap.live/en#14/48.3972434/37.2163530\">Bilytske</a>, <a href=\"https://deepstatemap.live/en#14/48.6540145/37.8357094\">Novomarkove</a>, <a href=\"https://deepstatemap.live/en#13/48.4613129/37.8521900\">Diliyivka</a> and <a href=\"https://deepstatemap.live/en#14/48.4153635/37.6727168\">Oleksandro-Kalynove</a>.",
+    "updatedAt": "2025-08-11T05:03:56.018Z",
+    "datetime": "10.08 o 22:00",
+    "status": true,
+    "createdAt": "2025-08-10T20:00:12.000Z",
+    "liberated": 41767.999811380636,
+    "occupied": 70448.06195144553,
+    "unspecified": 1005.895065740185,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1754929073,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/48.5124001/37.2901759\">Кучеревого Яру</a>, <a href=\"https://deepstatemap.live/#13/48.5045503/37.2457111\">Золотого Колодязя</a> та <a href=\"https://deepstatemap.live/#14/48.6120831/37.7937417\">Майського</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/48.5124001/37.2901759\">Kucheriv Yar</a>, <a href=\"https://deepstatemap.live/en#13/48.5045503/37.2457111\">Zolotyi Kolodyazh</a> and <a href=\"https://deepstatemap.live/en#14/48.6120831/37.7937417\">Mayske</a>.",
+    "updatedAt": "2025-08-11T16:18:54.321Z",
+    "datetime": "11.08 o 18:17",
+    "status": true,
+    "createdAt": "2025-08-11T16:17:53.000Z",
+    "liberated": 41767.999811380636,
+    "occupied": 70474.33374627291,
+    "unspecified": 1033.9832797373404,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
