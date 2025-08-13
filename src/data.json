@@ -17333,5 +17333,19 @@
     "unspecified": 1033.9832797373404,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1755030242,
+    "description": "Сили Оборони України зачистили околиці <a href=\"https://deepstatemap.live/#14/47.5762796/35.3622691\">Степногірська</a>. Ворог просунувся у <a href=\"https://deepstatemap.live/#13/48.4175634/37.2528997\">Никанорівці</a>, <a href=\"https://deepstatemap.live/#14/48.3881148/37.8003553\">Щербинівці</a> та поблизу <a href=\"https://deepstatemap.live/#14/48.3902815/37.7594958\">Петрівки</a>. ",
+    "descriptionEn": "Ukrainian Defense Forces cleared the outskirts of <a href=\"https://deepstatemap.live/en#14/47.5762796/35.3622691\">Stepnohirsk</a>. The enemy advanced in <a href=\"https://deepstatemap.live/en#13/48.4175634/37.2528997\">Nikanorivka</a>, <a href=\"https://deepstatemap.live/en#14/48.3881148/37.8003553\">Shcherbynivka</a> and near <a href=\"https://deepstatemap.live/en#14/48.3902815/37.7594958\">Petrivka</a>. ",
+    "updatedAt": "2025-08-12T20:31:24.899Z",
+    "datetime": "12.08 o 22:24",
+    "status": true,
+    "createdAt": "2025-08-12T20:24:02.000Z",
+    "liberated": 41768.29317733233,
+    "occupied": 70481.85221339371,
+    "unspecified": 1040.9743894168382,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
