@@ -17347,5 +17347,19 @@
     "unspecified": 1040.9743894168382,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1755113669,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.6775850/36.4950372\">Малинівки</a>, <a href=\"https://deepstatemap.live/#13/48.4463956/37.4456963\">Полтавки</a>, <a href=\"https://deepstatemap.live/#14/47.9412401/36.6207776\">Січневого</a> та <a href=\"https://deepstatemap.live/#14/48.6064670/37.7715961\">Майського</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.6775850/36.4950372\">Malynivka</a>, <a href=\"https://deepstatemap.live/en#13/48.4463956/37.4456963\">Poltavka</a>, <a href=\"https://deepstatemap.live/en#14/47.9412401/36.6207776\">Sichneve</a> and <a href=\"https://deepstatemap.live/en#14/48.6064670/37.7715961\">Mayske</a>.",
+    "updatedAt": "2025-08-14T06:35:25.999Z",
+    "datetime": "13.08 o 21:34",
+    "status": true,
+    "createdAt": "2025-08-13T19:34:29.000Z",
+    "liberated": 41764.864704429165,
+    "occupied": 70494.6044467985,
+    "unspecified": 1040.4633778211503,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
