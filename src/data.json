@@ -17361,5 +17361,33 @@
     "unspecified": 1040.4633778211503,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1755202915,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/48.0380403/36.8910564\">Олексіївки</a>, <a href=\"https://deepstatemap.live/#14/47.8398998/36.5951179\">Зеленого Поля</a> та в <a href=\"https://deepstatemap.live/#14/47.8215128/36.5719413\">Темирівці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/48.0380403/36.8910564\">Oleksiyivka</a>, <a href=\"https://deepstatemap.live/en#14/47.8398998/36.5951179\">Zelene Pole</a> and <a href=\"https://deepstatemap.live/en#14/47.8215128/36.5719413\">Temyrivka</a>.",
+    "updatedAt": "2025-08-15T05:40:41.371Z",
+    "datetime": "14.08 o 22:21",
+    "status": true,
+    "createdAt": "2025-08-14T20:21:55.000Z",
+    "liberated": 41764.864704429165,
+    "occupied": 70511.03398422305,
+    "unspecified": 1034.73853880124,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1755275833,
+    "description": "Сили Оборони України відкинули ворога поблизу <a href=\"https://deepstatemap.live/#14/48.5269504/37.1928397\">Рубіжного</a>, <a href=\"https://deepstatemap.live/#14/48.5288836/37.2358452\">Золотого Колодязя</a>, <a href=\"https://deepstatemap.live/#14/48.5411639/37.2733570\">Веселого</a>, <a href=\"https://deepstatemap.live/#14/48.4735504/37.2292339\">Вільного</a>, <a href=\"https://deepstatemap.live/#14/48.4836215/37.3114612\">Шахового</a>, <a href=\"https://deepstatemap.live/#14/48.4197972/37.2530047\">Никанорівки</a> та <a href=\"https://deepstatemap.live/#15/48.3922847/37.2128947\">Сухецького</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces drove back the enemy near <a href=\"https://deepstatemap.live/en#14/48.5269504/37.1928397\">Rubizhne</a>, <a href=\"https://deepstatemap.live/en#14/48.5288836/37.2358452\">Zolotyi Kolodyazh</a>, <a href=\"https://deepstatemap.live/en#14/48.5411639/37.2733570\">Vesele</a>, <a href=\"https://deepstatemap.live/en#14/48.4735504/37.2292339\">Vesele</a>, <a href=\"https://deepstatemap.live/en#14/48.4836215/37.3114612\">Shakhove</a>, <a href=\"https://deepstatemap.live/en#14/48.4197972/37.2530047\">Nykanorivka</a> and <a href=\"https://deepstatemap.live/en#15/48.3922847/37.2128947\">Sukhetske</a>.",
+    "updatedAt": "2025-08-15T17:20:59.482Z",
+    "datetime": "15.08 o 18:37",
+    "status": true,
+    "createdAt": "2025-08-15T16:37:13.000Z",
+    "liberated": 41800.50933694783,
+    "occupied": 70498.7550578243,
+    "unspecified": 999.5516329041546,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
