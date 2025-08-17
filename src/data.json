@@ -17389,5 +17389,19 @@
     "unspecified": 999.5516329041546,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1755354461,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#14/49.4115301/37.7884194\">Зелений Гай</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#13/49.4567472/37.7802657\">Лозової</a> та <a href=\"https://deepstatemap.live/#13/48.4339811/37.4201221\">Попового Яру</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#14/49.4115301/37.7884194\">Zelenyi Hai</a> and advanced near <a href=\"https://deepstatemap.live/en#13/49.4567472/37.7802657\">Lozova</a> and <a href=\"https://deepstatemap.live/en#13/48.4339811/37.4201221\">Popiv Yar</a>.",
+    "updatedAt": "2025-08-16T14:36:35.230Z",
+    "datetime": "16.08 o 16:27",
+    "status": true,
+    "createdAt": "2025-08-16T14:27:41.000Z",
+    "liberated": 41780.49333021842,
+    "occupied": 70519.78386978607,
+    "unspecified": 998.5388276722233,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
