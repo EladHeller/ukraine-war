@@ -17417,5 +17417,19 @@
     "unspecified": 1006.0605943342002,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1755546832,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/47.8048435/36.5762291\">Темирівки</a>, <a href=\"https://deepstatemap.live/#14/47.7466551/36.5667053\">Ольгівського</a> та <a href=\"https://deepstatemap.live/#14/48.1599606/36.9154358\">Муравки</a>. Уточнено лінію зіткнення біля <a href=\"https://deepstatemap.live/#14/49.3905252/37.8194072\">Зеленого Гаю</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.8048435/36.5762291\">Temyrivka</a>, <a href=\"https://deepstatemap.live/en#14/47.7466551/36.5667053\">Olhivske</a> and <a href=\"https://deepstatemap.live/en#14/48.1599606/36.9154358\">Muravka</a>. The contact line near <a href=\"https://deepstatemap.live/en#14/49.3905252/37.8194072\">Zelenyi Hai</a> has been clarified.",
+    "updatedAt": "2025-08-18T20:04:42.655Z",
+    "datetime": "18.08 o 21:53",
+    "status": true,
+    "createdAt": "2025-08-18T19:53:52.000Z",
+    "liberated": 41776.417847950615,
+    "occupied": 70538.93284999262,
+    "unspecified": 1004.1034542737384,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
