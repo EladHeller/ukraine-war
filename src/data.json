@@ -17441,8 +17441,22 @@
     "status": true,
     "createdAt": "2025-08-19T20:09:13.000Z",
     "liberated": 41773.32707282969,
-    "occupied": 70557.38091641228,
+    "occupied": 70557.10106093201,
     "unspecified": 992.7086978161692,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1755721518,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/49.0136336/37.9865192\">Торського</a>, <a href=\"https://deepstatemap.live/#14/48.0673717/36.7293565\">Філії</a>, <a href=\"https://deepstatemap.live/#14/47.8400643/36.5469623\">Запорізького</a>, <a href=\"https://deepstatemap.live/#14/47.9303769/36.6134810\">Маліївки</a> та <a href=\"https://deepstatemap.live/#13/47.8743407/36.6491944\">Вільного Поля</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.0136336/37.9865192\">Torske</a>, <a href=\"https://deepstatemap.live/en#14/48.0673717/36.7293565\">Filiya</a>, <a href=\"https://deepstatemap.live/en#14/47.8400643/36.5469623\">Zaporizke</a>, <a href=\"https://deepstatemap.live/en#14/47.9303769/36.6134810\">Maliivka</a> and <a href=\"https://deepstatemap.live/en#13/47.8743407/36.6491944\">Vilne Pole</a>.",
+    "updatedAt": "2025-08-20T20:59:43.503Z",
+    "datetime": "20.08 o 22:25",
+    "status": true,
+    "createdAt": "2025-08-20T20:25:18.000Z",
+    "liberated": 41769.956507038914,
+    "occupied": 70590.18844007977,
+    "unspecified": 984.8118000367473,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
   }
