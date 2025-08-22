@@ -17459,5 +17459,19 @@
     "unspecified": 984.8118000367473,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1755806460,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#13/48.9694088/38.0523472\">Серебрянському лісництві</a>, поблизу <a href=\"https://deepstatemap.live/#14/48.9087322/38.1609297\">Серебрянки</a> та <a href=\"https://deepstatemap.live/#14/47.7517283/36.5263654\">Ольгівського</a>. Противника відкинуто з <a href=\"https://deepstatemap.live/#14/48.0388491/36.6768276\">Толстого</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#13/48.9694088/38.0523472\">Serebryanske forestry</a>, near <a href=\"https://deepstatemap.live/en#14/48.9087322/38.1609297\">Serebryanka</a> and <a href=\"https://deepstatemap.live/en#14/47.7517283/36.5263654\">Olhivske</a>. The enemy was pushed back from <a href=\"https://deepstatemap.live/en#14/48.0388491/36.6768276\">Tolstoy</a>.",
+    "updatedAt": "2025-08-21T22:22:28.089Z",
+    "datetime": "21.08 o 22:01",
+    "status": true,
+    "createdAt": "2025-08-21T20:01:00.000Z",
+    "liberated": 41753.71336476838,
+    "occupied": 70611.22142688697,
+    "unspecified": 982.1013991418939,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
