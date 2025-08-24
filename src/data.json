@@ -17473,5 +17473,33 @@
     "unspecified": 982.1013991418939,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1755890284,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#13/48.9782344/38.0401761\">Серебрянському лісництві</a>, поблизу <a href=\"https://deepstatemap.live/#14/49.0291748/37.9780259\">Торського</a> та <a href=\"https://deepstatemap.live/#14/49.0800002/37.9501242\">Ямполівки</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#13/48.9782344/38.0401761\">Serebryanske forestry</a>, near <a href=\"https://deepstatemap.live/en#14/49.0291748/37.9780259\">Torske</a> and <a href=\"https://deepstatemap.live/en#14/49.0800002/37.9501242\">Yampolivka</a>.",
+    "updatedAt": "2025-08-23T08:54:15.031Z",
+    "datetime": "22.08 o 21:18",
+    "status": true,
+    "createdAt": "2025-08-22T19:18:04.000Z",
+    "liberated": 41739.84636140435,
+    "occupied": 70634.6334126043,
+    "unspecified": 976.1363913139088,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1755979268,
+    "description": "Сили Оборони України відкинули противника біля <a href=\"https://deepstatemap.live/#14/51.1414492/34.8162751\">Андріївки</a>. Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/47.8787247/36.6315160\">Вільного Поля</a>, <a href=\"https://deepstatemap.live/#14/47.5546917/35.3867898\">Кам'янського</a> та у <a href=\"https://deepstatemap.live/#14/47.5600796/35.3319443\">Плавнях</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces drove the enemy back near <a href=\"https://deepstatemap.live/en#14/51.1414492/34.8162751\">Andriivka</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#13/47.8787247/36.6315160\">Vilne Pole</a>, <a href=\"https://deepstatemap.live/en#14/47.5546917/35.3867898\">Kamianske</a> and <a href=\"https://deepstatemap.live/en#14/47.5600796/35.3319443\">Plavni</a>.",
+    "updatedAt": "2025-08-23T21:03:38.895Z",
+    "datetime": "23.08 o 22:01",
+    "status": true,
+    "createdAt": "2025-08-23T20:01:08.000Z",
+    "liberated": 41732.90920572959,
+    "occupied": 70643.76183503175,
+    "unspecified": 993.3385379021285,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
