@@ -17501,5 +17501,33 @@
     "unspecified": 993.3385379021285,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1756066782,
+    "description": "Сили Оборони України звільнили <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5899\">Новомихайлівку</a> та відкинули противника у <a href=\"https://deepstatemap.live/#15/48.0709959/36.6490602\">Зеленому Гаю</a>. Ворог просунувся в <a href=\"https://deepstatemap.live/#14/48.2373794/36.9893387\">Удачному</a> та поблизу <a href=\"https://deepstatemap.live/#14/49.7235214/37.5655151\">Соболівки</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces liberated <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5899\">Novomykhailivka</a> and pushed back the enemy in <a href=\"https://deepstatemap.live/en#15/48.0709959/36.6490602\">Zelenyi Hai</a>. The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.2373794/36.9893387\">Udachne</a> and near <a href=\"https://deepstatemap.live/en#14/49.7235214/37.5655151\">Sobolivka</a>.",
+    "updatedAt": "2025-08-25T07:16:16.542Z",
+    "datetime": "24.08 o 22:19",
+    "status": true,
+    "createdAt": "2025-08-24T20:19:42.000Z",
+    "liberated": 41730.169299366484,
+    "occupied": 70644.04738115946,
+    "unspecified": 997.5357702519275,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1756155196,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:4783\">Запорізьке</a> та <a href=\"https://deepstatemap.live/#dl!city!dsm:l:4787\">Новогеоргіївку</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.9103945/36.6500534\">Шевченко</a>, <a href=\"https://deepstatemap.live/#15/48.4765917/37.8555394\">Білої Гори</a> та в <a href=\"https://deepstatemap.live/#15/48.4843838/37.8330924\">Олександро-Шультиному</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:4783\">Zaporizke</a> and <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:4787\">Novoheorhiivka</a>, and advanced near <a href=\"https://deepstatemap.live/en#14/47.9103945/36.6500534\">Shevchenko</a>, <a href=\"https://deepstatemap.live/en#15/48.4765917/37.8555394\">Bila Hora</a>, and <a href=\"https://deepstatemap.live/en#15/48.4843838/37.8330924\">Oleksandr-Shultyno</a>.",
+    "updatedAt": "2025-08-26T09:15:50.151Z",
+    "datetime": "25.08 o 22:53",
+    "status": true,
+    "createdAt": "2025-08-25T20:53:16.000Z",
+    "liberated": 41730.169299366484,
+    "occupied": 70671.36615741118,
+    "unspecified": 997.1509828352832,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
