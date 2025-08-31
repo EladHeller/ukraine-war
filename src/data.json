@@ -17571,5 +17571,19 @@
     "unspecified": 997.5517368200367,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1756500407,
+    "description": "Противника відкинуто у <a href=\"https://deepstatemap.live/#13/49.7237008/37.5679194\">Мирному</a> та <a href=\"https://deepstatemap.live/#15/47.9620837/36.5332736\">Новоселівці</a>. Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/47.8825095/36.5884175\">Комишувахи</a> та <a href=\"https://deepstatemap.live/#14/48.2886184/37.3754894\">Миролюбівки</a>.",
+    "descriptionEn": "The enemy was driven back in <a href=\"https://deepstatemap.live/en#13/49.7237008/37.5679194\">Myrne</a> and <a href=\"https://deepstatemap.live/en#15/47.9620837/36.5332736\">Novoselivka</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#13/47.8825095/36.5884175\">Komyshuvakha</a> and <a href=\"https://deepstatemap.live/en#14/48.2886184/37.3754894\">Mirolyubivka</a>.",
+    "updatedAt": "2025-08-30T06:59:36.374Z",
+    "datetime": "29.08 o 22:46",
+    "status": true,
+    "createdAt": "2025-08-29T20:46:47.000Z",
+    "liberated": 41720.33393261287,
+    "occupied": 70703.88536404088,
+    "unspecified": 991.1600440805673,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
