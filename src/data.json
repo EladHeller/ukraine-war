@@ -17599,5 +17599,19 @@
     "unspecified": 994.8473921609157,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1756672011,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5278\">Комишуваху</a>, а також просунувся біля <a href=\"https://deepstatemap.live/#14/47.8999342/36.6098761\">Маліївки</a> та <a href=\"https://deepstatemap.live/#14/48.2280371/37.1941260\">Новоукраїнки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5278\">Komyshuvakha</a> and advanced near <a href=\"https://deepstatemap.live/en#14/47.8999342/36.6098761\">Maliivka</a> and <a href=\"https://deepstatemap.live/en#14/48.2280371/37.1941260\">Novoukrainka</a>.",
+    "updatedAt": "2025-09-01T09:14:38.039Z",
+    "datetime": "31.08 o 22:26",
+    "status": true,
+    "createdAt": "2025-08-31T20:26:51.000Z",
+    "liberated": 41717.806785766974,
+    "occupied": 70720.68719135865,
+    "unspecified": 986.8899606363237,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
