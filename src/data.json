@@ -17613,5 +17613,19 @@
     "unspecified": 986.8899606363237,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1756758264,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5260\">Воскресенку</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#13/47.9400631/36.6109067\">Маліївки</a> та <a href=\"https://deepstatemap.live/#13/50.0148475/37.8533959\">Кам'янки</a>. Уточнено ситуацію поблизу <a href=\"https://deepstatemap.live/#14/48.0423935/36.8394708\">Дачного</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5260\">Voskresenka</a> and advanced near <a href=\"https://deepstatemap.live/en#13/47.9400631/36.6109067\">Maliivka</a> and <a href=\"https://deepstatemap.live/en#13/50.0148475/37.8533959\">Kamianka</a>. The situation near <a href=\"https://deepstatemap.live/en#14/48.0423935/36.8394708\">Dachne</a> has been clarified.",
+    "updatedAt": "2025-09-02T07:48:09.022Z",
+    "datetime": "01.09 o 22:24",
+    "status": true,
+    "createdAt": "2025-09-01T20:24:24.000Z",
+    "liberated": 41714.597024353694,
+    "occupied": 70731.00073011471,
+    "unspecified": 979.222363999609,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
