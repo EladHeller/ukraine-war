@@ -17627,5 +17627,33 @@
     "unspecified": 979.222363999609,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1756845754,
+    "description": "Сили Оборони відкинули противника поблизу <a href=\"https://deepstatemap.live/#14/48.0269324/36.6580282\">Товстого</a>. Ворог просунувся у <a href=\"https://deepstatemap.live/#14/47.9873444/36.7445452\">Перебудові</a>, поблизу <a href=\"https://deepstatemap.live/#14/47.9234166/36.6279901\">Маліївки</a> та <a href=\"https://deepstatemap.live/#14/47.9369865/36.5928631\">Січневого</a>. Тривають бої у <a href=\"https://deepstatemap.live/#14/49.7321601/37.5649140\">Мировому</a>.",
+    "descriptionEn": "The Defense Forces pushed back the enemy near <a href=\"https://deepstatemap.live/en#14/48.0269324/36.6580282\">Tovste</a>. The enemy advanced in <a href=\"https://deepstatemap.live/en#14/47.9873444/36.7445452\">Perebudova</a>, near <a href=\"https://deepstatemap.live/en#14/47.9234166/36.6279901\">Maliivka</a> and <a href=\"https://deepstatemap.live/en#14/47.9369865/36.5928631\">Sichneve</a>. Fighting continues in <a href=\"https://deepstatemap.live/en#14/49.7321601/37.5649140\">Myrove</a>.",
+    "updatedAt": "2025-09-03T07:25:39.798Z",
+    "datetime": "02.09 o 22:42",
+    "status": true,
+    "createdAt": "2025-09-02T20:42:34.000Z",
+    "liberated": 41706.772284229,
+    "occupied": 70732.3095747385,
+    "unspecified": 1006.019052292781,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1756928326,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/49.6588483/37.8683273\">Степової Новосілки</a>, <a href=\"https://deepstatemap.live/#14/49.0918994/37.8002708\">Дерилового</a> та <a href=\"https://deepstatemap.live/#14/47.5002128/35.9518208\">Малої Токмачки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/49.6588483/37.8683273\">Stepova Novosilka</a>, <a href=\"https://deepstatemap.live/en#14/49.0918994/37.8002708\">Derylove</a> and <a href=\"https://deepstatemap.live/en#14/47.5002128/35.9518208\">Mala Tokmachka</a>.",
+    "updatedAt": "2025-09-04T13:09:11.494Z",
+    "datetime": "03.09 o 21:38",
+    "status": true,
+    "createdAt": "2025-09-03T19:38:46.000Z",
+    "liberated": 41672.59422295078,
+    "occupied": 70760.35932015735,
+    "unspecified": 1038.8302992864442,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
