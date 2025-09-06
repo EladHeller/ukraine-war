@@ -17655,5 +17655,19 @@
     "unspecified": 1038.8302992864442,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1757016951,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.9390519/36.5791488\">Січневого</a> та <a href=\"https://deepstatemap.live/#13/49.9421345/37.7531451\">Красного Першого</a>, уточнено район <a href=\"https://deepstatemap.live/#13/49.6401777/37.8588895\">Степової Новосілки</a> та <a href=\"https://deepstatemap.live/#13/47.4958605/35.9326820\">Малої Токмачки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.9390519/36.5791488\">Sichneve</a> and <a href=\"https://deepstatemap.live/en#13/49.9421345/37.7531451\">Krasne Pershne</a>, and the area of <a href=\"https://deepstatemap.live/en#13/49.6401777/37.8588895\">Stepova Novosilka</a> and <a href=\"https://deepstatemap.live/en#13/47.4958605/35.9326820\">Mala Tokmachka</a> was specified.",
+    "updatedAt": "2025-09-05T09:39:34.025Z",
+    "datetime": "04.09 o 22:15",
+    "status": true,
+    "createdAt": "2025-09-04T20:15:51.000Z",
+    "liberated": 41668.71119281821,
+    "occupied": 70766.65214504908,
+    "unspecified": 1042.4778310907975,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
