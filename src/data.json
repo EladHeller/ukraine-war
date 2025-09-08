@@ -17683,5 +17683,33 @@
     "unspecified": 1034.6277509175134,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1757192127,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.8901601/36.5601815\">Тернового</a>, <a href=\"https://deepstatemap.live/#14/47.9505521/36.5814699\">Січневого</a>, <a href=\"https://deepstatemap.live/#14/47.9372206/36.5145211\">Соснівки</a>, у <a href=\"https://deepstatemap.live/#15/48.2484553/37.1245192\">Звіровому</a> та <a href=\"https://deepstatemap.live/#14/47.9276137/36.5490285\">Воронному</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.8901601/36.5601815\">Ternove</a>,  <a href=\"https://deepstatemap.live/en#14/47.9505521/36.5814699\">Sichneve</a>, <a href=\"https://deepstatemap.live/en#14/47.9372206/36.5145211\">Sosnivka</a>, <a href=\"https://deepstatemap.live/en#15/48.2484553/37.1245192\">Zvirove</a> and <a href=\"https://deepstatemap.live/en#14/47.9276137/36.5490285\">Voronne</a>.",
+    "updatedAt": "2025-09-07T07:07:47.787Z",
+    "datetime": "06.09 o 22:55",
+    "status": true,
+    "createdAt": "2025-09-06T20:55:27.000Z",
+    "liberated": 41666.37804404957,
+    "occupied": 70786.6064968474,
+    "unspecified": 1048.0293460410742,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1757274956,
+    "description": "Сили Оборони України зачистили у <a href=\"https://deepstatemap.live/#12/48.4428123/37.3449731\">Володимирівці</a>, відкинули противника поблизу <a href=\"https://deepstatemap.live/#13/48.3592139/37.3136885\">Разіного</a>, <a href=\"https://deepstatemap.live/#14/48.5012201/37.2419306\">Золотого Колодязя</a> та у <a href=\"https://deepstatemap.live/#14/48.4068061/37.3260512\">Новоторецькому</a>. Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.9529541/38.0860041\">Серебрянському лісництві</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces cleared <a href=\"https://deepstatemap.live/en#12/48.4428123/37.3449731\">Volodymyrivka</a>, pushed back the enemy near <a href=\"https://deepstatemap.live/en#13/48.3592139/37.3136885\">Razine</a>, <a href=\"https://deepstatemap.live/en#14/48.5012201/37.2419306\">Zolotyi Kolodyazh</a> and <a href=\"https://deepstatemap.live/en#14/48.4068061/37.3260512\">Novotoretske</a>. The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.9529541/38.0860041\">Serebryanske forestry</a>.",
+    "updatedAt": "2025-09-07T20:43:35.071Z",
+    "datetime": "07.09 o 21:55",
+    "status": true,
+    "createdAt": "2025-09-07T19:55:56.000Z",
+    "liberated": 41647.794326155185,
+    "occupied": 70784.6037775185,
+    "unspecified": 1074.9450776722674,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
