@@ -17711,5 +17711,47 @@
     "unspecified": 1074.9450776722674,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1757362477,
+    "description": "Уточнено лінію фронту.",
+    "descriptionEn": "The front line has been clarified.",
+    "updatedAt": "2025-09-11T08:25:06.356Z",
+    "datetime": "08.09 o 22:14",
+    "status": true,
+    "createdAt": "2025-09-08T20:14:37.000Z",
+    "liberated": 41647.79334901573,
+    "occupied": 70784.60061821512,
+    "unspecified": 1074.9461284716504,
+    "occupiedInRussia": 16.88335765304671,
+    "occupiedInRussiaUnspecified": 31.64976801770116
+  },
+  {
+    "id": 1757449894,
+    "description": "Уточнено лінію фронту.",
+    "descriptionEn": "The front line has been clarified.",
+    "updatedAt": "2025-09-11T08:25:11.380Z",
+    "datetime": "09.09 o 22:31",
+    "status": true,
+    "createdAt": "2025-09-09T20:31:34.000Z",
+    "liberated": 41647.79334901573,
+    "occupied": 70784.60061821512,
+    "unspecified": 1075.1341759834838,
+    "occupiedInRussia": 16.88335765304671,
+    "occupiedInRussiaUnspecified": 31.64976801770116
+  },
+  {
+    "id": 1757537261,
+    "description": "Сили Оборони України відкинули противника поблизу <a href=\"https://deepstatemap.live/#14/48.4433768/37.3650124\">Володимирівки</a> та <a href=\"https://deepstatemap.live/#14/48.4608023/37.3972880\">Шахового</a>. Ворог просунувся у <a href=\"https://deepstatemap.live/#13/48.9372786/38.1417904\">Серебрянському лісництві</a>, поблизу <a href=\"https://deepstatemap.live/#14/48.4555629/37.4597746\">Полтавки</a> та <a href=\"https://deepstatemap.live/#13/48.4440098/37.2937723\">Паньківки</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces pushed back the enemy near <a href=\"https://deepstatemap.live/en#14/48.4433768/37.3650124\">Volodymyrivka</a> and <a href=\"https://deepstatemap.live/en#14/48.4608023/37.3972880\">Shakhove</a>. The enemy advanced in <a href=\"https://deepstatemap.live/en#13/48.9372786/38.1417904\">Serebryanske forestry</a>, near <a href=\"https://deepstatemap.live/en#14/48.4555629/37.4597746\">Poltavka</a> and <a href=\"https://deepstatemap.live/en#13/48.4440098/37.2937723\">Pankivka</a>.",
+    "updatedAt": "2025-09-11T08:33:23.431Z",
+    "datetime": "10.09 o 22:47",
+    "status": true,
+    "createdAt": "2025-09-10T20:47:41.000Z",
+    "liberated": 41652.35347058368,
+    "occupied": 70790.32325827733,
+    "unspecified": 1069.3793947372997,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
