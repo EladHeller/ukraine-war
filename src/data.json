@@ -17781,5 +17781,19 @@
     "unspecified": 1083.6515519660702,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1757794353,
+    "description": "Сили Оборони України відкинули противника біля <a href=\"https://deepstatemap.live/#14/51.1695474/34.7418594\">Новокостянтинівки</a> та <a href=\"https://deepstatemap.live/#14/51.1568942/34.8076057\">Костянтинівки</a>. Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:9426\">Темирівку</a>, а також просунувся у <a href=\"https://deepstatemap.live/#15/49.7239028/37.5919104\">Куп'янську</a> та поблизу <a href=\"https://deepstatemap.live/#13/47.8009428/36.5180397\">Новоіванівки</a>.",
+    "descriptionEn": "Ukrainian Defense Forces pushed back the enemy near <a href=\"https://deepstatemap.live/en#14/51.1695474/34.7418594\">Novokonstantinovka</a> and <a href=\"https://deepstatemap.live/en#14/51.1568942/34.8076057\">Kostyantynivka</a>. The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:9426\">Temyrivka</a> and advanced in <a href=\"https://deepstatemap.live/en#15/49.7239028/37.5919104\">Kupyansk</a> and near <a href=\"https://deepstatemap.live/en#13/47.8009428/36.5180397\">Novoivanivka</a>.",
+    "updatedAt": "2025-09-14T08:01:50.128Z",
+    "datetime": "13.09 o 22:12",
+    "status": true,
+    "createdAt": "2025-09-13T20:12:33.000Z",
+    "liberated": 41639.39083782901,
+    "occupied": 70813.77722272405,
+    "unspecified": 1107.8728295330932,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
