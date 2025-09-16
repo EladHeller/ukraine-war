@@ -17795,5 +17795,33 @@
     "unspecified": 1107.8728295330932,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1757882511,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/47.7753266/36.5491104\">Новоіванівки</a>, <a href=\"https://deepstatemap.live/#14/48.0786131/36.6861052\">Іванівки </a>та у <a href=\"https://deepstatemap.live/#14/48.2511016/37.1358814\">Звіровому</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/47.7753266/36.5491104\">Novoivanivka</a>, <a href=\"https://deepstatemap.live/en#14/48.0786131/36.6861052\">Ivanivka </a>and <a href=\"https://deepstatemap.live/en#14/48.2511016/37.1358814\">Zvirove</a>.",
+    "updatedAt": "2025-09-15T08:41:01.802Z",
+    "datetime": "14.09 o 22:41",
+    "status": true,
+    "createdAt": "2025-09-14T20:41:51.000Z",
+    "liberated": 41633.15004099392,
+    "occupied": 70826.9635309611,
+    "unspecified": 1135.6013766321278,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1757959670,
+    "description": "Сили Оборони зачистили <a href=\"https://deepstatemap.live/#14/48.4377421/37.3319721\">Панківку</a>. Ворог окупував <a href=\"https://deepstatemap.live/#14/48.9237977/38.1812668\">Григорівку</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.9489434/38.0262566\">Ямполя</a>, <a href=\"https://deepstatemap.live/#14/48.0881713/36.9041061\">Горіхового</a>, в <a href=\"https://deepstatemap.live/#15/47.7989856/36.4893913\">Новоіванівці</a> та <a href=\"https://deepstatemap.live/#15/47.8737157/36.5076870\">Березовому</a>.",
+    "descriptionEn": "The Defense Forces cleared <a href=\"https://deepstatemap.live/en#14/48.4377421/37.3319721\">Pankivka</a>. The enemy occupied <a href=\"https://deepstatemap.live/en#14/48.9237977/38.1812668\">Hryhorivka</a> and advanced near <a href=\"https://deepstatemap.live/en#14/48.9489434/38.0262566\">Yampil</a>, <a href=\"https://deepstatemap.live/en#14/48.0881713/36.9041061\">Horikhove</a>, <a href=\"https://deepstatemap.live/en#15/47.7989856/36.4893913\">Novoivanivka</a> and <a href=\"https://deepstatemap.live/en#15/47.8737157/36.5076870\">Berezove</a>.",
+    "updatedAt": "2025-09-15T19:29:36.370Z",
+    "datetime": "15.09 o 20:07",
+    "status": true,
+    "createdAt": "2025-09-15T18:07:50.000Z",
+    "liberated": 41629.85236970326,
+    "occupied": 70837.54613156652,
+    "unspecified": 1135.678459082774,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
