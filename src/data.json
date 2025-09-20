@@ -17851,5 +17851,19 @@
     "unspecified": 1147.306504704972,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1758222794,
+    "description": "Сили Оборони України відкинули противника біля <a href=\"https://deepstatemap.live/#14/48.4384233/37.3576355\">Володимирівки</a>. Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.4829383/37.3063946\">Шахового</a>, <a href=\"https://deepstatemap.live/#14/49.7698588/37.6159000\">Кіндрашівки</a>, <a href=\"https://deepstatemap.live/#13/49.0835283/37.7390671\">Шандриголового</a>, <a href=\"https://deepstatemap.live/#14/49.1236604/37.7881622\">Зеленої Долини</a> та <a href=\"https://deepstatemap.live/#14/47.7713955/36.5037918\">Новоіванівки</a>.",
+    "descriptionEn": "Ukrainian Defense Forces pushed back the enemy near <a href=\"https://deepstatemap.live/en#14/48.4384233/37.3576355\">Volodymyrivka</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.4829383/37.3063946\">Shakhove</a>, <a href=\"https://deepstatemap.live/en#14/49.7698588/37.6159000\">Kindrashivka</a>, <a href=\"https://deepstatemap.live/en#13/49.0835283/37.7390671\">Shandryholove</a>, <a href=\"https://deepstatemap.live/en#14/49.1236604/37.7881622\">Zelena Dolyna</a> and <a href=\"https://deepstatemap.live/en#14/47.7713955/36.5037918\">Novoivanivka</a>.",
+    "updatedAt": "2025-09-19T09:33:23.696Z",
+    "datetime": "18.09 o 21:13",
+    "status": true,
+    "createdAt": "2025-09-18T19:13:14.000Z",
+    "liberated": 41597.20506187947,
+    "occupied": 70873.02954315247,
+    "unspecified": 1138.0801648584745,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
