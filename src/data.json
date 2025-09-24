@@ -17893,5 +17893,33 @@
     "unspecified": 1138.960006141354,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1758484976,
+    "description": "Ворог просунувся біля <a href=\"https://deepstatemap.live/#14/47.7926855/36.4826775\">Новоіванівки</a> та <a href=\"https://deepstatemap.live/#14/47.8538769/36.5010897\">Новомиколаївки</a>. Уточнено лінію зіткнення в <a href=\"https://deepstatemap.live/#14/51.1148366/35.0300789\">Юнаківці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.7926855/36.4826775\">Novoivanivka</a> and <a href=\"https://deepstatemap.live/en#14/47.8538769/36.5010897\">Novomykolaivka</a>. The frontline in <a href=\"https://deepstatemap.live/en#14/51.1148366/35.0300789\">Yunakivka</a> has been clarified.",
+    "updatedAt": "2025-09-22T07:14:19.914Z",
+    "datetime": "21.09 o 22:02",
+    "status": true,
+    "createdAt": "2025-09-21T20:02:56.000Z",
+    "liberated": 41595.648687201414,
+    "occupied": 70891.9369127224,
+    "unspecified": 1147.8985305253573,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1758566306,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.8890169/36.4831924\">Степового</a>, <a href=\"https://deepstatemap.live/#14/47.8593928/36.4966929\">Березового</a>, <a href=\"https://deepstatemap.live/#14/47.8190257/36.4930630\">Новоіванівки</a> та у <a href=\"https://deepstatemap.live/#14/48.0916697/36.6715050\">Іванівці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.8890169/36.4831924\">Stepove</a>, <a href=\"https://deepstatemap.live/en#14/47.8593928/36.4966929\">Berezove</a>, <a href=\"https://deepstatemap.live/en#14/47.8190257/36.4930630\">Novoivanivka</a> and in <a href=\"https://deepstatemap.live/en#14/48.0916697/36.6715050\">Ivanivka</a>.",
+    "updatedAt": "2025-09-23T07:02:12.601Z",
+    "datetime": "22.09 o 20:38",
+    "status": true,
+    "createdAt": "2025-09-22T18:38:26.000Z",
+    "liberated": 41595.648687201414,
+    "occupied": 70900.7030800245,
+    "unspecified": 1156.6906430920583,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
