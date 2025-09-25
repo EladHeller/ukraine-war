@@ -17921,5 +17921,19 @@
     "unspecified": 1156.6906430920583,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1758659765,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:4788\">Новомиколаївку</a> та <a href=\"https://deepstatemap.live/#dl!city!dsm:l:9414\">Новоіванівку</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.8543164/36.4706612\">Калинівського</a>, <a href=\"https://deepstatemap.live/#14/47.9094974/36.5290260\">Тернового</a> та <a href=\"https://deepstatemap.live/#14/47.7917098/36.4624214\">Новоіванівки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:4788\">Novomykolayivka</a> and <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:9414\">Novoivanivka</a>, and advanced near <a href=\"https://deepstatemap.live/en#14/47.8543164/36.4706612\">Kalynivske</a>, <a href=\"https://deepstatemap.live/en#14/47.9094974/36.5290260\">Ternove</a> and <a href=\"https://deepstatemap.live/en#14/47.7917098/36.4624214\">Novoivanivka</a>.",
+    "updatedAt": "2025-09-24T07:38:41.223Z",
+    "datetime": "23.09 o 22:36",
+    "status": true,
+    "createdAt": "2025-09-23T20:36:05.000Z",
+    "liberated": 41595.648687201414,
+    "occupied": 70907.7442234068,
+    "unspecified": 1176.851336116115,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
