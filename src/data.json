@@ -17935,5 +17935,19 @@
     "unspecified": 1176.851336116115,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1758746001,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.9451659/38.1014442\">Серебрянському лісництві</a> та поблизу <a href=\"https://deepstatemap.live/#14/47.8647164/36.4987278\">Березового</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.9451659/38.1014442\">Serebryanske forestry</a> and near <a href=\"https://deepstatemap.live/en#14/47.8647164/36.4987278\">Berezove</a>.",
+    "updatedAt": "2025-09-25T07:18:05.709Z",
+    "datetime": "24.09 o 22:33",
+    "status": true,
+    "createdAt": "2025-09-24T20:33:21.000Z",
+    "liberated": 41595.648687201414,
+    "occupied": 70915.56648346687,
+    "unspecified": 1173.9082461035462,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
