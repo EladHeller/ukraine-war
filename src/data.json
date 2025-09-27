@@ -17949,5 +17949,33 @@
     "unspecified": 1173.9082461035462,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1758831957,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.7811547/36.4721203\">Новоіванівки</a>, <a href=\"https://deepstatemap.live/#14/47.7231588/36.5358925\">Ольгівського</a>, в <a href=\"https://deepstatemap.live/#14/47.8753104/36.5021610\">Березовому</a> та <a href=\"https://deepstatemap.live/#14/49.0986556/37.7204418\">Шандриголовому</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.7811547/36.4721203\">Novoivanivka</a>, <a href=\"https://deepstatemap.live/en#14/47.7231588/36.5358925\">Olhivske</a>, <a href=\"https://deepstatemap.live/en#14/47.8753104/36.5021610\">Berezove</a> and <a href=\"https://deepstatemap.live/en#14/49.0986556/37.7204418\">Shandryholove</a>.",
+    "updatedAt": "2025-09-26T07:52:01.879Z",
+    "datetime": "25.09 o 22:25",
+    "status": true,
+    "createdAt": "2025-09-25T20:25:57.000Z",
+    "liberated": 41579.99607704173,
+    "occupied": 70930.98696999639,
+    "unspecified": 1183.3567445247866,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1758914895,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.9504083/37.9907227\">Ямполя</a>, <a href=\"https://deepstatemap.live/#14/47.8974704/36.4905739\">Березового</a>, <a href=\"https://deepstatemap.live/#14/47.8549840/36.4498043\">Калинівського</a>, <a href=\"https://deepstatemap.live/#14/47.7338395/36.5092850\">Ольгівського</a> та <a href=\"https://deepstatemap.live/#14/47.8115406/36.4725494\">Новоіванівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.9504083/37.9907227\">Yampil</a>, <a href=\"https://deepstatemap.live/en#14/47.8974704/36.4905739\">Berezove</a>, <a href=\"https://deepstatemap.live/en#14/47.8549840/36.4498043\">Kalynivka</a>, <a href=\"https://deepstatemap.live/en#14/47.7338395/36.5092850\">Olhovske</a> and <a href=\"https://deepstatemap.live/en#14/47.8115406/36.4725494\">Novoivanivka</a>.",
+    "updatedAt": "2025-09-26T19:29:15.999Z",
+    "datetime": "26.09 o 21:28",
+    "status": true,
+    "createdAt": "2025-09-26T19:28:15.000Z",
+    "liberated": 41577.63806965463,
+    "occupied": 70943.500941326,
+    "unspecified": 1181.0801048789992,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
