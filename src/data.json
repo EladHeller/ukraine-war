@@ -17977,5 +17977,33 @@
     "unspecified": 1181.0801048789992,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1759004107,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.8150566/36.4565849\">Новоіванівки</a>, <a href=\"https://deepstatemap.live/#14/47.8709349/36.4268875\">Калинівського</a> та в <a href=\"https://deepstatemap.live/#14/48.2412526/36.9871044\">Удачному</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.8150566/36.4565849\">Novoivanivka</a>, <a href=\"https://deepstatemap.live/en#14/47.8709349/36.4268875\">Kalynivske</a> and <a href=\"https://deepstatemap.live/en#14/48.2412526/36.9871044\">Udachne</a>.",
+    "updatedAt": "2025-09-28T07:58:43.177Z",
+    "datetime": "27.09 o 22:15",
+    "status": true,
+    "createdAt": "2025-09-27T20:15:07.000Z",
+    "liberated": 41577.63806965463,
+    "occupied": 70948.79971027658,
+    "unspecified": 1180.7602052079253,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1759085767,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.2539983/37.1237469\">Звіровому</a>, <a href=\"https://deepstatemap.live/#14/47.8761740/36.4134979\">Вербовому</a>, поблизу <a href=\"https://deepstatemap.live/#14/47.7992615/36.4727211\">Новоіванівки</a> та <a href=\"https://deepstatemap.live/#14/47.9062166/36.4996719\">Березового</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.2539983/37.1237469\">Zvirove</a>, <a href=\"https://deepstatemap.live/en#14/47.8761740/36.4134979\">Verbove</a>, near <a href=\"https://deepstatemap.live/en#14/47.7992615/36.4727211\">Novoivanivka</a> and <a href=\"https://deepstatemap.live/en#14/47.9062166/36.4996719\">Berezove</a>.",
+    "updatedAt": "2025-09-28T19:00:57.107Z",
+    "datetime": "28.09 o 20:56",
+    "status": true,
+    "createdAt": "2025-09-28T18:56:07.000Z",
+    "liberated": 41577.63806965463,
+    "occupied": 70955.5725785338,
+    "unspecified": 1195.037114940701,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
