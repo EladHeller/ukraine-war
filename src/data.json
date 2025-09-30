@@ -18005,5 +18005,19 @@
     "unspecified": 1195.037114940701,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1759172465,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5825\">Полтавку</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.8319416/36.4835358\">Новоіванівки</a>, <a href=\"https://deepstatemap.live/#13/48.4662062/37.4427795\">Полтавки</a> та у <a href=\"https://deepstatemap.live/#14/48.9413325/38.0812740\">Серебрянському лісництві</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5825\">Poltavka</a> and advanced near <a href=\"https://deepstatemap.live/en#14/47.8319416/36.4835358\">Novoivanivka</a>, <a href=\"https://deepstatemap.live/en#13/48.4662062/37.4427795\">Poltavka</a> and in the <a href=\"https://deepstatemap.live/en#14/48.9413325/38.0812740\">Serebryanske forestry</a>.",
+    "updatedAt": "2025-09-29T20:08:00.090Z",
+    "datetime": "29.09 o 21:01",
+    "status": true,
+    "createdAt": "2025-09-29T19:01:05.000Z",
+    "liberated": 41577.63806965464,
+    "occupied": 70972.01986366122,
+    "unspecified": 1187.3910971672312,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
