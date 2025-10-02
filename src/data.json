@@ -18019,5 +18019,33 @@
     "unspecified": 1187.3910971672312,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1759259491,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.7994921/36.4667988\">Новоіванівки</a>, <a href=\"https://deepstatemap.live/#14/47.8751377/36.5332317\">Тернового</a> та <a href=\"https://deepstatemap.live/#14/47.8793978/36.4457703\">Степового</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.7994921/36.4667988\">Novoivanivka</a>, <a href=\"https://deepstatemap.live/en#14/47.8751377/36.5332317\">Ternove</a> and <a href=\"https://deepstatemap.live/en#14/47.8793978/36.4457703\">Stepove</a>.",
+    "updatedAt": "2025-10-01T08:10:19.973Z",
+    "datetime": "30.09 o 21:11",
+    "status": true,
+    "createdAt": "2025-09-30T19:11:31.000Z",
+    "liberated": 41567.08774087281,
+    "occupied": 70978.94976406338,
+    "unspecified": 1195.4809078001908,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1759343816,
+    "description": "Сили Оборони України зачистили <a href=\"https://deepstatemap.live/#dl!city!dsm:l:6367\">Нове Шахове</a> та відкинули противника поблизу <a href=\"https://deepstatemap.live/#14/48.4303251/37.2881126\">Никанорівки</a> та <a href=\"https://deepstatemap.live/#14/48.5029574/37.2335243\">Золотого Колодязя</a>. Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.7961480/36.4570141\">Новоіванівки</a> та у <a href=\"https://deepstatemap.live/#14/47.7198090/36.5064785\">Полтавці</a>.",
+    "descriptionEn": "Ukrainian Defense Forces cleared <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:6367\">Nove Shakhove</a> and pushed back the enemy near <a href=\"https://deepstatemap.live/en#14/48.4303251/37.2881126\">Nikanorivka</a> and <a href=\"https://deepstatemap.live/en#14/48.5029574/37.2335243\">Zolotyi Kolodyazh</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.7961480/36.4570141\">Novoivanivka</a> and in <a href=\"https://deepstatemap.live/en#14/47.7198090/36.5064785\">Poltava</a>.",
+    "updatedAt": "2025-10-01T19:21:38.253Z",
+    "datetime": "01.10 o 20:36",
+    "status": true,
+    "createdAt": "2025-10-01T18:36:56.000Z",
+    "liberated": 41570.661009092946,
+    "occupied": 70978.92222762114,
+    "unspecified": 1203.0177172007209,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
