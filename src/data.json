@@ -18047,5 +18047,33 @@
     "unspecified": 1203.0177172007209,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1759414391,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!coords!47.736321754561146,36.53194427490235\">Ольгівське</a>, <a href=\"https://deepstatemap.live/#dl!city!dsm:l:4781\">Березове</a> та <a href=\"https://deepstatemap.live/#dl!city!dsm:l:4784\">Калинівське</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.7740025/36.4976120\">Новоіванівки</a> та <a href=\"https://deepstatemap.live/#13/47.9162270/36.5602684\">Вороного</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!coords!47.736321754561146,36.53194427490235\">Olhivske</a>, <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:4781\">Berezove</a> and <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:4784\">Kalynivka</a>, and advanced near <a href=\"https://deepstatemap.live/en#14/47.7740025/36.4976120\">Novoivanivka</a> and <a href=\"https://deepstatemap.live/en#13/47.9162270/36.5602684\">Vorone</a>.",
+    "updatedAt": "2025-10-02T14:48:17.858Z",
+    "datetime": "02.10 o 16:13",
+    "status": true,
+    "createdAt": "2025-10-02T14:13:11.000Z",
+    "liberated": 41570.79254389087,
+    "occupied": 70998.8487253278,
+    "unspecified": 1184.0840034473756,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1759441904,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.7670800/36.5083408\">Новоіванівки</a>, <a href=\"https://deepstatemap.live/#14/47.8710500/36.4098072\">Вербового</a>, <a href=\"https://deepstatemap.live/#14/48.4786113/37.9147625\">Білої Гори</a> та <a href=\"https://deepstatemap.live/#14/49.0932040/37.7140045\">Шандриголового</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.7670800/36.5083408\">Novoivanivka</a>, <a href=\"https://deepstatemap.live/en#14/47.8710500/36.4098072\">Verbove</a>, <a href=\"https://deepstatemap.live/en#14/48.4786113/37.9147625\">Bila Hora</a> and <a href=\"https://deepstatemap.live/en#14/49.0932040/37.7140045\">Shandryholove</a>.",
+    "updatedAt": "2025-10-02T23:45:20.865Z",
+    "datetime": "02.10 o 23:51",
+    "status": true,
+    "createdAt": "2025-10-02T21:51:44.000Z",
+    "liberated": 41570.55817382588,
+    "occupied": 71009.25850917953,
+    "unspecified": 1174.9143962631213,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
