@@ -18075,5 +18075,19 @@
     "unspecified": 1174.9143962631213,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1759578527,
+    "description": "Сили Оборони України зачистили <a href=\"https://deepstatemap.live/#dl!city!dsm:l:4791\">Соснівку</a>, <a href=\"https://deepstatemap.live/#dl!city!dsm:l:4789\">Новоселівку</a>, <a href=\"https://deepstatemap.live/#dl!city!dsm:l:4795\">Січневе</a> та <a href=\"https://deepstatemap.live/#16/47.9341861/36.5167093\">Хороше</a>. Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.9113371/36.4750385\">Соснівки</a>.",
+    "descriptionEn": "Ukrainian Defense Forces cleared <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:4791\">Sosnivka</a>, <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:4789\">Novoselivka</a>, <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:4795\">Sichneve</a> and <a href=\"https://deepstatemap.live/en#16/47.9341861/36.5167093\">Khoroshe</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.9113371/36.4750385\">Sosnivka</a>.",
+    "updatedAt": "2025-10-04T12:21:10.024Z",
+    "datetime": "04.10 o 13:48",
+    "status": true,
+    "createdAt": "2025-10-04T11:48:47.000Z",
+    "liberated": 41573.095139833706,
+    "occupied": 71009.06445691691,
+    "unspecified": 1174.3219728199276,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
