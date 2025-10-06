@@ -18089,5 +18089,19 @@
     "unspecified": 1174.3219728199276,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1759690867,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.7861722/36.4528084\">Новоіванівки</a>, <a href=\"https://deepstatemap.live/#14/47.7399006/36.4873123\">Ольгівського</a>, <a href=\"https://deepstatemap.live/#14/47.6902369/36.5281677\">Вишневого</a> та у <a href=\"https://deepstatemap.live/#14/47.8836000/36.5339184\">Терновому</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.7861722/36.4528084\">Novoivanivka</a>, <a href=\"https://deepstatemap.live/en#14/47.7399006/36.4873123\">Olhivske</a>, <a href=\"https://deepstatemap.live/en#14/47.6902369/36.5281677\">Vyshneve</a> and <a href=\"https://deepstatemap.live/en#14/47.8836000/36.5339184\">Ternove</a>.",
+    "updatedAt": "2025-10-05T20:35:00.860Z",
+    "datetime": "05.10 o 21:01",
+    "status": true,
+    "createdAt": "2025-10-05T19:01:07.000Z",
+    "liberated": 41573.095139833706,
+    "occupied": 71019.2061503413,
+    "unspecified": 1170.4060858805744,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
