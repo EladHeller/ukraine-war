@@ -18103,5 +18103,19 @@
     "unspecified": 1170.4060858805744,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1759777202,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:4786\">Маліївку</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.8058338/36.4551258\">Новоіванівки</a>, <a href=\"https://deepstatemap.live/#14/47.9262354/36.5653324\">Вороного</a>, <a href=\"https://deepstatemap.live/#14/47.7543865/36.4917755\">Охотничого</a> та <a href=\"https://deepstatemap.live/#14/48.5051184/37.8981972\">Білої Гори</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:4786\">Maliivka</a> and advanced near <a href=\"https://deepstatemap.live/en#14/47.8058338/36.4551258\">Novoivanivka</a>, <a href=\"https://deepstatemap.live/en#14/47.9262354/36.5653324\">Vorone</a>, <a href=\"https://deepstatemap.live/en#14/47.7543865/36.4917755\">Okhotnyche</a> and <a href=\"https://deepstatemap.live/en#14/48.5051184/37.8981972\">Bila Hora</a>.",
+    "updatedAt": "2025-10-06T20:03:01.807Z",
+    "datetime": "06.10 o 21:00",
+    "status": true,
+    "createdAt": "2025-10-06T19:00:02.000Z",
+    "liberated": 41572.61447304691,
+    "occupied": 71031.87666153957,
+    "unspecified": 1170.108890568585,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
