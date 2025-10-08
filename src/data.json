@@ -18114,7 +18114,21 @@
     "createdAt": "2025-10-06T19:00:02.000Z",
     "liberated": 41572.61447304691,
     "occupied": 71031.87666153957,
-    "unspecified": 1170.108890568585,
+    "unspecified": 1170.334589894757,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1759867399,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/51.1565236/34.9160099\">Новомиколаївки</a>, <a href=\"https://deepstatemap.live/#14/47.8008758/36.4447403\">Новоіванівки</a>, <a href=\"https://deepstatemap.live/#14/47.7474038/36.4694595\">Охотничого</a>, <a href=\"https://deepstatemap.live/#14/47.6768312/36.4608765\">Малинівки</a>, <a href=\"https://deepstatemap.live/#14/47.7008666/36.5077400\">Вишневого</a> та у <a href=\"https://deepstatemap.live/#14/47.7221195/36.4952087\">Полтавці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/51.1565236/34.9160099\">Novomykolayivka</a>, <a href=\"https://deepstatemap.live/en#14/47.8008758/36.4447403\">Novoivanivka</a>, <a href=\"https://deepstatemap.live/en#14/47.7474038/36.4694595\">Okhotnyche</a>, <a href=\"https://deepstatemap.live/en#14/47.6768312/36.4608765\">Malynivka</a>, <a href=\"https://deepstatemap.live/en#14/47.7008666/36.5077400\">Vyshneve</a> and in <a href=\"https://deepstatemap.live/en#14/47.7221195/36.4952087\">Poltava</a>.",
+    "updatedAt": "2025-10-07T20:48:59.876Z",
+    "datetime": "07.10 o 22:03",
+    "status": true,
+    "createdAt": "2025-10-07T20:03:19.000Z",
+    "liberated": 41570.79498585168,
+    "occupied": 71057.12210912141,
+    "unspecified": 1155.1760099394212,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
   }
