@@ -18131,5 +18131,33 @@
     "unspecified": 1155.1760099394212,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1759954991,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/48.7738402/38.1543159\">Виїмки</a>, <a href=\"https://deepstatemap.live/#14/47.9665370/36.5485096\">Новоселівки</a>, <a href=\"https://deepstatemap.live/#14/47.7312994/36.4869690\">Полтавки</a> та у <a href=\"https://deepstatemap.live/#15/47.9448666/36.5947723\">Січневому</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/48.7738402/38.1543159\">Vyymka</a>, <a href=\"https://deepstatemap.live/en#14/47.9665370/36.5485096\">Novoselivka</a>, <a href=\"https://deepstatemap.live/en#14/47.7312994/36.4869690\">Poltavka</a> and in <a href=\"https://deepstatemap.live/en#15/47.9448666/36.5947723\">Sichneve</a>.",
+    "updatedAt": "2025-10-09T11:05:47.149Z",
+    "datetime": "08.10 o 22:23",
+    "status": true,
+    "createdAt": "2025-10-08T20:23:11.000Z",
+    "liberated": 41569.46459338613,
+    "occupied": 71071.55868332951,
+    "unspecified": 1159.3234465071398,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1760041745,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.2897047/37.3487949\">Михайлівки</a>, <a href=\"https://deepstatemap.live/#14/47.8941340/36.4746094\">Березового</a> та <a href=\"https://deepstatemap.live/#14/47.7149491/36.5010452\">Полтавки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.2897047/37.3487949\">Mykhailivka</a>, <a href=\"https://deepstatemap.live/en#14/47.8941340/36.4746094\">Berezove</a> and <a href=\"https://deepstatemap.live/en#14/47.7149491/36.5010452\">Poltavka</a>.",
+    "updatedAt": "2025-10-10T06:25:53.759Z",
+    "datetime": "09.10 o 22:29",
+    "status": true,
+    "createdAt": "2025-10-09T20:29:05.000Z",
+    "liberated": 41561.940135660334,
+    "occupied": 71075.92886908374,
+    "unspecified": 1169.5614332938665,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
