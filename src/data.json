@@ -18159,5 +18159,19 @@
     "unspecified": 1169.5614332938665,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1760129272,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/47.7197527/36.4892865\">Полтавці</a>, <a href=\"https://deepstatemap.live/#14/48.4158695/37.2554964\">Никонорівці</a> та <a href=\"https://deepstatemap.live/#14/48.2585720/37.0547388\">Котлиному</a>. Уточнено лінію зіткнення поблизу <a href=\"https://deepstatemap.live/#13/48.7790627/38.1498706\">Виїмки</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/47.7197527/36.4892865\">Poltavka</a>, <a href=\"https://deepstatemap.live/en#14/48.4158695/37.2554964\">Nikonorivka</a> and <a href=\"https://deepstatemap.live/en#14/48.2585720/37.0547388\">Kotlyne</a>. The line of contact near <a href=\"https://deepstatemap.live/en#13/48.7790627/38.1498706\">Vyymka</a> has been clarified.",
+    "updatedAt": "2025-10-11T10:27:53.527Z",
+    "datetime": "10.10 o 22:47",
+    "status": true,
+    "createdAt": "2025-10-10T20:47:52.000Z",
+    "liberated": 41553.74557880803,
+    "occupied": 71075.2351482342,
+    "unspecified": 1180.508768743754,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
