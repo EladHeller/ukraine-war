@@ -18201,5 +18201,19 @@
     "unspecified": 1182.368323595383,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1760374569,
+    "description": "Уточнено лінію зіткнення у <a href=\"https://deepstatemap.live/#14/47.5492553/35.5508283\">Малих Щербаках</a>. Ворог окупував <a href=\"https://deepstatemap.live/#14/47.8964906/36.5203575\">Тернове</a> та просунувся поблизу <a href=\"https://deepstatemap.live/#13/49.1092737/37.7476463\">Шандриголового</a>.",
+    "descriptionEn": "The front line in <a href=\"https://deepstatemap.live/en#14/47.5492553/35.5508283\">Mali Shcherbaky</a> has been clarified. The enemy occupied <a href=\"https://deepstatemap.live/en#14/47.8964906/36.5203575\">Ternove</a> and advanced near <a href=\"https://deepstatemap.live/en#13/49.1092737/37.7476463\">Shandryholove</a>.",
+    "updatedAt": "2025-10-13T17:52:34.544Z",
+    "datetime": "13.10 o 18:56",
+    "status": true,
+    "createdAt": "2025-10-13T16:56:09.000Z",
+    "liberated": 41559.64943504815,
+    "occupied": 71091.7094438259,
+    "unspecified": 1184.0808958347652,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
