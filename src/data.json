@@ -18215,5 +18215,19 @@
     "unspecified": 1184.0808958347652,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1760471956,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5279\">Перебудову</a>, <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5257\">Комар</a> та <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5266\">Мирне</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.0807739/36.6672992\">Іванівки</a> та <a href=\"https://deepstatemap.live/#14/47.9710702/36.6731372\">Воскресенки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5279\">Perebudova</a>, <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5257\">Komar</a> and <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5266\">Myrne</a>, and advanced near <a href=\"https://deepstatemap.live/en#14/48.0807739/36.6672992\">Ivanivka</a> and <a href=\"https://deepstatemap.live/en#14/47.9710702/36.6731372\">Voskresenka</a>.",
+    "updatedAt": "2025-10-14T20:44:17.491Z",
+    "datetime": "14.10 o 21:59",
+    "status": true,
+    "createdAt": "2025-10-14T19:59:16.000Z",
+    "liberated": 41549.53452852575,
+    "occupied": 71107.84510787408,
+    "unspecified": 1179.7504825176866,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
