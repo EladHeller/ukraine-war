@@ -18229,5 +18229,19 @@
     "unspecified": 1179.7504825176866,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1760555424,
+    "description": "Сили Оборони України відкинули ворога поблизу <a href=\"https://deepstatemap.live/#13/48.4611953/37.2522353\">Нового Шахового</a> та <a href=\"https://deepstatemap.live/#13/48.4977443/37.2515557\">Кучерового Яру</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces pushed back the enemy near <a href=\"https://deepstatemap.live/en#13/48.4611953/37.2522353\">Novyi Shakhove</a> and <a href=\"https://deepstatemap.live/en#13/48.4977443/37.2515557\">Kucheriv Yar</a>.",
+    "updatedAt": "2025-10-15T19:18:13.620Z",
+    "datetime": "15.10 o 21:10",
+    "status": true,
+    "createdAt": "2025-10-15T19:10:24.000Z",
+    "liberated": 41552.33769371082,
+    "occupied": 71104.10096915846,
+    "unspecified": 1180.6909010482657,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
