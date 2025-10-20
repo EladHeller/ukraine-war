@@ -18271,5 +18271,19 @@
     "unspecified": 1216.0005433673439,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1760820056,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.0812895/36.7301264\">Філії</a>, <a href=\"https://deepstatemap.live/#14/47.6645772/36.4601899\">Малинівки</a> та в <a href=\"https://deepstatemap.live/#15/47.7383171/36.4560260\">Охотничому</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.0812895/36.7301264\">Filiya</a>, <a href=\"https://deepstatemap.live/en#14/47.6645772/36.4601899\">Malynivka</a> and in <a href=\"https://deepstatemap.live/en#15/47.7383171/36.4560260\">Okhotnyche</a>.",
+    "updatedAt": "2025-10-19T09:29:24.973Z",
+    "datetime": "18.10 o 22:40",
+    "status": true,
+    "createdAt": "2025-10-18T20:40:56.000Z",
+    "liberated": 41518.5842087602,
+    "occupied": 71122.24476632272,
+    "unspecified": 1221.2140634751493,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
