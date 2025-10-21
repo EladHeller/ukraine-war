@@ -18285,5 +18285,33 @@
     "unspecified": 1221.2140634751493,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1760901401,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#14/49.7136355/37.6068463\">Куп'янську</a>, <a href=\"https://deepstatemap.live/#14/50.2877764/36.9185659\">Вовчанську</a>, <a href=\"https://deepstatemap.live/#14/47.5678694/35.3312191\">Плавнях</a>, поблизу <a href=\"https://deepstatemap.live/#13/48.4450911/37.8193270\">Торецька</a> та <a href=\"https://deepstatemap.live/#14/48.4790955/37.8889764\">Білої Гори</a>. Уточнено лінію зіткнення у <a href=\"https://deepstatemap.live/#14/48.0483341/36.8574439\">Дачному</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/49.7136355/37.6068463\">Kupyansk</a>, <a href=\"https://deepstatemap.live/en#14/50.2877764/36.9185659\">Vovchansk</a>, <a href=\"https://deepstatemap.live/en#14/47.5678694/35.3312191\">Plavni</a>, near <a href=\"https://deepstatemap.live/en#13/48.4450911/37.8193270\">Toretsk</a> and <a href=\"https://deepstatemap.live/en#14/48.4790955/37.8889764\">Bila Hora</a>. The contact line in <a href=\"https://deepstatemap.live/en#14/48.0483341/36.8574439\">Dachne</a> has been clarified.",
+    "updatedAt": "2025-10-20T10:48:05.590Z",
+    "datetime": "19.10 o 21:16",
+    "status": true,
+    "createdAt": "2025-10-19T19:16:41.000Z",
+    "liberated": 41517.51850046883,
+    "occupied": 71139.29681418758,
+    "unspecified": 1234.34390491281,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1760990840,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.6565427/36.4568424\">Малинівки</a>, <a href=\"https://deepstatemap.live/#14/47.7190533/36.4652627\">Полтавки</a> та <a href=\"https://deepstatemap.live/#14/47.8364933/36.4597607\">Калинівського</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.6565427/36.4568424\">Malynivka</a>, <a href=\"https://deepstatemap.live/en#14/47.7190533/36.4652627\">Poltavka</a> and <a href=\"https://deepstatemap.live/en#14/47.8364933/36.4597607\">Kalynivske</a>.",
+    "updatedAt": "2025-10-20T20:48:03.033Z",
+    "datetime": "20.10 o 22:07",
+    "status": true,
+    "createdAt": "2025-10-20T20:07:20.000Z",
+    "liberated": 41517.678421784476,
+    "occupied": 71154.12651486791,
+    "unspecified": 1238.630035384803,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
