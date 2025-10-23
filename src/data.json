@@ -18313,5 +18313,19 @@
     "unspecified": 1238.630035384803,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1761078447,
+    "description": "Сили Оборони України відновили позиції поблизу <a href=\"https://deepstatemap.live/#14/48.4532179/37.2623623\">Нового Шахового</a> та <a href=\"https://deepstatemap.live/#14/48.5202543/37.2843349\">Кучерового Яру</a>. Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:9450\">Полтавку</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.4128615/37.3421870\">Новоторецького</a>, <a href=\"https://deepstatemap.live/#14/48.4560199/37.3286261\">Шахового</a>, <a href=\"https://deepstatemap.live/#14/48.0890892/36.6530522\">Іванівки</a>, <a href=\"https://deepstatemap.live/#14/47.7598104/36.4659408\">Охотничого</a> та <a href=\"https://deepstatemap.live/#14/47.7902102/36.4283457\">Нововасилівки</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces regained positions near <a href=\"https://deepstatemap.live/en#14/48.4532179/37.2623623\">Novyi Shakhove</a> and <a href=\"https://deepstatemap.live/en#14/48.5202543/37.2843349\">Kucheriv Yar</a>. The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:9450\">Poltava</a> and advanced near <a href=\"https://deepstatemap.live/en#14/48.4128615/37.3421870\">Novotoretske</a>, <a href=\"https://deepstatemap.live/en#14/48.4560199/37.3286261\">Shakhove</a>, <a href=\"https://deepstatemap.live/en#14/48.0890892/36.6530522\">Ivanivka</a>, <a href=\"https://deepstatemap.live/en#14/47.7598104/36.4659408\">Okhotnyche</a> and <a href=\"https://deepstatemap.live/en#14/47.7902102/36.4283457\">Novovasylivka</a>.",
+    "updatedAt": "2025-10-22T06:41:38.948Z",
+    "datetime": "21.10 o 22:27",
+    "status": true,
+    "createdAt": "2025-10-21T20:27:27.000Z",
+    "liberated": 41523.495238884105,
+    "occupied": 71163.01051932533,
+    "unspecified": 1241.8173113533996,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
