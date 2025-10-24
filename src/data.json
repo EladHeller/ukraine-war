@@ -18327,5 +18327,19 @@
     "unspecified": 1241.8173113533996,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1761164748,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/47.8623628/36.3977039\">Вербового</a>, <a href=\"https://deepstatemap.live/#14/47.8888950/36.4648249\">Степового</a> та <a href=\"https://deepstatemap.live/#14/47.8063684/36.4292058\">Новогригорівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/47.8623628/36.3977039\">Verbove</a>, <a href=\"https://deepstatemap.live/en#14/47.8888950/36.4648249\">Stepove</a> and <a href=\"https://deepstatemap.live/en#14/47.8063684/36.4292058\">Novohryhorivka</a>.",
+    "updatedAt": "2025-10-23T08:13:29.719Z",
+    "datetime": "22.10 o 22:25",
+    "status": true,
+    "createdAt": "2025-10-22T20:25:48.000Z",
+    "liberated": 41521.15764711426,
+    "occupied": 71177.47423787937,
+    "unspecified": 1238.4977231574835,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
