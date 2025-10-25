@@ -18341,5 +18341,19 @@
     "unspecified": 1238.4977231574835,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1761250439,
+    "description": "Сили Оборони України відкинули противника поблизу <a href=\"https://deepstatemap.live/#14/48.5093851/37.2744647\">Кучерового Яру</a>. Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.2697034/37.3566075\">Гродівки</a>, <a href=\"https://deepstatemap.live/#13/48.4262341/37.3991860\">Володимирівки</a> та <a href=\"https://deepstatemap.live/#14/47.5626817/35.3622393\">Степногірська</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces drove the enemy back near <a href=\"https://deepstatemap.live/en#14/48.5093851/37.2744647\">Kucheriv Yar</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.2697034/37.3566075\">Hrodivka</a>, <a href=\"https://deepstatemap.live/en#13/48.4262341/37.3991860\">Volodymyrivka</a> and <a href=\"https://deepstatemap.live/en#14/47.5626817/35.3622393\">Stepnohirsk</a>.",
+    "updatedAt": "2025-10-24T06:38:24.392Z",
+    "datetime": "23.10 o 22:13",
+    "status": true,
+    "createdAt": "2025-10-23T20:13:59.000Z",
+    "liberated": 41517.651955724454,
+    "occupied": 71187.38582816321,
+    "unspecified": 1234.0657066497276,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
