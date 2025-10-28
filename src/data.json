@@ -18369,5 +18369,33 @@
     "unspecified": 1268.4213430167435,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1761425912,
+    "description": "Сили Оборони України звільнили <a href=\"https://deepstatemap.live/#dl!city!dsm:l:6363\">Кучерів Яр</a>, <a href=\"https://deepstatemap.live/#dl!city!dsm:l:6241\">Сухецьке</a> та <a href=\"https://deepstatemap.live/#dl!city!dsm:l:6372\">Затишок</a>, а також відкинули противника поблизу <a href=\"https://deepstatemap.live/#14/48.4246711/37.2602878\">Никанорівки</a>, <a href=\"https://deepstatemap.live/#13/48.4638403/37.2620202\">Нового Шахового</a> та у <a href=\"https://deepstatemap.live/#14/48.3813854/37.2900156\">Федорівці</a>. Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.4144956/37.3421755\">Новоторецького</a>, <a href=\"https://deepstatemap.live/#14/48.4251560/37.3939418\">Володимирівки</a> та <a href=\"https://deepstatemap.live/#14/50.2838608/36.8795565\">Гатища</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces liberated <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:6363\">Kucheriv Yar</a>, <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:6241\">Sukhetske</a> and <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:6372\">Zatyshok</a>, and pushed back the enemy near <a href=\"https://deepstatemap.live/en#14/48.4246711/37.2602878\">Nikanorivka</a>, <a href=\"https://deepstatemap.live/en#13/48.4638403/37.2620202\">Novyi Shakhove</a> and in <a href=\"https://deepstatemap.live/en#14/48.3813854/37.2900156\">Fedorivka</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.4144956/37.3421755\">Novotoretske</a>, <a href=\"https://deepstatemap.live/en#14/48.4251560/37.3939418\">Volodymyrivka</a> and <a href=\"https://deepstatemap.live/en#14/50.2838608/36.8795565\">Hatyshche</a>.",
+    "updatedAt": "2025-10-26T07:26:21.002Z",
+    "datetime": "25.10 o 22:58",
+    "status": true,
+    "createdAt": "2025-10-25T20:58:32.000Z",
+    "liberated": 41516.3069678293,
+    "occupied": 71186.21025137756,
+    "unspecified": 1276.9430293470498,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1761509874,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#12/50.0857926/37.7311676\">Одрадного</a>, <a href=\"https://deepstatemap.live/#13/47.8692698/36.3535822\">Вишневого</a> та <a href=\"https://deepstatemap.live/#14/47.8415613/36.3484347\">Злагоди</a>. Уточнено ситуацію в <a href=\"https://deepstatemap.live/#14/48.4220793/37.2633051\">Никанорівці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#12/50.0857926/37.7311676\">Odradne</a>, <a href=\"https://deepstatemap.live/en#13/47.8692698/36.3535822\">Vyshneve</a> and <a href=\"https://deepstatemap.live/en#14/47.8415613/36.3484347\">Zlahoda</a>. The situation in <a href=\"https://deepstatemap.live/en#14/48.4220793/37.2633051\">Nikanorivka</a> has been clarified.",
+    "updatedAt": "2025-10-27T08:08:55.004Z",
+    "datetime": "26.10 o 21:17",
+    "status": true,
+    "createdAt": "2025-10-26T20:17:54.000Z",
+    "liberated": 41510.179138578,
+    "occupied": 71202.045200108,
+    "unspecified": 1275.9021083682203,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
