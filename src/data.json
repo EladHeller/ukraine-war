@@ -18425,5 +18425,19 @@
     "unspecified": 1300.9230653997965,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1761774841,
+    "description": "Сили Оборони України відкинули противника поблизу <a href=\"https://deepstatemap.live/#14/48.4614255/37.2925743\">Нового Шахового</a>. Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.2637123/37.1192870\">Покровська</a>, <a href=\"https://deepstatemap.live/#14/47.7104980/36.4368454\">Полтавки</a>, <a href=\"https://deepstatemap.live/#13/48.4350056/37.3953997\">Володимирівки</a> та у <a href=\"https://deepstatemap.live/#14/47.7652836/36.4410530\">Новомиколаївці</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces drove the enemy back near <a href=\"https://deepstatemap.live/en#14/48.4614255/37.2925743\">Nove Shakhove</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.2637123/37.1192870\">Pokrovsk</a>, <a href=\"https://deepstatemap.live/en#14/47.7104980/36.4368454\">Poltavka</a>, <a href=\"https://deepstatemap.live/en#13/48.4350056/37.3953997\">Volodymyrivka</a> and <a href=\"https://deepstatemap.live/en#14/47.7652836/36.4410530\">Novomykolaivka</a>.",
+    "updatedAt": "2025-10-30T07:16:42.123Z",
+    "datetime": "29.10 o 22:54",
+    "status": true,
+    "createdAt": "2025-10-29T21:54:01.000Z",
+    "liberated": 41501.89929910472,
+    "occupied": 71226.69163827962,
+    "unspecified": 1296.613855872393,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
