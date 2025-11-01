@@ -18439,5 +18439,19 @@
     "unspecified": 1296.613855872393,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1761859421,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.2651976/37.1597098\">Покровську</a>, <a href=\"https://deepstatemap.live/#15/47.7773183/36.4212224\">Успенівці</a>, <a href=\"https://deepstatemap.live/#15/47.7683454/36.4361155\">Новомиколаївці</a> та поблизу <a href=\"https://deepstatemap.live/#14/47.8054876/36.4077473\">Новогригорівки</a>. Уточнено лінію зіткнення поблизу <a href=\"https://deepstatemap.live/#14/48.3425542/37.2307757\">Червоного Лиману</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.2651976/37.1597098\">Pokrovsk</a>, <a href=\"https://deepstatemap.live/en#15/47.7773183/36.4212224\">Uspenivka</a>, <a href=\"https://deepstatemap.live/en#15/47.7683454/36.4361155\">Novomykolaivka</a> and near <a href=\"https://deepstatemap.live/en#14/47.8054876/36.4077473\">Novohryhorivka</a>. The frontline near <a href=\"https://deepstatemap.live/en#14/48.3425542/37.2307757\">Chervonyi Lyman</a> has been clarified.",
+    "updatedAt": "2025-10-31T06:59:12.338Z",
+    "datetime": "30.10 o 22:23",
+    "status": true,
+    "createdAt": "2025-10-30T21:23:41.000Z",
+    "liberated": 41501.89929910472,
+    "occupied": 71232.27147904263,
+    "unspecified": 1309.4380317391349,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
