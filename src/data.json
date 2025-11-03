@@ -18467,5 +18467,47 @@
     "unspecified": 1301.2867902976514,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1762033955,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.2769107/37.1673484\">Покровську</a>, поблизу <a href=\"https://deepstatemap.live/#13/49.9910801/37.8200893\">Кам'янки</a> та <a href=\"https://deepstatemap.live/#14/47.8127537/36.4017415\">Новогригорівки</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.2769107/37.1673484\">Pokrovsk</a>, near <a href=\"https://deepstatemap.live/en#13/49.9910801/37.8200893\">Kamianka</a> and <a href=\"https://deepstatemap.live/en#14/47.8127537/36.4017415\">Novohryhorivka</a>.",
+    "updatedAt": "2025-11-02T11:58:16.907Z",
+    "datetime": "01.11 o 22:52",
+    "status": true,
+    "createdAt": "2025-11-01T21:52:35.000Z",
+    "liberated": 41503.42509181148,
+    "occupied": 71261.79078494878,
+    "unspecified": 1285.3994284949943,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1762116358,
+    "description": "Технологічне оновлення меж полігонів.",
+    "descriptionEn": "Technological upgrade of landfill boundaries.",
+    "updatedAt": "2025-11-02T20:46:08.126Z",
+    "datetime": "02.11 o 21:45",
+    "status": true,
+    "createdAt": "2025-11-02T20:45:58.000Z",
+    "liberated": 41503.42509181148,
+    "occupied": 71261.08627646956,
+    "unspecified": 1285.3994284949943,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1762119044,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.2742872/37.1379944\">Покровська</a> та <a href=\"https://deepstatemap.live/#14/47.8110072/36.3999300\">Привільного</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.2742872/37.1379944\">Pokrovsk</a> and <a href=\"https://deepstatemap.live/en#14/47.8110072/36.3999300\">Pryvilne</a>.",
+    "updatedAt": "2025-11-02T21:41:59.990Z",
+    "datetime": "02.11 o 22:30",
+    "status": true,
+    "createdAt": "2025-11-02T21:30:44.000Z",
+    "liberated": 41502.248352283954,
+    "occupied": 71264.70120458161,
+    "unspecified": 1287.216166914247,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
