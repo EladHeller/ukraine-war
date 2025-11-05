@@ -18509,5 +18509,19 @@
     "unspecified": 1287.216166914247,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1762202328,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/49.4191308/37.7382147\">Борівської Андріївки</a>, <a href=\"https://deepstatemap.live/#14/49.1733457/37.7555477\">Карпівки</a>, <a href=\"https://deepstatemap.live/#14/48.2888382/37.3245035\">Козацького</a> та у <a href=\"https://deepstatemap.live/#14/48.2813154/37.1451145\">Покровську</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/49.4191308/37.7382147\">Borivska Andriivka</a>, <a href=\"https://deepstatemap.live/en#14/49.1733457/37.7555477\">Karpivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2888382/37.3245035\">Kozatske</a> and in <a href=\"https://deepstatemap.live/en#14/48.2813154/37.1451145\">Pokrovsk</a>.",
+    "updatedAt": "2025-11-04T09:09:40.740Z",
+    "datetime": "03.11 o 21:38",
+    "status": true,
+    "createdAt": "2025-11-03T20:38:48.000Z",
+    "liberated": 41476.686058233805,
+    "occupied": 71288.32192732776,
+    "unspecified": 1302.3510954442493,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
