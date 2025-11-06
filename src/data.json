@@ -18523,5 +18523,19 @@
     "unspecified": 1302.3510954442493,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1762292003,
+    "description": "Сили Оборони відкинули противника поблизу <a href=\"https://deepstatemap.live/#14/48.4759991/37.3057945\">Шахового</a>. Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/50.0670533/37.8110011\">Бологівки</a>, <a href=\"https://deepstatemap.live/#14/50.0096179/37.8290911\">Кам'янки</a>, <a href=\"https://deepstatemap.live/#13/48.4427620/37.3509415\">Володимирівки</a> та <a href=\"https://deepstatemap.live/#14/47.8590735/36.3182249\">Привілля</a>.",
+    "descriptionEn": "The Defense Forces drove the enemy back near <a href=\"https://deepstatemap.live/en#14/48.4759991/37.3057945\">Shakhove</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#13/50.0670533/37.8110011\">Bologivka</a>, <a href=\"https://deepstatemap.live/en#14/50.0096179/37.8290911\">Kamianka</a>, <a href=\"https://deepstatemap.live/en#13/48.4427620/37.3509415\">Volodymyrivka</a> and <a href=\"https://deepstatemap.live/en#14/47.8590735/36.3182249\">Pryvillia</a>.",
+    "updatedAt": "2025-11-05T10:12:25.276Z",
+    "datetime": "04.11 o 22:33",
+    "status": true,
+    "createdAt": "2025-11-04T21:33:23.000Z",
+    "liberated": 41474.580440870996,
+    "occupied": 71311.56094127499,
+    "unspecified": 1283.1930195421953,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
