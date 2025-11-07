@@ -18537,5 +18537,19 @@
     "unspecified": 1283.1930195421953,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1762378901,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:9418\">Павлівку</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.3016946/37.3178975\">Балагану</a>, <a href=\"https://deepstatemap.live/#14/48.2551931/37.0123349\">Удачного</a>, <a href=\"https://deepstatemap.live/#14/48.5216072/37.8892730\">Ступочків</a>, в <a href=\"https://deepstatemap.live/#15/47.5725564/35.3372857\">Плавнях</a>, <a href=\"https://deepstatemap.live/#15/47.5773640/35.3193453\">Приморському</a> та <a href=\"https://deepstatemap.live/#14/47.7822511/36.3950451\">Успенівці</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:9418\">Pavlivka</a> and advanced near <a href=\"https://deepstatemap.live/en#14/48.3016946/37.3178975\">Balagan</a>, <a href=\"https://deepstatemap.live/en#14/48.2551931/37.0123349\">Udachne</a>, <a href=\"https://deepstatemap.live/en#14/48.5216072/37.8892730\">Stupochky</a>, <a href=\"https://deepstatemap.live/en#15/47.5725564/35.3372857\">Plavni</a>, <a href=\"https://deepstatemap.live/en#15/47.5773640/35.3193453\">Prymorske</a> and <a href=\"https://deepstatemap.live/en#14/47.7822511/36.3950451\">Uspenivka</a>.",
+    "updatedAt": "2025-11-06T11:35:57.417Z",
+    "datetime": "05.11 o 22:41",
+    "status": true,
+    "createdAt": "2025-11-05T21:41:41.000Z",
+    "liberated": 41474.580440870996,
+    "occupied": 71324.4326310138,
+    "unspecified": 1302.1047090321144,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
