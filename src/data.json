@@ -18551,5 +18551,19 @@
     "unspecified": 1302.1047090321144,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1762465033,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/50.2687116/36.8755252\">Приліпки</a> та <a href=\"https://deepstatemap.live/#14/48.4371722/37.3911974\">Володимирівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/50.2687116/36.8755252\">Prylipka</a> and <a href=\"https://deepstatemap.live/en#14/48.4371722/37.3911974\">Volodymyrivka</a>.",
+    "updatedAt": "2025-11-07T08:31:12.269Z",
+    "datetime": "06.11 o 22:37",
+    "status": true,
+    "createdAt": "2025-11-06T21:37:13.000Z",
+    "liberated": 41471.5325631724,
+    "occupied": 71330.50076596366,
+    "unspecified": 1304.7898049481273,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
