@@ -18565,5 +18565,19 @@
     "unspecified": 1304.7898049481273,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1762551258,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.4904428/37.8925330\">Білої Гори</a>, <a href=\"https://deepstatemap.live/#14/48.4485038/37.8029251\">Плещіївки</a> та <a href=\"https://deepstatemap.live/#14/48.2725659/37.3266508\">Козацького</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.4904428/37.8925330\">Bila Hora</a>, <a href=\"https://deepstatemap.live/en#14/48.4485038/37.8029251\">Pleshchiyivka</a> and <a href=\"https://deepstatemap.live/en#14/48.2725659/37.3266508\">Kozatske</a>.",
+    "updatedAt": "2025-11-08T12:16:47.385Z",
+    "datetime": "07.11 o 22:34",
+    "status": true,
+    "createdAt": "2025-11-07T21:34:18.000Z",
+    "liberated": 41471.5325631724,
+    "occupied": 71345.03079474844,
+    "unspecified": 1300.8965791541336,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
