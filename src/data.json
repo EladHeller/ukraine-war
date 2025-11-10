@@ -18579,5 +18579,19 @@
     "unspecified": 1300.8965791541336,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1762635058,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:9427\">Успенівку</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#13/49.6637509/37.8199194\">Степової Новоселівки</a>, <a href=\"https://deepstatemap.live/#14/47.8275059/36.3712697\">Злагоди</a>, <a href=\"https://deepstatemap.live/#14/47.7883073/36.3555604\">Солодкого</a> та <a href=\"https://deepstatemap.live/#14/47.7544406/36.4541004\">Охотничого</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:9427\">Uspenivka</a> and advanced near <a href=\"https://deepstatemap.live/en#13/49.6637509/37.8199194\">Stepova Novoselivka</a>, <a href=\"https://deepstatemap.live/en#14/47.8275059/36.3712697\">Zlahoda</a>, <a href=\"https://deepstatemap.live/en#14/47.7883073/36.3555604\">Solodke</a> and <a href=\"https://deepstatemap.live/en#14/47.7544406/36.4541004\">Okhotnyche</a>.",
+    "updatedAt": "2025-11-09T14:33:12.378Z",
+    "datetime": "08.11 o 21:50",
+    "status": true,
+    "createdAt": "2025-11-08T20:50:58.000Z",
+    "liberated": 41469.08713203967,
+    "occupied": 71354.48737872242,
+    "unspecified": 1335.8172112169068,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
