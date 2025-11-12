@@ -18607,5 +18607,19 @@
     "unspecified": 1365.0284766067266,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1762805811,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5819\">Катеринівку</a> та <a href=\"https://deepstatemap.live/#dl!city!dsm:l:9415\">Новомиколаївку</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.4114187/37.7009583\">Олександро-Калинового</a>, <a href=\"https://deepstatemap.live/#14/48.2655990/37.3172092\">Променя</a>, <a href=\"https://deepstatemap.live/#14/47.7838009/36.3454342\">Солодкого</a>, <a href=\"https://deepstatemap.live/#14/47.7575049/36.4137554\">Нового</a> та <a href=\"https://deepstatemap.live/#14/47.7361367/36.3486725\">Яблукового</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5819\">Katerynivka</a> and <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:9415\">Novomykolaivka</a>, and advanced near <a href=\"https://deepstatemap.live/en#14/48.4114187/37.7009583\">Oleksandro-Kalynove</a>, <a href=\"https://deepstatemap.live/en#14/48.2655990/37.3172092\">Promin</a>, <a href=\"https://deepstatemap.live/en#14/47.7838009/36.3454342\">Solodke</a>, <a href=\"https://deepstatemap.live/en#14/47.7575049/36.4137554\">Nove</a> and <a href=\"https://deepstatemap.live/en#14/47.7361367/36.3486725\">Yablukove</a>.",
+    "updatedAt": "2025-11-11T08:22:20.488Z",
+    "datetime": "10.11 o 21:16",
+    "status": true,
+    "createdAt": "2025-11-10T20:16:51.000Z",
+    "liberated": 41460.59859201655,
+    "occupied": 71403.84557628697,
+    "unspecified": 1355.0594492868133,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
