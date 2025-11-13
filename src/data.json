@@ -18621,5 +18621,33 @@
     "unspecified": 1355.0594492868133,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1762897814,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:9411\">Нове</a> та <a href=\"https://deepstatemap.live/#dl!city!dsm:l:9416\">Новоуспенівське</a>, а також просунувся у <a href=\"https://deepstatemap.live/#15/48.2568271/37.1911240\">Покровську</a>, поблизу <a href=\"https://deepstatemap.live/#15/48.2362506/37.1946430\">Чунишиного</a>, <a href=\"https://deepstatemap.live/#14/47.7909585/36.3555622\">Солодкого</a>, <a href=\"https://deepstatemap.live/#15/47.7537229/36.3420010\">Рівнопілля</a> та <a href=\"https://deepstatemap.live/#15/47.7360331/36.3605833\">Яблукового</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:9411\">Nove</a> and <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:9416\">Novouspenske</a>, and advanced in <a href=\"https://deepstatemap.live/en#15/48.2568271/37.1911240\">Pokrovsk</a>, near <a href=\"https://deepstatemap.live/en#15/48.2362506/37.1946430\">Chunyshyne</a>, <a href=\"https://deepstatemap.live/en#14/47.7909585/36.3555622\">Solodke</a>, <a href=\"https://deepstatemap.live/en#15/47.7537229/36.3420010\">Rivnopillia</a> and <a href=\"https://deepstatemap.live/en#15/47.7360331/36.3605833\">Yablukove</a>.",
+    "updatedAt": "2025-11-12T19:09:12.841Z",
+    "datetime": "11.11 o 22:50",
+    "status": true,
+    "createdAt": "2025-11-11T21:50:14.000Z",
+    "liberated": 41460.59859201655,
+    "occupied": 71443.90570100646,
+    "unspecified": 1332.2403915583523,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1762976194,
+    "description": "Сили Оборони України відкинули ворога поблизу <a href=\"https://deepstatemap.live/#14/48.4609132/37.3136044\">Шахового</a>. Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:9421\">Рівнопілля</a> та <a href=\"https://deepstatemap.live/#dl!city!dsm:l:9430\">Яблукове</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#13/48.4378566/37.3869896\">Володимирівки</a>, <a href=\"https://deepstatemap.live/#14/48.2742249/37.0690727\">Котлиного</a> та <a href=\"https://deepstatemap.live/#14/48.0795125/36.8387032\">Дачного</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces pushed back the enemy near <a href=\"https://deepstatemap.live/en#14/48.4609132/37.3136044\">Shakhove</a>. The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:9421\">Rivnopillia</a> and <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:9430\">Yablukove</a>, and advanced near <a href=\"https://deepstatemap.live/en#13/48.4378566/37.3869896\">Volodymyrivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2742249/37.0690727\">Kotlyne</a> and <a href=\"https://deepstatemap.live/en#14/48.0795125/36.8387032\">Dachne</a>.",
+    "updatedAt": "2025-11-12T20:11:35.719Z",
+    "datetime": "12.11 o 20:36",
+    "status": true,
+    "createdAt": "2025-11-12T19:36:34.000Z",
+    "liberated": 41459.7152424836,
+    "occupied": 71461.29198052456,
+    "unspecified": 1345.4476659159989,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
