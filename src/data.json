@@ -18649,5 +18649,19 @@
     "unspecified": 1345.4476659159989,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1763064428,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:23965\">Степову Новоселівку</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.7655800/36.3452625\">Солодкого</a> та <a href=\"https://deepstatemap.live/#14/47.7284706/36.4005375\">Новоуспенівського</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:23965\">Stepova Novoselivka</a> and advanced near <a href=\"https://deepstatemap.live/en#14/47.7655800/36.3452625\">Solodke</a> and <a href=\"https://deepstatemap.live/en#14/47.7284706/36.4005375\">Novouspenske</a>.",
+    "updatedAt": "2025-11-13T20:47:03.826Z",
+    "datetime": "13.11 o 21:07",
+    "status": true,
+    "createdAt": "2025-11-13T20:07:08.000Z",
+    "liberated": 41459.7152424836,
+    "occupied": 71479.4989127367,
+    "unspecified": 1334.8734058569053,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
