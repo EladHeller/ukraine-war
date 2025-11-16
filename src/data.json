@@ -18663,5 +18663,19 @@
     "unspecified": 1334.8734058569053,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1763152639,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.2837069/37.1325874\">Покровську</a>, поблизу <a href=\"https://deepstatemap.live/#14/47.8517432/36.3209156\">Злагоди</a>, <a href=\"https://deepstatemap.live/#13/47.6659654/36.4265442\">Зеленого Гаю</a> та <a href=\"https://deepstatemap.live/#14/49.7203231/37.8245458\">Петропавлівки</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.2837069/37.1325874\">Pokrovsk</a>, near <a href=\"https://deepstatemap.live/en#14/47.8517432/36.3209156\">Zlahoda</a>, <a href=\"https://deepstatemap.live/en#13/47.6659654/36.4265442\">Zelenyi Hai</a> and <a href=\"https://deepstatemap.live/en#14/49.7203231/37.8245458\">Petropavlivka</a>.",
+    "updatedAt": "2025-11-15T12:21:15.644Z",
+    "datetime": "14.11 o 21:37",
+    "status": true,
+    "createdAt": "2025-11-14T20:37:19.000Z",
+    "liberated": 41445.08805937999,
+    "occupied": 71506.3411139691,
+    "unspecified": 1363.1410600447985,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
