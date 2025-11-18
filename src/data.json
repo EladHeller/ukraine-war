@@ -18691,5 +18691,19 @@
     "unspecified": 1371.8113612864317,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1763328823,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.9659590/37.9496098\">Ямполя</a>, <a href=\"https://deepstatemap.live/#15/48.6734802/37.8430939\">Новомаркового</a>, <a href=\"https://deepstatemap.live/#14/47.7609623/36.3173676\">Рівнопілля</a> та <a href=\"https://deepstatemap.live/#14/47.7241259/36.3697243\">Новоуспенівського</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.9659590/37.9496098\">Yampil</a>, <a href=\"https://deepstatemap.live/en#15/48.6734802/37.8430939\">Novomarkove</a>, <a href=\"https://deepstatemap.live/en#14/47.7609623/36.3173676\">Rivnopil</a> and <a href=\"https://deepstatemap.live/en#14/47.7241259/36.3697243\">Novouspenske</a>.",
+    "updatedAt": "2025-11-17T12:04:24.227Z",
+    "datetime": "16.11 o 22:33",
+    "status": true,
+    "createdAt": "2025-11-16T21:33:43.000Z",
+    "liberated": 41444.07603208792,
+    "occupied": 71522.86897581871,
+    "unspecified": 1363.9684991847066,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
