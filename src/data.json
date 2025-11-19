@@ -18705,5 +18705,19 @@
     "unspecified": 1363.9684991847066,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1763413997,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.9344541/38.0033398\">Ямполя</a>, <a href=\"https://deepstatemap.live/#14/48.3524846/37.3177242\">Новоекономічного</a>, <a href=\"https://deepstatemap.live/#14/48.3053486/37.3684831\">Миролюбівки</a>, <a href=\"https://deepstatemap.live/#14/48.4408490/37.3626611\">Володимирівки</a> та <a href=\"https://deepstatemap.live/#14/48.4720677/37.4173737\">Софіївки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.9344541/38.0033398\">Yampil</a>, <a href=\"https://deepstatemap.live/en#14/48.3524846/37.3177242\">Novoekonomichne</a>, <a href=\"https://deepstatemap.live/en#14/48.3053486/37.3684831\">Myrolyubivka</a>, <a href=\"https://deepstatemap.live/en#14/48.4408490/37.3626611\">Volodymyrivka</a> and <a href=\"https://deepstatemap.live/en#14/48.4720677/37.4173737\">Sofiyivka</a>.",
+    "updatedAt": "2025-11-18T14:58:37.276Z",
+    "datetime": "17.11 o 22:13",
+    "status": true,
+    "createdAt": "2025-11-17T21:13:17.000Z",
+    "liberated": 41428.731690157765,
+    "occupied": 71535.63395001148,
+    "unspecified": 1367.887823191199,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
