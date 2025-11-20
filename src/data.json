@@ -18719,5 +18719,19 @@
     "unspecified": 1367.887823191199,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1763501401,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#15/48.3900591/37.7803516\">Новоспаському</a>, <a href=\"https://deepstatemap.live/#15/48.3969837/37.7881622\">Щербинівці</a>, поблизу <a href=\"https://deepstatemap.live/#15/47.6968224/36.4042287\">Веселого</a>, <a href=\"https://deepstatemap.live/#15/47.6552130/36.4126396\">Високого</a> та <a href=\"https://deepstatemap.live/#14/47.6984394/36.3388262\">Затишшя</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.3900591/37.7803516\">Novospaske</a>, <a href=\"https://deepstatemap.live/en#15/48.3969837/37.7881622\">Shcherbynivka</a>, near <a href=\"https://deepstatemap.live/en#15/47.6968224/36.4042287\">Vesele</a>, <a href=\"https://deepstatemap.live/en#15/47.6552130/36.4126396\">Vysoke</a> and <a href=\"https://deepstatemap.live/en#14/47.6984394/36.3388262\">Zatyshche</a>.",
+    "updatedAt": "2025-11-19T08:46:36.307Z",
+    "datetime": "18.11 o 22:30",
+    "status": true,
+    "createdAt": "2025-11-18T21:30:01.000Z",
+    "liberated": 41393.33702173152,
+    "occupied": 71545.36087589717,
+    "unspecified": 1408.3138130051243,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
