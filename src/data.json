@@ -18733,5 +18733,19 @@
     "unspecified": 1408.3138130051243,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1763585473,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:9401\">Веселе</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.7083177/36.3741016\">Затишшя</a> та <a href=\"https://deepstatemap.live/#14/49.4271094/37.6921177\">Борівської Андріївки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:9401\">Vesele</a> and advanced near <a href=\"https://deepstatemap.live/en#14/47.7083177/36.3741016\">Zatyshya</a> and <a href=\"https://deepstatemap.live/en#14/49.4271094/37.6921177\">Borivska Andriivka</a>.",
+    "updatedAt": "2025-11-20T09:34:20.344Z",
+    "datetime": "19.11 o 21:51",
+    "status": true,
+    "createdAt": "2025-11-19T20:51:13.000Z",
+    "liberated": 41379.75012457496,
+    "occupied": 71569.76940281062,
+    "unspecified": 1408.703016892717,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
