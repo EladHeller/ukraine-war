@@ -18761,5 +18761,19 @@
     "unspecified": 1406.6013210220262,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1763757909,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:23875\">Одрадне</a> та <a href=\"https://deepstatemap.live/#dl!city!dsm:l:23843\">Бологівку</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#14/50.0273175/37.7954578\">Дворічанського</a>, <a href=\"https://deepstatemap.live/#15/48.3470942/37.2764397\">Червоного Лиману</a>, у <a href=\"https://deepstatemap.live/#15/47.6777269/36.4025116\">Зеленому Гаю</a> та <a href=\"https://deepstatemap.live/#15/47.6575544/36.4036703\">Високому</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:23875\">Odradne</a> and <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:23843\">Bologivka</a>, and advanced near <a href=\"https://deepstatemap.live/en#14/50.0273175/37.7954578\">Dvorichanske</a>, <a href=\"https://deepstatemap.live/en#15/48.3470942/37.2764397\">Chervonyi Lyman</a>, <a href=\"https://deepstatemap.live/en#15/47.6777269/36.4025116\">Zelenyi Hai</a> and <a href=\"https://deepstatemap.live/en#15/47.6575544/36.4036703\">Vysoke</a>.",
+    "updatedAt": "2025-11-22T09:45:14.733Z",
+    "datetime": "21.11 o 21:45",
+    "status": true,
+    "createdAt": "2025-11-21T20:45:09.000Z",
+    "liberated": 41369.90460628527,
+    "occupied": 71627.26470817982,
+    "unspecified": 1373.775857022694,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
