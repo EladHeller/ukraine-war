@@ -18775,5 +18775,19 @@
     "unspecified": 1373.775857022694,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1763846819,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.2725111/37.1742153\">Покровську</a> та поблизу <a href=\"https://deepstatemap.live/#15/48.2178962/37.2382879\">Даченського</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.2725111/37.1742153\">Pokrovsk</a> and near <a href=\"https://deepstatemap.live/en#15/48.2178962/37.2382879\">Dachenske</a>.",
+    "updatedAt": "2025-11-23T13:38:20.461Z",
+    "datetime": "22.11 o 22:26",
+    "status": true,
+    "createdAt": "2025-11-22T21:26:59.000Z",
+    "liberated": 41369.90460628527,
+    "occupied": 71631.35278223372,
+    "unspecified": 1372.4505065326787,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
