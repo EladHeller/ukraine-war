@@ -18789,5 +18789,33 @@
     "unspecified": 1372.4505065326787,
     "occupiedInRussia": 16.883286202961443,
     "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1763932290,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.9629200/37.9498672\">Ямполя</a>, <a href=\"https://deepstatemap.live/#14/48.4183778/37.7191650\">Катеринівки</a>, у <a href=\"https://deepstatemap.live/#14/48.4072115/37.8385555\">Торецьку</a> та <a href=\"https://deepstatemap.live/#14/48.4001459/37.7837097\">Щербинівці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.9629200/37.9498672\">Yampil</a>, <a href=\"https://deepstatemap.live/en#14/48.4183778/37.7191650\">Katerynivka</a>, <a href=\"https://deepstatemap.live/en#14/48.4072115/37.8385555\">Toretsk</a> and <a href=\"https://deepstatemap.live/en#14/48.4001459/37.7837097\">Shcherbynivka</a>.",
+    "updatedAt": "2025-11-24T15:01:26.641Z",
+    "datetime": "23.11 o 22:11",
+    "status": true,
+    "createdAt": "2025-11-23T21:11:30.000Z",
+    "liberated": 41369.90460628527,
+    "occupied": 71643.65277003766,
+    "unspecified": 1369.1950404060453,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
+  },
+  {
+    "id": 1764016680,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/48.8772460/38.1402404\">Сіверська</a>, <a href=\"https://deepstatemap.live/#14/48.8390731/38.1615261\">Новоселівки</a>, <a href=\"https://deepstatemap.live/#15/47.6801541/36.3570642\">Затишшя</a>, в <a href=\"https://deepstatemap.live/#14/48.3390788/37.3270798\">Новоекономічному</a> та <a href=\"http://deepstatemap.live/#14/48.3141404/37.3588371\">Миролюбівці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/48.8772460/38.1402404\">Siversk</a>, <a href=\"https://deepstatemap.live/en#14/48.8390731/38.1615261\">Novoselivka</a>, <a href=\"https://deepstatemap.live/en#15/47.6801541/36.3570642\">Zatyshya</a>, <a href=\"https://deepstatemap.live/en#14/48.3390788/37.3270798\">Novoekonomichne</a> and <a href=\"http://deepstatemap.live/en#14/48.3141404/37.3588371\">Myroliubivka</a>.",
+    "updatedAt": "2025-11-24T21:56:11.301Z",
+    "datetime": "24.11 o 21:38",
+    "status": true,
+    "createdAt": "2025-11-24T20:38:00.000Z",
+    "liberated": 41369.90460628527,
+    "occupied": 71659.45349064472,
+    "unspecified": 1372.2664568324076,
+    "occupiedInRussia": 16.883286202961443,
+    "occupiedInRussiaUnspecified": 31.650052668059104
   }
 ]
