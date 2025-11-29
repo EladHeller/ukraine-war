@@ -18859,5 +18859,19 @@
     "unspecified": 1364.5342406567327,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 39.54452894931454
+  },
+  {
+    "id": 1764362638,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.7566946/36.2866402\">Рівнопілля</a> та <a href=\"https://deepstatemap.live/#14/47.6623237/36.3573647\">Гуляйполя</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.7566946/36.2866402\">Rivnopillya</a> and <a href=\"https://deepstatemap.live/en#14/47.6623237/36.3573647\">Huliaipole</a>.",
+    "updatedAt": "2025-11-28T22:19:08.817Z",
+    "datetime": "28.11 o 21:43",
+    "status": true,
+    "createdAt": "2025-11-28T20:43:58.000Z",
+    "liberated": 41357.33468571844,
+    "occupied": 71719.01804188608,
+    "unspecified": 1364.659092424825,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 39.54452894931454
   }
 ]
