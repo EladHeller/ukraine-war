@@ -18873,5 +18873,19 @@
     "unspecified": 1364.659092424825,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 39.54452894931454
+  },
+  {
+    "id": 1764449121,
+    "description": "Сили Оборони України зачистили <a href=\"https://deepstatemap.live/#14/48.0964834/36.6422367\">Іванівку</a>. Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.2676550/37.3006439\">Мирнограду</a>.",
+    "descriptionEn": "Ukrainian Defense Forces have cleared <a href=\"https://deepstatemap.live/en#14/48.0964834/36.6422367\">Ivanivka</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.2676550/37.3006439\">Myrnohrad</a>.",
+    "updatedAt": "2025-11-30T13:30:14.933Z",
+    "datetime": "29.11 o 21:45",
+    "status": true,
+    "createdAt": "2025-11-29T20:45:21.000Z",
+    "liberated": 41365.82467995948,
+    "occupied": 71714.16270972234,
+    "unspecified": 1363.4379661513397,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 39.54452894931454
   }
 ]
