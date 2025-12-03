@@ -18901,5 +18901,19 @@
     "unspecified": 1353.0201276731236,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 39.54452894931454
+  },
+  {
+    "id": 1764624693,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:6141\">Козацьке</a>, а також просунувся у <a href=\"https://deepstatemap.live/#16/48.2883045/37.1865106\">Покровську</a>, <a href=\"https://deepstatemap.live/#15/48.2679978/37.2927904\">Мирнограді</a>, поблизу <a href=\"https://deepstatemap.live/#14/48.4602871/37.3808956\">Шахового</a>, <a href=\"https://deepstatemap.live/#15/48.2518266/37.3029184\">Миколаївки</a> та <a href=\"https://deepstatemap.live/#14/47.5614112/35.3843880\">Кам'янського</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:6141\">Kozatske</a> and advanced in <a href=\"https://deepstatemap.live/en#16/48.2883045/37.1865106\">Pokrovsk</a>, <a href=\"https://deepstatemap.live/en#15/48.2679978/37.2927904\">Myrnohrad</a>, near <a href=\"https://deepstatemap.live/en#14/48.4602871/37.3808956\">Shakhove</a>, <a href=\"https://deepstatemap.live/en#15/48.2518266/37.3029184\">Mykolaivka</a> and <a href=\"https://deepstatemap.live/en#14/47.5614112/35.3843880\">Kamianske</a>.",
+    "updatedAt": "2025-12-02T10:10:55.117Z",
+    "datetime": "01.12 o 22:31",
+    "status": true,
+    "createdAt": "2025-12-01T21:31:33.000Z",
+    "liberated": 41361.760506837454,
+    "occupied": 71763.84225373498,
+    "unspecified": 1353.3036584940003,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 39.54452894931454
   }
 ]
