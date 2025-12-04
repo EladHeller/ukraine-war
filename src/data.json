@@ -18915,5 +18915,19 @@
     "unspecified": 1353.3036584940003,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 39.54452894931454
+  },
+  {
+    "id": 1764710893,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:6123\">Балаган</a>, <a href=\"https://deepstatemap.live/#dl!city!dsm:l:9423\">Солодке</a> та <a href=\"https://deepstatemap.live/#dl!city!dsm:l:9405\">Затишшя</a>, а також просунувся у <a href=\"https://deepstatemap.live/#15/48.2846780/37.1619421\">Покровську</a>, поблизу <a href=\"https://deepstatemap.live/#15/48.3341435/37.3065233\">Новоекономічного</a> та <a href=\"https://deepstatemap.live/#15/47.6745484/36.3113165\">Гуляйполя</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:6123\">Balagan</a>, <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:9423\">Solodke</a> and <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:9405\">Zatyshche</a>, and advanced in <a href=\"https://deepstatemap.live/en#15/48.2846780/37.1619421\">Pokrovsk</a>, near <a href=\"https://deepstatemap.live/en#15/48.3341435/37.3065233\">Novoekonomichne</a> and <a href=\"https://deepstatemap.live/en#15/47.6745484/36.3113165\">Hulyaypole</a>.",
+    "updatedAt": "2025-12-03T11:33:54.008Z",
+    "datetime": "02.12 o 22:28",
+    "status": true,
+    "createdAt": "2025-12-02T21:28:13.000Z",
+    "liberated": 41356.39315929415,
+    "occupied": 71779.60086004231,
+    "unspecified": 1352.1472083138513,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 39.54452894931454
   }
 ]
