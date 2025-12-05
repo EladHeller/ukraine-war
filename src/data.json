@@ -18929,5 +18929,19 @@
     "unspecified": 1352.1472083138513,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 39.54452894931454
+  },
+  {
+    "id": 1764797210,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/50.2759020/36.9288254\">Вовчанську</a>, поблизу <a href=\"https://deepstatemap.live/#14/50.3074324/37.0107937\">Тихого</a>, <a href=\"https://deepstatemap.live/#14/48.9425525/37.9387201\">Ямполя</a> та <a href=\"https://deepstatemap.live/#14/48.3020948/37.3431301\">Новоекономічного</a>. Уточнено лінію зіткнення в <a href=\"https://deepstatemap.live/#15/48.2929873/37.2950649\">Балагані</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/50.2759020/36.9288254\">Vovchansk</a>, near <a href=\"https://deepstatemap.live/en#14/50.3074324/37.0107937\">Tykhy</a>, <a href=\"https://deepstatemap.live/en#14/48.9425525/37.9387201\">Yampil</a> and <a href=\"https://deepstatemap.live/en#14/48.3020948/37.3431301\">Novoekonomichne</a>. The frontline in <a href=\"https://deepstatemap.live/en#15/48.2929873/37.2950649\">Balagan</a> has been clarified.",
+    "updatedAt": "2025-12-04T10:42:17.026Z",
+    "datetime": "03.12 o 22:26",
+    "status": true,
+    "createdAt": "2025-12-03T21:26:50.000Z",
+    "liberated": 41344.952782124354,
+    "occupied": 71792.65172154021,
+    "unspecified": 1351.9164545556196,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 39.54452894931454
   }
 ]
