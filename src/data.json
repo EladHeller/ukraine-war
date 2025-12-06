@@ -18943,5 +18943,33 @@
     "unspecified": 1351.9164545556196,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 39.54452894931454
+  },
+  {
+    "id": 1764883361,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.9502955/37.9277229\">Ямполя</a>, <a href=\"https://deepstatemap.live/#14/48.8554540/38.1353474\">Сіверська</a> та <a href=\"https://deepstatemap.live/#14/48.8188460/38.1513977\">Виїмки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.9502955/37.9277229\">Yampol</a>, <a href=\"https://deepstatemap.live/en#14/48.8554540/38.1353474\">Siversk</a> and <a href=\"https://deepstatemap.live/en#14/48.8188460/38.1513977\">Vyymka</a>.",
+    "updatedAt": "2025-12-05T09:52:34.592Z",
+    "datetime": "04.12 o 22:22",
+    "status": true,
+    "createdAt": "2025-12-04T21:22:41.000Z",
+    "liberated": 41344.43840285463,
+    "occupied": 71806.447633947,
+    "unspecified": 1360.1818233998508,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 39.54452894931454
+  },
+  {
+    "id": 1764967350,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.8472082/38.1375790\">Сіверська</a>, <a href=\"https://deepstatemap.live/#14/48.7631552/38.0602462\">Федорівки</a> та у <a href=\"https://deepstatemap.live/#15/48.2749299/37.2840305\">Мирнограді</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.8472082/38.1375790\">Siversk</a>, <a href=\"https://deepstatemap.live/en#14/48.7631552/38.0602462\">Fedorivka</a> and in <a href=\"https://deepstatemap.live/en#15/48.2749299/37.2840305\">Myrnohrad</a>.",
+    "updatedAt": "2025-12-05T21:33:46.264Z",
+    "datetime": "05.12 o 21:42",
+    "status": true,
+    "createdAt": "2025-12-05T20:42:30.000Z",
+    "liberated": 41344.33992840093,
+    "occupied": 71820.85285240566,
+    "unspecified": 1363.2219696780903,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 39.54452894931454
   }
 ]
