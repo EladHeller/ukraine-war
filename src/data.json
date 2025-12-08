@@ -18971,5 +18971,33 @@
     "unspecified": 1363.2219696780903,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 39.54452894931454
+  },
+  {
+    "id": 1765049919,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/48.9512537/37.9138184\">Ямполя</a> та <a href=\"https://deepstatemap.live/#14/47.7766558/36.2838936\">Солодкого</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/48.9512537/37.9138184\">Yampil</a> and <a href=\"https://deepstatemap.live/en#14/47.7766558/36.2838936\">Solodke</a>.",
+    "updatedAt": "2025-12-07T11:50:41.717Z",
+    "datetime": "06.12 o 20:38",
+    "status": true,
+    "createdAt": "2025-12-06T19:38:39.000Z",
+    "liberated": 41344.33992840093,
+    "occupied": 71835.12630965182,
+    "unspecified": 1348.9485124316175,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 39.54452894931454
+  },
+  {
+    "id": 1765139894,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.4250998/37.7184677\">Катеринівки</a> та у <a href=\"https://deepstatemap.live/#16/48.2651982/37.2857738\">Мирнограді</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.4250998/37.7184677\">Katerynivka</a> and in <a href=\"https://deepstatemap.live/en#16/48.2651982/37.2857738\">Myrnohrad</a>.",
+    "updatedAt": "2025-12-07T20:42:22.963Z",
+    "datetime": "07.12 o 21:38",
+    "status": true,
+    "createdAt": "2025-12-07T20:38:14.000Z",
+    "liberated": 41344.33992840093,
+    "occupied": 71843.13332103296,
+    "unspecified": 1352.3496281883533,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 39.54452894931454
   }
 ]
