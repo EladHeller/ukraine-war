@@ -18999,5 +18999,19 @@
     "unspecified": 1352.3496281883533,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 39.54452894931454
+  },
+  {
+    "id": 1765220744,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!coords!48.22541600213941,37.258157730102546\">Лисівку</a>, <a href=\"https://deepstatemap.live/#dl!coords!48.232906106325146,37.27180480957032\">Сухий Яр</a>, <a href=\"https://deepstatemap.live/#dl!coords!48.26216989188534,37.20768928527833\">Гнатівку</a>, <a href=\"https://deepstatemap.live/#dl!coords!48.27228257921045,37.208890914917\">Ріг</a> та <a href=\"https://deepstatemap.live/#dl!coords!48.24856888679655,37.21936225891114\">Новопавлівку</a>, а також просунувся у <a href=\"https://deepstatemap.live/#14/48.8638113/38.1144905\">Сіверську</a>, <a href=\"https://deepstatemap.live/#15/48.2637983/37.2717619\">Мирнограді</a> та поблизу <a href=\"https://deepstatemap.live/#14/48.2483974/37.2542953\">Покровська</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!coords!48.22541600213941,37.258157730102546\">Lysivka</a>, <a href=\"https://deepstatemap.live/en#dl!coords!48.232906106325146,37.27180480957032\">Sukhyi Yar</a>, <a href=\"https://deepstatemap.live/en#dl!coords!48.26216989188534,37.20768928527833\">Hnativka</a>, <a href=\"https://deepstatemap.live/en#dl!coords!48.27228257921045,37.208890914917\">Rih</a> and <a href=\"https://deepstatemap.live/en#dl!coords!48.24856888679655,37.21936225891114\">Novopavlivka</a>, and advanced in <a href=\"https://deepstatemap.live/en#14/48.8638113/38.1144905\">Siversk</a>, <a href=\"https://deepstatemap.live/en#15/48.2637983/37.2717619\">Myrnohrad</a> and near <a href=\"https://deepstatemap.live/en#14/48.2483974/37.2542953\">Pokrovsk</a>.",
+    "updatedAt": "2025-12-08T19:18:04.862Z",
+    "datetime": "08.12 o 20:05",
+    "status": true,
+    "createdAt": "2025-12-08T19:05:44.000Z",
+    "liberated": 41344.33992840093,
+    "occupied": 71885.2100707705,
+    "unspecified": 1325.9579942227404,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 39.54452894931454
   }
 ]
