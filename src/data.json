@@ -19027,5 +19027,19 @@
     "unspecified": 1327.1496087321889,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 39.54452894931454
+  },
+  {
+    "id": 1765402506,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/49.1087141/37.6873112\">Середнього</a>, <a href=\"https://deepstatemap.live/#14/49.0683923/37.7340058\">Дерилового</a> та <a href=\"https://deepstatemap.live/#14/49.0867401/37.8448105\">Колодязів</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.1087141/37.6873112\">Serednye</a>, <a href=\"https://deepstatemap.live/en#14/49.0683923/37.7340058\">Derylove</a> and <a href=\"https://deepstatemap.live/en#14/49.0867401/37.8448105\">Kolodyazi</a>.",
+    "updatedAt": "2025-12-11T12:54:53.172Z",
+    "datetime": "10.12 o 22:35",
+    "status": true,
+    "createdAt": "2025-12-10T21:35:06.000Z",
+    "liberated": 41328.76688174593,
+    "occupied": 71914.18620016282,
+    "unspecified": 1320.8798370136492,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 39.54452894931454
   }
 ]
