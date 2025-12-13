@@ -19041,5 +19041,33 @@
     "unspecified": 1320.8798370136492,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 39.54452894931454
+  },
+  {
+    "id": 1765486092,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.4448316/37.3442030\">Володимирівці</a>, <a href=\"https://deepstatemap.live/#15/48.4345253/37.3233891\">Паньківці</a>, <a href=\"https://deepstatemap.live/#15/48.3198767/37.3318005\">Новоекономічному</a>, поблизу <a href=\"https://deepstatemap.live/#15/48.3421026/37.2912025\">Мирнограду</a> та <a href=\"https://deepstatemap.live/#14/48.4829353/37.4023533\">Софіївки</a>. Уточнено лінію зіткнення на <a href=\"https://deepstatemap.live/#15/48.3272103/37.3046780\">шахті Капітальна</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.4448316/37.3442030\">Volodymyrivka</a>, <a href=\"https://deepstatemap.live/en#15/48.4345253/37.3233891\">Pankivka</a>, <a href=\"https://deepstatemap.live/en#15/48.3198767/37.3318005\">Novoekonomichne</a>, near <a href=\"https://deepstatemap.live/en#15/48.3421026/37.2912025\">Myrnohrad</a> and <a href=\"https://deepstatemap.live/en#14/48.4829353/37.4023533\">Sofiyivka</a>. The line of contact at <a href=\"https://deepstatemap.live/en#15/48.3272103/37.3046780\">Kapitalna mine</a> has been clarified.",
+    "updatedAt": "2025-12-12T05:37:38.981Z",
+    "datetime": "11.12 o 21:48",
+    "status": true,
+    "createdAt": "2025-12-11T20:48:12.000Z",
+    "liberated": 41328.76688174593,
+    "occupied": 71922.32501229948,
+    "unspecified": 1314.628029086976,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 39.54452894931454
+  },
+  {
+    "id": 1765533233,
+    "description": "Сили Оборони України звільнили <a href=\"https://deepstatemap.live/#dl!city!dsm:l:23914\">Мирне</a>, <a href=\"https://deepstatemap.live/#dl!city!dsm:l:23919\">Радьківку</a>, <a href=\"https://deepstatemap.live/#dl!city!dsm:l:23895\">Кіндрашівку</a> та частину <a href=\"https://deepstatemap.live/#14/49.7189302/37.5881767\">Куп'янська</a>.",
+    "descriptionEn": "Ukrainian Defense Forces liberated <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:23914\">Myrne</a>, <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:23919\">Radkivka</a>, <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:23895\">Kindrashivka</a> and part of <a href=\"https://deepstatemap.live/en#14/49.7189302/37.5881767\">Kupiansk</a>.",
+    "updatedAt": "2025-12-12T09:53:57.073Z",
+    "datetime": "12.12 o 10:53",
+    "status": true,
+    "createdAt": "2025-12-12T09:53:53.000Z",
+    "liberated": 41367.750416079056,
+    "occupied": 71901.77829551678,
+    "unspecified": 1296.2017591425854,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 39.54452894931454
   }
 ]
