@@ -19083,5 +19083,19 @@
     "unspecified": 1322.498951229953,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 39.54452894931454
+  },
+  {
+    "id": 1765710682,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5273\">Толстой</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#13/48.9240784/37.9066086\">Ямполя</a> та у <a href=\"https://deepstatemap.live/#15/48.8676507/38.0913591\">Сіверську</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5273\">Tolstoy</a> and advanced near <a href=\"https://deepstatemap.live/en#13/48.9240784/37.9066086\">Yampil</a> and in <a href=\"https://deepstatemap.live/e#15/48.8676507/38.0913591\">Siversk</a>.",
+    "updatedAt": "2025-12-14T12:22:30.143Z",
+    "datetime": "14.12 o 12:11",
+    "status": true,
+    "createdAt": "2025-12-14T11:11:22.000Z",
+    "liberated": 41347.62646310574,
+    "occupied": 71925.84164044897,
+    "unspecified": 1333.800148399077,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 39.54452894931454
   }
 ]
