@@ -19097,5 +19097,19 @@
     "unspecified": 1333.800148399077,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 39.54452894931454
+  },
+  {
+    "id": 1765831850,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#13/47.6495468/36.3012314\">Гуляйполі</a>, <a href=\"https://deepstatemap.live/#14/48.5135910/37.8594017\">Предтечиного</a>, <a href=\"https://deepstatemap.live/#14/48.4536842/37.3542881\">Шахового</a> та у <a href=\"https://deepstatemap.live/#15/47.5757440/35.3615141\">Степногірську</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#13/47.6495468/36.3012314\">Gulyaypole</a>, <a href=\"https://deepstatemap.live/en#14/48.5135910/37.8594017\">Predtechyno</a>, <a href=\"https://deepstatemap.live/en#14/48.4536842/37.3542881\">Shakhove</a> and <a href=\"https://deepstatemap.live/en#15/47.5757440/35.3615141\">Stepnohirsk</a>.",
+    "updatedAt": "2025-12-15T21:38:11.844Z",
+    "datetime": "15.12 o 21:50",
+    "status": true,
+    "createdAt": "2025-12-15T20:50:50.000Z",
+    "liberated": 41341.819068548866,
+    "occupied": 71951.24933031366,
+    "unspecified": 1348.458960363383,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 39.54452894931454
   }
 ]
