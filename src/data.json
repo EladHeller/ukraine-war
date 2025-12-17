@@ -19111,5 +19111,19 @@
     "unspecified": 1348.458960363383,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 39.54452894931454
+  },
+  {
+    "id": 1765903771,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5129\">Серебрянку</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.9039410/38.1001568\">Дронівки</a>, <a href=\"https://deepstatemap.live/#14/48.8428024/38.0592155\">Свято-Покровського</a>, <a href=\"https://deepstatemap.live/#14/48.8044327/38.1141472\">Званівки</a>, <a href=\"https://deepstatemap.live/#14/48.7627531/38.0142411\">Пазено</a>, у <a href=\"https://deepstatemap.live/#14/48.8676507/38.0877113\">Сіверську</a> та <a href=\"https://deepstatemap.live/#14/48.7812506/38.0756959\">Переїзному</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5129\">Serebryanka</a> and advanced near <a href=\"https://deepstatemap.live/en#14/48.9039410/38.1001568\">Dronivka</a>, <a href=\"https://deepstatemap.live/en#14/48.8428024/38.0592155\">Svyato-Pokrovske</a>, <a href=\"https://deepstatemap.live/en#14/48.8044327/38.1141472\">Zvanivka</a>, <a href=\"https://deepstatemap.live/en#14/48.7627531/38.0142411\">Pazeno</a>, in <a href=\"https://deepstatemap.live/en#14/48.8676507/38.0877113\">Siversk</a> and <a href=\"https://deepstatemap.live/en#14/48.7812506/38.0756959\">Pereyizne</a>.",
+    "updatedAt": "2025-12-16T17:49:12.186Z",
+    "datetime": "16.12 o 17:49",
+    "status": true,
+    "createdAt": "2025-12-16T16:49:31.000Z",
+    "liberated": 41341.819068548866,
+    "occupied": 71996.10211913116,
+    "unspecified": 1313.5319299573607,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 39.54452894931454
   }
 ]
