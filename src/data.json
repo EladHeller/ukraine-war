@@ -19139,5 +19139,19 @@
     "unspecified": 1319.078902350093,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 39.54452894931454
+  },
+  {
+    "id": 1766093510,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.9256010/38.0851364\">Дронівки</a>, <a href=\"https://deepstatemap.live/#14/48.4260111/37.2659683\">Никонорівки</a>, <a href=\"https://deepstatemap.live/#14/48.4326745/37.3005581\">Паньківки</a> та у <a href=\"https://deepstatemap.live/#15/47.6530738/36.3243628\">Гуляйполі</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.9256010/38.0851364\">Dronivka</a>, <a href=\"https://deepstatemap.live/en#14/48.4260111/37.2659683\">Nykonorivka</a>, <a href=\"https://deepstatemap.live/en#14/48.4326745/37.3005581\">Pankivka</a> and in <a href=\"https://deepstatemap.live/en#15/47.6530738/36.3243628\">Huliaipole</a>.",
+    "updatedAt": "2025-12-18T21:32:23.450Z",
+    "datetime": "18.12 o 22:31",
+    "status": true,
+    "createdAt": "2025-12-18T21:31:50.000Z",
+    "liberated": 41341.819068548866,
+    "occupied": 72029.63947316204,
+    "unspecified": 1323.1884086047987,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 39.54452894931454
   }
 ]
