@@ -19142,15 +19142,29 @@
   },
   {
     "id": 1766093510,
-    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.9256010/38.0851364\">Дронівки</a>, <a href=\"https://deepstatemap.live/#14/48.4260111/37.2659683\">Никонорівки</a>, <a href=\"https://deepstatemap.live/#14/48.4326745/37.3005581\">Паньківки</a> та у <a href=\"https://deepstatemap.live/#15/47.6530738/36.3243628\">Гуляйполі</a>.",
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.9256010/38.0851364\">Дронівки</a>, <a href=\"https://deepstatemap.live/#14/48.4260111/37.2659683\">Никонорівки</a>, <a href=\"https://deepstatemap.live/#14/48.4326745/37.3005581\">Панківки</a> та у <a href=\"https://deepstatemap.live/#15/47.6530738/36.3243628\">Гуляйполі</a>.",
     "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.9256010/38.0851364\">Dronivka</a>, <a href=\"https://deepstatemap.live/en#14/48.4260111/37.2659683\">Nykonorivka</a>, <a href=\"https://deepstatemap.live/en#14/48.4326745/37.3005581\">Pankivka</a> and in <a href=\"https://deepstatemap.live/en#15/47.6530738/36.3243628\">Huliaipole</a>.",
-    "updatedAt": "2025-12-18T21:32:23.450Z",
+    "updatedAt": "2025-12-19T11:26:17.371Z",
     "datetime": "18.12 o 22:31",
     "status": true,
     "createdAt": "2025-12-18T21:31:50.000Z",
     "liberated": 41341.819068548866,
     "occupied": 72029.63947316204,
     "unspecified": 1323.1884086047987,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 39.54452894931454
+  },
+  {
+    "id": 1766175976,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.9209201/38.0623055\">Дронівки</a>, <a href=\"https://deepstatemap.live/#14/47.8674227/36.3309288\">Вишневого</a> та у <a href=\"https://deepstatemap.live/#14/48.8691751/38.0815315\">Сіверську</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.9209201/38.0623055\">Dronivka</a>, <a href=\"https://deepstatemap.live/en#14/47.8674227/36.3309288\">Vyshneve</a> and in <a href=\"https://deepstatemap.live/en#14/48.8691751/38.0815315\">Siversk</a>.",
+    "updatedAt": "2025-12-19T21:34:12.352Z",
+    "datetime": "19.12 o 21:26",
+    "status": true,
+    "createdAt": "2025-12-19T20:26:16.000Z",
+    "liberated": 41341.819068548866,
+    "occupied": 72046.22101322703,
+    "unspecified": 1321.8566734641743,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 39.54452894931454
   }
