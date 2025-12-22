@@ -19181,5 +19181,19 @@
     "unspecified": 1344.383572316727,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1766350032,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5097\">Званівку</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.8102550/38.0410194\">Свято-Покровського</a>, <a href=\"https://deepstatemap.live/#14/48.7690169/37.9960994\">Пазено</a>, <a href=\"https://deepstatemap.live/#14/48.6831258/37.8681258\">Оріхово-Василівки</a> та у <a href=\"https://deepstatemap.live/#14/48.7660751/38.0505160\">Федорівці</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5097\">Zvanivka</a>, and advanced near <a href=\"https://deepstatemap.live/en#14/48.8102550/38.0410194\">Svyato-Pokrovske</a>, <a href=\"https://deepstatemap.live/en#14/48.7690169/37.9960994\">Pazeno</a>, <a href=\"https://deepstatemap.live/en#14/48.6831258/37.8681258\">Orikhovo-Vasylivka</a> and in <a href=\"https://deepstatemap.live/en#14/48.7660751/38.0505160\">Fedorivka</a>.",
+    "updatedAt": "2025-12-21T21:06:34.350Z",
+    "datetime": "21.12 o 21:47",
+    "status": true,
+    "createdAt": "2025-12-21T20:47:12.000Z",
+    "liberated": 41334.368622395676,
+    "occupied": 72079.49941071084,
+    "unspecified": 1353.9035037701947,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
