@@ -19195,5 +19195,33 @@
     "unspecified": 1353.9035037701947,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1766437720,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/51.1114976/34.9839020\">Юнаківки</a> та <a href=\"https://deepstatemap.live/#14/48.8530256/38.0209351\">Свято-Покровського</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/51.1114976/34.9839020\">Yunakivka</a> and <a href=\"https://deepstatemap.live/en#14/48.8530256/38.0209351\">Svyato-Pokrovske</a>.",
+    "updatedAt": "2025-12-23T07:08:59.458Z",
+    "datetime": "22.12 o 22:08",
+    "status": true,
+    "createdAt": "2025-12-22T21:08:40.000Z",
+    "liberated": 41331.37494704289,
+    "occupied": 72087.35928985638,
+    "unspecified": 1354.168203112503,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1766509363,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5123\">Сіверськ</a> та <a href=\"https://deepstatemap.live/#dl!coords!50.69591395500826,35.45236587524415\">Грабовське</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5123\">Siversk</a> and <a href=\"https://deepstatemap.live/en#dl!coords!50.69591395500826,35.45236587524415\">Hrabovske</a>.",
+    "updatedAt": "2025-12-23T17:03:19.166Z",
+    "datetime": "23.12 o 18:02",
+    "status": true,
+    "createdAt": "2025-12-23T17:02:43.000Z",
+    "liberated": 41330.829792419274,
+    "occupied": 72099.20362371429,
+    "unspecified": 1348.9037444507678,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
