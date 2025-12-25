@@ -19223,5 +19223,19 @@
     "unspecified": 1348.9037444507678,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1766610015,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/51.1432789/34.8316383\">Кіндратівки</a>, у <a href=\"https://deepstatemap.live/#14/50.2774922/36.9223024\">Вовчанську</a> та <a href=\"https://deepstatemap.live/#14/48.2854204/37.2691441\">Мирнограді</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/51.1432789/34.8316383\">Kindrativka</a>, in <a href=\"https://deepstatemap.live/en#14/50.2774922/36.9223024\">Vovchansk</a> and <a href=\"https://deepstatemap.live/en#14/48.2854204/37.2691441\">Myrnohrad</a>.",
+    "updatedAt": "2025-12-24T21:14:09.386Z",
+    "datetime": "24.12 o 22:00",
+    "status": true,
+    "createdAt": "2025-12-24T21:00:15.000Z",
+    "liberated": 41319.723964415745,
+    "occupied": 72118.03464563821,
+    "unspecified": 1341.1734777454933,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
