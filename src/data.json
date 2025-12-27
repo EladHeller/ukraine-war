@@ -19237,5 +19237,19 @@
     "unspecified": 1341.1734777454933,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1766696131,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5125\">Дронівку</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#13/50.0016764/37.7869586\">Дворічанського</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5125\">Dronivka</a> and advanced near <a href=\"https://deepstatemap.live/en#13/50.0016764/37.7869586\">Dvorichanske</a>.",
+    "updatedAt": "2025-12-26T13:32:37.514Z",
+    "datetime": "25.12 o 21:55",
+    "status": true,
+    "createdAt": "2025-12-25T20:55:31.000Z",
+    "liberated": 41314.36972531386,
+    "occupied": 72124.55125711608,
+    "unspecified": 1348.3578204431353,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
