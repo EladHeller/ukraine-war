@@ -19251,5 +19251,33 @@
     "unspecified": 1348.3578204431353,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1766783223,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/51.1276049/34.8233966\">Андріївці</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/51.1276049/34.8233966\">Andriivka</a>.",
+    "updatedAt": "2025-12-27T11:30:35.338Z",
+    "datetime": "26.12 o 22:07",
+    "status": true,
+    "createdAt": "2025-12-26T21:07:03.000Z",
+    "liberated": 41309.10930466327,
+    "occupied": 72126.21601090442,
+    "unspecified": 1369.0181473126488,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1766870427,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/47.6555996/36.2657569\">Гуляйполі</a>, <a href=\"https://deepstatemap.live/#14/48.2902156/37.2656303\">Мирнограді</a>, <a href=\"https://deepstatemap.live/#14/48.2907869/37.2051135\">Покровську</a>, поблизу <a href=\"https://deepstatemap.live/#14/47.6925423/36.2564862\">Зеленого</a>, <a href=\"https://deepstatemap.live/#14/48.3644294/37.2476894\">Родинського</a>, <a href=\"https://deepstatemap.live/#14/48.3337303/37.2767031\">Червоного Лиману</a> та <a href=\"https://deepstatemap.live/#14/48.3162019/37.3139578\">Новоекономічного</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/47.6555996/36.2657569\">Huliaypole</a>, <a href=\"https://deepstatemap.live/en#14/48.2902156/37.2656303\">Myrnohrad</a>, <a href=\"https://deepstatemap.live/en#14/48.2907869/37.2051135\">Pokrovsk</a>, near <a href=\"https://deepstatemap.live/en#14/47.6925423/36.2564862\">Zelene</a>, <a href=\"https://deepstatemap.live/en#14/48.3644294/37.2476894\">Rodynske</a>, <a href=\"https://deepstatemap.live/en#14/48.3337303/37.2767031\">Chervonyi Lyman</a> and <a href=\"https://deepstatemap.live/en#14/48.3162019/37.3139578\">Novoekonomichne</a>.",
+    "updatedAt": "2025-12-27T22:34:51.801Z",
+    "datetime": "27.12 o 22:20",
+    "status": true,
+    "createdAt": "2025-12-27T21:20:27.000Z",
+    "liberated": 41309.10930466327,
+    "occupied": 72148.03378456773,
+    "unspecified": 1380.0939356554218,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
