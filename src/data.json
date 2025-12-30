@@ -19279,5 +19279,19 @@
     "unspecified": 1380.0939356554218,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1766956853,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.2958618/37.2528363\">Мирнограді</a>, поблизу <a href=\"https://deepstatemap.live/#14/48.3313216/37.2700901\">Червоного Лиману</a>, <a href=\"https://deepstatemap.live/#14/48.0635686/36.7570782\">Філії</a> та <a href=\"https://deepstatemap.live/#13/47.6210889/36.2844107\">Гуляйполя</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.2958618/37.2528363\">Myrnohrad</a>, near <a href=\"https://deepstatemap.live/en#14/48.3313216/37.2700901\">Chervonyi Lyman</a>, <a href=\"https://deepstatemap.live/en#14/48.0635686/36.7570782\">Filiya</a> and <a href=\"https://deepstatemap.live/en#13/47.6210889/36.2844107\">Hulyaypole</a>.",
+    "updatedAt": "2025-12-29T07:23:37.691Z",
+    "datetime": "28.12 o 22:20",
+    "status": true,
+    "createdAt": "2025-12-28T21:20:53.000Z",
+    "liberated": 41309.10930466327,
+    "occupied": 72175.01415252454,
+    "unspecified": 1369.7279913941431,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
