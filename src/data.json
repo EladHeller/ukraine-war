@@ -19293,5 +19293,19 @@
     "unspecified": 1369.7279913941431,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1767042372,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#15/48.7708662/37.9780164\">Пазено</a>, <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5102\">Переїзне</a> та <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5100\">Кузьминівку</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#15/51.1293721/34.8433570\">Андріївки</a> та у <a href=\"https://deepstatemap.live/#14/48.3079166/37.2531788\">Мирнограді</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#15/48.7708662/37.9780164\">Pazeno</a>, <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5102\">Pereizne</a> and <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5100\">Kuzmynivka</a>, and advanced near <a href=\"https://deepstatemap.live/en#15/51.1293721/34.8433570\">Andriivka</a> and in <a href=\"https://deepstatemap.live/en#14/48.3079166/37.2531788\">Myrnohrad</a>.",
+    "updatedAt": "2025-12-30T10:16:25.117Z",
+    "datetime": "29.12 o 22:06",
+    "status": true,
+    "createdAt": "2025-12-29T21:06:12.000Z",
+    "liberated": 41307.02235791286,
+    "occupied": 72180.16602666948,
+    "unspecified": 1369.6634911268545,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
