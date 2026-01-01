@@ -19307,5 +19307,33 @@
     "unspecified": 1369.6634911268545,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1767130981,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:21634\">Новомиколаївку</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#15/51.1449206/34.9128343\">Варачиного</a>, <a href=\"https://deepstatemap.live/#14/50.7275525/35.4601751\">Грабовського</a> та <a href=\"https://deepstatemap.live/#14/48.2387967/36.9554330\">Молодецького</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:21634\">Novomykolayivka</a> and advanced near <a href=\"https://deepstatemap.live/en#15/51.1449206/34.9128343\">Varachyne</a>, <a href=\"https://deepstatemap.live/en#14/50.7275525/35.4601751\">Hrabovske</a> and <a href=\"https://deepstatemap.live/en#14/48.2387967/36.9554330\">Molodetske</a>.",
+    "updatedAt": "2025-12-31T13:11:02.568Z",
+    "datetime": "30.12 o 22:43",
+    "status": true,
+    "createdAt": "2025-12-30T21:43:01.000Z",
+    "liberated": 41307.02235791286,
+    "occupied": 72190.00533289694,
+    "unspecified": 1369.166785250163,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1767200597,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.5192225/36.0031376\">Білогір'я</a>, у <a href=\"https://deepstatemap.live/#14/47.5827850/35.3432711\">Степногірську</a> та <a href=\"https://deepstatemap.live/#14/48.3003291/37.1871744\">Покровську</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.5827850/35.3432711\">Bilohirya</a>, in <a href=\"https://deepstatemap.live/en#14/47.5827850/35.3432711\">Stepnohirsk</a> and <a href=\"https://deepstatemap.live/en#14/48.3003291/37.1871744\">Pokrovsk</a>.",
+    "updatedAt": "2025-12-31T19:49:10.652Z",
+    "datetime": "31.12 o 18:03",
+    "status": true,
+    "createdAt": "2025-12-31T17:03:17.000Z",
+    "liberated": 41300.54460434449,
+    "occupied": 72195.78925389466,
+    "unspecified": 1375.7958776241128,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
