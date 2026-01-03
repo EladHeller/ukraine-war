@@ -19335,5 +19335,33 @@
     "unspecified": 1375.7958776241128,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1767300846,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.8470393/38.0138962\">Різниківки</a>, <a href=\"https://deepstatemap.live/#14/48.5206924/37.8337419\">Предтечиного</a> та <a href=\"https://deepstatemap.live/#14/47.5949679/36.2455193\">Дорожнянки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.8470393/38.0138962\">Riznykivka</a>, <a href=\"https://deepstatemap.live/en#14/48.5206924/37.8337419\">Predtechyne</a> and <a href=\"https://deepstatemap.live/en#14/47.5949679/36.2455193\">Dorozhnyanka</a>.",
+    "updatedAt": "2026-01-02T11:50:27.055Z",
+    "datetime": "01.01 o 21:54",
+    "status": true,
+    "createdAt": "2026-01-01T20:54:06.000Z",
+    "liberated": 41300.54460434449,
+    "occupied": 72201.08675873953,
+    "unspecified": 1372.4626459226436,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1767385116,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.3068625/37.2560981\">Мирнограді</a>, <a href=\"https://deepstatemap.live/#15/48.3050411/37.1704380\">Покровську</a> та <a href=\"https://deepstatemap.live/#14/48.3074625/37.2336957\">Світлому</a>. Уточнено лінію зіткнення у <a href=\"https://deepstatemap.live/#15/48.2860811/37.1823130\">Покровську</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.3068625/37.2560981\">Myrnohrad</a>, <a href=\"https://deepstatemap.live/en#15/48.3050411/37.1704380\">Pokrovsk</a> and <a href=\"https://deepstatemap.live/en#14/48.3074625/37.2336957\">Svitle</a>. The contact line in <a href=\"https://deepstatemap.live/en#15/48.2860811/37.1823130\">Pokrovsk</a> has been clarified.",
+    "updatedAt": "2026-01-02T22:36:16.101Z",
+    "datetime": "02.01 o 21:18",
+    "status": true,
+    "createdAt": "2026-01-02T20:18:36.000Z",
+    "liberated": 41300.54460434449,
+    "occupied": 72203.67544771446,
+    "unspecified": 1369.8752842990425,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
