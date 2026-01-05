@@ -19363,5 +19363,33 @@
     "unspecified": 1369.8752842990425,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1767474010,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/49.6400162/37.8599505\">Степової Новоселівки</a>, <a href=\"https://deepstatemap.live/#13/48.4939449/37.8338263\">Костянтинівки</a>, <a href=\"https://deepstatemap.live/#14/50.7065106/35.4431775\">Грабовського</a> та <a href=\"https://deepstatemap.live/#14/50.7368416/35.4634356\">Високого</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.6400162/37.8599505\">Stepova Novoselivka</a>, <a href=\"https://deepstatemap.live/en#13/48.4939449/37.8338263\">Kostiantynivka</a>, <a href=\"https://deepstatemap.live/en#14/50.7065106/35.4431775\">Hrabove</a> and <a href=\"https://deepstatemap.live/en#14/50.7368416/35.4634356\">Vysoke</a>.",
+    "updatedAt": "2026-01-04T12:01:52.410Z",
+    "datetime": "03.01 o 22:00",
+    "status": true,
+    "createdAt": "2026-01-03T21:00:10.000Z",
+    "liberated": 41298.30750607043,
+    "occupied": 72220.42528664677,
+    "unspecified": 1359.9370502383376,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1767559428,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#15/48.8372477/38.0107082\">Різниківці</a>, <a href=\"https://deepstatemap.live/#14/48.5957746/37.8061815\">Часовому Яру</a> та <a href=\"https://deepstatemap.live/#14/48.3139801/37.2458030\">Мирнограді</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.8372477/38.0107082\">Riznykivka</a>, <a href=\"https://deepstatemap.live/en#14/48.5957746/37.8061815\">Chasіv Yar</a> and <a href=\"https://deepstatemap.live/en#14/48.3139801/37.2458030\">Myrnohrad</a>.",
+    "updatedAt": "2026-01-04T21:03:27.223Z",
+    "datetime": "04.01 o 21:43",
+    "status": true,
+    "createdAt": "2026-01-04T20:43:48.000Z",
+    "liberated": 41298.30750607043,
+    "occupied": 72222.82017728369,
+    "unspecified": 1374.3349246598082,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
