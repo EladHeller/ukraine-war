@@ -19391,5 +19391,33 @@
     "unspecified": 1374.3349246598082,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1767648836,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.7654217/38.0330445\">Федорівки</a> та у <a href=\"https://deepstatemap.live/#15/48.6735357/37.8326246\">Новомарковому</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.7654217/38.0330445\">Fedorivka</a> and in <a href=\"https://deepstatemap.live/en#15/48.6735357/37.8326246\">Novomarkove</a>.",
+    "updatedAt": "2026-01-06T08:52:22.156Z",
+    "datetime": "05.01 o 22:33",
+    "status": true,
+    "createdAt": "2026-01-05T21:33:56.000Z",
+    "liberated": 41298.30750607043,
+    "occupied": 72226.03502528745,
+    "unspecified": 1377.3874856636962,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1767730986,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/48.4401259/37.5080061\">Русиного Яру</a>, <a href=\"https://deepstatemap.live/#14/48.4391687/37.2952327\">Нового Шахового</a>, <a href=\"https://deepstatemap.live/#14/47.6095205/36.2605465\">Дорожнянки</a> та у <a href=\"https://deepstatemap.live/#14/48.3821853/37.2906910\">Федорівці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/48.4401259/37.5080061\">Rusyn Yar</a>, <a href=\"https://deepstatemap.live/en#14/48.4391687/37.2952327\">Nove Shakhove</a>, <a href=\"https://deepstatemap.live/en#14/47.6095205/36.2605465\">Dorozhnyanka</a> and <a href=\"https://deepstatemap.live/en#14/48.3821853/37.2906910\">Fedorivka</a>.",
+    "updatedAt": "2026-01-06T21:32:20.939Z",
+    "datetime": "06.01 o 21:23",
+    "status": true,
+    "createdAt": "2026-01-06T20:23:06.000Z",
+    "liberated": 41298.30750607043,
+    "occupied": 72236.66674953865,
+    "unspecified": 1373.1659766380135,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
