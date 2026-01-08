@@ -19419,5 +19419,19 @@
     "unspecified": 1373.1659766380135,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1767817495,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:21626\">Андріївку</a> та <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5850\">Новомаркове</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.6180480/37.7937431\">Майського</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:21626\">Andriivka</a> and <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5850\">Novomarkove</a> and advanced near <a href=\"https://deepstatemap.live/en#14/48.6180480/37.7937431\">Mayske</a>.",
+    "updatedAt": "2026-01-07T21:37:28.888Z",
+    "datetime": "07.01 o 21:24",
+    "status": true,
+    "createdAt": "2026-01-07T20:24:55.000Z",
+    "liberated": 41296.39425481745,
+    "occupied": 72244.24779721476,
+    "unspecified": 1376.0892604331893,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
