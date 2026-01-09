@@ -19433,5 +19433,19 @@
     "unspecified": 1376.0892604331893,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1767904479,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/47.6800681/36.2339427\">Гуляйполі</a> та <a href=\"https://deepstatemap.live/#15/47.5837121/35.2998467\">Приморському</a>, уточнено лінію ситуацію поблизу <a href=\"https://deepstatemap.live/#16/48.0814378/36.7299997\">Філії</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/47.6800681/36.2339427\">Huliaipole</a> and <a href=\"https://deepstatemap.live/en#15/47.5837121/35.2998467\">Prymorske</a>, and the situation near <a href=\"https://deepstatemap.live/en#16/48.0814378/36.7299997\">Filiya</a> was clarified.",
+    "updatedAt": "2026-01-08T21:35:12.546Z",
+    "datetime": "08.01 o 21:34",
+    "status": true,
+    "createdAt": "2026-01-08T20:34:39.000Z",
+    "liberated": 41296.39425481745,
+    "occupied": 72247.22085035582,
+    "unspecified": 1374.5781968078838,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
