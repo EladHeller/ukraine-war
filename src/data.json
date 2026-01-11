@@ -19447,5 +19447,19 @@
     "unspecified": 1374.5781968078838,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1767991646,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.6474367/37.8140861\">Маркового</a> та <a href=\"https://deepstatemap.live/#14/48.4368239/37.7231869\">Клебань-Бика</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.6474367/37.8140861\">Markove</a> and <a href=\"https://deepstatemap.live/en#14/48.4368239/37.7231869\">Kleban-Byk</a>.",
+    "updatedAt": "2026-01-10T09:21:58.632Z",
+    "datetime": "09.01 o 21:47",
+    "status": true,
+    "createdAt": "2026-01-09T20:47:26.000Z",
+    "liberated": 41296.39425481745,
+    "occupied": 72258.25713199537,
+    "unspecified": 1371.6611874103994,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
