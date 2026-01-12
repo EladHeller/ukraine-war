@@ -19461,5 +19461,33 @@
     "unspecified": 1371.6611874103994,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1768078210,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/50.2788635/36.9517419\">Вовчанську</a>, <a href=\"https://deepstatemap.live/#13/48.2968957/37.1490663\">Покровську</a> та поблизу <a href=\"https://deepstatemap.live/#15/50.2628472/36.9391951\">Вільчи</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/50.2788635/36.9517419\">Vovchansk</a>, <a href=\"https://deepstatemap.live/en#13/48.2968957/37.1490663\">Pokrovsk</a> and near <a href=\"https://deepstatemap.live/en#15/50.2628472/36.9391951\">Vilcha</a>.",
+    "updatedAt": "2026-01-11T16:43:56.867Z",
+    "datetime": "10.01 o 21:50",
+    "status": true,
+    "createdAt": "2026-01-10T20:50:10.000Z",
+    "liberated": 41280.83237885078,
+    "occupied": 72260.60075992474,
+    "unspecified": 1397.766492121598,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1768165398,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.4582096/37.3650599\">Шаховому</a> та поблизу <a href=\"https://deepstatemap.live/#14/48.4480440/37.3218333\">Нового Шахового</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.4582096/37.3650599\">Shakhove</a> and near <a href=\"https://deepstatemap.live/en#14/48.4480440/37.3218333\">Nove Shakhove</a>.",
+    "updatedAt": "2026-01-11T21:23:01.033Z",
+    "datetime": "11.01 o 22:03",
+    "status": true,
+    "createdAt": "2026-01-11T21:03:18.000Z",
+    "liberated": 41280.52944878066,
+    "occupied": 72265.40656111589,
+    "unspecified": 1395.1569598718731,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
