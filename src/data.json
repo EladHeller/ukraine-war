@@ -19489,5 +19489,33 @@
     "unspecified": 1395.1569598718731,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1768252834,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/49.0962947/37.6905712\">Шандриголового</a> та <a href=\"https://deepstatemap.live/#14/48.8344362/38.0347567\">Свято-Покровського</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.0962947/37.6905712\">Shandryholove</a> and <a href=\"https://deepstatemap.live/en#14/48.8344362/38.0347567\">Svyato-Pokrovske</a>.",
+    "updatedAt": "2026-01-13T11:55:25.632Z",
+    "datetime": "12.01 o 22:20",
+    "status": true,
+    "createdAt": "2026-01-12T21:20:34.000Z",
+    "liberated": 41280.52944878066,
+    "occupied": 72268.14282071705,
+    "unspecified": 1392.4207243307808,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1768341242,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/49.4873632/37.7769200\">Лозової</a>, <a href=\"https://deepstatemap.live/#15/47.5747532/35.3700545\">Степногірська</a> та в <a href=\"https://deepstatemap.live/#15/47.5868288/35.3495818\">самому населеному пункті</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.4873632/37.7769200\">Lozova</a>, <a href=\"https://deepstatemap.live/en#15/47.5747532/35.3700545\">Stepnohirsk</a> and directly in the <a href=\"https://deepstatemap.live/en#15/47.5868288/35.3495818\">settlement.</a>",
+    "updatedAt": "2026-01-13T22:02:25.803Z",
+    "datetime": "13.01 o 22:54",
+    "status": true,
+    "createdAt": "2026-01-13T21:54:02.000Z",
+    "liberated": 41271.73665428119,
+    "occupied": 72280.93489480655,
+    "unspecified": 1388.4184766621313,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
