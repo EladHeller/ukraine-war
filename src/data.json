@@ -19517,5 +19517,19 @@
     "unspecified": 1388.4184766621313,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1768423471,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.7050853/37.9206007\">Залізнянського</a>, <a href=\"https://deepstatemap.live/#14/48.4359198/37.5985621\">Яблунівки</a> та у <a href=\"https://deepstatemap.live/#14/47.5846845/35.3723731\">Степногірську</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.7050853/37.9206007\">Zaliznyanske</a>, <a href=\"https://deepstatemap.live/en#14/48.4359198/37.5985621\">Yablunivka</a> and <a href=\"https://deepstatemap.live/en#14/47.5846845/35.3723731\">Stepnohirsk</a>.",
+    "updatedAt": "2026-01-14T21:03:09.549Z",
+    "datetime": "14.01 o 21:44",
+    "status": true,
+    "createdAt": "2026-01-14T20:44:31.000Z",
+    "liberated": 41267.75791908077,
+    "occupied": 72287.1760372459,
+    "unspecified": 1403.0228943783886,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
