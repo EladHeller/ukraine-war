@@ -19531,5 +19531,19 @@
     "unspecified": 1403.0228943783886,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1768503543,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:9408\">Красногірське</a>, а також просунувся у <a href=\"https://deepstatemap.live/#13/47.6738165/36.2655269\">Гуляйполі</a>, поблизу <a href=\"https://deepstatemap.live/#14/47.8085633/36.3691926\">Привільного</a> та <a href=\"https://deepstatemap.live/#14/48.7079063/37.9578534\">Залізнянського</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:9408\">Krasnohirske</a> and advanced in <a href=\"https://deepstatemap.live/en#13/47.6738165/36.2655269\">Huliaipole</a>, near <a href=\"https://deepstatemap.live/en#14/47.8085633/36.3691926\">Pryvilne</a> and <a href=\"https://deepstatemap.live/en#14/48.7079063/37.9578534\">Zaliznyanske</a>.",
+    "updatedAt": "2026-01-15T20:05:16.396Z",
+    "datetime": "15.01 o 19:59",
+    "status": true,
+    "createdAt": "2026-01-15T18:59:03.000Z",
+    "liberated": 41262.98813560751,
+    "occupied": 72311.97648679967,
+    "unspecified": 1399.7433703723618,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
