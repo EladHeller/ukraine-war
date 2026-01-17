@@ -19545,5 +19545,19 @@
     "unspecified": 1399.7433703723618,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1768588299,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.4832159/37.3838984\">Софіївки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.4832159/37.3838984\">Sofiyivka</a>.",
+    "updatedAt": "2026-01-16T19:48:29.173Z",
+    "datetime": "16.01 o 19:31",
+    "status": true,
+    "createdAt": "2026-01-16T18:31:39.000Z",
+    "liberated": 41259.4663097943,
+    "occupied": 72314.94499129595,
+    "unspecified": 1410.1926758428233,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
