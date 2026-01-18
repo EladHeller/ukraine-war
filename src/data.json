@@ -19559,5 +19559,19 @@
     "unspecified": 1410.1926758428233,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1768679233,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.8161949/38.0354400\">Свято-Покровського</a> та <a href=\"https://deepstatemap.live/#14/48.7800362/38.0357684\">Федорівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.8161949/38.0354400\">Svyato-Pokrovske</a> and <a href=\"https://deepstatemap.live/en#14/48.7800362/38.0357684\">Fedorivka</a>.",
+    "updatedAt": "2026-01-17T19:50:01.674Z",
+    "datetime": "17.01 o 20:47",
+    "status": true,
+    "createdAt": "2026-01-17T19:47:13.000Z",
+    "liberated": 41259.4663097943,
+    "occupied": 72328.28696423251,
+    "unspecified": 1408.2949838988736,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
