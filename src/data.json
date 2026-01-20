@@ -19573,5 +19573,19 @@
     "unspecified": 1408.2949838988736,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1768768834,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.8644473/38.0546675\">Сіверська</a>, <a href=\"https://deepstatemap.live/#14/48.4912953/37.7937405\">Костянтинівки</a> та у <a href=\"https://deepstatemap.live/#14/48.2956978/37.1815976\">Покровську</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.8644473/38.0546675\">Siversk</a>, <a href=\"https://deepstatemap.live/en#14/48.4912953/37.7937405\">Kostiantynivka</a> and in <a href=\"https://deepstatemap.live/en#14/48.2956978/37.1815976\">Pokrovsk</a>.",
+    "updatedAt": "2026-01-19T08:27:24.636Z",
+    "datetime": "18.01 o 21:40",
+    "status": true,
+    "createdAt": "2026-01-18T20:40:34.000Z",
+    "liberated": 41259.4663097943,
+    "occupied": 72332.11352763415,
+    "unspecified": 1404.4684204972025,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
