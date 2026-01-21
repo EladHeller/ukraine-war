@@ -19587,5 +19587,19 @@
     "unspecified": 1404.4684204972025,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1768856377,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:9420\">Рибне</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#15/47.8020858/36.3386973\">Солодкого</a>, <a href=\"https://deepstatemap.live/#14/48.3561632/37.2358003\">Родинського</a> та <a href=\"https://deepstatemap.live/#14/48.3028953/37.1494961\">Покровська</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:9420\">Rybne</a> and advanced near <a href=\"https://deepstatemap.live/en#15/47.8020858/36.3386973\">Solodke</a>, <a href=\"https://deepstatemap.live/en#14/48.3561632/37.2358003\">Rodynske</a> and <a href=\"https://deepstatemap.live/en#14/48.3028953/37.1494961\">Pokrovsk</a>.",
+    "updatedAt": "2026-01-20T07:17:12.261Z",
+    "datetime": "19.01 o 21:59",
+    "status": true,
+    "createdAt": "2026-01-19T20:59:37.000Z",
+    "liberated": 41238.39683595911,
+    "occupied": 72340.07181249866,
+    "unspecified": 1425.4498269851133,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
