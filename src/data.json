@@ -19601,5 +19601,19 @@
     "unspecified": 1425.4498269851133,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1769029872,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.3234578/37.2978954\">Мирнограду</a> та <a href=\"https://deepstatemap.live/#14/47.5830668/36.2104219\">Дорожнянки</a>. Від противника зачищено <a href=\"https://deepstatemap.live/#14/48.3747267/37.2231384\">Сухецьке</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.3234578/37.2978954\">Myrnohrad</a> and <a href=\"https://deepstatemap.live/en#14/47.5830668/36.2104219\">Dorozhnyanka</a>. <a href=\"https://deepstatemap.live/en#14/48.3747267/37.2231384\">Sukhetske</a> was cleared of the enemy.",
+    "updatedAt": "2026-01-21T21:23:11.327Z",
+    "datetime": "21.01 o 22:11",
+    "status": true,
+    "createdAt": "2026-01-21T21:11:12.000Z",
+    "liberated": 41238.02325612376,
+    "occupied": 72344.97054237092,
+    "unspecified": 1422.638913551689,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
