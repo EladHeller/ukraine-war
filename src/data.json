@@ -19615,5 +19615,19 @@
     "unspecified": 1422.638913551689,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1769111868,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.7929228/38.0045751\">Федорівки</a> та <a href=\"https://deepstatemap.live/#14/50.2575009/36.8934144\">Синельникового</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.7929228/38.0045751\">Fedorivka</a> and <a href=\"https://deepstatemap.live/en#14/50.2575009/36.8934144\">Synelnykove</a>.",
+    "updatedAt": "2026-01-22T20:57:58.277Z",
+    "datetime": "22.01 o 20:57",
+    "status": true,
+    "createdAt": "2026-01-22T19:57:48.000Z",
+    "liberated": 41235.248086408414,
+    "occupied": 72350.81749185782,
+    "unspecified": 1437.793191399532,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
