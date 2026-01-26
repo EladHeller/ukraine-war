@@ -19643,5 +19643,19 @@
     "unspecified": 1440.5089507800783,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1769291027,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.7436813/38.0097774\">Васюківці</a> та <a href=\"https://deepstatemap.live/#15/48.4641526/37.3502947\">Шаховому</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.7436813/38.0097774\">Vasyukivka</a> and <a href=\"https://deepstatemap.live/en#15/48.4641526/37.3502947\">Shakhove</a>.",
+    "updatedAt": "2026-01-25T07:52:27.127Z",
+    "datetime": "24.01 o 22:43",
+    "status": true,
+    "createdAt": "2026-01-24T21:43:47.000Z",
+    "liberated": 41235.248086408414,
+    "occupied": 72356.42457726019,
+    "unspecified": 1456.8489738416338,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
