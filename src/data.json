@@ -19657,5 +19657,19 @@
     "unspecified": 1456.8489738416338,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1769369665,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#15/48.6854952/37.9052404\">Оріхово-Василівки</a> та в самому <a href=\"https://deepstatemap.live/#15/48.6813033/37.8782868\">населеному пункті</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#15/48.6854952/37.9052404\">Orikhovo-Vasylivka</a> and in the <a href=\"https://deepstatemap.live/en#15/48.6813033/37.8782868\">settlement</a> itself.",
+    "updatedAt": "2026-01-26T08:17:57.088Z",
+    "datetime": "25.01 o 20:34",
+    "status": true,
+    "createdAt": "2026-01-25T19:34:25.000Z",
+    "liberated": 41221.442689642274,
+    "occupied": 72358.70651175643,
+    "unspecified": 1468.372436111735,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
