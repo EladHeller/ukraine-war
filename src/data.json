@@ -19671,5 +19671,19 @@
     "unspecified": 1468.372436111735,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1769464045,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5150\">Оріхово-Василівку</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#15/48.7057026/37.8858120\">Привілля</a>, <a href=\"https://deepstatemap.live/#14/48.7569537/37.9916996\">Васюківки</a>, <a href=\"https://deepstatemap.live/#15/48.8391730/38.0004435\">Різниківки</a> та у <a href=\"https://deepstatemap.live/#15/48.6971619/37.8489985\">Міньківці</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5150\">Orikhovo-Vasylivka</a> and advanced near <a href=\"https://deepstatemap.live/en#15/48.7057026/37.8858120\">Pryvillia</a>, <a href=\"https://deepstatemap.live/en#14/48.7569537/37.9916996\">Vasyukivka</a>, <a href=\"https://deepstatemap.live/en#15/48.8391730/38.0004435\">Riznykivka</a> and in <a href=\"https://deepstatemap.live/en#15/48.6971619/37.8489985\">Minkivka</a>.",
+    "updatedAt": "2026-01-27T14:11:35.305Z",
+    "datetime": "26.01 o 22:47",
+    "status": true,
+    "createdAt": "2026-01-26T21:47:25.000Z",
+    "liberated": 41221.442689642274,
+    "occupied": 72368.68511896527,
+    "unspecified": 1466.6428976752566,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
