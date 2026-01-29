@@ -19685,5 +19685,19 @@
     "unspecified": 1466.6428976752566,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1769549733,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.9040014/38.0500370\">Дронівки</a>, <a href=\"https://deepstatemap.live/#14/48.4254978/37.7725415\">Клебан-Бика</a> та у <a href=\"https://deepstatemap.live/#14/47.5252689/35.9401394\">Малій Токмачці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.9040014/38.0500370\">Dronivka</a>, <a href=\"https://deepstatemap.live/en#14/48.4254978/37.7725415\">Kleban-Byk</a> and <a href=\"https://deepstatemap.live/en#14/47.5252689/35.9401394\">Mala Tokmachka</a>.",
+    "updatedAt": "2026-01-28T21:45:09.759Z",
+    "datetime": "27.01 o 22:35",
+    "status": true,
+    "createdAt": "2026-01-27T21:35:33.000Z",
+    "liberated": 41221.442689642274,
+    "occupied": 72375.63726970609,
+    "unspecified": 1467.66155279433,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
