@@ -19727,5 +19727,19 @@
     "unspecified": 1460.6286215644543,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1769807233,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/47.7521420/36.2220944\">Прилук</a> та <a href=\"https://deepstatemap.live/#14/47.7189418/36.2374610\">Зеленого</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/47.7521420/36.2220944\">Pryluky</a> and <a href=\"https://deepstatemap.live/en#14/47.7189418/36.2374610\">Zelene</a>.",
+    "updatedAt": "2026-01-31T08:23:49.399Z",
+    "datetime": "30.01 o 22:07",
+    "status": true,
+    "createdAt": "2026-01-30T21:07:13.000Z",
+    "liberated": 41218.601810875036,
+    "occupied": 72426.8980513088,
+    "unspecified": 1480.3181469490187,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
