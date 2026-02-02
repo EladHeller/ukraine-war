@@ -19741,5 +19741,19 @@
     "unspecified": 1480.3181469490187,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1769892938,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/47.7763756/36.2473297\">Добропілля</a> та у <a href=\"https://deepstatemap.live/#15/47.5926771/35.2938786\">Приморському</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/47.7763756/36.2473297\">Dobropillia</a> and in <a href=\"https://deepstatemap.live/en#15/47.5926771/35.2938786\">Prymorske</a>.",
+    "updatedAt": "2026-02-01T18:30:03.218Z",
+    "datetime": "31.01 o 21:55",
+    "status": true,
+    "createdAt": "2026-01-31T20:55:38.000Z",
+    "liberated": 41216.06949524835,
+    "occupied": 72440.54471376579,
+    "unspecified": 1480.1924350760698,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
