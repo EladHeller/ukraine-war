@@ -19755,5 +19755,19 @@
     "unspecified": 1480.1924350760698,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1769976684,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.5305284/37.8327130\">Ступочок</a> та <a href=\"https://deepstatemap.live/#14/48.4228753/37.7952036\">Торецька</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.5305284/37.8327130\">Stupochky</a> and <a href=\"https://deepstatemap.live/en#14/48.4228753/37.7952036\">Toretsk</a>.",
+    "updatedAt": "2026-02-02T13:46:18.226Z",
+    "datetime": "01.02 o 21:11",
+    "status": true,
+    "createdAt": "2026-02-01T20:11:24.000Z",
+    "liberated": 41216.06949524835,
+    "occupied": 72449.00531188217,
+    "unspecified": 1471.731836959652,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
