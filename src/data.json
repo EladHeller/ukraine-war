@@ -19769,5 +19769,19 @@
     "unspecified": 1471.731836959652,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1770066912,
+    "description": "Сили Оборони України відновили положення у <a href=\"https://deepstatemap.live/#14/49.7079388/37.6111778\">Куп'янську</a>. Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.2486176/36.9791148\">Удачного</a>, <a href=\"https://deepstatemap.live/#14/48.3057947/37.1120104\">Гришиного</a> та <a href=\"https://deepstatemap.live/#14/48.7120333/37.8773406\">Привілля</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces have regained their position in <a href=\"https://deepstatemap.live/en#14/49.7079388/37.6111778\">Kupyansk</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.2486176/36.9791148\">Udachne</a>, <a href=\"https://deepstatemap.live/en#14/48.3057947/37.1120104\">Hryshyne</a> and <a href=\"https://deepstatemap.live/en#14/48.7120333/37.8773406\">Pryvillya</a>.",
+    "updatedAt": "2026-02-03T14:54:37.309Z",
+    "datetime": "02.02 o 22:15",
+    "status": true,
+    "createdAt": "2026-02-02T21:15:12.000Z",
+    "liberated": 41219.83528109242,
+    "occupied": 72452.15414360703,
+    "unspecified": 1477.0265409255549,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
