@@ -19797,5 +19797,33 @@
     "unspecified": 1477.6351313405105,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1770240918,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.7420398/37.9860012\">Васюківці</a>, <a href=\"https://deepstatemap.live/#14/48.3432449/37.2426193\">Червоному Лимані</a> та поблизу <a href=\"https://deepstatemap.live/#13/48.7588212/37.9407746\">Бондарного</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.7420398/37.9860012\">Vasyukivka</a>, <a href=\"https://deepstatemap.live/en#14/48.3432449/37.2426193\">Chervonyi Lyman</a> and near <a href=\"https://deepstatemap.live/en#13/48.7588212/37.9407746\">Bondarne</a>.",
+    "updatedAt": "2026-02-05T17:18:05.311Z",
+    "datetime": "04.02 o 22:35",
+    "status": true,
+    "createdAt": "2026-02-04T21:35:18.000Z",
+    "liberated": 41219.83528109242,
+    "occupied": 72464.18459590567,
+    "unspecified": 1475.6202851421885,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1770320397,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:24502\">Дегтярне</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#13/50.6766500/35.4503055\">Грабовського</a>, <a href=\"https://deepstatemap.live/#15/51.0089665/35.3610852\">Мілаївки</a> та <a href=\"https://deepstatemap.live/#14/48.7655854/37.9265209\">Никифорівки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:24502\">Degtyarne</a> and advanced near <a href=\"https://deepstatemap.live/en#13/50.6766500/35.4503055\">Hrabovske</a>, <a href=\"https://deepstatemap.live/en#15/51.0089665/35.3610852\">Milayivka</a> and <a href=\"https://deepstatemap.live/en#14/48.7655854/37.9265209\">Nikiforivka</a>.",
+    "updatedAt": "2026-02-05T21:19:45.702Z",
+    "datetime": "05.02 o 20:39",
+    "status": true,
+    "createdAt": "2026-02-05T19:39:57.000Z",
+    "liberated": 41213.01538533599,
+    "occupied": 72486.40827380531,
+    "unspecified": 1476.978812858161,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
