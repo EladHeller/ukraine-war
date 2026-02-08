@@ -19825,5 +19825,19 @@
     "unspecified": 1476.978812858161,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1770411276,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.3829359/37.2690591\">Затишку</a> та <a href=\"https://deepstatemap.live/#14/48.4389965/37.2710311\">Нового Шахового</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.3829359/37.2690591\">Zatyshok</a> and <a href=\"https://deepstatemap.live/en#14/48.4389965/37.2710311\">Nove Shakhove</a>.",
+    "updatedAt": "2026-02-07T09:20:11.758Z",
+    "datetime": "06.02 o 21:54",
+    "status": true,
+    "createdAt": "2026-02-06T20:54:36.000Z",
+    "liberated": 41211.809157980075,
+    "occupied": 72491.89374534751,
+    "unspecified": 1472.6995686716668,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
