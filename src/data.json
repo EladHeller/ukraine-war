@@ -19839,5 +19839,33 @@
     "unspecified": 1472.6995686716668,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1770498709,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/48.9331149/37.9756214\">Ямполя</a>, <a href=\"https://deepstatemap.live/#14/48.7477666/37.9315016\">Бондарного</a> та <a href=\"https://deepstatemap.live/#14/48.4406448/37.6110937\">Степанівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/48.9331149/37.9756214\">Yampil</a>, <a href=\"https://deepstatemap.live/en#14/48.7477666/37.9315016\">Bondarne</a> and <a href=\"https://deepstatemap.live/en#14/48.4406448/37.6110937\">Stepanivka</a>.",
+    "updatedAt": "2026-02-08T09:11:22.822Z",
+    "datetime": "07.02 o 22:11",
+    "status": true,
+    "createdAt": "2026-02-07T21:11:49.000Z",
+    "liberated": 41211.809157980075,
+    "occupied": 72503.19997174598,
+    "unspecified": 1480.7545508054632,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1770580270,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/50.3349461/37.0445248\">Тихого</a>, <a href=\"https://deepstatemap.live/#14/48.7161647/37.8684121\">Привілля</a>, у <a href=\"https://deepstatemap.live/#15/48.7396349/37.9936408\">Васюківці</a>, <a href=\"https://deepstatemap.live/#14/48.7549465/37.9165683\">Никифорівці</a> та <a href=\"https://deepstatemap.live/#14/48.2911940/37.1706898\">Покровську</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/50.3349461/37.0445248\">Tykhe</a>, <a href=\"https://deepstatemap.live/en#14/48.7161647/37.8684121\">Pryvillia</a>, in <a href=\"https://deepstatemap.live/en#15/48.7396349/37.9936408\">Vasyukivka</a>, <a href=\"https://deepstatemap.live/en#14/48.7549465/37.9165683\">Nykyforivka</a> and <a href=\"https://deepstatemap.live/en#14/48.2911940/37.1706898\">Pokrovsk</a>.",
+    "updatedAt": "2026-02-08T21:33:55.942Z",
+    "datetime": "08.02 o 20:51",
+    "status": true,
+    "createdAt": "2026-02-08T19:51:10.000Z",
+    "liberated": 41204.78364388798,
+    "occupied": 72509.54226254237,
+    "unspecified": 1516.3375414250197,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
