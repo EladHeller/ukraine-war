@@ -19867,5 +19867,19 @@
     "unspecified": 1516.3375414250197,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1770674831,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#14/48.8972879/37.9602515\">Закітному</a> та поблизу <a href=\"https://deepstatemap.live/#14/47.6257659/36.2678395\">Гуляйполя</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.8972879/37.9602515\">Zakitne</a> and near <a href=\"https://deepstatemap.live/en#14/47.6257659/36.2678395\">Huliaipole</a>.",
+    "updatedAt": "2026-02-09T22:07:27.050Z",
+    "datetime": "09.02 o 23:07",
+    "status": true,
+    "createdAt": "2026-02-09T22:07:11.000Z",
+    "liberated": 41204.78364388798,
+    "occupied": 72521.82544513245,
+    "unspecified": 1506.5566034219794,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
