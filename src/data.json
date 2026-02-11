@@ -19869,16 +19869,30 @@
     "occupiedInRussiaUnspecified": 21.85783656437827
   },
   {
-    "id": 1770674831,
+    "id": 1770670031,
     "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#14/48.8972879/37.9602515\">Закітному</a> та поблизу <a href=\"https://deepstatemap.live/#14/47.6257659/36.2678395\">Гуляйполя</a>.",
     "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.8972879/37.9602515\">Zakitne</a> and near <a href=\"https://deepstatemap.live/en#14/47.6257659/36.2678395\">Huliaipole</a>.",
-    "updatedAt": "2026-02-09T22:07:27.050Z",
-    "datetime": "09.02 o 23:07",
+    "updatedAt": "2026-02-10T19:21:38.250Z",
+    "datetime": "09.02 o 21:47",
     "status": true,
-    "createdAt": "2026-02-09T22:07:11.000Z",
+    "createdAt": "2026-02-09T20:47:11.000Z",
     "liberated": 41204.78364388798,
     "occupied": 72521.82544513245,
     "unspecified": 1506.5566034219794,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1770755911,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5135\">Бондарне</a> та просунувся у <a href=\"https://deepstatemap.live/#14/48.7672811/37.9010281\">Никифорівці</a>. Ліквідовано проникнення противника у <a href=\"https://deepstatemap.live/#14/47.6453991/35.2922816\">Приморському</a> та <a href=\"https://deepstatemap.live/#14/47.6097500/35.4390632\">Лук'янівському</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5135\">Bondarne</a> and advanced in <a href=\"https://deepstatemap.live/en#14/48.7672811/37.9010281\">Nykyforivka</a>. Enemy infiltration in <a href=\"https://deepstatemap.live/en#14/47.6453991/35.2922816\">Prymorske</a> and <a href=\"https://deepstatemap.live/en#14/47.6097500/35.4390632\">Lukianivske</a> was eliminated.",
+    "updatedAt": "2026-02-10T21:11:22.467Z",
+    "datetime": "10.02 o 21:38",
+    "status": true,
+    "createdAt": "2026-02-10T20:38:31.000Z",
+    "liberated": 41204.498928115805,
+    "occupied": 72526.28029264032,
+    "unspecified": 1499.4925448199435,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
   }
