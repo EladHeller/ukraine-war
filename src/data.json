@@ -19895,5 +19895,33 @@
     "unspecified": 1499.4925448199435,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1770840207,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.2910600/37.1525815\">Покровську</a> та поблизу <a href=\"https://deepstatemap.live/#14/47.4692405/35.8577401\">Роботиного</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.2910600/37.1525815\">Pokrovsk</a> and near <a href=\"https://deepstatemap.live/en#14/47.4692405/35.8577401\">Robotyne</a>.",
+    "updatedAt": "2026-02-12T09:14:39.905Z",
+    "datetime": "11.02 o 21:03",
+    "status": true,
+    "createdAt": "2026-02-11T20:03:27.000Z",
+    "liberated": 41201.03532433216,
+    "occupied": 72535.67864168335,
+    "unspecified": 1493.5560757948574,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1770931521,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.5621359/37.8445608\">Часового Яру</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.5621359/37.8445608\">Chasiv Yar</a>.",
+    "updatedAt": "2026-02-12T22:13:36.310Z",
+    "datetime": "12.02 o 22:25",
+    "status": true,
+    "createdAt": "2026-02-12T21:25:21.000Z",
+    "liberated": 41193.98004119836,
+    "occupied": 72537.98787011475,
+    "unspecified": 1502.9282983761616,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
