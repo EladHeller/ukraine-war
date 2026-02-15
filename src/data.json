@@ -19923,5 +19923,19 @@
     "unspecified": 1502.9282983761616,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1771017683,
+    "description": "Сили Оборони відкинули противника поблизу <a href=\"https://deepstatemap.live/#14/47.8628179/36.3580502\">Вербового</a>. Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.5399883/37.8328107\">Ступочках</a> та поблизу <a href=\"https://deepstatemap.live/#14/48.8847005/37.9685815\">Закітного</a>.",
+    "descriptionEn": "The Defense Forces drove the enemy back near <a href=\"https://deepstatemap.live/en#14/47.8628179/36.3580502\">Verbove</a>. The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.5399883/37.8328107\">Stupochky</a> and near <a href=\"https://deepstatemap.live/en#14/48.8847005/37.9685815\">Zakitne</a>.",
+    "updatedAt": "2026-02-14T09:15:43.879Z",
+    "datetime": "13.02 o 22:21",
+    "status": true,
+    "createdAt": "2026-02-13T21:21:23.000Z",
+    "liberated": 41193.06954400946,
+    "occupied": 72525.36998879483,
+    "unspecified": 1526.0476452709574,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
