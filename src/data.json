@@ -19951,5 +19951,33 @@
     "unspecified": 1534.8518233088314,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1771187354,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:6239\">Рівне</a>, а також просунувся у <a href=\"https://deepstatemap.live/#14/48.3016464/37.1331765\">Покровську</a>, <a href=\"https://deepstatemap.live/#14/48.3122615/37.2742106\">Мирнограді</a> та <a href=\"https://deepstatemap.live/#14/48.3488288/37.2198766\">Родинському</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:6239\">Rivne</a> and advanced in <a href=\"https://deepstatemap.live/en#14/48.3016464/37.1331765\">Pokrovsk</a>, <a href=\"https://deepstatemap.live/en#14/48.3122615/37.2742106\">Myrnohrad</a> and <a href=\"https://deepstatemap.live/en#14/48.3488288/37.2198766\">Rodynske</a>.",
+    "updatedAt": "2026-02-16T10:01:25.930Z",
+    "datetime": "15.02 o 21:29",
+    "status": true,
+    "createdAt": "2026-02-15T20:29:14.000Z",
+    "liberated": 41193.06954400946,
+    "occupied": 72539.80619609612,
+    "unspecified": 1526.5152867311826,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1771274254,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/48.9055783/38.0090913\">Платонівки</a> та у <a href=\"https://deepstatemap.live/#14/48.3184763/37.2613323\">Мирнограді</a>. Зачищено район проникнення поблизу <a href=\"https://deepstatemap.live/#13/48.4007384/37.1782448\">Білицького</a>. Уточнено ситуацію в <a href=\"https://deepstatemap.live/#15/48.3485463/37.2137401\">Родинському</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/48.9055783/38.0090913\">Platonivka</a> and in <a href=\"https://deepstatemap.live/en#14/48.3184763/37.2613323\">Myrnohrad</a>. The area of infiltration near <a href=\"https://deepstatemap.live/en#13/48.4007384/37.1782448\">Bilytske</a> has been cleared. The situation in <a href=\"https://deepstatemap.live/en#15/48.3485463/37.2137401\">Rodynske</a> has been clarified.",
+    "updatedAt": "2026-02-16T20:48:20.492Z",
+    "datetime": "16.02 o 21:37",
+    "status": true,
+    "createdAt": "2026-02-16T20:37:34.000Z",
+    "liberated": 41184.925219991215,
+    "occupied": 72550.20611517267,
+    "unspecified": 1521.4759321739439,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
