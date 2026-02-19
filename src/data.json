@@ -19979,5 +19979,33 @@
     "unspecified": 1521.4759321739439,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1771364771,
+    "description": "Сили Оборони відкинули противника поблизу <a href=\"https://deepstatemap.live/#14/47.8535439/36.3318727\">Вишневого</a>, <a href=\"https://deepstatemap.live/#14/47.8733547/36.4248294\">Вербового</a> та <a href=\"https://deepstatemap.live/#14/47.8991953/36.5138362\">Тернового</a>. Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.4454866/37.6540097\">Берестка</a>.",
+    "descriptionEn": "The Defense Forces pushed back the enemy near <a href=\"https://deepstatemap.live/en#14/47.8535439/36.3318727\">Vyshneve</a>, <a href=\"https://deepstatemap.live/en#14/47.8733547/36.4248294\">Verbove</a> and <a href=\"https://deepstatemap.live/en#14/47.8991953/36.5138362\">Ternove</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.4454866/37.6540097\">Berestok</a>.",
+    "updatedAt": "2026-02-18T08:26:54.849Z",
+    "datetime": "17.02 o 22:46",
+    "status": true,
+    "createdAt": "2026-02-17T21:46:11.000Z",
+    "liberated": 41184.925219991215,
+    "occupied": 72543.92743336064,
+    "unspecified": 1530.766218297191,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1771446185,
+    "description": "Ворог просунувся в <a href=\"https://deepstatemap.live/#16/48.7713381/37.8971891\">Никифорівці</a>, поблизу <a href=\"https://deepstatemap.live/#14/48.4598833/37.8218110\">Неліпівки</a>, <a href=\"https://deepstatemap.live/#13/48.4620032/37.2979007\">Нового Шахового</a> та <a href=\"https://deepstatemap.live/#14/48.3872582/37.2636506\">Затишку</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#16/48.7713381/37.8971891\">Nykyforivka</a>, near <a href=\"https://deepstatemap.live/en#14/48.4598833/37.8218110\">Nelipivka</a>, <a href=\"https://deepstatemap.live/en#13/48.4620032/37.2979007\">Nove Shakhove</a> and <a href=\"https://deepstatemap.live/en#14/48.3872582/37.2636506\">Zatyshok</a>.",
+    "updatedAt": "2026-02-18T21:34:29.744Z",
+    "datetime": "18.02 o 21:23",
+    "status": true,
+    "createdAt": "2026-02-18T20:23:05.000Z",
+    "liberated": 41183.1848961484,
+    "occupied": 72554.17927783598,
+    "unspecified": 1527.5574647460433,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
