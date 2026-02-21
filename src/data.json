@@ -20007,5 +20007,19 @@
     "unspecified": 1527.5574647460433,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1771532793,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.8330309/38.0248401\">Різниківці</a>, <a href=\"https://deepstatemap.live/#15/48.7236429/37.8545095\">Голубівці</a> та поблизу <a href=\"https://deepstatemap.live/#14/48.3216576/37.1352438\">Гришиного</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.8330309/38.0248401\">Riznykivka</a>, <a href=\"https://deepstatemap.live/en#15/48.7236429/37.8545095\">Holubivka</a> and near <a href=\"https://deepstatemap.live/en#14/48.3216576/37.1352438\">Hryshyne</a>.",
+    "updatedAt": "2026-02-20T08:48:31.082Z",
+    "datetime": "19.02 o 21:26",
+    "status": true,
+    "createdAt": "2026-02-19T20:26:33.000Z",
+    "liberated": 41182.38355538437,
+    "occupied": 72556.28157647752,
+    "unspecified": 1544.3567915926963,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
