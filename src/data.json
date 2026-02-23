@@ -20021,5 +20021,33 @@
     "unspecified": 1544.3567915926963,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1771623145,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.8940745/38.0383620\">Платонівки</a>, <a href=\"https://deepstatemap.live/#15/48.7457772/37.8959656\">Бондарного</a> та у <a href=\"https://deepstatemap.live/#15/48.7255922/37.8659670\">Привіллі</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.8940745/38.0383620\">Platonivka</a>, <a href=\"https://deepstatemap.live/en#15/48.7457772/37.8959656\">Bondarne</a> and <a href=\"https://deepstatemap.live/en#15/48.7255922/37.8659670\">Pryvillia</a>.",
+    "updatedAt": "2026-02-21T15:33:48.738Z",
+    "datetime": "20.02 o 22:32",
+    "status": true,
+    "createdAt": "2026-02-20T21:32:25.000Z",
+    "liberated": 41182.38355538437,
+    "occupied": 72559.89968784034,
+    "unspecified": 1544.002153952648,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1771703174,
+    "description": "Сили Оборони відкинули противника поблизу <a href=\"https://deepstatemap.live/#13/47.8503950/36.4241456\">Калинівського</a> та у <a href=\"https://deepstatemap.live/#14/47.8843531/36.5319467\">Терновому</a>. Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.3070047/37.1354195\">Покровську</a> та <a href=\"https://deepstatemap.live/#15/48.8324491/38.0530865\">Свято-Покровському</a>.",
+    "descriptionEn": "Ukrainian Defense Forces pushed back the enemy near <a href=\"https://deepstatemap.live/en#13/47.8503950/36.4241456\">Kalynivske</a> and in <a href=\"https://deepstatemap.live/en#14/47.8843531/36.5319467\">Ternove</a>. The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.3070047/37.1354195\">Pokrovsk</a> and <a href=\"https://deepstatemap.live/en#15/48.8324491/38.0530865\">Svyato-Pokrovske</a>.",
+    "updatedAt": "2026-02-21T20:03:34.838Z",
+    "datetime": "21.02 o 20:46",
+    "status": true,
+    "createdAt": "2026-02-21T19:46:14.000Z",
+    "liberated": 41182.38355538437,
+    "occupied": 72547.31850837001,
+    "unspecified": 1566.6716747850198,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
