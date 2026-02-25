@@ -20063,5 +20063,19 @@
     "unspecified": 1565.0615624767836,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1771882980,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.7571496/37.8877257\">Никифорівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.7571496/37.8877257\">Nykyforivka</a>.",
+    "updatedAt": "2026-02-24T16:04:11.711Z",
+    "datetime": "23.02 o 22:43",
+    "status": true,
+    "createdAt": "2026-02-23T21:43:00.000Z",
+    "liberated": 41182.38355538437,
+    "occupied": 72553.77284664122,
+    "unspecified": 1564.9651272132967,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
