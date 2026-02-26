@@ -20077,5 +20077,19 @@
     "unspecified": 1564.9651272132967,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1771970143,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.9099774/37.9459190\">Закітного</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.9099774/37.9459190\">Zakitne</a>.",
+    "updatedAt": "2026-02-25T15:29:39.559Z",
+    "datetime": "24.02 o 22:55",
+    "status": true,
+    "createdAt": "2026-02-24T21:55:43.000Z",
+    "liberated": 41182.38355538437,
+    "occupied": 72557.02942675074,
+    "unspecified": 1564.1302429063824,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
