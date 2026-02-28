@@ -20105,5 +20105,19 @@
     "unspecified": 1559.1177467749515,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1772137916,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.5606798/37.8298750\">Часового Яру</a>. Уточнено район поблизу <a href=\"https://deepstatemap.live/#14/48.7853511/38.0009366\">Пазено</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.5606798/37.8298750\">Chasiv Yar</a>. The area near <a href=\"https://deepstatemap.live/en#14/48.7853511/38.0009366\">Pazeno</a> has been clarified.",
+    "updatedAt": "2026-02-27T17:23:45.749Z",
+    "datetime": "26.02 o 21:31",
+    "status": true,
+    "createdAt": "2026-02-26T20:31:56.000Z",
+    "liberated": 41182.38355538437,
+    "occupied": 72562.41565752495,
+    "unspecified": 1574.2674575132166,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
