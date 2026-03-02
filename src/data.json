@@ -20133,5 +20133,19 @@
     "unspecified": 1572.1547742353757,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1772312668,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#15/48.8844318/38.0159572\">Платонівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#15/48.8844318/38.0159572\">Platonivka</a>.",
+    "updatedAt": "2026-03-01T18:55:10.589Z",
+    "datetime": "28.02 o 22:04",
+    "status": true,
+    "createdAt": "2026-02-28T21:04:28.000Z",
+    "liberated": 41182.38355538437,
+    "occupied": 72566.61212394838,
+    "unspecified": 1571.9588318095618,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
