@@ -20147,5 +20147,19 @@
     "unspecified": 1571.9588318095618,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1772400695,
+    "description": "Сили Оборони відкинули противника поблизу <a href=\"https://deepstatemap.live/#14/47.8431838/36.3132230\">Злагоди</a>, <a href=\"https://deepstatemap.live/#14/47.8318952/36.4186963\">Новогригорівки</a>, <a href=\"https://deepstatemap.live/#14/47.8468693/36.4747370\">Новомиколаївки</a>, <a href=\"https://deepstatemap.live/#14/47.8868253/36.4647936\">Степового</a> та <a href=\"https://deepstatemap.live/#14/47.8908530/36.5102784\">Тернового</a>.",
+    "descriptionEn": "The Defense Forces drove back the enemy near <a href=\"https://deepstatemap.live/en#14/47.8431838/36.3132230\">Zlahoda</a>, <a href=\"https://deepstatemap.live/en#14/47.8318952/36.4186963\">Novohryhorivka</a>, <a href=\"https://deepstatemap.live/en#14/47.8468693/36.4747370\">Novomykolaivka</a>, <a href=\"https://deepstatemap.live/en#14/47.8868253/36.4647936\">Stepove</a> and <a href=\"https://deepstatemap.live/en#14/47.8908530/36.5102784\">Ternove</a>.",
+    "updatedAt": "2026-03-02T14:47:45.693Z",
+    "datetime": "01.03 o 22:31",
+    "status": true,
+    "createdAt": "2026-03-01T21:31:35.000Z",
+    "liberated": 41182.38355538437,
+    "occupied": 72535.71824042179,
+    "unspecified": 1603.3157924828104,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
