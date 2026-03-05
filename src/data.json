@@ -20161,5 +20161,33 @@
     "unspecified": 1603.3157924828104,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1772485704,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.6549427/37.8121942\">Маркового</a>, <a href=\"https://deepstatemap.live/#14/48.3125135/37.2067458\">Рівного</a> та у <a href=\"https://deepstatemap.live/#14/48.3247253/37.0853821\">Гришиному</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.6549427/37.8121942\">Markove</a>, <a href=\"https://deepstatemap.live/en#14/48.3125135/37.2067458\">Rivne</a> and <a href=\"https://deepstatemap.live/en#14/48.3247253/37.0853821\">Hryshyne</a>.",
+    "updatedAt": "2026-03-03T12:12:07.301Z",
+    "datetime": "02.03 o 22:08",
+    "status": true,
+    "createdAt": "2026-03-02T21:08:24.000Z",
+    "liberated": 41182.38355538437,
+    "occupied": 72539.58201135715,
+    "unspecified": 1604.3182292748606,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1772573271,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/47.6017461/36.2189922\">Дорожнянки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/47.6017461/36.2189922\">Dorozhnyanka</a>.",
+    "updatedAt": "2026-03-04T11:41:19.191Z",
+    "datetime": "03.03 o 22:27",
+    "status": true,
+    "createdAt": "2026-03-03T21:27:51.000Z",
+    "liberated": 41182.38355538437,
+    "occupied": 72547.82626286558,
+    "unspecified": 1596.0739777666254,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
