@@ -20189,5 +20189,19 @@
     "unspecified": 1596.0739777666254,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1772657555,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.3340161/37.0709656\">Гришиному</a> та <a href=\"https://deepstatemap.live/#14/47.6567457/36.2501613\">Гуляйполі</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.3340161/37.0709656\">Hryshyne</a> and <a href=\"https://deepstatemap.live/en#14/47.6567457/36.2501613\">Huliaypole</a>.",
+    "updatedAt": "2026-03-05T14:35:54.059Z",
+    "datetime": "04.03 o 21:52",
+    "status": true,
+    "createdAt": "2026-03-04T20:52:35.000Z",
+    "liberated": 41182.38355538437,
+    "occupied": 72552.87445418691,
+    "unspecified": 1594.9038396852982,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
