@@ -20203,5 +20203,19 @@
     "unspecified": 1594.9038396852982,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1772745846,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/50.8080955/35.3996576\">Покровки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/50.8080955/35.3996576\">Pokrovka</a>.",
+    "updatedAt": "2026-03-06T10:57:35.903Z",
+    "datetime": "05.03 o 22:24",
+    "status": true,
+    "createdAt": "2026-03-05T21:24:06.000Z",
+    "liberated": 41182.38355538437,
+    "occupied": 72562.11105094853,
+    "unspecified": 1620.0934187913044,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 21.85783656437827
   }
 ]
