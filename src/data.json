@@ -20217,5 +20217,19 @@
     "unspecified": 1620.0934187913044,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 21.85783656437827
+  },
+  {
+    "id": 1772831690,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/50.7731618/35.4644680\">Попівки</a>, <a href=\"https://deepstatemap.live/#15/50.7492136/35.4661417\">Високого</a>, у <a href=\"https://deepstatemap.live/#14/51.7173539/34.2992306\">Комарівці</a> та окупував <a href=\"https://deepstatemap.live/#dl!coords!51.84883947940839,34.36300277709962\">Сопич</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/50.7731618/35.4644680\">Popivka</a>, <a href=\"https://deepstatemap.live/en#15/50.7492136/35.4661417\">Vysoke</a>, <a href=\"https://deepstatemap.live/en#14/51.7173539/34.2992306\">Komarivka</a> and occupied <a href=\"https://deepstatemap.live/en#dl!coords!51.84883947940839,34.36300277709962\">Sopych</a>.",
+    "updatedAt": "2026-03-07T17:24:19.707Z",
+    "datetime": "06.03 o 22:14",
+    "status": true,
+    "createdAt": "2026-03-06T21:14:50.000Z",
+    "liberated": 41182.38355538437,
+    "occupied": 72577.03033561722,
+    "unspecified": 1618.6848165313525,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
