@@ -20231,5 +20231,19 @@
     "unspecified": 1618.6848165313525,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1772911692,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.2537705/37.0039161\">Удачного</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en/#14/48.2537705/37.0039161\">Udachne</a>.",
+    "updatedAt": "2026-03-08T17:16:27.607Z",
+    "datetime": "07.03 o 20:28",
+    "status": true,
+    "createdAt": "2026-03-07T19:28:12.000Z",
+    "liberated": 41182.38355538437,
+    "occupied": 72579.11227883847,
+    "unspecified": 1618.6848165313525,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
