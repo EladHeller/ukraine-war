@@ -20245,5 +20245,19 @@
     "unspecified": 1618.6848165313525,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1772998577,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.6391986/36.2343693\">Гуляйполя</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.6391986/36.2343693\">Huliaipole</a>.",
+    "updatedAt": "2026-03-09T06:38:40.943Z",
+    "datetime": "08.03 o 20:36",
+    "status": true,
+    "createdAt": "2026-03-08T19:36:17.000Z",
+    "liberated": 41182.38355538437,
+    "occupied": 72582.64821927324,
+    "unspecified": 1622.7301236421251,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
