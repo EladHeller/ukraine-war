@@ -20228,7 +20228,7 @@
     "createdAt": "2026-03-06T21:14:50.000Z",
     "liberated": 41182.38355538437,
     "occupied": 72577.03033561722,
-    "unspecified": 1618.6848165313525,
+    "unspecified": 1620.766759752608,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
   },
@@ -20257,6 +20257,20 @@
     "liberated": 41182.38355538437,
     "occupied": 72582.64821927324,
     "unspecified": 1622.7301236421251,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1773091122,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.0304141/36.6612053\">Піддубного</a>. Уточнено ділянку поблизу <a href=\"https://deepstatemap.live/#15/48.5963650/37.7841711\">Часового Яру</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.0304141/36.6612053\">Piddubne</a>. The area near <a href=\"https://deepstatemap.live/en#15/48.5963650/37.7841711\">Chasiv Yar</a> has been clarified.",
+    "updatedAt": "2026-03-10T13:28:43.559Z",
+    "datetime": "09.03 o 22:18",
+    "status": true,
+    "createdAt": "2026-03-09T21:18:42.000Z",
+    "liberated": 41182.38355538437,
+    "occupied": 72590.6346295251,
+    "unspecified": 1614.7437133902995,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
   }
