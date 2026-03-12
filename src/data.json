@@ -20273,5 +20273,19 @@
     "unspecified": 1614.7437133902995,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1773178291,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/51.2702998/34.3925285\">Безсалівки</a>, <a href=\"https://deepstatemap.live/#14/48.5406040/37.8114223\">Ступочок</a> та <a href=\"https://deepstatemap.live/#14/48.2604006/36.9919968\">Удачного</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/51.2702998/34.3925285\">Bessalivka</a>, <a href=\"https://deepstatemap.live/en#14/48.5406040/37.8114223\">Stupochky</a> and <a href=\"https://deepstatemap.live/en#14/48.2604006/36.9919968\">Udachne</a>.",
+    "updatedAt": "2026-03-11T11:18:28.712Z",
+    "datetime": "10.03 o 22:31",
+    "status": true,
+    "createdAt": "2026-03-10T21:31:31.000Z",
+    "liberated": 41182.38355538437,
+    "occupied": 72592.44180279943,
+    "unspecified": 1616.6426170946047,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
