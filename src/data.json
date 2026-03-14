@@ -20301,5 +20301,19 @@
     "unspecified": 1622.046871685225,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1773351100,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/51.1315884/34.9432182\">Яблунівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/51.1315884/34.9432182\">Yablunivka</a>.",
+    "updatedAt": "2026-03-13T10:32:25.451Z",
+    "datetime": "12.03 o 22:31",
+    "status": true,
+    "createdAt": "2026-03-12T21:31:40.000Z",
+    "liberated": 41182.38355538437,
+    "occupied": 72598.77439366851,
+    "unspecified": 1622.357710826896,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
