@@ -20315,5 +20315,19 @@
     "unspecified": 1622.357710826896,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1773435662,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.0742322/36.8746662\">Горіхового</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.0742322/36.8746662\">Horikhove</a>.",
+    "updatedAt": "2026-03-14T17:43:32.723Z",
+    "datetime": "13.03 o 22:01",
+    "status": true,
+    "createdAt": "2026-03-13T21:01:02.000Z",
+    "liberated": 41182.38355538437,
+    "occupied": 72607.80192480926,
+    "unspecified": 1613.3218851338522,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
