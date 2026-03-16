@@ -20329,5 +20329,33 @@
     "unspecified": 1613.3218851338522,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1773523006,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/49.6657501/37.8342533\">Піщаного</a>, <a href=\"https://deepstatemap.live/#14/49.2445699/37.9581070\">Макіївки</a> та <a href=\"https://deepstatemap.live/#14/47.5881439/36.1965179\">Загірного</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.6657501/37.8342533\">Pishchane</a>, <a href=\"https://deepstatemap.live/en#14/49.2445699/37.9581070\">Makiivka</a> and <a href=\"https://deepstatemap.live/en#14/47.5881439/36.1965179\">Zahirne</a>.",
+    "updatedAt": "2026-03-15T13:48:43.823Z",
+    "datetime": "14.03 o 22:16",
+    "status": true,
+    "createdAt": "2026-03-14T21:16:46.000Z",
+    "liberated": 41177.587971432076,
+    "occupied": 72615.52082780964,
+    "unspecified": 1616.4064033015318,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1773608060,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.5811469/36.1263943\">Мирного</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.5811469/36.1263943\">Myrne</a>.",
+    "updatedAt": "2026-03-15T21:27:05.605Z",
+    "datetime": "15.03 o 21:54",
+    "status": true,
+    "createdAt": "2026-03-15T20:54:20.000Z",
+    "liberated": 41177.587971432076,
+    "occupied": 72617.0577820854,
+    "unspecified": 1617.5167642815284,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
