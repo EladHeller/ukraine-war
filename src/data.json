@@ -20357,5 +20357,19 @@
     "unspecified": 1617.5167642815284,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1773695838,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.6816039/37.8524494\">Оріхово-Василівки</a>, <a href=\"https://deepstatemap.live/#14/48.6954340/37.8705597\">Міньківки</a> та у <a href=\"https://deepstatemap.live/#15/48.7422390/37.9802513\">Васюківці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#15/48.7422390/37.9802513\">Orikhovo-Vasylivka</a>, <a href=\"https://deepstatemap.live/en#14/48.6954340/37.8705597\">Minkivka</a> and in <a href=\"https://deepstatemap.live/en#15/48.7422390/37.9802513\">Vasyukivka</a>.",
+    "updatedAt": "2026-03-17T12:30:01.144Z",
+    "datetime": "16.03 o 22:17",
+    "status": true,
+    "createdAt": "2026-03-16T21:17:18.000Z",
+    "liberated": 41177.587971432076,
+    "occupied": 72622.33261956453,
+    "unspecified": 1612.2419268024066,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
