@@ -20371,5 +20371,19 @@
     "unspecified": 1612.2419268024066,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1773780467,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#15/48.7492563/37.8590155\">Федорівки Другої</a> та <a href=\"https://deepstatemap.live/#13/48.4544800/37.7234459\">Клебан-Бику</a>. Сили Оборони України відкинули противника поблизу <a href=\"https://deepstatemap.live/#14/47.8805295/36.4877415\">Березового</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#15/48.7492563/37.8590155\">Fedorivka Druha</a> and <a href=\"https://deepstatemap.live/en#13/48.4544800/37.7234459\">Kleban-Byk</a>. Ukrainian Defense Forces pushed back the enemy near <a href=\"https://deepstatemap.live/en#14/47.8805295/36.4877415\">Berezove</a>.",
+    "updatedAt": "2026-03-18T14:11:42.848Z",
+    "datetime": "17.03 o 21:47",
+    "status": true,
+    "createdAt": "2026-03-17T20:47:47.000Z",
+    "liberated": 41177.587971432076,
+    "occupied": 72617.47071194774,
+    "unspecified": 1617.1038344186427,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
