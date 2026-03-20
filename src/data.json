@@ -20385,5 +20385,19 @@
     "unspecified": 1617.1038344186427,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1773864282,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.9929086/36.6507339\">Олександрограда</a> та <a href=\"https://deepstatemap.live/#14/47.6458418/36.2239838\">Гуляйполя</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.9929086/36.6507339\">Oleksandohrad</a> and <a href=\"https://deepstatemap.live/en#14/47.6458418/36.2239838\">Huliaypole</a>.",
+    "updatedAt": "2026-03-19T13:40:52.748Z",
+    "datetime": "18.03 o 21:04",
+    "status": true,
+    "createdAt": "2026-03-18T20:04:42.000Z",
+    "liberated": 41177.587971432076,
+    "occupied": 72625.66444402984,
+    "unspecified": 1616.8030095842091,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
