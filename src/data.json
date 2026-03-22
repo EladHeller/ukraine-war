@@ -20413,5 +20413,19 @@
     "unspecified": 1627.2485521183924,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1774042909,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5126\">Платонівку</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.8218972/38.0307198\">Різниківки</a>, <a href=\"https://deepstatemap.live/#14/48.8722318/38.0114079\">Закітного</a> та в самому <a href=\"https://deepstatemap.live/#15/48.8916115/37.9894781\">селі</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5126\">Platonivka</a> and advanced near <a href=\"https://deepstatemap.live/en#14/48.8218972/38.0307198\">Riznykivka</a>, <a href=\"https://deepstatemap.live/en#14/48.8722318/38.0114079\">Zakitne</a> and in the <a href=\"https://deepstatemap.live/en#15/48.8916115/37.9894781\">village</a> itself.",
+    "updatedAt": "2026-03-21T17:14:11.278Z",
+    "datetime": "20.03 o 22:41",
+    "status": true,
+    "createdAt": "2026-03-20T21:41:49.000Z",
+    "liberated": 41172.27297611336,
+    "occupied": 72635.54545184808,
+    "unspecified": 1622.2502993191624,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
