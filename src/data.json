@@ -20427,5 +20427,33 @@
     "unspecified": 1622.2502993191624,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1774126027,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.6953230/37.8394461\">Міньківці</a> та поблизу <a href=\"https://deepstatemap.live/#15/48.7472475/37.8529215\">Федорівки Другої</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.6953230/37.8394461\">Minkivka</a> and near <a href=\"https://deepstatemap.live/en#15/48.7472475/37.8529215\">Fedorivka Druha</a>.",
+    "updatedAt": "2026-03-22T15:50:24.440Z",
+    "datetime": "21.03 o 21:47",
+    "status": true,
+    "createdAt": "2026-03-21T20:47:07.000Z",
+    "liberated": 41172.27297611336,
+    "occupied": 72637.25722007378,
+    "unspecified": 1620.5385310935044,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1774202115,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/50.2710515/36.9365072\">Вовчанську</a>, <a href=\"https://deepstatemap.live/#14/49.7623597/37.7030182\">Синьківці</a> та поблизу <a href=\"https://deepstatemap.live/#14/48.7205227/37.9408550\">Залізнянського</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/50.2710515/36.9365072\">Vovchansk</a>, <a href=\"https://deepstatemap.live/en#14/49.7623597/37.7030182\">Synkivka</a> and near <a href=\"https://deepstatemap.live/en#14/48.7205227/37.9408550\">Zaliznyanske</a>.",
+    "updatedAt": "2026-03-22T19:08:02.492Z",
+    "datetime": "22.03 o 18:55",
+    "status": true,
+    "createdAt": "2026-03-22T17:55:15.000Z",
+    "liberated": 41167.799568139664,
+    "occupied": 72649.78981535007,
+    "unspecified": 1612.4793437908195,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
