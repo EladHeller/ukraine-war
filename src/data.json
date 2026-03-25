@@ -20469,5 +20469,19 @@
     "unspecified": 1603.6806198825102,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1774385393,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/50.0947337/37.6794147\">Амбарного</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/50.0947337/37.6794147\">Ambarne</a>.",
+    "updatedAt": "2026-03-24T21:09:42.930Z",
+    "datetime": "24.03 o 21:49",
+    "status": true,
+    "createdAt": "2026-03-24T20:49:53.000Z",
+    "liberated": 41166.36521971932,
+    "occupied": 72674.87144418353,
+    "unspecified": 1594.0905884010888,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
