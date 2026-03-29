@@ -20511,5 +20511,19 @@
     "unspecified": 1589.8588706682092,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1774646049,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.7314009/37.9408550\">Васюківки</a> та <a href=\"https://deepstatemap.live/#14/48.7584011/37.8738213\">Федорівки Другої</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.7314009/37.9408550\">Vasyukivka</a> and <a href=\"https://deepstatemap.live/en#14/48.7584011/37.8738213\">Fedorivka Druha</a>.",
+    "updatedAt": "2026-03-28T06:43:08.704Z",
+    "datetime": "27.03 o 22:14",
+    "status": true,
+    "createdAt": "2026-03-27T21:14:09.000Z",
+    "liberated": 41166.36521971932,
+    "occupied": 72691.79254918963,
+    "unspecified": 1583.9139089290727,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
