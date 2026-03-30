@@ -20525,5 +20525,19 @@
     "unspecified": 1583.9139089290727,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1774733926,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/48.4368619/37.6281738\">Яблунівки</a>, <a href=\"https://deepstatemap.live/#14/48.3213884/37.1454620\">Покровська</a> та <a href=\"https://deepstatemap.live/#14/48.3311504/37.2275162\">Червоного Лиману</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/48.4368619/37.6281738\">Yablunivka</a>, <a href=\"https://deepstatemap.live/en#14/48.3213884/37.1454620\">Pokrovsk</a> and <a href=\"https://deepstatemap.live/en#14/48.3311504/37.2275162\">Chervonyi Lyman</a>.",
+    "updatedAt": "2026-03-29T14:53:34.949Z",
+    "datetime": "28.03 o 22:38",
+    "status": true,
+    "createdAt": "2026-03-28T21:38:46.000Z",
+    "liberated": 41166.36521971932,
+    "occupied": 72703.2666231709,
+    "unspecified": 1576.2156856218985,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
