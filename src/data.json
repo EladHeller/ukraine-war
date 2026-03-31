@@ -20539,5 +20539,33 @@
     "unspecified": 1576.2156856218985,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1774814902,
+    "description": "Ворог просунувся <a href=\"https://deepstatemap.live/#13/48.7965892/37.9793930\">Пазено</a>, <a href=\"https://deepstatemap.live/#14/48.4461080/37.4959087\">Русиного Яру</a> та <a href=\"https://deepstatemap.live/#14/47.7335491/36.2123966\">Варварівки</a>. Сили Оборони провели зачистку поблизу <a href=\"https://deepstatemap.live/#14/47.9551551/36.4454324\">Орестополя</a> та <a href=\"https://deepstatemap.live/#14/47.9216781/36.3942773\">Олексіївки</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#13/48.7965892/37.9793930\">Pazeno</a>, <a href=\"https://deepstatemap.live/en#14/48.4461080/37.4959087\">Rusyn Yar</a> and <a href=\"https://deepstatemap.live/en#14/47.7335491/36.2123966\">Varvarivka</a>. Ukrainian Defense Forces conducted a sweep near <a href=\"https://deepstatemap.live/en#14/47.9551551/36.4454324\">Orestopol</a> and <a href=\"https://deepstatemap.live/en#14/47.9216781/36.3942773\">Oleksiyivka</a>.",
+    "updatedAt": "2026-03-30T11:22:41.534Z",
+    "datetime": "29.03 o 22:08",
+    "status": true,
+    "createdAt": "2026-03-29T20:08:22.000Z",
+    "liberated": 41165.81346554683,
+    "occupied": 72718.38328131867,
+    "unspecified": 1551.3939203696361,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1774899229,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5128\">Свято-Покровське</a> та <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5137\">Васюківку</a>, а також просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.8289641/38.0084896\">Різниківки</a> та <a href=\"https://deepstatemap.live/#14/48.7370572/37.9345894\">Бондарного</a>. Уточнено лінію зіткнення поблизу <a href=\"https://deepstatemap.live/#14/48.7991731/37.9927826\">Пазено</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5128\">Svyato-Pokrovske</a> and <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5137\">Vasyukivka</a> and advanced near <a href=\"https://deepstatemap.live/en#14/48.8289641/38.0084896\">Riznykivka</a> and <a href=\"https://deepstatemap.live/en#14/48.7370572/37.9345894\">Bondarne</a>. The line of contact near <a href=\"https://deepstatemap.live/en#14/48.7991731/37.9927826\">Pazeno</a> was clarified.",
+    "updatedAt": "2026-03-30T19:40:46.362Z",
+    "datetime": "30.03 o 21:33",
+    "status": true,
+    "createdAt": "2026-03-30T19:33:49.000Z",
+    "liberated": 41165.81346554683,
+    "occupied": 72719.89104851865,
+    "unspecified": 1549.886153169644,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
