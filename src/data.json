@@ -20595,5 +20595,19 @@
     "unspecified": 1546.9219861374665,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1775156647,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/50.6789916/35.4282475\">Рясного</a>. Сили Оборони України зачистили ділянки поблизу <a href=\"https://deepstatemap.live/#14/48.3556127/37.1809959\">Родинського</a> та <a href=\"https://deepstatemap.live/#14/48.4718974/37.2575569\">Нове Шахове</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/50.6789916/35.4282475\">Ryasne</a>. Ukrainian Defense Forces cleared areas near <a href=\"https://deepstatemap.live/en#14/48.3556127/37.1809959\">Rodynske</a> and <a href=\"https://deepstatemap.live/en#14/48.4718974/37.2575569\">Nove Shakhove</a>.",
+    "updatedAt": "2026-04-03T11:31:58.715Z",
+    "datetime": "02.04 o 21:04",
+    "status": true,
+    "createdAt": "2026-04-02T19:04:07.000Z",
+    "liberated": 41161.07605384988,
+    "occupied": 72734.71624807808,
+    "unspecified": 1546.6646590086589,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
