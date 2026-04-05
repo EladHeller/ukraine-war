@@ -20609,5 +20609,19 @@
     "unspecified": 1546.6646590086589,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1775248719,
+    "description": "Сили Оборони України провели зачистку поблизу <a href=\"https://deepstatemap.live/#14/47.6158702/35.3352928\">Степногірська</a>, <a href=\"https://deepstatemap.live/#14/47.9550108/36.5366650\">Новоселівки</a> та <a href=\"https://deepstatemap.live/#15/47.9458841/36.5846872\">Січневого</a>.",
+    "descriptionEn": "Ukrainian Defense Forces cleared the area near <a href=\"https://deepstatemap.live/en#14/47.6158702/35.3352928\">Stepnohirsk</a>, <a href=\"https://deepstatemap.live/en#14/47.9550108/36.5366650\">Novoselivka</a> and <a href=\"https://deepstatemap.live/en#15/47.9458841/36.5846872\">Sichneve</a>.",
+    "updatedAt": "2026-04-04T06:08:48.335Z",
+    "datetime": "03.04 o 22:38",
+    "status": true,
+    "createdAt": "2026-04-03T20:38:39.000Z",
+    "liberated": 41161.07605384988,
+    "occupied": 72727.71664487621,
+    "unspecified": 1548.666105998919,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
