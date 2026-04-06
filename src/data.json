@@ -20623,5 +20623,33 @@
     "unspecified": 1548.666105998919,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1775334149,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.7256743/37.8902149\">Привілля</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.7256743/37.8902149\">Pryvillia</a>.",
+    "updatedAt": "2026-04-05T06:38:28.082Z",
+    "datetime": "04.04 o 22:22",
+    "status": true,
+    "createdAt": "2026-04-04T20:22:29.000Z",
+    "liberated": 41161.07605384988,
+    "occupied": 72730.93255651458,
+    "unspecified": 1546.3465688143,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1775429975,
+    "description": "Сили Оборони України відновили контроль поблизу <a href=\"https://deepstatemap.live/#14/50.1308663/37.6393318\">Амбарного</a>.",
+    "descriptionEn": "Ukrainian Defense Forces regain control near <a href=\"https://deepstatemap.live/en#14/50.1308663/37.6393318\">Ambarne</a>.",
+    "updatedAt": "2026-04-05T22:59:57.481Z",
+    "datetime": "06.04 o 00:59",
+    "status": true,
+    "createdAt": "2026-04-05T22:59:35.000Z",
+    "liberated": 41168.570947474545,
+    "occupied": 72724.16516577743,
+    "unspecified": 1545.619065926802,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
