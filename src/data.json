@@ -20651,5 +20651,19 @@
     "unspecified": 1545.619065926802,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1775575790,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.3394471/37.0677853\">Гришиному</a> та поблизу <a href=\"https://deepstatemap.live/#14/48.2744567/37.0925903\">Котлиного</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#14/48.3394471/37.0677853\">Hryshyne</a> and near <a href=\"https://deepstatemap.live/en#14/48.2744567/37.0925903\">Kotlynne</a>.",
+    "updatedAt": "2026-04-07T15:30:05.990Z",
+    "datetime": "07.04 o 17:29",
+    "status": true,
+    "createdAt": "2026-04-07T15:29:50.000Z",
+    "liberated": 41168.570947474545,
+    "occupied": 72726.27838427565,
+    "unspecified": 1544.1921786098662,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
