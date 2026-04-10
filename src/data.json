@@ -20665,5 +20665,33 @@
     "unspecified": 1544.1921786098662,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1775679905,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/49.7290016/37.7935570\">Петропавлівки</a> та <a href=\"https://deepstatemap.live/#14/48.5363081/37.8228451\">Ступочок</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/49.7290016/37.7935570\">Petropavlivka</a> and <a href=\"https://deepstatemap.live/en#14/48.5363081/37.8228451\">Stupochky</a>.",
+    "updatedAt": "2026-04-08T20:47:27.940Z",
+    "datetime": "08.04 o 22:25",
+    "status": true,
+    "createdAt": "2026-04-08T20:25:05.000Z",
+    "liberated": 41162.87386998487,
+    "occupied": 72747.76853310567,
+    "unspecified": 1539.047987080835,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1775737327,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/49.6573586/37.8004363\">Піщаного</a> та <a href=\"https://deepstatemap.live/#14/48.3597859/37.2170448\">Родинського</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.6573586/37.8004363\">Pishchane</a> and <a href=\"https://deepstatemap.live/en#14/48.3597859/37.2170448\">Rodynske</a>.",
+    "updatedAt": "2026-04-09T12:29:00.024Z",
+    "datetime": "09.04 o 14:22",
+    "status": true,
+    "createdAt": "2026-04-09T12:22:07.000Z",
+    "liberated": 41162.87386998487,
+    "occupied": 72751.5468794663,
+    "unspecified": 1535.269640720186,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
