@@ -20693,5 +20693,19 @@
     "unspecified": 1535.269640720186,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1775849350,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.8474138/37.9838562\">Різниківки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.8474138/37.9838562\">Riznykivka</a>.",
+    "updatedAt": "2026-04-11T13:39:57.848Z",
+    "datetime": "10.04 o 21:29",
+    "status": true,
+    "createdAt": "2026-04-10T19:29:10.000Z",
+    "liberated": 41162.87386998487,
+    "occupied": 72756.78093188726,
+    "unspecified": 1530.0355882992228,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
