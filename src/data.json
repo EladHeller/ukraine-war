@@ -20707,5 +20707,33 @@
     "unspecified": 1530.0355882992228,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1775937117,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/50.3938593/36.1938572\">Ветеринарного</a>, <a href=\"https://deepstatemap.live/#14/49.7163779/37.7774334\">Петропавлівки</a> та <a href=\"https://deepstatemap.live/#14/48.4468538/37.7781200\">Іванопілля</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/50.3938593/36.1938572\">Vetarynarne</a>, <a href=\"https://deepstatemap.live/en#14/49.7163779/37.7774334\">Petropavlivka</a> and <a href=\"https://deepstatemap.live/en#14/48.4468538/37.7781200\">Ivanopillia</a>.",
+    "updatedAt": "2026-04-12T13:44:55.533Z",
+    "datetime": "11.04 o 21:51",
+    "status": true,
+    "createdAt": "2026-04-11T19:51:57.000Z",
+    "liberated": 41160.36345326562,
+    "occupied": 72764.57321754562,
+    "unspecified": 1526.9902085054498,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1776022752,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:9410\">Мирне</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:9410\">Myrne</a>.",
+    "updatedAt": "2026-04-12T20:15:25.658Z",
+    "datetime": "12.04 o 21:39",
+    "status": true,
+    "createdAt": "2026-04-12T19:39:12.000Z",
+    "liberated": 41159.27226294671,
+    "occupied": 72766.96432186126,
+    "unspecified": 1526.5888020744812,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
