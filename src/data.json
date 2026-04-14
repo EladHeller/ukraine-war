@@ -20735,5 +20735,19 @@
     "unspecified": 1526.5888020744812,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1776101277,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/50.9637392/35.3255081\">Миропільського</a>, <a href=\"https://deepstatemap.live/#14/50.9198657/35.3686810\">Мар'їного</a> та <a href=\"https://deepstatemap.live/#13/50.7688955/35.4257584\">Новодмитрівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/50.9637392/35.3255081\">Myropilske</a>, <a href=\"https://deepstatemap.live/en#14/50.9198657/35.3686810\">Maryine</a> and <a href=\"https://deepstatemap.live/en#13/50.7688955/35.4257584\">Novodmytrivka</a>.",
+    "updatedAt": "2026-04-13T17:28:00.676Z",
+    "datetime": "13.04 o 19:27",
+    "status": true,
+    "createdAt": "2026-04-13T17:27:57.000Z",
+    "liberated": 41159.27226294671,
+    "occupied": 72787.2896963661,
+    "unspecified": 1569.3308881997639,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
