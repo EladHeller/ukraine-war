@@ -20749,5 +20749,33 @@
     "unspecified": 1569.3308881997639,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1776195781,
+    "description": "Противник просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.3358282/37.0940495\">Новоолександрівки</a>, <a href=\"https://deepstatemap.live/#14/48.2789478/37.0856380\">Котлиного</a> та в <a href=\"https://deepstatemap.live/#14/48.3281222/37.0670986\">Гришиному</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.3358282/37.0940495\">Novooleksandrivka</a>, <a href=\"https://deepstatemap.live/en#14/48.2789478/37.0856380\">Kotlyne</a> and in <a href=\"https://deepstatemap.live/en#14/48.3281222/37.0670986\">Hryshyne</a>.",
+    "updatedAt": "2026-04-15T19:48:20.834Z",
+    "datetime": "14.04 o 21:43",
+    "status": true,
+    "createdAt": "2026-04-14T19:43:01.000Z",
+    "liberated": 41159.27226294671,
+    "occupied": 72797.81066795673,
+    "unspecified": 1564.6058869059166,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1776280664,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.6893069/36.2097451\">Зеленого</a> та у <a href=\"https://deepstatemap.live/#14/47.6684958/36.2335202\">Гуляйполі</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.6893069/36.2097451\">Zelene</a> and in <a href=\"https://deepstatemap.live/en#14/47.6684958/36.2335202\">Huliaypole</a>.",
+    "updatedAt": "2026-04-15T19:51:07.629Z",
+    "datetime": "15.04 o 21:17",
+    "status": true,
+    "createdAt": "2026-04-15T19:17:44.000Z",
+    "liberated": 41156.77534020536,
+    "occupied": 72801.00712880328,
+    "unspecified": 1563.9063488003467,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
