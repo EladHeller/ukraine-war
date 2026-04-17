@@ -20777,5 +20777,19 @@
     "unspecified": 1563.9063488003467,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1776335351,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/50.7628775/35.4223251\">Новодмитрівки</a> та <a href=\"https://deepstatemap.live/#14/50.8519400/35.4033566\">Степка</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/50.7628775/35.4223251\">Novodmytrivka</a> and <a href=\"https://deepstatemap.live/en#14/50.8519400/35.4033566\">Stepok</a>.",
+    "updatedAt": "2026-04-16T10:30:30.939Z",
+    "datetime": "16.04 o 12:29",
+    "status": true,
+    "createdAt": "2026-04-16T10:29:11.000Z",
+    "liberated": 41156.77534020536,
+    "occupied": 72812.43343704079,
+    "unspecified": 1559.2091958982296,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
