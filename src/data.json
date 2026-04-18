@@ -20791,5 +20791,19 @@
     "unspecified": 1559.2091958982296,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1776428294,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.3547036/37.2127078\">Родинському</a> та <a href=\"https://deepstatemap.live/#15/48.3408943/37.2176431\">Червоному Лимані</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.3547036/37.2127078\">Rodynske</a> and <a href=\"https://deepstatemap.live/en#15/48.3408943/37.2176431\">Chervonyi Lyman</a>.",
+    "updatedAt": "2026-04-17T12:46:44.937Z",
+    "datetime": "17.04 o 14:18",
+    "status": true,
+    "createdAt": "2026-04-17T12:18:14.000Z",
+    "liberated": 41156.77534020536,
+    "occupied": 72813.326024024,
+    "unspecified": 1558.0194245000837,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
