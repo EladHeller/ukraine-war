@@ -20805,5 +20805,33 @@
     "unspecified": 1558.0194245000837,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1776537816,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/50.9297940/35.3370456\">Проходів</a> та <a href=\"https://deepstatemap.live/#14/50.7319992/35.4231834\">Таратутиного</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/50.9297940/35.3370456\">Prokhody</a> and <a href=\"https://deepstatemap.live/en#14/50.7319992/35.4231834\">Taratutyno</a>.",
+    "updatedAt": "2026-04-19T14:47:58.250Z",
+    "datetime": "18.04 o 20:43",
+    "status": true,
+    "createdAt": "2026-04-18T18:43:36.000Z",
+    "liberated": 41156.77534020536,
+    "occupied": 72819.65184601863,
+    "unspecified": 1554.0786176673303,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1776622069,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.8566399/37.9688358\">Різниківки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.8566399/37.9688358\">Riznykivka</a>.",
+    "updatedAt": "2026-04-19T18:15:03.385Z",
+    "datetime": "19.04 o 20:07",
+    "status": true,
+    "createdAt": "2026-04-19T18:07:49.000Z",
+    "liberated": 41156.77534020536,
+    "occupied": 72822.95513952279,
+    "unspecified": 1553.051794315477,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
