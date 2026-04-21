@@ -324,7 +324,7 @@ a:hover {
   font-size: 0.9rem;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   .app {
     width: 100%;
     margin: 12px auto 24px;

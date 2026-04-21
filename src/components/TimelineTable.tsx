@@ -41,11 +41,13 @@ export default function TimelineTable({ records }: { records: WarSnapshot[] }) {
     };
 
     updateViewportHeight();
-    const observer = new ResizeObserver(updateViewportHeight);
-    observer.observe(viewport);
     window.addEventListener('resize', updateViewportHeight);
+    const observer = typeof ResizeObserver !== 'undefined'
+      ? new ResizeObserver(updateViewportHeight)
+      : null;
+    observer?.observe(viewport);
     return () => {
-      observer.disconnect();
+      observer?.disconnect();
       window.removeEventListener('resize', updateViewportHeight);
     };
   }, []);
