@@ -44,26 +44,6 @@ a:hover {
   font-size: clamp(1.8rem, 2.5vw, 2.5rem);
 }
 
-.hero p {
-  margin: 0;
-  color: #334155;
-}
-
-.hero-metadata {
-  margin-top: 14px;
-  display: flex;
-  gap: 8px;
-  flex-wrap: wrap;
-}
-
-.badge {
-  border-radius: 999px;
-  padding: 4px 12px;
-  font-size: 0.82rem;
-  background: #e2e8f0;
-  color: #0f172a;
-}
-
 .controls {
   display: grid;
   gap: 12px;

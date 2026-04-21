@@ -7,7 +7,7 @@ import { milestones } from './domain/milestones';
 import { warSnapshots } from './domain/normalize';
 import { createDashboardSummary, filterSnapshots } from './domain/selectors';
 import {
-  formatArea, formatDateTime, formatSignedArea,
+  formatArea, formatSignedArea,
 } from './utils/format';
 import { WarSnapshot } from './types';
 
@@ -67,14 +67,6 @@ export default function App() {
     <main className="app">
       <header className="hero panel">
         <h1>Ukraine War Territory Dashboard</h1>
-        <p>
-          Full frontend rewrite with a modular analytics layout.
-          Historical data is preserved and loaded from the existing dataset.
-        </p>
-        <div className="hero-metadata">
-          <span className="badge">{warSnapshots.length.toLocaleString('en-US')} records</span>
-          <span className="badge">Last update: {lastSnapshot ? formatDateTime(lastSnapshot.createdAtDate) : 'n/a'}</span>
-        </div>
       </header>
 
       <DateRangeControls
