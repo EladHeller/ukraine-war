@@ -2,7 +2,7 @@
   "name": "ukraine-war-graph",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.tsx",
+  "main": "src/main.tsx",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -34,11 +34,10 @@
   "scripts": {
     "update": "tsx ./update/index.ts",
     "check-types": "tsc --noEmit",
-    "start-server": "cd ./server && npm run dev",
-    "copy-resources": "cp -r src/client-resources/* dist",
+    "copy-resources": "cp index.html public/* dist",
     "build": "rm -rf ./dist && webpack --mode=production && npm run copy-resources",
     "start": "rm -rf ./dist && webpack --mode=development && npm run copy-resources && webpack serve --mode=development",
-    "eslint:test": "eslint \"**/*.[jt]s\" --max-warnings 0"
+    "eslint:test": "eslint \"{src,update}/**/*.{ts,tsx}\" --max-warnings 0"
   },
   "keywords": [],
   "author": "",

@@ -1,8 +1,8 @@
 /* eslint-disable no-await-in-loop, no-restricted-syntax, no-console */
 import fs from 'fs/promises';
-import {
+import type {
   Areas, HistoryRecord, HistoryRecordWithAreas, WarArea,
-} from '../src/types.d';
+} from '../src/types';
 
 async function getHistoryRecords() {
   const historyRecords: HistoryRecord[] = await fetch('https://deepstatemap.live/api/history/public').then((res) => res.json());
@@ -10,7 +10,6 @@ async function getHistoryRecords() {
 }
 async function getAreasStatusById(dateId: number) {
   const areas: WarArea[] = await fetch(`https://deepstatemap.live/api/history/${dateId}/areas`).then((res) => res.json());
-  console.log({ areas, dateId });
   const occupied = areas.find((area) => area.type === 'occupied_after_24_02_2022')?.area ?? 0;
   const liberated = areas.find((area) => area.type === 'liberated')?.area ?? 0;
   const unspecified = areas.find((area) => area.type === 'unspecified')?.area ?? 0;

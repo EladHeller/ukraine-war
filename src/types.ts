@@ -2,7 +2,7 @@ export interface WarArea {
   hash: string;
   area: number;
   percent: string;
-  type: 'unspecified' | 'unspecified' | 'other_territories' | 'occupied_after_24_02_2022' | 'occupied_to_24_02_2022' | 'liberated';
+  type: 'unspecified' | 'other_territories' | 'occupied_after_24_02_2022' | 'occupied_to_24_02_2022' | 'liberated';
 }
 
 export interface HistoryRecord {
@@ -24,3 +24,10 @@ export interface Areas {
 }
 
 export type HistoryRecordWithAreas = HistoryRecord & Areas;
+export interface WarSnapshot extends Omit<HistoryRecordWithAreas, 'occupiedInRussia' | 'occupiedInRussiaUnspecified'> {
+  occupiedInRussia: number;
+  occupiedInRussiaUnspecified: number;
+  dayKey: string;
+  total: number;
+  createdAtDate: Date;
+}
