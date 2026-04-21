@@ -1,7 +1,7 @@
 import type { WarSnapshot } from '../types';
 import { stripHtml } from '../utils/format';
 
-const normalizeRange = (startDate: string, endDate: string): { normalizedStart: string; normalizedEnd: string } => {
+const normalizeRange = (startDate: string, endDate: string): { normalizedStart: string, normalizedEnd: string } => {
   if (startDate && endDate && startDate > endDate) {
     return {
       normalizedStart: endDate,
@@ -42,17 +42,17 @@ export const filterSnapshots = (
 };
 
 export interface DashboardSummary {
-  baseline: WarSnapshot;
-  latest: WarSnapshot;
-  periodDays: number;
-  records: number;
+  baseline: WarSnapshot
+  latest: WarSnapshot
+  periodDays: number
+  records: number
   deltas: {
-    occupied: number;
-    liberated: number;
-    unspecified: number;
-    occupiedInRussia: number;
-    total: number;
-  };
+    occupied: number
+    liberated: number
+    unspecified: number
+    occupiedInRussia: number
+    total: number
+  }
 }
 
 export const createDashboardSummary = (snapshots: WarSnapshot[]): DashboardSummary | null => {

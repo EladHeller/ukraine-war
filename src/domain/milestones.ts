@@ -1,6 +1,6 @@
 export interface Milestone {
-  dayKey: string;
-  label: string;
+  dayKey: string
+  label: string
 }
 
 export const milestones: Milestone[] = [

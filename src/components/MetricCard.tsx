@@ -1,9 +1,9 @@
 interface MetricCardProps {
-  label: string;
-  value: string;
-  delta?: string;
-  accentClassName: string;
-  helperText?: string;
+  label: string
+  value: string
+  delta?: string
+  accentClassName: string
+  helperText?: string
 }
 
 export default function MetricCard(props: MetricCardProps) {

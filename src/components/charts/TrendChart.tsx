@@ -15,16 +15,16 @@ import type { Milestone } from '../../domain/milestones';
 import { formatArea, formatChartDate } from '../../utils/format';
 
 export interface ChartPoint {
-  dayKey: string;
-  occupied: number;
-  liberated: number;
-  unspecified: number;
-  occupiedInRussia: number;
+  dayKey: string
+  occupied: number
+  liberated: number
+  unspecified: number
+  occupiedInRussia: number
 }
 
 interface TrendChartProps {
-  points: ChartPoint[];
-  milestones: Milestone[];
+  points: ChartPoint[]
+  milestones: Milestone[]
 }
 
 export default function TrendChart({ points, milestones }: TrendChartProps) {
@@ -65,13 +65,15 @@ export default function TrendChart({ points, milestones }: TrendChartProps) {
               ifOverflow="extendDomain"
               stroke="#64748b"
               strokeDasharray="3 3"
-              label={isMobile ? undefined : {
-                value: `M${index + 1}`,
-                position: 'insideTopLeft',
-                fill: '#475569',
-                fontSize: 11,
-                dy: index % 2 === 0 ? -6 : 12,
-              }}
+              label={isMobile
+                ? undefined
+                : {
+                    value: `M${index + 1}`,
+                    position: 'insideTopLeft',
+                    fill: '#475569',
+                    fontSize: 11,
+                    dy: index % 2 === 0 ? -6 : 12,
+                  }}
             />
           ))}
           <Line type="monotone" dataKey="occupied" name="Occupied" stroke="#ef4444" strokeWidth={2.4} dot={false} />
@@ -85,7 +87,10 @@ export default function TrendChart({ points, milestones }: TrendChartProps) {
         <ol className="milestone-list">
           {milestones.map((milestone, index) => (
             <li key={`${milestone.dayKey}-${milestone.label}`}>
-              <span className="milestone-list-key">M{index + 1}</span>
+              <span className="milestone-list-key">
+                M
+                {index + 1}
+              </span>
               <span className="milestone-list-date">{formatChartDate(milestone.dayKey)}</span>
               <span className="milestone-list-label">{milestone.label}</span>
             </li>

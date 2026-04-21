@@ -1,11 +1,11 @@
 interface DateRangeControlsProps {
-  startDate: string;
-  endDate: string;
-  query: string;
-  onStartDateChange: (value: string) => void;
-  onEndDateChange: (value: string) => void;
-  onQueryChange: (value: string) => void;
-  onReset: () => void;
+  startDate: string
+  endDate: string
+  query: string
+  onStartDateChange: (value: string) => void
+  onEndDateChange: (value: string) => void
+  onQueryChange: (value: string) => void
+  onReset: () => void
 }
 
 export default function DateRangeControls(props: DateRangeControlsProps) {
