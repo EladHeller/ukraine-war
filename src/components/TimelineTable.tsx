@@ -20,6 +20,7 @@ export default function TimelineTable({ records }: { records: WarSnapshot[] }) {
   const viewportRef = useRef<HTMLDivElement | null>(null);
   const [loadedCount, setLoadedCount] = useState(() => Math.min(PAGE_SIZE, records.length));
   const [scrollTop, setScrollTop] = useState(0);
+  const [viewportHeight, setViewportHeight] = useState(VIEWPORT_HEIGHT);
 
   useEffect(() => {
     setLoadedCount(Math.min(PAGE_SIZE, records.length));
@@ -29,12 +30,32 @@ export default function TimelineTable({ records }: { records: WarSnapshot[] }) {
     }
   }, [records]);
 
+  useEffect(() => {
+    const viewport = viewportRef.current;
+    if (!viewport) {
+      return undefined;
+    }
+
+    const updateViewportHeight = () => {
+      setViewportHeight(Math.max(viewport.clientHeight, ROW_HEIGHT));
+    };
+
+    updateViewportHeight();
+    const observer = new ResizeObserver(updateViewportHeight);
+    observer.observe(viewport);
+    window.addEventListener('resize', updateViewportHeight);
+    return () => {
+      observer.disconnect();
+      window.removeEventListener('resize', updateViewportHeight);
+    };
+  }, []);
+
   const loadedRecords = useMemo(
     () => records.slice(0, loadedCount),
     [records, loadedCount],
   );
 
-  const visibleRows = Math.ceil(VIEWPORT_HEIGHT / ROW_HEIGHT) + (OVERSCAN_ROWS * 2);
+  const visibleRows = Math.ceil(viewportHeight / ROW_HEIGHT) + (OVERSCAN_ROWS * 2);
   const startIndex = Math.max(0, Math.floor(scrollTop / ROW_HEIGHT) - OVERSCAN_ROWS);
   const endIndex = Math.min(loadedRecords.length, startIndex + visibleRows);
   const topSpacerHeight = startIndex * ROW_HEIGHT;
