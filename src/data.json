@@ -20847,5 +20847,19 @@
     "unspecified": 1553.408616680413,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1776887366,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.5939859/36.1439896\">Мирного</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.5939859/36.1439896\">Myrne</a>.",
+    "updatedAt": "2026-04-23T09:01:51.866Z",
+    "datetime": "22.04 o 21:49",
+    "status": true,
+    "createdAt": "2026-04-22T19:49:26.000Z",
+    "liberated": 41151.36244468511,
+    "occupied": 72840.17087604075,
+    "unspecified": 1558.2892473480238,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
