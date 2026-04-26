@@ -20889,5 +20889,19 @@
     "unspecified": 1565.7714121649299,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1777136542,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/49.7704059/37.6592445\">Синьківки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.7704059/37.6592445\">Synkivka</a>.",
+    "updatedAt": "2026-04-25T17:02:54.865Z",
+    "datetime": "25.04 o 19:02",
+    "status": true,
+    "createdAt": "2026-04-25T17:02:22.000Z",
+    "liberated": 41145.58817862954,
+    "occupied": 72847.3209364759,
+    "unspecified": 1570.6398869216775,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
