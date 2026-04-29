@@ -20917,5 +20917,19 @@
     "unspecified": 1565.2489013240117,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1777320954,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.3094842/37.1874943\">Покровська</a> та <a href=\"https://deepstatemap.live/#14/48.3172501/37.2396793\">Мирнограда</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.3094842/37.1874943\">Pokrovsk</a> and <a href=\"https://deepstatemap.live/en#14/48.3172501/37.2396793\">Myrnohrad</a>.",
+    "updatedAt": "2026-04-28T08:59:05.913Z",
+    "datetime": "27.04 o 22:15",
+    "status": true,
+    "createdAt": "2026-04-27T20:15:54.000Z",
+    "liberated": 41145.58817862954,
+    "occupied": 72857.06844278472,
+    "unspecified": 1563.9839553011836,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
