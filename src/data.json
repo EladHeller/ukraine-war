@@ -20945,5 +20945,19 @@
     "unspecified": 1561.4675301468671,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1777495387,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.3512581/37.2090197\">Родинському</a> та поблизу <a href=\"https://deepstatemap.live/#14/48.4347247/37.2509480\">Никанорівки</a>. Сили Оборони України здійснили зачистку у <a href=\"https://deepstatemap.live/#15/48.3561637/37.1819830\">Родинському</a> та поблизу <a href=\"https://deepstatemap.live/#15/48.4685114/37.2590590\">Вільного</a>. ",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.3512581/37.2090197\">Rodynske</a> and near <a href=\"https://deepstatemap.live/en#14/48.4347247/37.2509480\">Nykanorivka</a>. Ukrainian Armed Forces conducted a sweep in <a href=\"https://deepstatemap.live/en#15/48.3561637/37.1819830\">Rodynske</a> and near <a href=\"https://deepstatemap.live/en#15/48.4685114/37.2590590\">Vilne</a>. ",
+    "updatedAt": "2026-04-30T19:55:09.290Z",
+    "datetime": "29.04 o 22:43",
+    "status": true,
+    "createdAt": "2026-04-29T20:43:07.000Z",
+    "liberated": 41145.867386875565,
+    "occupied": 72861.72194487679,
+    "unspecified": 1558.6699712172567,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
