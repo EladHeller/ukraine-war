@@ -20959,5 +20959,19 @@
     "unspecified": 1558.6699712172567,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1777579000,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/49.7607548/37.6612186\">Синьківки</a>, <a href=\"https://deepstatemap.live/#14/48.7283834/37.8425789\">Привілля</a> та <a href=\"https://deepstatemap.live/#13/48.0430763/36.6507339\">Андріївки-Клевцового</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/49.7607548/37.6612186\">Synkivka</a>, <a href=\"https://deepstatemap.live/en#14/48.7283834/37.8425789\">Pryvillia</a> and <a href=\"https://deepstatemap.live/en#13/48.0430763/36.6507339\">Andriivka-Klevtsove</a>.",
+    "updatedAt": "2026-05-01T18:45:15.659Z",
+    "datetime": "30.04 o 21:56",
+    "status": true,
+    "createdAt": "2026-04-30T19:56:40.000Z",
+    "liberated": 41145.86738687559,
+    "occupied": 72867.70327772919,
+    "unspecified": 1555.7062302310467,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
