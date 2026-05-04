@@ -20987,5 +20987,19 @@
     "unspecified": 1554.9843169864175,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1777749626,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#15/48.4769765/37.6829483\">Берестка</a> та <a href=\"https://deepstatemap.live/#15/48.4689928/37.7768326\">Іванопілля</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#15/48.4769765/37.6829483\">Berestok</a> and <a href=\"https://deepstatemap.live/en#15/48.4689928/37.7768326\">Ivanopillya</a>.",
+    "updatedAt": "2026-05-03T07:11:24.332Z",
+    "datetime": "02.05 o 21:20",
+    "status": true,
+    "createdAt": "2026-05-02T19:20:26.000Z",
+    "liberated": 41145.86738687559,
+    "occupied": 72872.43745290607,
+    "unspecified": 1553.061038473964,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
