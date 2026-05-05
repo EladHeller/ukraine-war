@@ -21001,5 +21001,19 @@
     "unspecified": 1553.061038473964,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1777837992,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/48.0281471/36.6447258\">Андріївки-Клевцового</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/48.0281471/36.6447258\">Andriivka-Klevtsove</a>.",
+    "updatedAt": "2026-05-04T13:26:56.075Z",
+    "datetime": "03.05 o 21:53",
+    "status": true,
+    "createdAt": "2026-05-03T19:53:12.000Z",
+    "liberated": 41143.30809397827,
+    "occupied": 72874.43607228372,
+    "unspecified": 1556.7031032724408,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
