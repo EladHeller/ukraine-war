@@ -21029,5 +21029,19 @@
     "unspecified": 1559.5581943530078,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1778175757,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.0982685/36.9042778\">Горіхового</a> та <a href=\"https://deepstatemap.live/#14/48.0872078/36.7290112\">Філії</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.0982685/36.9042778\">Horikhove</a> and <a href=\"https://deepstatemap.live/en#14/48.0872078/36.7290112\">Filiya</a>.",
+    "updatedAt": "2026-05-07T17:45:46.830Z",
+    "datetime": "07.05 o 19:42",
+    "status": true,
+    "createdAt": "2026-05-07T17:42:37.000Z",
+    "liberated": 41132.433179157466,
+    "occupied": 72882.41741583652,
+    "unspecified": 1561.3786548547994,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
