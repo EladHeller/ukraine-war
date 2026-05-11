@@ -21057,5 +21057,33 @@
     "unspecified": 1563.2148626234527,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1778268792,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#15/48.7363750/37.8261852\">Голубівки</a> та <a href=\"https://deepstatemap.live/#15/48.7589091/37.8385019\">Діброви</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#15/48.7363750/37.8261852\">Holubivka</a> and <a href=\"https://deepstatemap.live/en#15/48.7589091/37.8385019\">Dibrova</a>.",
+    "updatedAt": "2026-05-10T15:43:40.930Z",
+    "datetime": "08.05 o 21:33",
+    "status": true,
+    "createdAt": "2026-05-08T19:33:12.000Z",
+    "liberated": 41132.433179157466,
+    "occupied": 72887.79564025723,
+    "unspecified": 1561.6730555835263,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1778359425,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.3441446/37.0459843\">Василівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.3441446/37.0459843\">Vasylivka</a>.",
+    "updatedAt": "2026-05-10T20:12:58.172Z",
+    "datetime": "09.05 o 22:43",
+    "status": true,
+    "createdAt": "2026-05-09T20:43:45.000Z",
+    "liberated": 41132.433179157466,
+    "occupied": 72889.27585569935,
+    "unspecified": 1560.1928401414687,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
