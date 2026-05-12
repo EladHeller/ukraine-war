@@ -21085,5 +21085,33 @@
     "unspecified": 1560.1928401414687,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1778441521,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.8711677/37.9647160\">Закітного</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.8711677/37.9647160\">Zakitne</a>.",
+    "updatedAt": "2026-05-11T07:09:53.277Z",
+    "datetime": "10.05 o 21:32",
+    "status": true,
+    "createdAt": "2026-05-10T19:32:01.000Z",
+    "liberated": 41132.433179157466,
+    "occupied": 72891.10497090063,
+    "unspecified": 1558.3637249402054,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1778529415,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.8021758/37.9698658\">Пазено</a>, <a href=\"https://deepstatemap.live/#14/48.8469906/37.9276371\">Калеників</a> та у <a href=\"https://deepstatemap.live/#14/48.8423572/37.9738140\">Різниківці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.8021758/37.9698658\">Pazeno</a>, <a href=\"https://deepstatemap.live/en#14/48.8469906/37.9276371\">Kalenyky</a> and <a href=\"https://deepstatemap.live/en#14/48.8423572/37.9738140\">Riznykivka</a>.",
+    "updatedAt": "2026-05-11T20:01:31.476Z",
+    "datetime": "11.05 o 21:56",
+    "status": true,
+    "createdAt": "2026-05-11T19:56:55.000Z",
+    "liberated": 41132.433179157466,
+    "occupied": 72900.41100551655,
+    "unspecified": 1554.1994447585848,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
