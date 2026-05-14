@@ -21113,5 +21113,33 @@
     "unspecified": 1554.1994447585848,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1778614614,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.8784900/37.9740715\">Закітного</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.8784900/37.9740715\">Zakitne</a>.",
+    "updatedAt": "2026-05-13T05:27:52.679Z",
+    "datetime": "12.05 o 21:36",
+    "status": true,
+    "createdAt": "2026-05-12T19:36:54.000Z",
+    "liberated": 41132.433179157466,
+    "occupied": 72903.73192671205,
+    "unspecified": 1550.5158389596047,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1778683865,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#15/48.7258280/37.8352833\">Привілля</a> та <a href=\"https://deepstatemap.live/#15/48.6867825/37.8110790\">Новомаркового</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#15/48.7258280/37.8352833\">Pryvillia</a> and <a href=\"https://deepstatemap.live/en#15/48.6867825/37.8110790\">Novomarkove</a>.",
+    "updatedAt": "2026-05-13T14:51:14.183Z",
+    "datetime": "13.05 o 16:51",
+    "status": true,
+    "createdAt": "2026-05-13T14:51:05.000Z",
+    "liberated": 41132.433179157466,
+    "occupied": 72904.49845483372,
+    "unspecified": 1549.7493108379108,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
