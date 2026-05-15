@@ -21141,5 +21141,19 @@
     "unspecified": 1549.7493108379108,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1778757006,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.7055157/37.8195763\">Міньківки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.7055157/37.8195763\">Minkivka</a>.",
+    "updatedAt": "2026-05-14T11:16:51.570Z",
+    "datetime": "14.05 o 13:10",
+    "status": true,
+    "createdAt": "2026-05-14T11:10:06.000Z",
+    "liberated": 41132.433179157466,
+    "occupied": 72904.97700347862,
+    "unspecified": 1551.5325334521854,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
