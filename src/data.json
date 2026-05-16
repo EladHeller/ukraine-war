@@ -21155,5 +21155,19 @@
     "unspecified": 1551.5325334521854,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1778803900,
+    "description": "Сили Оборони України звільнили <a href=\"https://deepstatemap.live/#dl!city!dsm:l:23875\">Одрадне</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces liberated <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:23875\">Odradne</a>.",
+    "updatedAt": "2026-05-15T04:59:52.383Z",
+    "datetime": "15.05 o 02:11",
+    "status": true,
+    "createdAt": "2026-05-15T00:11:40.000Z",
+    "liberated": 41151.58357985901,
+    "occupied": 72885.28428290684,
+    "unspecified": 1552.0748533224146,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
