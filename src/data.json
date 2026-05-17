@@ -21169,5 +21169,19 @@
     "unspecified": 1552.0748533224146,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1778960567,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#15/50.3350497/37.0785999\">Зибиного</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#15/50.3350497/37.0785999\">Zybyno</a>.",
+    "updatedAt": "2026-05-16T19:42:50.764Z",
+    "datetime": "16.05 o 21:42",
+    "status": true,
+    "createdAt": "2026-05-16T19:42:47.000Z",
+    "liberated": 41150.344906159255,
+    "occupied": 72885.9089350896,
+    "unspecified": 1552.5842069800708,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
