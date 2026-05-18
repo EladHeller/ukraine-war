@@ -21183,5 +21183,19 @@
     "unspecified": 1552.5842069800708,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1779046519,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.5667407/36.0693169\">Чарівного</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.5667407/36.0693169\">Charivne</a>.",
+    "updatedAt": "2026-05-17T19:38:12.604Z",
+    "datetime": "17.05 o 21:35",
+    "status": true,
+    "createdAt": "2026-05-17T19:35:19.000Z",
+    "liberated": 41143.086117661966,
+    "occupied": 72889.80219878885,
+    "unspecified": 1555.949731778012,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
