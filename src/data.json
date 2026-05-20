@@ -21197,5 +21197,33 @@
     "unspecified": 1555.949731778012,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1779129285,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/48.3114043/37.1995354\">Покровська</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/48.3114043/37.1995354\">Pokrovsk</a>.",
+    "updatedAt": "2026-05-19T07:04:49.991Z",
+    "datetime": "18.05 o 20:34",
+    "status": true,
+    "createdAt": "2026-05-18T18:34:45.000Z",
+    "liberated": 41143.086117661966,
+    "occupied": 72894.90089670515,
+    "unspecified": 1550.8510338617148,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1779219082,
+    "description": "Сили Оборони провели зачистку у <a href=\"https://deepstatemap.live/#15/47.5835774/35.3530169\">Степногірську</a>. Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.3520068/37.2071314\">Родинському</a>.",
+    "descriptionEn": "Ukrainian Defense Forces cleared the territory in <a href=\"https://deepstatemap.live/en#15/47.5835774/35.3530169\">Stepnohirsk</a>. The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.3520068/37.2071314\">Rodynske</a>.",
+    "updatedAt": "2026-05-19T19:54:34.926Z",
+    "datetime": "19.05 o 21:31",
+    "status": true,
+    "createdAt": "2026-05-19T19:31:22.000Z",
+    "liberated": 41143.086117661966,
+    "occupied": 72892.55936986642,
+    "unspecified": 1553.1925607001094,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
