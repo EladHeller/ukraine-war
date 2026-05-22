@@ -21225,5 +21225,33 @@
     "unspecified": 1553.1925607001094,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1779308535,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#15/48.7642560/37.8343391\">Діброви</a> та <a href=\"https://deepstatemap.live/#15/48.7148358/37.8151989\">Тихонівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#15/48.7642560/37.8343391\">Dibrova</a> and <a href=\"https://deepstatemap.live/en#15/48.7148358/37.8151989\">Tykhonivka</a>.",
+    "updatedAt": "2026-05-21T12:24:32.866Z",
+    "datetime": "20.05 o 22:22",
+    "status": true,
+    "createdAt": "2026-05-20T20:22:15.000Z",
+    "liberated": 41143.086117661966,
+    "occupied": 72892.97718297485,
+    "unspecified": 1557.5761919560387,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1779370458,
+    "description": "Триває зачистка <a href=\"https://deepstatemap.live/#14/49.7183184/37.6092911\">Куп'янська</a> від противника. Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/49.6239388/37.8094482\">Піщаного</a>.",
+    "descriptionEn": "The clearing of <a href=\"https://deepstatemap.live/en#14/49.7183184/37.6092911\">Kupyansk</a> from the enemy continues. The enemy advanced near <a href=\"https://deepstatemap.live/en#13/49.6239388/37.8094482\">Pishchane</a>.",
+    "updatedAt": "2026-05-21T13:37:15.154Z",
+    "datetime": "21.05 o 15:34",
+    "status": true,
+    "createdAt": "2026-05-21T13:34:18.000Z",
+    "liberated": 41136.987379019236,
+    "occupied": 72895.81025217188,
+    "unspecified": 1560.8418614015882,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
