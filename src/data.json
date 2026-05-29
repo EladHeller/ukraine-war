@@ -21323,5 +21323,19 @@
     "unspecified": 1545.2442538111763,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1779913014,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5833\">Бересток</a> та просунувся поруч із населеним пунктом.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5833\">Berestok</a> and advanced near the town.",
+    "updatedAt": "2026-05-28T07:40:32.068Z",
+    "datetime": "27.05 o 22:16",
+    "status": true,
+    "createdAt": "2026-05-27T20:16:54.000Z",
+    "liberated": 41136.987379019236,
+    "occupied": 72916.2504087266,
+    "unspecified": 1557.5380523775918,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
