@@ -21337,5 +21337,19 @@
     "unspecified": 1557.5380523775918,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1779997069,
+    "description": "Сили Оборони України звільнили територію поблизу <a href=\"https://deepstatemap.live/#14/47.9561340/36.5354633\">Новоселівки</a>, а також проводять зачистки від ворога поблизу <a href=\"https://deepstatemap.live/#14/47.9228303/36.5533161\">Воронного</a>, <a href=\"https://deepstatemap.live/#14/47.9454953/36.5904808\">Січневого</a>, <a href=\"https://deepstatemap.live/#14/48.0205868/36.6607761\">Піддубного</a>, <a href=\"https://deepstatemap.live/#14/48.0490637/36.6623211\">Товстого</a>, <a href=\"https://deepstatemap.live/#14/48.0626651/36.6884136\">Новохатського</a> та <a href=\"https://deepstatemap.live/#14/48.0696079/36.6497040\">Зеленого Гаю</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces have liberated the area near <a href=\"https://deepstatemap.live/en#14/47.9561340/36.5354633\">Novoselivka</a> and are clearing the enemy near <a href=\"https://deepstatemap.live/en#14/47.9228303/36.5533161\">Voronne</a>, <a href=\"https://deepstatemap.live/en#14/47.9454953/36.5904808\">Sichneve</a>, <a href=\"https://deepstatemap.live/en#14/48.0205868/36.6607761\">Piddubne</a>, <a href=\"https://deepstatemap.live/en#14/48.0490637/36.6623211\">Tovste</a>, <a href=\"https://deepstatemap.live/en#14/48.0626651/36.6884136\">Novokhatske</a> and <a href=\"https://deepstatemap.live/en#14/48.0696079/36.6497040\">Zelenyi Hai</a>.",
+    "updatedAt": "2026-05-29T12:19:31.365Z",
+    "datetime": "28.05 o 21:37",
+    "status": true,
+    "createdAt": "2026-05-28T19:37:49.000Z",
+    "liberated": 41145.294666402566,
+    "occupied": 72869.86246614243,
+    "unspecified": 1596.1605987930752,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
