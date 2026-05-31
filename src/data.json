@@ -21351,5 +21351,33 @@
     "unspecified": 1596.1605987930752,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1780124482,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#15/50.2539918/36.9050503\">Цегельного</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#15/50.2539918/36.9050503\">Tsehelne</a>.",
+    "updatedAt": "2026-05-31T05:52:55.454Z",
+    "datetime": "30.05 o 09:01",
+    "status": true,
+    "createdAt": "2026-05-30T07:01:22.000Z",
+    "liberated": 41142.382495224214,
+    "occupied": 72870.14619429078,
+    "unspecified": 1604.5609897860843,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1780237830,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.3258938/37.1751595\">Покровська</a> та <a href=\"https://deepstatemap.live/#14/47.7009134/36.1967754\">Зеленого</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.3258938/37.1751595\">Pokrovsk</a> and <a href=\"https://deepstatemap.live/en#14/47.7009134/36.1967754\">Zelene</a>.",
+    "updatedAt": "2026-05-31T17:22:17.792Z",
+    "datetime": "31.05 o 16:30",
+    "status": true,
+    "createdAt": "2026-05-31T14:30:30.000Z",
+    "liberated": 41142.38249522411,
+    "occupied": 72881.90454147909,
+    "unspecified": 1595.142728740675,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
