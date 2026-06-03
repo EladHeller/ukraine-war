@@ -21379,5 +21379,19 @@
     "unspecified": 1595.142728740675,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1780343743,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.4828793/37.6720333\">Іллінівки</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.4828793/37.6720333\">Illinivka</a>.",
+    "updatedAt": "2026-06-02T14:27:41.371Z",
+    "datetime": "01.06 o 21:55",
+    "status": true,
+    "createdAt": "2026-06-01T19:55:43.000Z",
+    "liberated": 41142.38249522411,
+    "occupied": 72884.37330933407,
+    "unspecified": 1599.1900979349914,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
