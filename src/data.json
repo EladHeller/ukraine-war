@@ -21393,5 +21393,19 @@
     "unspecified": 1599.1900979349914,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1780433043,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.7357006/37.8875542\">Привілля</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.7357006/37.8875542\">Pryvillia</a>.",
+    "updatedAt": "2026-06-03T11:07:03.358Z",
+    "datetime": "02.06 o 22:44",
+    "status": true,
+    "createdAt": "2026-06-02T20:44:03.000Z",
+    "liberated": 41142.38249522411,
+    "occupied": 72886.20626234538,
+    "unspecified": 1597.3571449236936,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
