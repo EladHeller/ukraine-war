@@ -21421,5 +21421,19 @@
     "unspecified": 1603.3427577440127,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1780604952,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.3619590/37.2101096\">Родинському</a>.",
+    "descriptionEn": "The enemy advanced in <a href=\"https://deepstatemap.live/en#15/48.3619590/37.2101096\">Rodynske</a>.",
+    "updatedAt": "2026-06-05T05:44:22.069Z",
+    "datetime": "04.06 o 22:29",
+    "status": true,
+    "createdAt": "2026-06-04T20:29:12.000Z",
+    "liberated": 41141.043533351614,
+    "occupied": 72887.50354943094,
+    "unspecified": 1603.1898557917345,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
