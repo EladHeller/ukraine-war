@@ -21449,5 +21449,19 @@
     "unspecified": 1601.7255498422921,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1780779150,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.5281445/37.7927113\">Предтечиного</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/48.5281445/37.7927113\">Predtechyne</a>.",
+    "updatedAt": "2026-06-07T16:38:08.502Z",
+    "datetime": "06.06 o 22:52",
+    "status": true,
+    "createdAt": "2026-06-06T20:52:30.000Z",
+    "liberated": 41141.043533351614,
+    "occupied": 72890.96357415197,
+    "unspecified": 1599.7298310707608,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
