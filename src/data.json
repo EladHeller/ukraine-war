@@ -21463,5 +21463,19 @@
     "unspecified": 1599.7298310707608,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1780863861,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.8665215/37.9379368\">Кривої Луки</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/48.8665215/37.9379368\">Kryva Luka</a>.",
+    "updatedAt": "2026-06-08T13:00:02.286Z",
+    "datetime": "07.06 o 22:24",
+    "status": true,
+    "createdAt": "2026-06-07T20:24:21.000Z",
+    "liberated": 41141.043533351614,
+    "occupied": 72896.48480505528,
+    "unspecified": 1594.1947729042972,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
