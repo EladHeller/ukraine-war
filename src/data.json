@@ -21477,5 +21477,33 @@
     "unspecified": 1594.1947729042972,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1780952302,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.7074513/36.1663055\">Зеленого</a> та <a href=\"https://deepstatemap.live/#14/47.6684826/36.2187640\">Гуляйполя</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/47.7074513/36.1663055\">Zelene</a> and <a href=\"https://deepstatemap.live/en#14/47.6684826/36.2187640\">Gulyaypole</a>.",
+    "updatedAt": "2026-06-09T11:15:32.500Z",
+    "datetime": "08.06 o 22:58",
+    "status": true,
+    "createdAt": "2026-06-08T20:58:22.000Z",
+    "liberated": 41141.043533351614,
+    "occupied": 72901.75034665634,
+    "unspecified": 1593.169572230621,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1781033711,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#16/48.3529695/37.2058654\">Родинському</a>.",
+    "descriptionEn": "The enemy has advanced in <a href=\"https://deepstatemap.live/en#16/48.3529695/37.2058654\">Rodynske</a>.",
+    "updatedAt": "2026-06-09T19:35:33.279Z",
+    "datetime": "09.06 o 21:35",
+    "status": true,
+    "createdAt": "2026-06-09T19:35:11.000Z",
+    "liberated": 41141.043533351614,
+    "occupied": 72901.86433456381,
+    "unspecified": 1593.0555843230113,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
