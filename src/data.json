@@ -21533,5 +21533,19 @@
     "unspecified": 1591.4576027206683,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1781380554,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.3368861/37.1756763\">Покровська</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/48.3368861/37.1756763\">Pokrovsk</a>.",
+    "updatedAt": "2026-06-13T19:55:57.756Z",
+    "datetime": "13.06 o 21:55",
+    "status": true,
+    "createdAt": "2026-06-13T19:55:54.000Z",
+    "liberated": 41141.043533351614,
+    "occupied": 72912.48361697143,
+    "unspecified": 1585.3570976543792,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
