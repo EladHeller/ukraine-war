@@ -21561,5 +21561,33 @@
     "unspecified": 1584.1936769404822,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1781555142,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#15/48.3728423/37.2292739\">Сухецького</a>. Уточнено лінію зіткнення у <a href=\"https://deepstatemap.live/#16/48.4906992/37.3797581\">Софіївці</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#15/48.3728423/37.2292739\">Sukhetske</a>. The line of contact in <a href=\"https://deepstatemap.live/en#16/48.4906992/37.3797581\">Sofiivka</a> has been clarified.",
+    "updatedAt": "2026-06-16T15:11:08.482Z",
+    "datetime": "15.06 o 22:25",
+    "status": true,
+    "createdAt": "2026-06-15T20:25:42.000Z",
+    "liberated": 41134.7698424785,
+    "occupied": 72914.68837368024,
+    "unspecified": 1590.902553249341,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1781622778,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#15/48.4870026/37.6764073\">Іллінівки</a> та <a href=\"https://deepstatemap.live/#15/48.4851540/37.7007453\">Берестка</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#15/48.4870026/37.6764073\">Illinivka</a> and <a href=\"https://deepstatemap.live/en#15/48.4851540/37.7007453\">Berestok</a>.",
+    "updatedAt": "2026-06-16T18:23:45.273Z",
+    "datetime": "16.06 o 17:12",
+    "status": true,
+    "createdAt": "2026-06-16T15:12:58.000Z",
+    "liberated": 41134.7698424785,
+    "occupied": 72918.38932066226,
+    "unspecified": 1589.2163097219652,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
