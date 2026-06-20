@@ -21617,5 +21617,19 @@
     "unspecified": 1611.0693369418689,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1781866488,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/49.6435203/37.7948192\">Піщаного</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/#en14/49.6435203/37.7948192\">Pishchane</a>.",
+    "updatedAt": "2026-06-19T10:58:13.972Z",
+    "datetime": "19.06 o 12:54",
+    "status": true,
+    "createdAt": "2026-06-19T10:54:48.000Z",
+    "liberated": 41114.8597859871,
+    "occupied": 72934.22691661782,
+    "unspecified": 1604.7755228630929,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
