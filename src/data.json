@@ -21631,5 +21631,19 @@
     "unspecified": 1604.7755228630929,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1781985731,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#15/48.4209269/37.2349419\">Никанорівки</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/#en15/48.4209269/37.2349419\">Nikanorivka</a>.",
+    "updatedAt": "2026-06-21T05:53:50.676Z",
+    "datetime": "20.06 o 22:02",
+    "status": true,
+    "createdAt": "2026-06-20T20:02:11.000Z",
+    "liberated": 41114.8597859871,
+    "occupied": 72935.02415585797,
+    "unspecified": 1604.8119898415043,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
