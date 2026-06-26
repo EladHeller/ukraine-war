@@ -21701,5 +21701,19 @@
     "unspecified": 1612.3579001062149,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1782396346,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#15/48.3778043/37.2439313\">Сухетського</a> та <a href=\"https://deepstatemap.live/#15/48.3606949/37.2009301\">Родинського</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#15/48.3778043/37.2439313\">Sukhetske</a> and <a href=\"https://deepstatemap.live/en#15/48.3606949/37.2009301\">Rodynske</a>.",
+    "updatedAt": "2026-06-25T14:05:51.493Z",
+    "datetime": "25.06 o 16:05",
+    "status": true,
+    "createdAt": "2026-06-25T14:05:46.000Z",
+    "liberated": 41106.28793634556,
+    "occupied": 72947.5654719474,
+    "unspecified": 1612.1017251531982,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
