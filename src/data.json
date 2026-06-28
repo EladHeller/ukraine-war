@@ -21715,5 +21715,33 @@
     "unspecified": 1612.1017251531982,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1782500121,
+    "description": "Сили Оборони України відкинули ворога у <a href=\"https://deepstatemap.live/#14/47.5866006/35.3140497\">Приморському</a>.",
+    "descriptionEn": "The Ukrainian Armed Forces pushed back the enemy in <a href=\"https://deepstatemap.live/en#14/47.5866006/35.3140497\">Prymorske</a>.",
+    "updatedAt": "2026-06-27T01:00:59.756Z",
+    "datetime": "26.06 o 20:55",
+    "status": true,
+    "createdAt": "2026-06-26T18:55:21.000Z",
+    "liberated": 41106.28793634556,
+    "occupied": 72945.05949385118,
+    "unspecified": 1615.9556891683137,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1782592796,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#15/48.3420195/37.1160436\">Гришиного</a> та <a href=\"https://deepstatemap.live/#15/47.5913239/36.1286902\">Гуляйпільського</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#15/48.3420195/37.1160436\">Hryshyne</a> and <a href=\"https://deepstatemap.live/en#15/47.5913239/36.1286902\">Huliaipilske</a>.",
+    "updatedAt": "2026-06-27T20:40:00.370Z",
+    "datetime": "27.06 o 22:39",
+    "status": true,
+    "createdAt": "2026-06-27T20:39:56.000Z",
+    "liberated": 41093.50689815228,
+    "occupied": 72948.98822022614,
+    "unspecified": 1630.523579865866,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
