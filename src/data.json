@@ -21743,5 +21743,33 @@
     "unspecified": 1630.523579865866,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1782666911,
+    "description": "Ворог повністю окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:9399\">Гуляйполе</a> та просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.6602399/36.2042856\">нього</a>.",
+    "descriptionEn": "The enemy has completely occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:9399\">Hulyaypole</a> and advanced near <a href=\"https://deepstatemap.live/en#14/47.6602399/36.2042856\">the town</a>.",
+    "updatedAt": "2026-06-29T06:46:34.410Z",
+    "datetime": "28.06 o 19:15",
+    "status": true,
+    "createdAt": "2026-06-28T17:15:11.000Z",
+    "liberated": 41093.50689815228,
+    "occupied": 72952.13519531387,
+    "unspecified": 1627.3766047780327,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1782729914,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#15/48.8932194/37.9338813\">Закітного</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#15/48.8932194/37.9338813\">Zakitne</a>.",
+    "updatedAt": "2026-06-29T10:46:21.657Z",
+    "datetime": "29.06 o 12:45",
+    "status": true,
+    "createdAt": "2026-06-29T10:45:14.000Z",
+    "liberated": 41092.72469594896,
+    "occupied": 72954.27675458902,
+    "unspecified": 1627.6809954604823,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
