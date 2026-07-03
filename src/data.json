@@ -21799,5 +21799,19 @@
     "unspecified": 1646.9373121428298,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1782995228,
+    "description": "Сили Оборони України відкинули ворога у <a href=\"https://deepstatemap.live/#14/47.5721182/35.3350782\">Плавнях</a>.",
+    "descriptionEn": "The Ukrainian Armed Forces pushed back the enemy in <a href=\"https://deepstatemap.live/en#14/47.5721182/35.3350782\">Plavni</a>.",
+    "updatedAt": "2026-07-02T12:27:11.648Z",
+    "datetime": "02.07 o 14:27",
+    "status": true,
+    "createdAt": "2026-07-02T12:27:08.000Z",
+    "liberated": 41085.1330922348,
+    "occupied": 72966.07852169506,
+    "unspecified": 1649.5331590247872,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
