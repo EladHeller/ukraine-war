@@ -21841,5 +21841,19 @@
     "unspecified": 1663.7112564981805,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1783369413,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/48.7839135/37.9657459\">Пазено</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#13/48.7839135/37.9657459\">Pazeno</a>.",
+    "updatedAt": "2026-07-07T14:06:10.840Z",
+    "datetime": "06.07 o 22:23",
+    "status": true,
+    "createdAt": "2026-07-06T20:23:33.000Z",
+    "liberated": 41081.412955421736,
+    "occupied": 72975.03492060947,
+    "unspecified": 1661.8397437209649,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
