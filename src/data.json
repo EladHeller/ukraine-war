@@ -21883,5 +21883,33 @@
     "unspecified": 1661.9228408656663,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1783627920,
+    "description": "Ворог просунувся поблизу <a href=\"http://deepstatemap.live/#14/50.3530182/37.1561480\">Бочкового</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"http://deepstatemap.live/en#14/50.3530182/37.1561480\">Bochkove</a>.",
+    "updatedAt": "2026-07-10T13:01:56.245Z",
+    "datetime": "09.07 o 22:12",
+    "status": true,
+    "createdAt": "2026-07-09T20:12:00.000Z",
+    "liberated": 41070.871814225,
+    "occupied": 72986.91828433657,
+    "unspecified": 1670.4082166634005,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1783703344,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.6879024/37.8377295\">Міньківки</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/48.6879024/37.8377295\">Minkivka</a>.",
+    "updatedAt": "2026-07-10T17:09:07.698Z",
+    "datetime": "10.07 o 19:09",
+    "status": true,
+    "createdAt": "2026-07-10T17:09:04.000Z",
+    "liberated": 41070.871814225,
+    "occupied": 72989.59111799569,
+    "unspecified": 1686.226329803086,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
