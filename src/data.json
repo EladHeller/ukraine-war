@@ -21953,5 +21953,19 @@
     "unspecified": 1696.1729314319778,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1784033876,
+    "description": "Сили Оборони України відкинули ворога поблизу <a href=\"https://deepstatemap.live/#14/47.9105475/36.5924374\">Маліївки</a>, <a href=\"https://deepstatemap.live/#14/47.9380311/36.6129255\">Січневого</a>, <a href=\"https://deepstatemap.live/#14/47.8767488/36.5652037\">Новогеоргіївки</a> та <a href=\"https://deepstatemap.live/#14/47.8545809/36.5220308\">Запорізького</a>.",
+    "descriptionEn": "The Ukrainian Armed Forces pushed back the enemy near <a href=\"https://deepstatemap.live/en#14/47.9105475/36.5924374\">Maliivka</a>, <a href=\"https://deepstatemap.live/en#14/47.9380311/36.6129255\">Sichneve</a>, <a href=\"https://deepstatemap.live/en#14/47.8767488/36.5652037\">Novogeorgievka</a>, and <a href=\"https://deepstatemap.live/en#14/47.8545809/36.5220308\">Zaporizke</a>.",
+    "updatedAt": "2026-07-14T12:59:57.912Z",
+    "datetime": "14.07 o 14:57",
+    "status": true,
+    "createdAt": "2026-07-14T12:57:56.000Z",
+    "liberated": 41070.871814225,
+    "occupied": 72958.9039750724,
+    "unspecified": 1743.0302029721904,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
