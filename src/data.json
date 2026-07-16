@@ -21967,5 +21967,19 @@
     "unspecified": 1743.0302029721904,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1784114834,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.4240851/37.2294474\">Дорожнього</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/48.4240851/37.2294474\">Dorozhne</a>.",
+    "updatedAt": "2026-07-15T14:38:26.627Z",
+    "datetime": "15.07 o 13:27",
+    "status": true,
+    "createdAt": "2026-07-15T11:27:14.000Z",
+    "liberated": 41070.871814225,
+    "occupied": 72959.73224839292,
+    "unspecified": 1742.2019296516853,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
