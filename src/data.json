@@ -21981,5 +21981,19 @@
     "unspecified": 1742.2019296516853,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1784203885,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.4627320/37.7395391\">Іванопілля</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/48.4627320/37.7395391\">Ivanopillia</a>.",
+    "updatedAt": "2026-07-17T05:01:25.404Z",
+    "datetime": "16.07 o 14:11",
+    "status": true,
+    "createdAt": "2026-07-16T12:11:25.000Z",
+    "liberated": 41070.871814225,
+    "occupied": 72967.03497655362,
+    "unspecified": 1740.3020137940723,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
