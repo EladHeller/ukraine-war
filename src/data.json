@@ -21995,5 +21995,19 @@
     "unspecified": 1740.3020137940723,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1784387741,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.7700502/37.9457903\">Пазено</a> та <a href=\"https://deepstatemap.live/#15/48.3443800/37.1824765\">Родинського</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/48.7700502/37.9457903\">Pazeno</a> and <a href=\"https://deepstatemap.live/en#15/48.3443800/37.1824765\">Rodynske</a>.",
+    "updatedAt": "2026-07-18T15:18:27.106Z",
+    "datetime": "18.07 o 17:15",
+    "status": true,
+    "createdAt": "2026-07-18T15:15:41.000Z",
+    "liberated": 41065.77407806854,
+    "occupied": 72973.24839765196,
+    "unspecified": 1740.6686300202812,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
