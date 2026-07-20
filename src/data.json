@@ -22009,5 +22009,19 @@
     "unspecified": 1740.6686300202812,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1784483313,
+    "description": "Ворог просунувся поблизу <a href=\"http://deepstatemap.live/#14/48.6960295/37.8178167\">Міньківки</a> та <a href=\"https://deepstatemap.live/#14/48.6710413/37.8045130\">Новомаркового</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"http://deepstatemap.live/en#14/48.6960295/37.8178167\">Minkivka</a> and <a href=\"https://deepstatemap.live/en#14/48.6710413/37.8045130\">Novomarkove</a>.",
+    "updatedAt": "2026-07-19T18:33:52.953Z",
+    "datetime": "19.07 o 19:48",
+    "status": true,
+    "createdAt": "2026-07-19T17:48:33.000Z",
+    "liberated": 41065.77407806854,
+    "occupied": 72976.22775582885,
+    "unspecified": 1744.004631539239,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
