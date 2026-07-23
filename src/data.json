@@ -22037,5 +22037,33 @@
     "unspecified": 1743.6054923294446,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1784644508,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/47.6283809/36.1518002\">Залізничного</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#13/47.6283809/36.1518002\">Zaliznychne</a>.",
+    "updatedAt": "2026-07-22T09:25:06.059Z",
+    "datetime": "21.07 o 16:35",
+    "status": true,
+    "createdAt": "2026-07-21T14:35:08.000Z",
+    "liberated": 41064.470577102686,
+    "occupied": 72984.04464368687,
+    "unspecified": 1745.2185824759338,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1784718439,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.4141044/37.2388029\">Никанорівки</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/48.4141044/37.2388029\">Nykanorivka</a>.",
+    "updatedAt": "2026-07-22T12:33:19.049Z",
+    "datetime": "22.07 o 13:07",
+    "status": true,
+    "createdAt": "2026-07-22T11:07:19.000Z",
+    "liberated": 41064.470577102686,
+    "occupied": 72984.61373575438,
+    "unspecified": 1747.2277766915897,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
