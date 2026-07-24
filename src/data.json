@@ -22065,5 +22065,19 @@
     "unspecified": 1747.2277766915897,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1784814004,
+    "description": "Сили Оборони України відкинули ворога поблизу <a href=\"https://deepstatemap.live/#14/48.0841551/36.7342901\">Філії</a>.",
+    "descriptionEn": "The Ukrainian Armed Forces repelled the enemy near <a href=\"https://deepstatemap.live/en#14/48.0841551/36.7342901\">Filiya</a>.",
+    "updatedAt": "2026-07-23T13:56:23.223Z",
+    "datetime": "23.07 o 15:40",
+    "status": true,
+    "createdAt": "2026-07-23T13:40:04.000Z",
+    "liberated": 41064.470577102686,
+    "occupied": 72977.92429029546,
+    "unspecified": 1748.4964062430313,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
