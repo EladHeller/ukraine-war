@@ -22079,5 +22079,19 @@
     "unspecified": 1748.4964062430313,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1784998696,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/50.2845132/36.3725567\">Малих Проходів</a> та <a href=\"https://deepstatemap.live/#14/48.8457962/37.8903866\">Калеників</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/50.2845132/36.3725567\">Mali Prokhody</a> and <a href=\"https://deepstatemap.live/en#14/48.8457962/37.8903866\">Kalenyky</a>.",
+    "updatedAt": "2026-07-25T17:05:40.691Z",
+    "datetime": "25.07 o 18:58",
+    "status": true,
+    "createdAt": "2026-07-25T16:58:16.000Z",
+    "liberated": 41060.67739704815,
+    "occupied": 72983.38208863596,
+    "unspecified": 1754.699382175762,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
