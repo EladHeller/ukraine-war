@@ -22107,5 +22107,33 @@
     "unspecified": 1753.9435729869122,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1785181439,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/50.2312851/37.6096344\">Артільного</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#13/50.2312851/37.6096344\">Artilne</a>.",
+    "updatedAt": "2026-07-28T10:55:27.874Z",
+    "datetime": "27.07 o 21:43",
+    "status": true,
+    "createdAt": "2026-07-27T19:43:59.000Z",
+    "liberated": 41033.39485115326,
+    "occupied": 72990.66836604585,
+    "unspecified": 1779.6176625144549,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1785267339,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#15/48.3502886/37.1759319\">Родинського</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#15/48.3502886/37.1759319\">Rodynske</a>.",
+    "updatedAt": "2026-07-28T19:57:23.233Z",
+    "datetime": "28.07 o 21:35",
+    "status": true,
+    "createdAt": "2026-07-28T19:35:39.000Z",
+    "liberated": 41033.39485115326,
+    "occupied": 72992.92825522201,
+    "unspecified": 1781.6341235626585,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
