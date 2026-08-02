@@ -22163,5 +22163,19 @@
     "unspecified": 1785.3438213197765,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1785527975,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.5395115/37.7475643\">Костянтинівки</a> та у <a href=\"https://deepstatemap.live/#14/47.6458461/36.1647606\">Залізничному</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/48.5395115/37.7475643\">Kostiantynivka</a> and in <a href=\"https://deepstatemap.live/en#14/47.6458461/36.1647606\">Zaliznychne</a>.",
+    "updatedAt": "2026-08-01T19:02:41.769Z",
+    "datetime": "31.07 o 21:59",
+    "status": true,
+    "createdAt": "2026-07-31T19:59:35.000Z",
+    "liberated": 41033.39485115326,
+    "occupied": 73001.59203906609,
+    "unspecified": 1801.3651444778143,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
