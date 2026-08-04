@@ -22191,5 +22191,19 @@
     "unspecified": 1797.3729477762208,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1785695807,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#15/50.7024649/35.4059315\">Рясного</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#15/50.7024649/35.4059315\">Ryasne</a>.",
+    "updatedAt": "2026-08-03T20:21:32.184Z",
+    "datetime": "02.08 o 20:36",
+    "status": true,
+    "createdAt": "2026-08-02T18:36:47.000Z",
+    "liberated": 41030.419518578674,
+    "occupied": 73007.00921542394,
+    "unspecified": 1802.8979589224,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
