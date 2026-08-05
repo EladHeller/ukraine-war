@@ -22205,5 +22205,33 @@
     "unspecified": 1802.8979589224,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1785787328,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/50.2329871/37.5701523\">Устинівки</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/50.2329871/37.5701523\">Ustynivka</a>.",
+    "updatedAt": "2026-08-04T12:51:48.868Z",
+    "datetime": "03.08 o 22:02",
+    "status": true,
+    "createdAt": "2026-08-03T20:02:08.000Z",
+    "liberated": 41030.419518578674,
+    "occupied": 73010.15994868953,
+    "unspecified": 1799.7472256568124,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1785850125,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.4669461/37.3363495\">Шахового</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/48.4669461/37.3363495\">Shakhove</a>.",
+    "updatedAt": "2026-08-04T20:02:45.627Z",
+    "datetime": "04.08 o 15:28",
+    "status": true,
+    "createdAt": "2026-08-04T13:28:45.000Z",
+    "liberated": 41030.419518578674,
+    "occupied": 73015.26669376236,
+    "unspecified": 1794.6404805840648,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
