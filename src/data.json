@@ -22275,5 +22275,19 @@
     "unspecified": 1781.8996716180886,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1786217646,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.4928336/37.6447392\">Іллінівки</a> та у <a href=\"https://deepstatemap.live/#15/48.5728874/37.8309488\">Часовому Яру</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.4928336/37.6447392\">Illinivka</a> and in <a href=\"https://deepstatemap.live/en#15/48.5728874/37.8309488\">Chasіv Yar</a>.",
+    "updatedAt": "2026-08-09T06:13:21.849Z",
+    "datetime": "08.08 o 21:34",
+    "status": true,
+    "createdAt": "2026-08-08T19:34:06.000Z",
+    "liberated": 41030.419518578674,
+    "occupied": 73032.51465400137,
+    "unspecified": 1787.2514520318323,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
