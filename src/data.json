@@ -22289,5 +22289,19 @@
     "unspecified": 1787.2514520318323,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1786302062,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.3850432/37.2156715\">Сухецького</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/48.3850432/37.2156715\">Sukhetske</a>.",
+    "updatedAt": "2026-08-10T10:05:34.448Z",
+    "datetime": "09.08 o 21:01",
+    "status": true,
+    "createdAt": "2026-08-09T19:01:02.000Z",
+    "liberated": 41030.419518578674,
+    "occupied": 73037.06510549641,
+    "unspecified": 1791.473971494357,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
