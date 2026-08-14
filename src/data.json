@@ -22345,5 +22345,19 @@
     "unspecified": 1594.8904248908439,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1786628267,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.6589305/37.8063581\">Марковому</a>.",
+    "descriptionEn": "The enemy has advanced in <a href=\"https://deepstatemap.live/en#14/48.6589305/37.8063581\">Markove</a>.",
+    "updatedAt": "2026-08-13T13:37:50.685Z",
+    "datetime": "13.08 o 15:37",
+    "status": true,
+    "createdAt": "2026-08-13T13:37:47.000Z",
+    "liberated": 41241.92613194277,
+    "occupied": 72928.7089053375,
+    "unspecified": 1613.25792467889,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
