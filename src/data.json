@@ -22373,5 +22373,19 @@
     "unspecified": 1610.9715219039163,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1786809894,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/49.6609535/37.7176107\">Курилівці</a> та <a href=\"https://deepstatemap.live/#14/48.8640387/37.9024029\">Кривій Луці</a>.",
+    "descriptionEn": "The enemy has advanced in <a href=\"https://deepstatemap.live/en#15/49.6609535/37.7176107\">Kurylivka</a> and <a href=\"https://deepstatemap.live/en#14/48.8640387/37.9024029\">Kryva Luka</a>.",
+    "updatedAt": "2026-08-15T19:25:51.268Z",
+    "datetime": "15.08 o 18:04",
+    "status": true,
+    "createdAt": "2026-08-15T16:04:54.000Z",
+    "liberated": 41239.72743342761,
+    "occupied": 72937.98461859545,
+    "unspecified": 1612.609770570854,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
