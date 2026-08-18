@@ -22387,5 +22387,33 @@
     "unspecified": 1612.609770570854,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1786906774,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#15/48.3489796/37.0550848\">Новоолександрівки</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#15/48.3489796/37.0550848\">Novooleksandrivka</a>.",
+    "updatedAt": "2026-08-17T08:00:34.121Z",
+    "datetime": "16.08 o 20:59",
+    "status": true,
+    "createdAt": "2026-08-16T18:59:34.000Z",
+    "liberated": 41239.72743342761,
+    "occupied": 72941.16216639937,
+    "unspecified": 1609.8703444210307,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1786979893,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#15/48.3539425/37.1230612\">Новоолександрівки</a> та <a href=\"https://deepstatemap.live/#14/48.4477725/37.2416823\">Нового Шахового</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#15/48.3539425/37.1230612\">Novooleksandrivka</a> and <a href=\"https://deepstatemap.live/en#14/48.4477725/37.2416823\">Nove Shakhove</a>.",
+    "updatedAt": "2026-08-17T15:18:17.827Z",
+    "datetime": "17.08 o 17:18",
+    "status": true,
+    "createdAt": "2026-08-17T15:18:13.000Z",
+    "liberated": 41239.72743342761,
+    "occupied": 72945.52785090137,
+    "unspecified": 1620.0524082664033,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
