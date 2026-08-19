@@ -22415,5 +22415,19 @@
     "unspecified": 1620.0524082664033,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1787057419,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.6866598/36.1761904\">Святопетрівки</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/47.6866598/36.1761904\">Svyatopetrivka</a>.",
+    "updatedAt": "2026-08-18T13:42:02.132Z",
+    "datetime": "18.08 o 14:50",
+    "status": true,
+    "createdAt": "2026-08-18T12:50:19.000Z",
+    "liberated": 41239.72743342761,
+    "occupied": 72952.03796947084,
+    "unspecified": 1629.0026251086592,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
