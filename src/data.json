@@ -22429,5 +22429,19 @@
     "unspecified": 1629.0026251086592,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1787148750,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.7904093/37.9368223\">Калеників</a> та <a href=\"https://deepstatemap.live/#14/47.7069290/36.1496518\">Цвіткового</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.7904093/37.9368223\">Kalenyky</a> and <a href=\"https://deepstatemap.live/en#14/47.7069290/36.1496518\">Tsvitkove</a>.",
+    "updatedAt": "2026-08-19T14:56:13.980Z",
+    "datetime": "19.08 o 16:12",
+    "status": true,
+    "createdAt": "2026-08-19T14:12:30.000Z",
+    "liberated": 41229.81717942008,
+    "occupied": 72964.55050095909,
+    "unspecified": 1639.0275532838546,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
