@@ -22443,5 +22443,19 @@
     "unspecified": 1639.0275532838546,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1787231882,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#15/48.7184607/37.8056718\">Тихонівки</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#15/48.7184607/37.8056718\">Tykhonivka</a>.",
+    "updatedAt": "2026-08-20T13:18:06.193Z",
+    "datetime": "20.08 o 15:18",
+    "status": true,
+    "createdAt": "2026-08-20T13:18:02.000Z",
+    "liberated": 41229.81717942008,
+    "occupied": 72965.74058571715,
+    "unspecified": 1640.0859315442085,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
