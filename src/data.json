@@ -22457,5 +22457,19 @@
     "unspecified": 1640.0859315442085,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1787314988,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.4892514/37.6339254\">Іллінівки</a> та <a href=\"https://deepstatemap.live/#14/48.7429461/37.8362274\">Привілля</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/48.4892514/37.6339254\">Illinivka</a> and <a href=\"https://deepstatemap.live/en#14/48.7429461/37.8362274\">Pryvillia</a>.",
+    "updatedAt": "2026-08-21T12:23:12.491Z",
+    "datetime": "21.08 o 14:23",
+    "status": true,
+    "createdAt": "2026-08-21T12:23:08.000Z",
+    "liberated": 41229.81717942008,
+    "occupied": 72971.30373494877,
+    "unspecified": 1636.8367831952498,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
