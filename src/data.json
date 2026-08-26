@@ -22499,5 +22499,33 @@
     "unspecified": 1692.7451036294506,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1787604618,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.4351558/37.2304382\">Дорожнього</a> та <a href=\"https://deepstatemap.live/#14/48.4890865/37.4081140\">Софіївки</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/48.4351558/37.2304382\">Dorozhne</a> and <a href=\"https://deepstatemap.live/en#14/48.4890865/37.4081140\">Sofiivka</a>.",
+    "updatedAt": "2026-08-25T11:45:20.087Z",
+    "datetime": "24.08 o 22:50",
+    "status": true,
+    "createdAt": "2026-08-24T20:50:18.000Z",
+    "liberated": 41199.09024840545,
+    "occupied": 72989.29933809394,
+    "unspecified": 1691.216450514366,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1787662201,
+    "description": "Сили Оборони України відновили контроль поблизу <a href=\"https://deepstatemap.live/#14/49.8436906/37.6359016\">Западного</a>.",
+    "descriptionEn": "The Ukrainian Armed Forces have regained control near <a href=\"https://deepstatemap.live/en#14/49.8436906/37.6359016\">Zapadne</a>.",
+    "updatedAt": "2026-08-25T12:50:05.121Z",
+    "datetime": "25.08 o 14:50",
+    "status": true,
+    "createdAt": "2026-08-25T12:50:01.000Z",
+    "liberated": 41205.27718927537,
+    "occupied": 72983.02507291138,
+    "unspecified": 1691.3037748270476,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
