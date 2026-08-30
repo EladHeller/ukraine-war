@@ -22555,5 +22555,19 @@
     "unspecified": 1690.8482420907226,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1787921095,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.6493755/36.1831312\">Залізничного</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/47.6493755/36.1831312\">Zaliznychne</a>.",
+    "updatedAt": "2026-08-29T18:56:42.641Z",
+    "datetime": "28.08 o 14:44",
+    "status": true,
+    "createdAt": "2026-08-28T12:44:55.000Z",
+    "liberated": 41205.28540120443,
+    "occupied": 72997.95348038085,
+    "unspecified": 1684.2880308819886,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
