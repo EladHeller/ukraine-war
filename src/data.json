@@ -22569,5 +22569,33 @@
     "unspecified": 1684.2880308819886,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1788030194,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/48.3585352/37.1725898\">Родинського</a>.\n",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#13/48.3585352/37.1725898\">Rodynske</a>.\n",
+    "updatedAt": "2026-08-30T04:16:29.985Z",
+    "datetime": "29.08 o 21:03",
+    "status": true,
+    "createdAt": "2026-08-29T19:03:14.000Z",
+    "liberated": 41205.28540120443,
+    "occupied": 73005.69059925685,
+    "unspecified": 1693.81410424834,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1788099997,
+    "description": "Сили Оборони України відновили контроль поблизу <a href=\"https://deepstatemap.live/#14/49.8072691/37.6025945\">Западного</a>.",
+    "descriptionEn": "The Ukrainian Armed Forces have regained control near <a href=\"https://deepstatemap.live/en#14/49.8072691/37.6025945\">Zapadnoye</a>.",
+    "updatedAt": "2026-08-30T14:32:15.367Z",
+    "datetime": "30.08 o 16:26",
+    "status": true,
+    "createdAt": "2026-08-30T14:26:37.000Z",
+    "liberated": 41207.55828177736,
+    "occupied": 73003.36179397076,
+    "unspecified": 1697.0491664448248,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
