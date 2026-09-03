@@ -22611,5 +22611,19 @@
     "unspecified": 1693.7967702469161,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1788288304,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/50.3431531/37.1528598\">Бочкового</a>, <a href=\"https://deepstatemap.live/#13/50.2311758/37.5298096\">Івашкиного</a>, <a href=\"https://deepstatemap.live/#14/47.5353484/36.0410831\">Лугівського</a> та <a href=\"https://deepstatemap.live/#14/47.6331815/36.1245920\">Гуляйпільського</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#13/50.3431531/37.1528598\">Bochkove</a>, <a href=\"https://deepstatemap.live/en#13/50.2311758/37.5298096\">Ivashkyne</a>, <a href=\"https://deepstatemap.live/en#14/47.5353484/36.0410831\">Luhivske</a>, and <a href=\"https://deepstatemap.live/en#14/47.6331815/36.1245920\">Hulyaypilske</a>.",
+    "updatedAt": "2026-09-02T19:56:09.420Z",
+    "datetime": "01.09 o 20:45",
+    "status": true,
+    "createdAt": "2026-09-01T18:45:04.000Z",
+    "liberated": 41204.13453158229,
+    "occupied": 73028.20532577975,
+    "unspecified": 1680.4923672773755,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
