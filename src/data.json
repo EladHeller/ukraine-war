@@ -22625,5 +22625,33 @@
     "unspecified": 1680.4923672773755,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1788377945,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.7324262/37.8185458\">Голубівки</a> та <a href=\"https://deepstatemap.live/#14/48.5488852/37.8033586\">Ступочок</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/48.7324262/37.8185458\">Holubivka</a> and <a href=\"https://deepstatemap.live/en#14/48.5488852/37.8033586\">Stupochky</a>.",
+    "updatedAt": "2026-09-03T13:49:44.089Z",
+    "datetime": "02.09 o 21:39",
+    "status": true,
+    "createdAt": "2026-09-02T19:39:05.000Z",
+    "liberated": 41204.13453158229,
+    "occupied": 73036.85715671701,
+    "unspecified": 1677.2558499414183,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1788443805,
+    "description": "Сили Оборони України повернули контроль поблизу <a href=\"https://deepstatemap.live/#13/49.8486151/37.6508315\">Дворічної</a>.",
+    "descriptionEn": "The Ukrainian Armed Forces have regained control of the area near <a href=\"https://deepstatemap.live/en#13/49.8486151/37.6508315\">Dvorichna</a>.",
+    "updatedAt": "2026-09-03T18:41:51.511Z",
+    "datetime": "03.09 o 15:56",
+    "status": true,
+    "createdAt": "2026-09-03T13:56:45.000Z",
+    "liberated": 41208.00125064507,
+    "occupied": 73030.06725817702,
+    "unspecified": 1680.1996327420782,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
