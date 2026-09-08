@@ -22681,5 +22681,19 @@
     "unspecified": 1691.8150279959586,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1788726211,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/48.3705503/37.1265954\">Шевченко</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#13/48.3705503/37.1265954\">Shevchenko</a>.",
+    "updatedAt": "2026-09-07T15:06:31.361Z",
+    "datetime": "06.09 o 22:23",
+    "status": true,
+    "createdAt": "2026-09-06T20:23:31.000Z",
+    "liberated": 41206.87651117801,
+    "occupied": 73057.26479149311,
+    "unspecified": 1686.62226618934,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
