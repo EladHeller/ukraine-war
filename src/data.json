@@ -22695,5 +22695,19 @@
     "unspecified": 1686.62226618934,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1788809235,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.2970588/37.0796282\">Гришиного</a>, <a href=\"https://deepstatemap.live/#14/48.8573982/37.8953664\">Калеників</a> та <a href=\"https://deepstatemap.live/#14/48.7681839/37.8533075\">Федорівки Другої</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.2970588/37.0796282\">Hryshyne</a>, <a href=\"https://deepstatemap.live/en#14/48.8573982/37.8953664\">Kalenyky</a> and <a href=\"https://deepstatemap.live/en#14/48.7681839/37.8533075\">Fedorivka Druha</a>.",
+    "updatedAt": "2026-09-08T15:09:40.719Z",
+    "datetime": "07.09 o 21:27",
+    "status": true,
+    "createdAt": "2026-09-07T19:27:15.000Z",
+    "liberated": 41203.011285525165,
+    "occupied": 73071.77707212503,
+    "unspecified": 1693.8212811218455,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
