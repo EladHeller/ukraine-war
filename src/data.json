@@ -22709,5 +22709,19 @@
     "unspecified": 1693.8212811218455,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1788899564,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.4536051/37.6178395\">Степанівки</a> та <a href=\"https://deepstatemap.live/#15/48.2511677/37.0309615\">Котлиного</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/48.4536051/37.6178395\">Stepanivka</a> and <a href=\"https://deepstatemap.live/en#15/48.2511677/37.0309615\">Kotlyne</a>.",
+    "updatedAt": "2026-09-09T15:14:50.822Z",
+    "datetime": "08.09 o 22:32",
+    "status": true,
+    "createdAt": "2026-09-08T20:32:44.000Z",
+    "liberated": 41203.011285525165,
+    "occupied": 73080.25696976237,
+    "unspecified": 1685.341383484506,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
