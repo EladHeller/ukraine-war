@@ -22723,5 +22723,19 @@
     "unspecified": 1685.341383484506,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1788970089,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.5162071/37.6336740\">Костянтинівки</a> та <a href=\"https://deepstatemap.live/#16/48.5639000/37.7939781\">Червоного</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/48.5162071/37.6336740\">Kostyantynivka</a> and <a href=\"https://deepstatemap.live/en#16/48.5639000/37.7939781\">Chervonyi</a>.",
+    "updatedAt": "2026-09-10T06:42:34.596Z",
+    "datetime": "09.09 o 18:08",
+    "status": true,
+    "createdAt": "2026-09-09T16:08:09.000Z",
+    "liberated": 41203.011285525165,
+    "occupied": 73084.97764147179,
+    "unspecified": 1688.4949623076197,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
