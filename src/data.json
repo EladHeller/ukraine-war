@@ -22737,5 +22737,19 @@
     "unspecified": 1688.4949623076197,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1789071282,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.6703221/37.7944282\">Новомаркового</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.6703221/37.7944282\">Novomarkove</a>.",
+    "updatedAt": "2026-09-11T17:15:53.508Z",
+    "datetime": "10.09 o 22:14",
+    "status": true,
+    "createdAt": "2026-09-10T20:14:42.000Z",
+    "liberated": 41203.011285525165,
+    "occupied": 73088.9107088263,
+    "unspecified": 1688.0068404520523,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
