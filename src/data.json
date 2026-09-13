@@ -22751,5 +22751,19 @@
     "unspecified": 1688.0068404520523,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1789152946,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.7681267/37.8283307\">Діброви</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/48.7681267/37.8283307\">Dibrova</a>.",
+    "updatedAt": "2026-09-12T16:32:01.194Z",
+    "datetime": "11.09 o 20:55",
+    "status": true,
+    "createdAt": "2026-09-11T18:55:46.000Z",
+    "liberated": 41203.011285525165,
+    "occupied": 73092.36402674622,
+    "unspecified": 1684.7744068589766,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
