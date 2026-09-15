@@ -22779,5 +22779,33 @@
     "unspecified": 1683.7990026566283,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1789308370,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.8181682/37.9099567\">Калеників</a> та <a href=\"https://deepstatemap.live/#14/48.4154168/37.2099206\">Білицького</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.8181682/37.9099567\">Kalenyky</a> and <a href=\"https://deepstatemap.live/en#14/48.4154168/37.2099206\">Bilytske</a>.",
+    "updatedAt": "2026-09-14T10:18:46.903Z",
+    "datetime": "13.09 o 16:06",
+    "status": true,
+    "createdAt": "2026-09-13T14:06:10.000Z",
+    "liberated": 41203.011285525165,
+    "occupied": 73102.1114647509,
+    "unspecified": 1677.6576880141588,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1789404796,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.4596129/37.2600497\">Нового Шахового</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/48.4596129/37.2600497\">Nove Shakhove</a>.",
+    "updatedAt": "2026-09-14T18:32:59.056Z",
+    "datetime": "14.09 o 18:53",
+    "status": true,
+    "createdAt": "2026-09-14T16:53:16.000Z",
+    "liberated": 41203.011285525165,
+    "occupied": 73105.11272961555,
+    "unspecified": 1674.6564231495734,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
