@@ -22807,5 +22807,19 @@
     "unspecified": 1674.6564231495734,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1789423242,
+    "description": "Сили Оборони України звільнили <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5905\">Середнє</a> та відкинули ворога поблизу <a href=\"https://deepstatemap.live/#13/49.1023083/37.6949529\">Шандриголового</a>.",
+    "descriptionEn": "The Ukrainian Armed Forces liberated <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5905\">Seredne</a> and pushed back the enemy near <a href=\"https://deepstatemap.live/en#13/49.1023083/37.6949529\">Shandryholove</a>.",
+    "updatedAt": "2026-09-15T05:51:07.549Z",
+    "datetime": "15.09 o 00:00",
+    "status": true,
+    "createdAt": "2026-09-14T22:00:42.000Z",
+    "liberated": 41215.51030069899,
+    "occupied": 73095.5258679629,
+    "unspecified": 1671.7442289972448,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
