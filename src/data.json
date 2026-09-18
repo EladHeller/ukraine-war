@@ -22821,5 +22821,19 @@
     "unspecified": 1671.7442289972448,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1789582770,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/48.4023191/37.1986852\">Білицького</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#13/48.4023191/37.1986852\">Bilytske</a>.",
+    "updatedAt": "2026-09-17T15:42:43.659Z",
+    "datetime": "16.09 o 20:19",
+    "status": true,
+    "createdAt": "2026-09-16T18:19:30.000Z",
+    "liberated": 41215.51030069899,
+    "occupied": 73099.56641258507,
+    "unspecified": 1667.7036843752887,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
