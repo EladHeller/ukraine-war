@@ -22863,5 +22863,19 @@
     "unspecified": 1662.8649574713286,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1789884551,
+    "description": "Сили Оборони України звільнили <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5909\">Шандриголове</a> та <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5885\">Дерилове</a>, а також просунулися поблизу <a href=\"https://deepstatemap.live/#14/49.0928682/37.7682498\">Шандриголового</a>.",
+    "descriptionEn": "The Ukrainian Armed Forces liberated <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5909\">Shandryholove</a> and <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5885\">Derylove</a> and advanced near <a href=\"https://deepstatemap.live/en#14/49.0928682/37.7682498\">Shandryholove</a>.",
+    "updatedAt": "2026-09-20T06:53:18.869Z",
+    "datetime": "20.09 o 08:09",
+    "status": true,
+    "createdAt": "2026-09-20T06:09:11.000Z",
+    "liberated": 41246.64736858385,
+    "occupied": 73078.87622898303,
+    "unspecified": 1657.256785151826,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
