@@ -22877,5 +22877,33 @@
     "unspecified": 1657.256785151826,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1790017572,
+    "description": "Сили Оборони України повернули контроль поблизу <a href=\"https://deepstatemap.live/#14/49.8104063/37.6310059\">Западного</a>.",
+    "descriptionEn": "The Ukrainian Armed Forces have regained control of the area near <a href=\"https://deepstatemap.live/en#14/49.8104063/37.6310059\">Zapadne</a>.",
+    "updatedAt": "2026-09-22T14:58:28.137Z",
+    "datetime": "21.09 o 21:06",
+    "status": true,
+    "createdAt": "2026-09-21T19:06:12.000Z",
+    "liberated": 41255.346693207335,
+    "occupied": 73073.59393522561,
+    "unspecified": 1653.9550631723694,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1790093910,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5847\">Маркове</a> та просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.6598407/37.7600169\">Федорівки</a>.",
+    "descriptionEn": "The enemy occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5847\">Markove</a> and advanced near <a href=\"https://deepstatemap.live/en#14/48.6598407/37.7600169\">Fedorivka</a>.",
+    "updatedAt": "2026-09-22T17:18:23.520Z",
+    "datetime": "22.09 o 18:18",
+    "status": true,
+    "createdAt": "2026-09-22T16:18:30.000Z",
+    "liberated": 41255.346693207335,
+    "occupied": 73079.41180155947,
+    "unspecified": 1654.098651169665,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
