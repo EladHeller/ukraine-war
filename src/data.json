@@ -22947,5 +22947,33 @@
     "unspecified": 1648.2168633343929,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1790443230,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.3747159/37.1559266\">Білицького</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/48.3747159/37.1559266\">Bilytske</a>.",
+    "updatedAt": "2026-09-27T16:12:42.336Z",
+    "datetime": "26.09 o 19:20",
+    "status": true,
+    "createdAt": "2026-09-26T17:20:30.000Z",
+    "liberated": 41255.346693207335,
+    "occupied": 73094.82559766868,
+    "unspecified": 1644.743985787543,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1790537226,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/48.7931454/37.8945032\">Никифорівки</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#13/48.7931454/37.8945032\">Nykyforivka</a>.",
+    "updatedAt": "2026-09-27T19:27:13.906Z",
+    "datetime": "27.09 o 21:27",
+    "status": true,
+    "createdAt": "2026-09-27T19:27:06.000Z",
+    "liberated": 41255.346693207335,
+    "occupied": 73101.98750917184,
+    "unspecified": 1637.582074284433,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
