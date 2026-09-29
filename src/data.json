@@ -22975,5 +22975,19 @@
     "unspecified": 1637.582074284433,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1790544218,
+    "description": "Сили Оборони України звільнили <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5903\">Рідкодуб</a>, <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5914\">Нове</a> та <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5892\">Катеринівку</a>, а також відновили котроль поблизу <a href=\"https://deepstatemap.live/#14/49.2216404/37.9159682\">Новомихайлівки</a> та <a href=\"https://deepstatemap.live/#14/49.1714359/37.7788909\">Липового</a>.",
+    "descriptionEn": "The Ukrainian Armed Forces liberated <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5903\">Ridkodub</a>, <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5914\">Nove</a> and <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5892\">Katerynivka</a>, and regained control of areas near <a href=\"https://deepstatemap.live/en#14/49.2216404/37.9159682\">Novomykhailivka</a> and <a href=\"https://deepstatemap.live/en#14/49.1714359/37.7788909\">Lypove</a>.",
+    "updatedAt": "2026-09-28T06:51:24.490Z",
+    "datetime": "27.09 o 23:23",
+    "status": true,
+    "createdAt": "2026-09-27T21:23:38.000Z",
+    "liberated": 41301.31994464842,
+    "occupied": 73061.06572846361,
+    "unspecified": 1632.5284148522392,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
