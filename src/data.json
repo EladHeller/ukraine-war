@@ -22989,5 +22989,19 @@
     "unspecified": 1632.5284148522392,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1790655116,
+    "description": "Сили Оборони України відновили контроль поблизу <a href=\"https://deepstatemap.live/#15/49.7902418/37.6201938\">Калинового</a>. Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.3599016/37.0412627\">Василівки</a> та <a href=\"https://deepstatemap.live/#14/48.3845489/37.1114917\">Шевченка</a>.",
+    "descriptionEn": "The Ukrainian Armed Forces have regained control near <a href=\"https://deepstatemap.live/en#15/49.7902418/37.6201938\">Kalynove</a>. The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/48.3599016/37.0412627\">Vasylivka</a> and <a href=\"https://deepstatemap.live/en#14/48.3845489/37.1114917\">Shevchenko</a>.",
+    "updatedAt": "2026-09-29T10:17:12.651Z",
+    "datetime": "29.09 o 06:11",
+    "status": true,
+    "createdAt": "2026-09-29T04:11:56.000Z",
+    "liberated": 41301.5687304159,
+    "occupied": 73063.89741756477,
+    "unspecified": 1638.090979202371,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
