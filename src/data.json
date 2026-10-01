@@ -23003,5 +23003,19 @@
     "unspecified": 1638.090979202371,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1790798080,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.3983765/37.1799695\">Білицького</a> та <a href=\"https://deepstatemap.live/#13/48.3738074/37.0858938\">Шевченка</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/48.3983765/37.1799695\">Bilytske</a> and <a href=\"https://deepstatemap.live/en#13/48.3738074/37.0858938\">Shevchenko</a>.",
+    "updatedAt": "2026-09-30T19:55:04.806Z",
+    "datetime": "30.09 o 21:54",
+    "status": true,
+    "createdAt": "2026-09-30T19:54:40.000Z",
+    "liberated": 41288.111628326726,
+    "occupied": 73072.53651593754,
+    "unspecified": 1654.3342890303861,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
