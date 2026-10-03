@@ -23017,5 +23017,19 @@
     "unspecified": 1654.3342890303861,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1790879037,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!coords!47.69243236930309,36.164073944091804\">Святопетрівку</a> та просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.6780851/36.1425371\">Староукраїнки</a>.",
+    "descriptionEn": "The enemy has occupied <a href=\"https://deepstatemap.live/en#dl!coords!47.69243236930309,36.164073944091804\">Svyatopetrivka</a> and advanced near <a href=\"https://deepstatemap.live/en#14/47.6780851/36.1425371\">Staroukrainka</a>.",
+    "updatedAt": "2026-10-02T14:35:27.231Z",
+    "datetime": "01.10 o 20:23",
+    "status": true,
+    "createdAt": "2026-10-01T18:23:57.000Z",
+    "liberated": 41288.111628326726,
+    "occupied": 73080.68808385097,
+    "unspecified": 1648.441063627892,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
