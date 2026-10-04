@@ -23031,5 +23031,19 @@
     "unspecified": 1648.441063627892,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1790967444,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.2750115/37.0334435\">Котлиного</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/48.2750115/37.0334435\">Kotlyne</a>.",
+    "updatedAt": "2026-10-03T19:43:10.167Z",
+    "datetime": "02.10 o 20:57",
+    "status": true,
+    "createdAt": "2026-10-02T18:57:24.000Z",
+    "liberated": 41288.111628326726,
+    "occupied": 73086.61594764808,
+    "unspecified": 1642.5131998307857,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
