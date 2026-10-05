@@ -23045,5 +23045,33 @@
     "unspecified": 1642.5131998307857,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1791059260,
+    "description": "Ворог окупував <a href=\"https://deepstatemap.live/#dl!city!dsm:l:6361\">Іванівку</a> та просунувся <a href=\"https://deepstatemap.live/#15/48.4522845/37.2369156\">Новому Шаховому</a>.",
+    "descriptionEn": "The enemy has occupied <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:6361\">Ivanivka</a> and advanced toward <a href=\"https://deepstatemap.live/en#15/48.4522845/37.2369156\">Nove Shakhove</a>.",
+    "updatedAt": "2026-10-04T07:02:36.453Z",
+    "datetime": "03.10 o 22:27",
+    "status": true,
+    "createdAt": "2026-10-03T20:27:40.000Z",
+    "liberated": 41288.111628326726,
+    "occupied": 73088.72051376563,
+    "unspecified": 1640.4086337132321,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1791147415,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.7259309/36.1449322\">Цвіткового</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.7259309/36.1449322\">Tsvitkove</a>.",
+    "updatedAt": "2026-10-04T20:56:59.804Z",
+    "datetime": "04.10 o 22:56",
+    "status": true,
+    "createdAt": "2026-10-04T20:56:55.000Z",
+    "liberated": 41288.111628326726,
+    "occupied": 73090.98483188575,
+    "unspecified": 1644.0680089799444,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
