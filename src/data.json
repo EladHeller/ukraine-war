@@ -23087,5 +23087,33 @@
     "unspecified": 1651.3604579815228,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1791320049,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.6986041/36.1288801\">Цвіткового</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.6986041/36.1288801\">Tsvitkove</a>.",
+    "updatedAt": "2026-10-07T18:52:12.865Z",
+    "datetime": "06.10 o 22:54",
+    "status": true,
+    "createdAt": "2026-10-06T20:54:09.000Z",
+    "liberated": 41288.111628326726,
+    "occupied": 73094.22858650227,
+    "unspecified": 1647.8417247631714,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1791399735,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.6433004/36.1106864\">Гіркого</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/47.6433004/36.1106864\">Hirke</a>.",
+    "updatedAt": "2026-10-08T09:58:30.206Z",
+    "datetime": "07.10 o 21:02",
+    "status": true,
+    "createdAt": "2026-10-07T19:02:15.000Z",
+    "liberated": 41288.111628326726,
+    "occupied": 73102.7297587045,
+    "unspecified": 1652.5743506393374,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
