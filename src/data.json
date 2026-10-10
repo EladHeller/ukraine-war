@@ -23115,5 +23115,19 @@
     "unspecified": 1652.5743506393374,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1791487695,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/50.2078132/37.5313590\">Анищеного</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/50.2078132/37.5313590\">Anyshchyne</a>.",
+    "updatedAt": "2026-10-09T16:53:33.842Z",
+    "datetime": "08.10 o 21:28",
+    "status": true,
+    "createdAt": "2026-10-08T19:28:15.000Z",
+    "liberated": 41276.067213647264,
+    "occupied": 73111.51910068361,
+    "unspecified": 1655.8294233395468,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
