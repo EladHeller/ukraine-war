@@ -23157,5 +23157,33 @@
     "unspecified": 1650.1370940504983,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1791832351,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.4043089/37.1801598\">Білицькому</a>, а також поблизу <a href=\"https://deepstatemap.live/#14/48.4249101/37.2124058\">Дорожнього</a> та <a href=\"https://deepstatemap.live/#14/48.4536529/37.2149810\">Нового Донбасу</a>.",
+    "descriptionEn": "The enemy has advanced in <a href=\"https://deepstatemap.live/en#14/48.4043089/37.1801598\">Bilytske</a>, as well as near <a href=\"https://deepstatemap.live/en#14/48.4249101/37.2124058\">Dorozhne</a> and <a href=\"https://deepstatemap.live/en#14/48.4536529/37.2149810\">Novyi Donbas</a>.",
+    "updatedAt": "2026-10-13T13:27:08.754Z",
+    "datetime": "12.10 o 21:12",
+    "status": true,
+    "createdAt": "2026-10-12T19:12:31.000Z",
+    "liberated": 41273.20908960975,
+    "occupied": 73137.01238890446,
+    "unspecified": 1652.6971045318212,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1791915013,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/48.3964382/37.0824549\">Матяшевого</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#13/48.3964382/37.0824549\">Matyasheve</a>.",
+    "updatedAt": "2026-10-13T18:12:10.348Z",
+    "datetime": "13.10 o 20:10",
+    "status": true,
+    "createdAt": "2026-10-13T18:10:13.000Z",
+    "liberated": 41273.20908960975,
+    "occupied": 73141.7505682223,
+    "unspecified": 1656.3223996626832,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
