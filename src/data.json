@@ -23185,5 +23185,19 @@
     "unspecified": 1656.3223996626832,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1791954178,
+    "description": "Сили Оборони України звільнили <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5893\">Колодязі</a>, <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5897\">Липове</a> та <a href=\"https://deepstatemap.live/#dl!city!dsm:l:5888\">Зелену Долину</a>, а також повернули контроль поблизу <a href=\"https://deepstatemap.live/#13/49.0911509/37.8216152\">Ставків</a> та <a href=\"https://deepstatemap.live/#13/49.1294024/37.7648144\">Шандриголового</a>.",
+    "descriptionEn": "The Ukrainian Armed Forces liberated <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5893\">Kolodyazi</a>, <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5897\">Lypove</a>, and <a href=\"https://deepstatemap.live/en#dl!city!dsm:l:5888\">Zelena Dolyna</a>, and regained control of areas near <a href=\"https://deepstatemap.live/en#13/49.0911509/37.8216152\">Stavky</a> and <a href=\"https://deepstatemap.live/en#13/49.1294024/37.7648144\">Shandryholove</a>.",
+    "updatedAt": "2026-10-14T07:02:00.690Z",
+    "datetime": "14.10 o 07:02",
+    "status": true,
+    "createdAt": "2026-10-14T05:02:58.000Z",
+    "liberated": 41358.33670177545,
+    "occupied": 73062.80040846588,
+    "unspecified": 1650.1471359519899,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
