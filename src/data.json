@@ -23241,5 +23241,19 @@
     "unspecified": 1644.9271103368417,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1792440197,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.6796155/36.1387462\">Криничного</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/47.6796155/36.1387462\">Krynychne</a>.",
+    "updatedAt": "2026-10-20T19:12:21.563Z",
+    "datetime": "19.10 o 22:03",
+    "status": true,
+    "createdAt": "2026-10-19T20:03:17.000Z",
+    "liberated": 41358.33670177545,
+    "occupied": 73088.36478936415,
+    "unspecified": 1640.0555452771534,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
