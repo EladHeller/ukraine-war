@@ -23311,5 +23311,19 @@
     "unspecified": 1664.3003269576018,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1793032565,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.3937579/37.1415856\">Світлого</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/48.3937579/37.1415856\">Svitle</a>.",
+    "updatedAt": "2026-10-26T16:36:14.366Z",
+    "datetime": "26.10 o 17:36",
+    "status": true,
+    "createdAt": "2026-10-26T16:36:05.000Z",
+    "liberated": 41342.15514919669,
+    "occupied": 73110.60230061157,
+    "unspecified": 1682.0886987481451,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
