@@ -23325,5 +23325,33 @@
     "unspecified": 1682.0886987481451,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1793134170,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.7386018/36.1031289\">Возвдижівки</a> та <a href=\"https://deepstatemap.live/#14/47.5416286/36.0385884\">Лугівського</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/47.7386018/36.1031289\">Vozvdizhivka</a> and <a href=\"https://deepstatemap.live/en#14/47.5416286/36.0385884\">Luhivske</a>.",
+    "updatedAt": "2026-10-28T21:25:08.832Z",
+    "datetime": "27.10 o 21:49",
+    "status": true,
+    "createdAt": "2026-10-27T20:49:30.000Z",
+    "liberated": 41342.15514919669,
+    "occupied": 73117.01825890092,
+    "unspecified": 1678.6808665530796,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1793223200,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.6467764/37.7667016\">Майського</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/48.6467764/37.7667016\">Maiske</a>.",
+    "updatedAt": "2026-10-28T21:34:34.666Z",
+    "datetime": "28.10 o 22:33",
+    "status": true,
+    "createdAt": "2026-10-28T21:33:20.000Z",
+    "liberated": 41342.15514919669,
+    "occupied": 73120.19725745016,
+    "unspecified": 1679.1129878374174,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
