@@ -23353,5 +23353,19 @@
     "unspecified": 1679.1129878374174,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1793305379,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/50.3332154/36.2457709\">Гранева</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/50.3332154/36.2457709\">Graniv</a>.",
+    "updatedAt": "2026-10-30T13:34:59.020Z",
+    "datetime": "29.10 o 21:22",
+    "status": true,
+    "createdAt": "2026-10-29T20:22:59.000Z",
+    "liberated": 41322.452757361876,
+    "occupied": 73129.24082508056,
+    "unspecified": 1689.4968793445241,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
