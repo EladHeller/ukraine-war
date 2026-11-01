@@ -23367,5 +23367,19 @@
     "unspecified": 1689.4968793445241,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1793396966,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#15/48.5805675/37.8110808\">Миколаївки</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#15/48.5805675/37.8110808\">Mykolaivka</a>.",
+    "updatedAt": "2026-10-31T16:19:23.257Z",
+    "datetime": "30.10 o 22:49",
+    "status": true,
+    "createdAt": "2026-10-30T21:49:26.000Z",
+    "liberated": 41322.452757361876,
+    "occupied": 73130.09242719086,
+    "unspecified": 1688.6452772342154,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
