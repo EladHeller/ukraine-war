@@ -23381,5 +23381,19 @@
     "unspecified": 1688.6452772342154,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1793464027,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/50.3201058/36.2639656\">Гоптівки</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#13/50.3201058/36.2639656\">Hoptivka</a>.",
+    "updatedAt": "2026-11-01T19:40:40.176Z",
+    "datetime": "31.10 o 17:27",
+    "status": true,
+    "createdAt": "2026-10-31T16:27:07.000Z",
+    "liberated": 41314.784376329444,
+    "occupied": 73135.23858605872,
+    "unspecified": 1691.191416812231,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
