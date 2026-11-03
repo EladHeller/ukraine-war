@@ -23395,5 +23395,33 @@
     "unspecified": 1691.191416812231,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1793563114,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.6213532/36.0881992\">Гуляйпільського</a> та <a href=\"https://deepstatemap.live/#14/47.6611344/36.1327480\">Гіркого</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/47.6213532/36.0881992\">Hulyaypilske</a> and <a href=\"https://deepstatemap.live/en#14/47.6611344/36.1327480\">Hirke</a>.",
+    "updatedAt": "2026-11-02T09:42:58.397Z",
+    "datetime": "01.11 o 20:58",
+    "status": true,
+    "createdAt": "2026-11-01T19:58:34.000Z",
+    "liberated": 41314.31707527348,
+    "occupied": 73140.07500874613,
+    "unspecified": 1689.6224872444689,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1793653685,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#15/48.4076811/37.1819021\">Білицькому</a> та поблизу <a href=\"https://deepstatemap.live/#14/48.2951101/37.0511686\">Гришиного</a>.",
+    "descriptionEn": "The enemy has advanced in <a href=\"https://deepstatemap.live/en#15/48.4076811/37.1819021\">Bilytske</a> and near <a href=\"https://deepstatemap.live/en#14/48.2951101/37.0511686\">Hryshyne</a>.",
+    "updatedAt": "2026-11-02T21:27:07.229Z",
+    "datetime": "02.11 o 22:08",
+    "status": true,
+    "createdAt": "2026-11-02T21:08:05.000Z",
+    "liberated": 41314.31707527348,
+    "occupied": 73144.99420736947,
+    "unspecified": 1691.0971727738593,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
