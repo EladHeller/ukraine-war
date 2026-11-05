@@ -23423,5 +23423,33 @@
     "unspecified": 1691.0971727738593,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1793717237,
+    "description": "Ворог просунувся у <a href=\"https://deepstatemap.live/#14/48.4975249/37.6882606\">Костянтинівці</a>.",
+    "descriptionEn": "The enemy has advanced in <a href=\"https://deepstatemap.live/en#14/48.4975249/37.6882606\">Kostiantynivka</a>.",
+    "updatedAt": "2026-11-04T09:05:45.700Z",
+    "datetime": "03.11 o 15:47",
+    "status": true,
+    "createdAt": "2026-11-03T14:47:17.000Z",
+    "liberated": 41314.31707527348,
+    "occupied": 73145.9697775468,
+    "unspecified": 1690.1216025963863,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1793824024,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.4592885/37.4885977\">Русиного Яру</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.4592885/37.4885977\">Rusyn Yar</a>.",
+    "updatedAt": "2026-11-04T20:27:08.381Z",
+    "datetime": "04.11 o 21:27",
+    "status": true,
+    "createdAt": "2026-11-04T20:27:04.000Z",
+    "liberated": 41314.31707527348,
+    "occupied": 73151.68362756121,
+    "unspecified": 1691.6305476496862,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
