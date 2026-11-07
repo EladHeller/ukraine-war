@@ -23451,5 +23451,19 @@
     "unspecified": 1691.6305476496862,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1793999288,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.3976211/37.1146085\">Світлого</a> та <a href=\"https://deepstatemap.live/#14/48.3728231/37.0496217\">Василівки</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/48.3976211/37.1146085\">Svite</a> and <a href=\"https://deepstatemap.live/en#14/48.3728231/37.0496217\">Vasylivka</a>.",
+    "updatedAt": "2026-11-06T21:08:41.543Z",
+    "datetime": "06.11 o 22:08",
+    "status": true,
+    "createdAt": "2026-11-06T21:08:08.000Z",
+    "liberated": 41314.31707527348,
+    "occupied": 73155.91892467924,
+    "unspecified": 1696.9907628297774,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
