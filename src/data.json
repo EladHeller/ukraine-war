@@ -23465,5 +23465,19 @@
     "unspecified": 1696.9907628297774,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1794169351,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#15/47.5369773/36.0178162\">Лугівського</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#15/47.5369773/36.0178162\">Luhivske</a>.",
+    "updatedAt": "2026-11-08T20:40:17.943Z",
+    "datetime": "08.11 o 21:22",
+    "status": true,
+    "createdAt": "2026-11-08T20:22:31.000Z",
+    "liberated": 41313.25148458292,
+    "occupied": 73161.32056261016,
+    "unspecified": 1692.6547155900316,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
