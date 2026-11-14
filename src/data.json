@@ -23521,5 +23521,19 @@
     "unspecified": 1696.6016574989558,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1794604129,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.4482476/37.5475806\">Русиного Яру</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.4482476/37.5475806\">Rusyn Yar</a>.",
+    "updatedAt": "2026-11-13T21:09:14.386Z",
+    "datetime": "13.11 o 22:08",
+    "status": true,
+    "createdAt": "2026-11-13T21:08:49.000Z",
+    "liberated": 41313.25148458292,
+    "occupied": 73178.74581945738,
+    "unspecified": 1693.4630374029396,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
