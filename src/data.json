@@ -23535,5 +23535,19 @@
     "unspecified": 1693.4630374029396,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1794773750,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#15/48.4637448/37.2128819\">Вільного</a> та <a href=\"https://deepstatemap.live/#14/49.6873169/37.7600951\">Петропавлівки</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#15/48.4637448/37.2128819\">Vilne</a> and <a href=\"https://deepstatemap.live/en#14/49.6873169/37.7600951\">Petropavlivka</a>.",
+    "updatedAt": "2026-11-15T20:18:23.606Z",
+    "datetime": "15.11 o 21:15",
+    "status": true,
+    "createdAt": "2026-11-15T20:15:50.000Z",
+    "liberated": 41313.25148458292,
+    "occupied": 73188.80185025046,
+    "unspecified": 1687.66483339868,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
