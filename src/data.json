@@ -23577,5 +23577,19 @@
     "unspecified": 1688.0655715279597,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1795206250,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/48.4749698/37.3313042\">Шахового</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#13/48.4749698/37.3313042\">Shakhove</a>.",
+    "updatedAt": "2026-11-20T20:24:13.930Z",
+    "datetime": "20.11 o 21:24",
+    "status": true,
+    "createdAt": "2026-11-20T20:24:10.000Z",
+    "liberated": 41309.378953609106,
+    "occupied": 73202.07083879554,
+    "unspecified": 1688.421363561504,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
