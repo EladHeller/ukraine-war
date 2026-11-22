@@ -23591,5 +23591,19 @@
     "unspecified": 1688.421363561504,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1795291537,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.6835106/37.7738274\">Новомаркового</a> та у <a href=\"https://deepstatemap.live/#15/48.5716207/37.7986573\">Миколаївці</a>.",
+    "descriptionEn": "The enemy advanced near <a href=\"https://deepstatemap.live/en#14/48.6835106/37.7738274\">Novomarkove</a> and in <a href=\"https://deepstatemap.live/en#15/48.5716207/37.7986573\">Mykolaivka</a>.",
+    "updatedAt": "2026-11-21T20:05:40.656Z",
+    "datetime": "21.11 o 21:05",
+    "status": true,
+    "createdAt": "2026-11-21T20:05:37.000Z",
+    "liberated": 41289.49491279306,
+    "occupied": 73206.73717723026,
+    "unspecified": 1707.413986644008,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
