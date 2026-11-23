@@ -23605,5 +23605,19 @@
     "unspecified": 1707.413986644008,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1795383428,
+    "description": "Сили Оборони України відкинули противника поблизу <a href=\"https://deepstatemap.live/#14/50.2298301/37.5694485\">Устинівки</a>. Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.7227852/36.1011628\">Верхньої Терси</a>.",
+    "descriptionEn": "The Ukrainian Defense Forces repelled the enemy near <a href=\"https://deepstatemap.live/en#14/50.2298301/37.5694485\">Ustynivka</a>. The enemy advanced near <a href=\"https://deepstatemap.live/en#14/47.7227852/36.1011628\">Verkhnia Tersa</a>.",
+    "updatedAt": "2026-11-22T21:37:11.590Z",
+    "datetime": "22.11 o 22:37",
+    "status": true,
+    "createdAt": "2026-11-22T21:37:08.000Z",
+    "liberated": 41289.49491279306,
+    "occupied": 73207.34011748414,
+    "unspecified": 1717.6225650860451,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
