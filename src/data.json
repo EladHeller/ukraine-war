@@ -23619,5 +23619,19 @@
     "unspecified": 1717.6225650860451,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1795466903,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.7636185/36.1278962\">Воздвижівки</a> та <a href=\"https://deepstatemap.live/#15/47.5229392/35.9756134\">Білогір'я</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/47.7636185/36.1278962\">Vozdvizhivka</a> and <a href=\"https://deepstatemap.live/en#15/47.5229392/35.9756134\">Bilohirya</a>.",
+    "updatedAt": "2026-11-24T05:57:18.694Z",
+    "datetime": "23.11 o 21:48",
+    "status": true,
+    "createdAt": "2026-11-23T20:48:23.000Z",
+    "liberated": 41289.49491279306,
+    "occupied": 73212.85435076203,
+    "unspecified": 1715.4843750979217,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
