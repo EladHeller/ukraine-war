@@ -23633,5 +23633,19 @@
     "unspecified": 1715.4843750979217,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1795557210,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/48.8054228/37.8232727\">Рай-Олександрівки</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/48.8054228/37.8232727\">Rai-Oleksandrivka</a>.",
+    "updatedAt": "2026-11-25T07:34:18.877Z",
+    "datetime": "24.11 o 22:53",
+    "status": true,
+    "createdAt": "2026-11-24T21:53:30.000Z",
+    "liberated": 41289.49491279306,
+    "occupied": 73213.79962977905,
+    "unspecified": 1718.2029738849055,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
