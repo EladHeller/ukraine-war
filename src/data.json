@@ -23647,5 +23647,19 @@
     "unspecified": 1718.2029738849055,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1795643882,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#13/49.7227629/37.7600099\">Петропавлівки</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#13/49.7227629/37.7600099\">Petropavlivka</a>.",
+    "updatedAt": "2026-11-26T17:23:24.364Z",
+    "datetime": "25.11 o 22:58",
+    "status": true,
+    "createdAt": "2026-11-25T21:58:02.000Z",
+    "liberated": 41277.52153354164,
+    "occupied": 73222.09477716517,
+    "unspecified": 1721.8812057501086,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
