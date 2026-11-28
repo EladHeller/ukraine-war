@@ -23661,5 +23661,19 @@
     "unspecified": 1721.8812057501086,
     "occupiedInRussia": 11.34783013037644,
     "occupiedInRussiaUnspecified": 15.073496432571453
+  },
+  {
+    "id": 1795727189,
+    "description": "Ворог просунувся поблизу <a href=\"https://deepstatemap.live/#14/47.4826695/35.8756818\">Малої Токмачки</a>.",
+    "descriptionEn": "The enemy has advanced near <a href=\"https://deepstatemap.live/en#14/47.4826695/35.8756818\">Mala Tokmachka</a>.",
+    "updatedAt": "2026-11-27T17:25:14.738Z",
+    "datetime": "26.11 o 22:06",
+    "status": true,
+    "createdAt": "2026-11-26T21:06:29.000Z",
+    "liberated": 41274.329411699786,
+    "occupied": 73227.46567246153,
+    "unspecified": 1725.4190440614134,
+    "occupiedInRussia": 11.34783013037644,
+    "occupiedInRussiaUnspecified": 15.073496432571453
   }
 ]
